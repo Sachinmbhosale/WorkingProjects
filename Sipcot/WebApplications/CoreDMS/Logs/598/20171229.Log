@@ -1,0 +1,1067 @@
+12/29/2017 3:26:13 PM: createControls Started
+12/29/2017 3:26:14 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:26:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: createControls Finished
+12/29/2017 3:26:14 PM: generatecontrols Started
+12/29/2017 3:26:14 PM: Calling database to get reference id and watermark.
+12/29/2017 3:26:14 PM: Database returned result: WO_AD_598_269_10058|
+12/29/2017 3:26:14 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:26:14 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:26:14 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:26:15 PM: createControls Started
+12/29/2017 3:26:15 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:26:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:15 PM: createControls Finished
+12/29/2017 3:26:46 PM: createControls Started
+12/29/2017 3:26:46 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:26:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:46 PM: createControls Finished
+12/29/2017 3:26:46 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:26:46 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:26:46 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:26:48 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:26:48 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:26:48 PM: createControls Started
+12/29/2017 3:26:48 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:26:48 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:48 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:48 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:48 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:48 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:48 PM: createControls Finished
+12/29/2017 3:26:48 PM: btnSubmit_Click Started
+12/29/2017 3:26:48 PM: btnSubmit_Click Finished
+12/29/2017 3:26:56 PM: createControls Started
+12/29/2017 3:26:56 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:26:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:26:56 PM: createControls Finished
+12/29/2017 3:26:56 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:26:56 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:26:56 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:26:56 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:26:56 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:26:56 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:26:56 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:26:56 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:26:56 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:26:58 PM: CreateXML Started:-
+12/29/2017 3:26:58 PM: CreateXML Completed:-
+12/29/2017 3:26:58 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:26:58 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:26:58 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:26:58 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:27:32 PM: createControls Started
+12/29/2017 3:27:32 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:27:32 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: createControls Finished
+12/29/2017 3:27:32 PM: generatecontrols Started
+12/29/2017 3:27:32 PM: Calling database to get reference id and watermark.
+12/29/2017 3:27:32 PM: Database returned result: WO_AD_598_269_10059|
+12/29/2017 3:27:32 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:27:34 PM: createControls Started
+12/29/2017 3:27:34 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:27:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:34 PM: createControls Finished
+12/29/2017 3:27:40 PM: createControls Started
+12/29/2017 3:27:40 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:27:40 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:40 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:40 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:40 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:40 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:40 PM: createControls Finished
+12/29/2017 3:27:40 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:27:40 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:27:40 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:27:40 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:27:40 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:27:41 PM: createControls Started
+12/29/2017 3:27:41 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:27:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:41 PM: createControls Finished
+12/29/2017 3:27:41 PM: btnSubmit_Click Started
+12/29/2017 3:27:41 PM: btnSubmit_Click Finished
+12/29/2017 3:27:46 PM: createControls Started
+12/29/2017 3:27:46 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:27:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:46 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:27:46 PM: createControls Finished
+12/29/2017 3:27:46 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:27:46 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:27:46 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:27:46 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:27:46 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:27:46 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:27:46 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:27:46 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:27:46 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:27:46 PM: CreateXML Started:-
+12/29/2017 3:27:46 PM: CreateXML Completed:-
+12/29/2017 3:27:46 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:27:46 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:27:46 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:27:46 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:28:28 PM: createControls Started
+12/29/2017 3:28:28 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:28:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: createControls Finished
+12/29/2017 3:28:28 PM: generatecontrols Started
+12/29/2017 3:28:28 PM: Calling database to get reference id and watermark.
+12/29/2017 3:28:28 PM: Database returned result: WO_AD_598_269_10060|
+12/29/2017 3:28:28 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:28:28 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:28:28 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:28:30 PM: createControls Started
+12/29/2017 3:28:30 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:28:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:30 PM: createControls Finished
+12/29/2017 3:28:34 PM: createControls Started
+12/29/2017 3:28:34 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:28:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:34 PM: createControls Finished
+12/29/2017 3:28:34 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:28:34 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:28:34 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:28:34 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:28:34 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:28:35 PM: createControls Started
+12/29/2017 3:28:35 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:28:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:35 PM: createControls Finished
+12/29/2017 3:28:35 PM: btnSubmit_Click Started
+12/29/2017 3:28:35 PM: btnSubmit_Click Finished
+12/29/2017 3:28:38 PM: createControls Started
+12/29/2017 3:28:38 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:28:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:28:38 PM: createControls Finished
+12/29/2017 3:28:38 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:28:38 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:28:38 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:28:38 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:28:38 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:28:38 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:28:38 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:28:38 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:28:38 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:28:38 PM: CreateXML Started:-
+12/29/2017 3:28:38 PM: CreateXML Completed:-
+12/29/2017 3:28:38 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:28:38 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:28:38 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:28:38 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:29:13 PM: createControls Started
+12/29/2017 3:29:13 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:29:13 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: createControls Finished
+12/29/2017 3:29:13 PM: generatecontrols Started
+12/29/2017 3:29:13 PM: Calling database to get reference id and watermark.
+12/29/2017 3:29:13 PM: Database returned result: WO_AD_598_269_10061|
+12/29/2017 3:29:13 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:29:13 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:29:13 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:29:15 PM: createControls Started
+12/29/2017 3:29:15 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:29:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:15 PM: createControls Finished
+12/29/2017 3:29:19 PM: createControls Started
+12/29/2017 3:29:19 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:29:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:19 PM: createControls Finished
+12/29/2017 3:29:19 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:29:19 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:29:19 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:29:19 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:29:19 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:29:20 PM: createControls Started
+12/29/2017 3:29:20 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:29:20 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:20 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:20 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:20 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:20 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:20 PM: createControls Finished
+12/29/2017 3:29:20 PM: btnSubmit_Click Started
+12/29/2017 3:29:20 PM: btnSubmit_Click Finished
+12/29/2017 3:29:38 PM: createControls Started
+12/29/2017 3:29:38 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:29:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:29:38 PM: createControls Finished
+12/29/2017 3:29:38 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:29:38 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:29:38 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:29:38 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:29:38 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:29:38 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:29:38 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:29:38 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:29:38 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:29:38 PM: CreateXML Started:-
+12/29/2017 3:29:38 PM: CreateXML Completed:-
+12/29/2017 3:29:38 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:29:38 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:29:38 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:29:38 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:30:56 PM: createControls Started
+12/29/2017 3:30:56 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:30:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:56 PM: createControls Finished
+12/29/2017 3:30:56 PM: generatecontrols Started
+12/29/2017 3:30:56 PM: Calling database to get reference id and watermark.
+12/29/2017 3:30:57 PM: Database returned result: WO_AD_598_269_10062|
+12/29/2017 3:30:57 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:30:57 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: createControls Started
+12/29/2017 3:30:57 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:30:57 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:30:57 PM: createControls Finished
+12/29/2017 3:31:01 PM: createControls Started
+12/29/2017 3:31:01 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: createControls Finished
+12/29/2017 3:31:01 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:31:01 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:31:01 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:31:01 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:31:01 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:31:01 PM: createControls Started
+12/29/2017 3:31:01 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:01 PM: createControls Finished
+12/29/2017 3:31:01 PM: btnSubmit_Click Started
+12/29/2017 3:31:01 PM: btnSubmit_Click Finished
+12/29/2017 3:31:41 PM: createControls Started
+12/29/2017 3:31:42 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:31:42 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:42 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:42 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:42 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:42 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:31:42 PM: createControls Finished
+12/29/2017 3:31:42 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:31:42 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:31:42 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:31:42 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:31:42 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:31:42 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:31:42 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:31:42 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:31:42 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:31:42 PM: CreateXML Started:-
+12/29/2017 3:31:42 PM: CreateXML Completed:-
+12/29/2017 3:31:42 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:31:42 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:31:42 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:31:42 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:32:52 PM: createControls Started
+12/29/2017 3:32:52 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:32:52 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: createControls Finished
+12/29/2017 3:32:52 PM: generatecontrols Started
+12/29/2017 3:32:52 PM: Calling database to get reference id and watermark.
+12/29/2017 3:32:52 PM: Database returned result: WO_AD_598_269_10063|
+12/29/2017 3:32:52 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:32:52 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:32:52 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:32:54 PM: createControls Started
+12/29/2017 3:32:54 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:32:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:54 PM: createControls Finished
+12/29/2017 3:32:58 PM: createControls Started
+12/29/2017 3:32:58 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:32:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:58 PM: createControls Finished
+12/29/2017 3:32:58 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:32:58 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:32:58 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:32:58 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:32:58 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:32:59 PM: createControls Started
+12/29/2017 3:32:59 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:32:59 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:59 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:59 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:59 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:59 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:32:59 PM: createControls Finished
+12/29/2017 3:32:59 PM: btnSubmit_Click Started
+12/29/2017 3:32:59 PM: btnSubmit_Click Finished
+12/29/2017 3:33:41 PM: createControls Started
+12/29/2017 3:33:41 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:33:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:33:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:33:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:33:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:33:41 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:33:41 PM: createControls Finished
+12/29/2017 3:33:41 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:33:42 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:33:42 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:33:42 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:33:42 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:33:42 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:33:42 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:33:42 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:33:42 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:33:42 PM: CreateXML Started:-
+12/29/2017 3:33:42 PM: CreateXML Completed:-
+12/29/2017 3:33:42 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:33:42 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:33:42 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:33:42 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:36:43 PM: createControls Started
+12/29/2017 3:36:43 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:36:43 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: createControls Finished
+12/29/2017 3:36:43 PM: generatecontrols Started
+12/29/2017 3:36:43 PM: Calling database to get reference id and watermark.
+12/29/2017 3:36:43 PM: Database returned result: WO_AD_598_269_10064|
+12/29/2017 3:36:43 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:36:43 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:36:43 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:36:45 PM: createControls Started
+12/29/2017 3:36:45 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:36:45 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:45 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:45 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:45 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:45 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:45 PM: createControls Finished
+12/29/2017 3:36:56 PM: createControls Started
+12/29/2017 3:36:56 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:36:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:56 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:56 PM: createControls Finished
+12/29/2017 3:36:56 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:36:56 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:36:56 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:36:56 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:36:56 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:36:58 PM: createControls Started
+12/29/2017 3:36:58 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:36:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:58 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:36:58 PM: createControls Finished
+12/29/2017 3:36:58 PM: btnSubmit_Click Started
+12/29/2017 3:36:58 PM: btnSubmit_Click Finished
+12/29/2017 3:37:18 PM: createControls Started
+12/29/2017 3:37:18 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:37:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:37:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:37:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:37:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:37:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:37:18 PM: createControls Finished
+12/29/2017 3:37:18 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:37:19 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:37:19 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:37:19 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:37:19 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:37:19 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:37:19 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:37:19 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:37:19 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:37:19 PM: CreateXML Started:-
+12/29/2017 3:37:19 PM: CreateXML Completed:-
+12/29/2017 3:37:19 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:37:19 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:37:19 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:37:19 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:37:42 PM: GetIndexFieldsByTemplateId Started
+12/29/2017 3:37:42 PM: GetIndexFieldsByTemplateId Finished
+12/29/2017 3:38:02 PM: createControls Started
+12/29/2017 3:38:02 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:38:02 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: createControls Finished
+12/29/2017 3:38:02 PM: generatecontrols Started
+12/29/2017 3:38:02 PM: Calling database to get reference id and watermark.
+12/29/2017 3:38:02 PM: Database returned result: WO_AD_598_269_10065|
+12/29/2017 3:38:02 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:38:02 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:38:02 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:38:03 PM: createControls Started
+12/29/2017 3:38:03 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:38:03 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:03 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:03 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:03 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:03 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:03 PM: createControls Finished
+12/29/2017 3:38:06 PM: createControls Started
+12/29/2017 3:38:06 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:38:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:06 PM: createControls Finished
+12/29/2017 3:38:06 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:38:06 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:38:06 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:38:06 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:38:06 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:38:07 PM: createControls Started
+12/29/2017 3:38:07 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:38:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:38:07 PM: createControls Finished
+12/29/2017 3:38:07 PM: btnSubmit_Click Started
+12/29/2017 3:38:07 PM: btnSubmit_Click Finished
+12/29/2017 3:41:08 PM: createControls Started
+12/29/2017 3:41:08 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:41:08 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:41:08 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:41:08 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:41:08 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:41:08 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:41:08 PM: createControls Finished
+12/29/2017 3:41:09 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:41:09 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:41:09 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:41:09 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:41:09 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:41:09 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:41:09 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:41:09 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:41:09 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:41:09 PM: CreateXML Started:-
+12/29/2017 3:41:09 PM: CreateXML Completed:-
+12/29/2017 3:41:09 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:41:09 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:41:09 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:41:09 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:44:18 PM: createControls Started
+12/29/2017 3:44:18 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:44:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: createControls Finished
+12/29/2017 3:44:18 PM: generatecontrols Started
+12/29/2017 3:44:18 PM: Calling database to get reference id and watermark.
+12/29/2017 3:44:18 PM: Database returned result: WO_AD_598_269_10066|
+12/29/2017 3:44:18 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:44:18 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:44:18 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:44:19 PM: createControls Started
+12/29/2017 3:44:19 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:44:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:19 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:19 PM: createControls Finished
+12/29/2017 3:44:23 PM: createControls Started
+12/29/2017 3:44:23 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: createControls Finished
+12/29/2017 3:44:23 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:44:23 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:44:23 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:44:23 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:44:23 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:44:23 PM: createControls Started
+12/29/2017 3:44:23 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:44:23 PM: createControls Finished
+12/29/2017 3:44:23 PM: btnSubmit_Click Started
+12/29/2017 3:44:23 PM: btnSubmit_Click Finished
+12/29/2017 3:47:14 PM: createControls Started
+12/29/2017 3:47:14 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:47:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:14 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:14 PM: createControls Finished
+12/29/2017 3:47:14 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:47:14 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:47:14 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:47:14 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:47:14 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:47:14 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:47:14 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:47:14 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:47:14 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:47:14 PM: CreateXML Started:-
+12/29/2017 3:47:14 PM: CreateXML Completed:-
+12/29/2017 3:47:14 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:47:14 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:47:14 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:47:14 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:47:23 PM: createControls Started
+12/29/2017 3:47:23 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:47:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: createControls Finished
+12/29/2017 3:47:23 PM: generatecontrols Started
+12/29/2017 3:47:23 PM: Calling database to get reference id and watermark.
+12/29/2017 3:47:23 PM: Database returned result: WO_AD_598_269_10067|
+12/29/2017 3:47:23 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:47:23 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:47:23 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:47:25 PM: createControls Started
+12/29/2017 3:47:25 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:47:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:25 PM: createControls Finished
+12/29/2017 3:47:34 PM: createControls Started
+12/29/2017 3:47:34 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:47:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:34 PM: createControls Finished
+12/29/2017 3:47:34 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:47:34 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:47:34 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:47:34 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:47:34 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:47:36 PM: createControls Started
+12/29/2017 3:47:36 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:47:36 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:36 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:36 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:36 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:36 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:47:36 PM: createControls Finished
+12/29/2017 3:47:36 PM: btnSubmit_Click Started
+12/29/2017 3:47:36 PM: btnSubmit_Click Finished
+12/29/2017 3:48:07 PM: createControls Started
+12/29/2017 3:48:07 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:48:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:48:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:48:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:48:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:48:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:48:07 PM: createControls Finished
+12/29/2017 3:48:07 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:48:07 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:48:07 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:48:07 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:48:07 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:48:07 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:48:07 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:48:07 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:48:07 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:48:07 PM: CreateXML Started:-
+12/29/2017 3:48:07 PM: CreateXML Completed:-
+12/29/2017 3:48:07 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:48:07 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:48:07 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:48:07 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:49:34 PM: createControls Started
+12/29/2017 3:49:34 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:49:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: createControls Finished
+12/29/2017 3:49:34 PM: generatecontrols Started
+12/29/2017 3:49:34 PM: Calling database to get reference id and watermark.
+12/29/2017 3:49:34 PM: Database returned result: WO_AD_598_269_10068|
+12/29/2017 3:49:34 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:49:34 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:49:34 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:49:35 PM: createControls Started
+12/29/2017 3:49:35 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:49:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:35 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:35 PM: createControls Finished
+12/29/2017 3:49:38 PM: createControls Started
+12/29/2017 3:49:38 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: createControls Finished
+12/29/2017 3:49:38 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:49:38 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:49:38 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:49:38 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:49:38 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:49:38 PM: createControls Started
+12/29/2017 3:49:38 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:49:38 PM: createControls Finished
+12/29/2017 3:49:38 PM: btnSubmit_Click Started
+12/29/2017 3:49:38 PM: btnSubmit_Click Finished
+12/29/2017 3:51:54 PM: createControls Started
+12/29/2017 3:51:54 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:51:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:51:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:51:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:51:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:51:54 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:51:54 PM: createControls Finished
+12/29/2017 3:51:54 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:51:54 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:51:54 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:51:54 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:51:54 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:51:54 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:51:54 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:51:54 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:51:54 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:51:54 PM: CreateXML Started:-
+12/29/2017 3:51:54 PM: CreateXML Completed:-
+12/29/2017 3:51:54 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:51:54 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:51:54 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:51:54 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:55:05 PM: createControls Started
+12/29/2017 3:55:05 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:55:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: createControls Finished
+12/29/2017 3:55:05 PM: generatecontrols Started
+12/29/2017 3:55:05 PM: Calling database to get reference id and watermark.
+12/29/2017 3:55:05 PM: Database returned result: WO_AD_598_269_10069|
+12/29/2017 3:55:05 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 3:55:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:55:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 3:55:06 PM: createControls Started
+12/29/2017 3:55:06 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:55:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:06 PM: createControls Finished
+12/29/2017 3:55:09 PM: createControls Started
+12/29/2017 3:55:09 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: createControls Finished
+12/29/2017 3:55:09 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:55:09 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:55:09 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 3:55:09 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 3:55:09 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:55:09 PM: createControls Started
+12/29/2017 3:55:09 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:55:09 PM: createControls Finished
+12/29/2017 3:55:09 PM: btnSubmit_Click Started
+12/29/2017 3:55:09 PM: btnSubmit_Click Finished
+12/29/2017 3:56:15 PM: createControls Started
+12/29/2017 3:56:15 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 3:56:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:56:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:56:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:56:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:56:15 PM: Create controls,Load all Textbox dynamic
+12/29/2017 3:56:15 PM: createControls Finished
+12/29/2017 3:56:15 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 3:56:16 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:56:16 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 3:56:16 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 3:56:16 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 3:56:16 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 3:56:16 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 3:56:16 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 3:56:16 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 3:56:16 PM: CreateXML Started:-
+12/29/2017 3:56:16 PM: CreateXML Completed:-
+12/29/2017 3:56:16 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 3:56:16 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 3:56:16 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 3:56:16 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:01:05 PM: createControls Started
+12/29/2017 4:01:05 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:01:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: createControls Finished
+12/29/2017 4:01:05 PM: generatecontrols Started
+12/29/2017 4:01:05 PM: Calling database to get reference id and watermark.
+12/29/2017 4:01:05 PM: Database returned result: WO_AD_598_269_10070|
+12/29/2017 4:01:05 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 4:01:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:01:05 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:01:06 PM: createControls Started
+12/29/2017 4:01:06 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:01:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:06 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:06 PM: createControls Finished
+12/29/2017 4:01:09 PM: createControls Started
+12/29/2017 4:01:09 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:01:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:09 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:09 PM: createControls Finished
+12/29/2017 4:01:09 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:01:09 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 4:01:09 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 4:01:09 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 4:01:09 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:01:10 PM: createControls Started
+12/29/2017 4:01:10 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:01:10 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:10 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:10 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:10 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:10 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:10 PM: createControls Finished
+12/29/2017 4:01:10 PM: btnSubmit_Click Started
+12/29/2017 4:01:10 PM: btnSubmit_Click Finished
+12/29/2017 4:01:30 PM: createControls Started
+12/29/2017 4:01:30 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:01:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:30 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:01:30 PM: createControls Finished
+12/29/2017 4:01:30 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 4:01:30 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:01:30 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:01:30 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 4:01:30 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 4:01:30 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 4:01:30 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 4:01:30 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 4:01:30 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 4:01:30 PM: CreateXML Started:-
+12/29/2017 4:01:30 PM: CreateXML Completed:-
+12/29/2017 4:01:30 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 4:01:30 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 4:01:30 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:01:30 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:02:24 PM: createControls Started
+12/29/2017 4:02:24 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:24 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: createControls Finished
+12/29/2017 4:02:24 PM: generatecontrols Started
+12/29/2017 4:02:24 PM: Calling database to get reference id and watermark.
+12/29/2017 4:02:24 PM: Database returned result: WO_AD_598_269_10071|
+12/29/2017 4:02:24 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:24 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:24 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:25 PM: createControls Started
+12/29/2017 4:02:25 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:25 PM: createControls Finished
+12/29/2017 4:02:28 PM: createControls Started
+12/29/2017 4:02:28 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:28 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:28 PM: createControls Finished
+12/29/2017 4:02:28 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:02:28 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 4:02:28 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 4:02:28 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 4:02:28 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:02:29 PM: createControls Started
+12/29/2017 4:02:29 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:29 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:29 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:29 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:29 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:29 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:29 PM: createControls Finished
+12/29/2017 4:02:29 PM: btnSubmit_Click Started
+12/29/2017 4:02:29 PM: btnSubmit_Click Finished
+12/29/2017 4:02:31 PM: createControls Started
+12/29/2017 4:02:31 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:31 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:31 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:31 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:31 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:31 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:31 PM: createControls Finished
+12/29/2017 4:02:31 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 4:02:31 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:02:31 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:02:31 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 4:02:31 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 4:02:31 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 4:02:31 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 4:02:31 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 4:02:31 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 4:02:31 PM: CreateXML Started:-
+12/29/2017 4:02:31 PM: CreateXML Completed:-
+12/29/2017 4:02:31 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 4:02:31 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 4:02:31 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:02:31 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:02:53 PM: createControls Started
+12/29/2017 4:02:53 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:53 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: createControls Finished
+12/29/2017 4:02:53 PM: generatecontrols Started
+12/29/2017 4:02:53 PM: Calling database to get reference id and watermark.
+12/29/2017 4:02:53 PM: Database returned result: WA_AD_598_269_10072|
+12/29/2017 4:02:53 PM: generatecontrols,Load all Dropdownlist dynamic
+12/29/2017 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 4:03:00 PM: createControls Started
+12/29/2017 4:03:00 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:03:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:00 PM: createControls Finished
+12/29/2017 4:03:05 PM: createControls Started
+12/29/2017 4:03:05 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:03:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:05 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:05 PM: createControls Finished
+12/29/2017 4:03:05 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:03:05 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 4:03:05 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 4:03:05 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 4:03:05 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:03:07 PM: createControls Started
+12/29/2017 4:03:07 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:03:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:07 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:03:07 PM: createControls Finished
+12/29/2017 4:03:07 PM: btnSubmit_Click Started
+12/29/2017 4:03:07 PM: btnSubmit_Click Finished
+12/29/2017 4:04:00 PM: createControls Started
+12/29/2017 4:04:00 PM: Createcontrols,Load all Dropdownlist dynamic
+12/29/2017 4:04:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:04:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:04:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:04:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:04:00 PM: Create controls,Load all Textbox dynamic
+12/29/2017 4:04:00 PM: createControls Finished
+12/29/2017 4:04:00 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 4:04:00 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:04:00 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 4:04:00 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 4:04:00 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 4:04:00 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/29/2017 4:04:00 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/29/2017 4:04:00 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/29/2017 4:04:00 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/29/2017 4:04:00 PM: CreateXML Started:-
+12/29/2017 4:04:00 PM: CreateXML Completed:-
+12/29/2017 4:04:00 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 4:04:00 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 4:04:00 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 4:04:00 PM: AsyncFileUpload1_UploadedComplete Finished

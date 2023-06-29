@@ -1,0 +1,256 @@
+7/31/2015 10:32:56 AM: createControls Started
+7/31/2015 10:32:56 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:32:56 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:32:56 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:32:56 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:32:56 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:32:56 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:32:56 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:32:56 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:32:56 AM: createControls Finished
+7/31/2015 10:32:56 AM: generatecontrols Started
+7/31/2015 10:32:56 AM: Calling database to get reference id and watermark.
+7/31/2015 10:32:57 AM: Database returned result: DM_AD_1_1_1189|Lotex Business Solutions
+7/31/2015 10:32:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/31/2015 10:32:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/31/2015 10:32:57 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:32:57 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:32:57 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:32:57 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:32:57 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:32:57 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: createControls Started
+7/31/2015 10:33:09 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:09 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:09 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:09 AM: createControls Finished
+7/31/2015 10:33:09 AM: AsyncFileUpload1_UploadedComplete Started
+7/31/2015 10:33:09 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/31/2015 10:33:09 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/31/2015 10:33:10 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().tiff2PDF 1
+7/31/2015 10:33:11 AM: AsyncFileUpload1_UploadedComplete Finished
+7/31/2015 10:33:12 AM: createControls Started
+7/31/2015 10:33:12 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:12 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:12 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:12 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:12 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:12 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:12 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:12 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:12 AM: createControls Finished
+7/31/2015 10:33:12 AM: btnSubmit_Click Started
+7/31/2015 10:33:12 AM: btnSubmit_Click Finished
+7/31/2015 10:33:13 AM: createControls Started
+7/31/2015 10:33:13 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:13 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:13 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:13 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:13 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:13 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:13 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:13 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:13 AM: createControls Finished
+7/31/2015 10:33:13 AM: Started Previewing Uploaded Document in btnPreview_Click 
+7/31/2015 10:33:13 AM: Src Details : http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\RE1fQURfMV8xXzExODk=.pdf
+7/31/2015 10:33:13 AM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/31/2015 10:33:13 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\RE1fQURfMV8xXzExODk=\1.pdf Image Name: RE1fQURfMV8xXzExODk= Page No: 1
+7/31/2015 10:33:13 AM: Converting PDF to JPEG along with watermark. Watermark text: Lotex Business Solutions
+7/31/2015 10:33:13 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//re1fqurfmv8xxzexodk=jpg//1.jpeg
+7/31/2015 10:33:13 AM: Finished Previewing Uploaded Document in btnPreview_Click 
+7/31/2015 10:33:17 AM: createControls Started
+7/31/2015 10:33:17 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:17 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:17 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:17 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:17 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:17 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:17 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:17 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:17 AM: createControls Finished
+7/31/2015 10:33:18 AM: createControls Started
+7/31/2015 10:33:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:18 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:18 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:18 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:18 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:18 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:18 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:18 AM: createControls Finished
+7/31/2015 10:33:23 AM: createControls Started
+7/31/2015 10:33:23 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:23 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:33:23 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:23 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:23 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:23 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:23 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:23 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:33:23 AM: createControls Finished
+7/31/2015 10:33:23 AM: Started Saving Uploaded Document in Save Button Click
+7/31/2015 10:33:24 AM: AsyncFileUpload1_UploadedComplete Started
+7/31/2015 10:33:24 AM: AsyncFileUpload1_UploadedComplete Finished
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld7
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld8
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld9
+7/31/2015 10:33:24 AM: GetDBFieldName the DBFld UPLOAD_vFld10
+7/31/2015 10:33:26 AM: CreateXML Started:-
+7/31/2015 10:33:26 AM: CreateXML Completed:-
+7/31/2015 10:33:26 AM: Save button click after saving or updating the ReturnCode= 0
+7/31/2015 10:33:26 AM: Exception : Thread was being aborted.
+7/31/2015 10:33:35 AM: IntitialLoadGrid Started:-
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: CreateLinKs started
+7/31/2015 10:33:36 AM: IntitialLoadGrid Completed:-
+7/31/2015 10:37:20 AM: createControls Started
+7/31/2015 10:37:20 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:20 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:20 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:20 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:20 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:20 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:20 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:20 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:20 AM: createControls Finished
+7/31/2015 10:37:20 AM: generatecontrols Started
+7/31/2015 10:37:21 AM: Calling database to get reference id and watermark.
+7/31/2015 10:37:21 AM: Database returned result: DM_AD_1_1_1190|Lotex Business Solutions
+7/31/2015 10:37:21 AM: generatecontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:21 AM: generatecontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:21 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:37:21 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:37:21 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:37:21 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:37:21 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:37:21 AM: Generatecontrols,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: createControls Started
+7/31/2015 10:37:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:33 AM: createControls Finished
+7/31/2015 10:37:33 AM: AsyncFileUpload1_UploadedComplete Started
+7/31/2015 10:37:33 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/31/2015 10:37:33 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/31/2015 10:37:34 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 8
+7/31/2015 10:37:34 AM: AsyncFileUpload1_UploadedComplete Finished
+7/31/2015 10:37:35 AM: createControls Started
+7/31/2015 10:37:35 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:35 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:35 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:35 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:35 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:35 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:35 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:35 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:35 AM: createControls Finished
+7/31/2015 10:37:35 AM: btnSubmit_Click Started
+7/31/2015 10:37:35 AM: btnSubmit_Click Finished
+7/31/2015 10:37:38 AM: createControls Started
+7/31/2015 10:37:38 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:38 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:38 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:38 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:38 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:38 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:38 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:38 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:38 AM: createControls Finished
+7/31/2015 10:37:39 AM: createControls Started
+7/31/2015 10:37:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:39 AM: createControls Finished
+7/31/2015 10:37:43 AM: createControls Started
+7/31/2015 10:37:43 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:43 AM: Createcontrols,Load all Dropdownlist dynamic
+7/31/2015 10:37:43 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:43 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:43 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:43 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:43 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:43 AM: Create controls,Load all Textbox dynamic
+7/31/2015 10:37:43 AM: createControls Finished
+7/31/2015 10:37:43 AM: Started Saving Uploaded Document in Save Button Click
+7/31/2015 10:37:43 AM: AsyncFileUpload1_UploadedComplete Started
+7/31/2015 10:37:43 AM: AsyncFileUpload1_UploadedComplete Finished
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld7
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld8
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld9
+7/31/2015 10:37:43 AM: GetDBFieldName the DBFld UPLOAD_vFld10
+7/31/2015 10:37:44 AM: CreateXML Started:-
+7/31/2015 10:37:44 AM: CreateXML Completed:-
+7/31/2015 10:37:44 AM: Save button click after saving or updating the ReturnCode= 0
+7/31/2015 10:37:44 AM: Exception : Thread was being aborted.
+7/31/2015 10:37:53 AM: IntitialLoadGrid Started:-
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: CreateLinKs started
+7/31/2015 10:37:54 AM: IntitialLoadGrid Completed:-
+7/31/2015 10:38:09 AM: Rendering controls. Object Type: TextBox, Control Id: Control_164
+7/31/2015 10:38:09 AM: Rendering controls completed.
+7/31/2015 10:38:09 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_164
+7/31/2015 10:38:09 AM: Completed initialization of controls.
+7/31/2015 10:38:09 AM: controls binded successfully
+7/31/2015 10:38:09 AM: going to bind image with path:D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=.pdf
+7/31/2015 10:38:09 AM: Binding image and converting to jpg started:
+7/31/2015 10:38:09 AM: Virtual Image path of image Folder/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470
+7/31/2015 10:38:09 AM: Image folder path:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470
+7/31/2015 10:38:09 AM: Converting pdf to jpgD:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470
+7/31/2015 10:38:09 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470
+7/31/2015 10:38:09 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470
+7/31/2015 10:38:09 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\1.jpg
+7/31/2015 10:39:31 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\2.jpg
+7/31/2015 10:39:34 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\3.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\3.jpg
+7/31/2015 10:39:38 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\4.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\4.jpg
+7/31/2015 10:39:42 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\5.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\5.jpg
+7/31/2015 10:39:42 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\6.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\6.jpg
+7/31/2015 10:39:43 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\7.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\7.jpg
+7/31/2015 10:39:43 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\8.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470\8.jpg
+7/31/2015 10:39:43 AM: Converting pdf to jpg completted of total page:8
+7/31/2015 10:39:43 AM: Image sourcehttp://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/42c906e4-f6ff-4cbc-a2b3-89436ca13dd7/35/36/470//1.jpg
+7/31/2015 12:02:36 PM: IntitialLoadGrid Started:-
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: CreateLinKs started
+7/31/2015 12:02:36 PM: IntitialLoadGrid Completed:-
+7/31/2015 12:03:28 PM: DataEntryTypes count : 3

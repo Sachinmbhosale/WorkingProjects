@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{70900329-8DC0-4BB1-89B9-7A12873BD09A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WorkflowBLL</RootNamespace>
+    <AssemblyName>WorkflowBLL</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\ManageWorkflowStudio.cs" />
+    <Compile Include="Classes\WorkflowAdvanceSearchBLL.cs" />
+    <Compile Include="Classes\WorkflowDataEntryBLL.cs" />
+    <Compile Include="Classes\WorkFlowHomePageBLL.cs" />
+    <Compile Include="Classes\WorkflowLanguages.cs" />
+    <Compile Include="Classes\WorkflowMasterTypes.cs" />
+    <Compile Include="Classes\WorkflowMasterValues.cs" />
+    <Compile Include="Classes\WorkflowOptions.cs" />
+    <Compile Include="Classes\WorkflowPdfTemplateBLL.cs" />
+    <Compile Include="Classes\WorkflowPendingListBLL.cs" />
+    <Compile Include="Classes\WorkflowReports.cs" />
+    <Compile Include="Classes\Workflows.cs" />
+    <Compile Include="Classes\WorkflowBase.cs" />
+    <Compile Include="Classes\WorkflowNotification.cs" />
+    <Compile Include="Classes\WorkflowProcess.cs" />
+    <Compile Include="Classes\WorkFlowSentMailBLL.cs" />
+    <Compile Include="Classes\WorkflowStageField.cs" />
+    <Compile Include="Classes\WorkflowStage.cs" />
+    <Compile Include="Classes\WorkflowStageStatus.cs" />
+    <Compile Include="Classes\WorkflowStatusMaster.cs" />
+    <Compile Include="Classes\WorkflowDmsFieldsMapping.cs" />
+    <Compile Include="Classes\WorkflowUserMapping.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{0EB6072B-CB37-4BA1-BFF1-18316DCE0106}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkflowBAL\WorkflowBAL.csproj">
+      <Project>{C60072D8-C444-4359-882E-FC4829BBCEC4}</Project>
+      <Name>WorkflowBAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

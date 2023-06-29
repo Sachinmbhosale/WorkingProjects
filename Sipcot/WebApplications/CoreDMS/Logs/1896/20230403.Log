@@ -1,0 +1,123 @@
+4/3/2023 11:46:02 AM: BindDocumentType started
+4/3/2023 11:46:03 AM: BindDocumentType finished
+4/3/2023 11:46:14 AM: createControls Started
+4/3/2023 11:46:14 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:14 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:14 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:14 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:14 AM: createControls Finished
+4/3/2023 11:46:14 AM: GetTemplateDetails started
+4/3/2023 11:46:15 AM: generatecontrols Started
+4/3/2023 11:46:15 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:15 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:15 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:15 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:17 AM: createControls Started
+4/3/2023 11:46:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: createControls Finished
+4/3/2023 11:46:18 AM: GetTemplateDetails started
+4/3/2023 11:46:18 AM: generatecontrols Started
+4/3/2023 11:46:18 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:18 AM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 11:46:19 AM: Started Loading Entity Drop Down
+4/3/2023 11:46:20 AM: Finished Loading Entity Drop Down
+4/3/2023 11:47:08 AM: GetSginatureDetails Started:-
+4/3/2023 11:47:10 AM: GetSginatureDetails Completed:-
+4/3/2023 11:47:10 AM: GetTemplateDetails Started
+4/3/2023 11:47:11 AM: GetTemplateDetails total record count:1
+4/3/2023 11:47:11 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:11 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:11 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:11 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:11 AM: GetTemplateDetails Finished
+4/3/2023 11:47:12 AM: InitializeDocumentView started
+4/3/2023 11:47:12 AM: InitializeDocumentView finished
+4/3/2023 11:47:12 AM: Calling database to get annotated images. DocumentId: 282142, Action: GetAnnotatedPages
+4/3/2023 11:47:13 AM: Calling database to get annotated images. DocumentId: 282142, Action: GetTaggedPages
+4/3/2023 11:47:24 AM: LoadImageToViewer started
+4/3/2023 11:47:24 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+4/3/2023 11:47:24 AM: MailPanelFill started
+4/3/2023 11:47:24 AM: MailPanelFill finished
+4/3/2023 11:47:42 AM: GetSginatureDetails Started:-
+4/3/2023 11:47:42 AM: GetSginatureDetails Completed:-
+4/3/2023 11:47:42 AM: GetTemplateDetails Started
+4/3/2023 11:47:43 AM: GetTemplateDetails total record count:1
+4/3/2023 11:47:43 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:43 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:43 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:43 AM: Create controls,Load all Textbox dynamic
+4/3/2023 11:47:43 AM: GetTemplateDetails Finished
+4/3/2023 11:47:43 AM: InitializeDocumentView started
+4/3/2023 11:47:43 AM: InitializeDocumentView finished
+4/3/2023 11:47:43 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+4/3/2023 11:47:44 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+4/3/2023 11:47:44 AM: LoadImageToViewer started
+4/3/2023 11:47:44 AM: Setting image to viewer. Action:  Page count: 10 Current Page:1
+4/3/2023 11:47:44 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+4/3/2023 11:47:44 AM: Converting PDF to JPEG without applying watermark.
+4/3/2023 11:47:46 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+4/3/2023 11:47:46 AM: Invoke method to get annotations from databnase.
+4/3/2023 11:47:46 AM: Get annotations from database.
+4/3/2023 11:47:46 AM: Document Id: 282139 Page No: 1
+4/3/2023 11:47:46 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+4/3/2023 11:47:46 AM: MailPanelFill started
+4/3/2023 11:47:46 AM: MailPanelFill finished
+4/3/2023 11:52:17 AM: createControls Started
+4/3/2023 11:52:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:52:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:52:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:52:18 AM: createControls Loaded all Textbox dynamically
+4/3/2023 11:52:18 AM: createControls Finished
+4/3/2023 11:52:18 AM: Started Loading Entity Drop Down
+4/3/2023 11:52:19 AM: Finished Loading Entity Drop Down
+4/3/2023 12:10:25 PM: BindDocumentType started
+4/3/2023 12:10:25 PM: BindDocumentType finished
+4/3/2023 12:10:31 PM: createControls Started
+4/3/2023 12:10:31 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: createControls Finished
+4/3/2023 12:10:31 PM: GetTemplateDetails started
+4/3/2023 12:10:31 PM: generatecontrols Started
+4/3/2023 12:10:31 PM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 12:10:31 PM: GenerateControls:Loaded all Textbox dynamically
+4/3/2023 12:10:32 PM: createControls Started
+4/3/2023 12:10:32 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:32 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:32 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:32 PM: createControls Loaded all Textbox dynamically
+4/3/2023 12:10:32 PM: createControls Finished
+4/3/2023 12:10:32 PM: Started Loading Entity Drop Down
+4/3/2023 12:10:32 PM: Finished Loading Entity Drop Down
+4/3/2023 12:10:34 PM: GetSginatureDetails Started:-
+4/3/2023 12:10:34 PM: GetSginatureDetails Completed:-
+4/3/2023 12:10:34 PM: GetTemplateDetails Started
+4/3/2023 12:10:35 PM: GetTemplateDetails total record count:1
+4/3/2023 12:10:35 PM: Create controls,Load all Textbox dynamic
+4/3/2023 12:10:35 PM: Create controls,Load all Textbox dynamic
+4/3/2023 12:10:35 PM: Create controls,Load all Textbox dynamic
+4/3/2023 12:10:35 PM: Create controls,Load all Textbox dynamic
+4/3/2023 12:10:35 PM: GetTemplateDetails Finished
+4/3/2023 12:10:35 PM: InitializeDocumentView started
+4/3/2023 12:10:35 PM: InitializeDocumentView finished
+4/3/2023 12:10:35 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+4/3/2023 12:10:35 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+4/3/2023 12:10:35 PM: LoadImageToViewer started
+4/3/2023 12:10:35 PM: Setting image to viewer. Action:  Page count: 12 Current Page:1
+4/3/2023 12:10:35 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+4/3/2023 12:10:35 PM: Converting PDF to JPEG without applying watermark.
+4/3/2023 12:10:36 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+4/3/2023 12:10:36 PM: Invoke method to get annotations from databnase.
+4/3/2023 12:10:36 PM: Get annotations from database.
+4/3/2023 12:10:36 PM: Document Id: 282139 Page No: 1
+4/3/2023 12:10:36 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+4/3/2023 12:10:36 PM: MailPanelFill started
+4/3/2023 12:10:36 PM: MailPanelFill finished

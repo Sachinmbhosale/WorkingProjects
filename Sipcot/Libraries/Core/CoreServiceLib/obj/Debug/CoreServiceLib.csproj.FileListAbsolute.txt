@@ -1,0 +1,337 @@
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+F:\transfer\20-02-19\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.AssemblyReference.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CoreCompileInputs.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CopyComplete
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CoreCompileInputs.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CoreCompileInputs.cache
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\Debug\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\CoreServiceLib.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Core\CoreServiceLib\obj\Debug\Lotex.EnterpriseSolutions.CoreServiceLib.pdb

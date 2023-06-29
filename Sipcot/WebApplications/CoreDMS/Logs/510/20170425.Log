@@ -1,0 +1,1075 @@
+4/25/2017 12:32:48 PM: createControls Started
+4/25/2017 12:32:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: createControls Finished
+4/25/2017 12:32:48 PM: generatecontrols Started
+4/25/2017 12:32:48 PM: Calling database to get reference id and watermark.
+4/25/2017 12:32:48 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 12:32:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:32:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: createControls Started
+4/25/2017 12:32:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:55 PM: createControls Finished
+4/25/2017 12:32:55 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:32:55 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:32:55 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:32:55 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 12:32:55 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:32:56 PM: createControls Started
+4/25/2017 12:32:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:56 PM: createControls Finished
+4/25/2017 12:32:56 PM: btnSubmit_Click Started
+4/25/2017 12:32:56 PM: btnSubmit_Click Finished
+4/25/2017 12:32:57 PM: createControls Started
+4/25/2017 12:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:32:57 PM: createControls Finished
+4/25/2017 12:32:57 PM: Started Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 12:32:57 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4.pdf
+4/25/2017 12:32:57 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+4/25/2017 12:32:57 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\1.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 1
+4/25/2017 12:32:57 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:32:58 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//1.jpeg
+4/25/2017 12:32:58 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 12:33:14 PM: createControls Started
+4/25/2017 12:33:14 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:33:14 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:33:14 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:33:14 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:33:14 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:33:14 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:33:14 PM: createControls Finished
+4/25/2017 12:33:24 PM: Started Saving Uploaded Document in Save Button Click
+4/25/2017 12:34:53 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:34:53 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:34:53 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/25/2017 12:34:53 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/25/2017 12:34:53 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/25/2017 12:34:53 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/25/2017 12:34:53 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+4/25/2017 12:34:53 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+4/25/2017 12:34:53 PM: CreateXML Started:-
+4/25/2017 12:34:53 PM: CreateXML Completed:-
+4/25/2017 12:34:54 PM: Save button click after saving or updating the ReturnCode= 0
+4/25/2017 12:34:54 PM: Finished Saving Uploaded Document in Save Button Click
+4/25/2017 12:34:54 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:34:54 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:34:54 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:34:54 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 12:34:54 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:35:36 PM: createControls Started
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: createControls Finished
+4/25/2017 12:35:36 PM: generatecontrols Started
+4/25/2017 12:35:36 PM: Calling database to get reference id and watermark.
+4/25/2017 12:35:36 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: createControls Started
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:35:59 PM: createControls Finished
+4/25/2017 12:35:59 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:35:59 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:35:59 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:35:59 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 12:35:59 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:36:00 PM: createControls Started
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:00 PM: createControls Finished
+4/25/2017 12:36:00 PM: btnSubmit_Click Started
+4/25/2017 12:36:00 PM: btnSubmit_Click Finished
+4/25/2017 12:36:01 PM: createControls Started
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:01 PM: createControls Finished
+4/25/2017 12:36:01 PM: Started Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 12:36:01 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4.pdf
+4/25/2017 12:36:01 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+4/25/2017 12:36:01 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\1.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 1
+4/25/2017 12:36:01 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:36:02 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//1.jpeg
+4/25/2017 12:36:02 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 12:36:24 PM: createControls Started
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:24 PM: createControls Finished
+4/25/2017 12:36:24 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:1
+4/25/2017 12:36:24 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\2.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 2
+4/25/2017 12:36:24 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:36:24 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//2.jpeg
+4/25/2017 12:36:36 PM: createControls Started
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:36:36 PM: createControls Finished
+4/25/2017 12:36:36 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:2
+4/25/2017 12:36:36 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\3.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 3
+4/25/2017 12:36:36 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:36:37 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//3.jpeg
+4/25/2017 12:37:03 PM: createControls Started
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:03 PM: createControls Finished
+4/25/2017 12:37:03 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:3
+4/25/2017 12:37:03 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\4.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 4
+4/25/2017 12:37:03 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:37:03 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//4.jpeg
+4/25/2017 12:37:05 PM: createControls Started
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:05 PM: createControls Finished
+4/25/2017 12:37:05 PM: Setting image to viewer. Action: FIRST Page count: 7 Current Page:4
+4/25/2017 12:37:05 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\1.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 1
+4/25/2017 12:37:05 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:37:05 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//1.jpeg
+4/25/2017 12:37:37 PM: createControls Started
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:37:37 PM: createControls Finished
+4/25/2017 12:37:37 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:1
+4/25/2017 12:37:37 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\2.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 2
+4/25/2017 12:37:37 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:37:37 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//2.jpeg
+4/25/2017 12:38:00 PM: createControls Started
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:00 PM: createControls Finished
+4/25/2017 12:38:00 PM: Setting image to viewer. Action: GOTO Page count: 7 Current Page:2
+4/25/2017 12:38:00 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\1.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 1
+4/25/2017 12:38:00 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:38:00 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//1.jpeg
+4/25/2017 12:38:02 PM: createControls Started
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:02 PM: createControls Finished
+4/25/2017 12:38:02 PM: Setting image to viewer. Action: GOTO Page count: 7 Current Page:1
+4/25/2017 12:38:02 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\7.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 7
+4/25/2017 12:38:02 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:38:03 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//7.jpeg
+4/25/2017 12:38:05 PM: createControls Started
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:38:05 PM: createControls Finished
+4/25/2017 12:38:05 PM: Setting image to viewer. Action: GOTO Page count: 7 Current Page:7
+4/25/2017 12:38:05 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\1.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 1
+4/25/2017 12:38:05 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:38:05 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//1.jpeg
+4/25/2017 12:39:26 PM: createControls Started
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: createControls Finished
+4/25/2017 12:39:26 PM: generatecontrols Started
+4/25/2017 12:39:26 PM: Calling database to get reference id and watermark.
+4/25/2017 12:39:26 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:26 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: createControls Started
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:52 PM: createControls Finished
+4/25/2017 12:39:52 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:39:52 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:39:52 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:39:52 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+4/25/2017 12:39:52 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:39:53 PM: createControls Started
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:39:53 PM: createControls Finished
+4/25/2017 12:39:53 PM: btnSubmit_Click Started
+4/25/2017 12:39:53 PM: btnSubmit_Click Finished
+4/25/2017 12:40:37 PM: createControls Started
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: createControls Finished
+4/25/2017 12:40:37 PM: generatecontrols Started
+4/25/2017 12:40:37 PM: Calling database to get reference id and watermark.
+4/25/2017 12:40:37 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:40:37 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: createControls Started
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: createControls Finished
+4/25/2017 12:41:00 PM: generatecontrols Started
+4/25/2017 12:41:00 PM: Calling database to get reference id and watermark.
+4/25/2017 12:41:00 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:00 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: createControls Started
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: createControls Finished
+4/25/2017 12:41:04 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:41:04 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:41:04 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 12:41:04 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 12:41:04 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:41:04 PM: createControls Started
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:04 PM: createControls Finished
+4/25/2017 12:41:04 PM: btnSubmit_Click Started
+4/25/2017 12:41:04 PM: btnSubmit_Click Finished
+4/25/2017 12:41:24 PM: createControls Started
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:24 PM: createControls Finished
+4/25/2017 12:41:24 PM: Started Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 12:41:24 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4.pdf
+4/25/2017 12:41:24 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+4/25/2017 12:41:24 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\1.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 1
+4/25/2017 12:41:24 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:41:24 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//1.jpeg
+4/25/2017 12:41:24 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 12:41:31 PM: createControls Started
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:41:31 PM: createControls Finished
+4/25/2017 12:41:31 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:1
+4/25/2017 12:41:31 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fTE9fNTEwXzI1MF8xMDA4\2.pdf Image Name: Tk9fTE9fNTEwXzI1MF8xMDA4 Page No: 2
+4/25/2017 12:41:31 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 12:41:32 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9fte9fntewxzi1mf8xmda4jpg//2.jpeg
+4/25/2017 12:42:01 PM: createControls Started
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 12:42:01 PM: createControls Finished
+4/25/2017 12:46:22 PM: Started Saving Uploaded Document in Save Button Click
+4/25/2017 12:53:54 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 12:53:54 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 12:57:08 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+4/25/2017 12:58:08 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+4/25/2017 1:04:24 PM: CreateXML Started:-
+4/25/2017 1:04:24 PM: CreateXML Completed:-
+4/25/2017 1:04:24 PM: Save button click after saving or updating the ReturnCode= 0
+4/25/2017 1:04:24 PM: Finished Saving Uploaded Document in Save Button Click
+4/25/2017 1:04:24 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 1:04:24 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 1:04:24 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 1:04:24 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 1:04:24 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 1:09:33 PM: BindDocumentType started
+4/25/2017 1:09:33 PM: BindDocumentType finished
+4/25/2017 1:09:38 PM: BindDocumentType started
+4/25/2017 1:09:38 PM: BindDocumentType finished
+4/25/2017 1:09:54 PM: BindDocumentType started
+4/25/2017 1:09:54 PM: BindDocumentType finished
+4/25/2017 1:10:31 PM: createControls Started
+4/25/2017 1:10:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 1:10:31 PM: Create controls,Load all Textbox dynamic
+4/25/2017 1:10:31 PM: createControls Finished
+4/25/2017 1:10:31 PM: generatecontrols Started
+4/25/2017 1:10:31 PM: Calling database to get reference id and watermark.
+4/25/2017 1:10:31 PM: Database returned result: NO_EX_510_250_1008|
+4/25/2017 1:10:31 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 1:10:31 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 1:23:42 PM: BindDocumentType started
+4/25/2017 1:23:42 PM: BindDocumentType finished
+4/25/2017 1:23:53 PM: BindDocumentType started
+4/25/2017 1:23:53 PM: BindDocumentType finished
+4/25/2017 1:23:58 PM: BindDocumentType started
+4/25/2017 1:23:58 PM: BindDocumentType finished
+4/25/2017 1:24:03 PM: BindDocumentType started
+4/25/2017 1:24:03 PM: BindDocumentType finished
+4/25/2017 1:27:41 PM: IntitialLoadGrid Started:-
+4/25/2017 1:27:41 PM: IntitialLoadGrid Completed:-
+4/25/2017 2:13:29 PM: BindDocumentType started
+4/25/2017 2:13:29 PM: BindDocumentType finished
+4/25/2017 2:13:37 PM: createControls Started
+4/25/2017 2:13:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:13:37 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:13:37 PM: createControls Finished
+4/25/2017 2:13:37 PM: generatecontrols Started
+4/25/2017 2:13:38 PM: Calling database to get reference id and watermark.
+4/25/2017 2:13:38 PM: Database returned result: NO_EX_510_250_1008|
+4/25/2017 2:13:38 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:13:38 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: createControls Started
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: createControls Finished
+4/25/2017 2:14:01 PM: generatecontrols Started
+4/25/2017 2:14:01 PM: Calling database to get reference id and watermark.
+4/25/2017 2:14:01 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:14:01 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: createControls Started
+4/25/2017 2:30:21 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: createControls Finished
+4/25/2017 2:30:21 PM: generatecontrols Started
+4/25/2017 2:30:21 PM: Calling database to get reference id and watermark.
+4/25/2017 2:30:21 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:30:21 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:21 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: createControls Started
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: createControls Finished
+4/25/2017 2:30:23 PM: generatecontrols Started
+4/25/2017 2:30:23 PM: Calling database to get reference id and watermark.
+4/25/2017 2:30:23 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:23 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: createControls Started
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:29 PM: createControls Finished
+4/25/2017 2:30:29 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:30:29 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:30:29 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:30:29 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:30:30 PM: createControls Started
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:30 PM: createControls Finished
+4/25/2017 2:30:31 PM: btnSubmit_Click Started
+4/25/2017 2:30:31 PM: btnSubmit_Click Finished
+4/25/2017 2:30:39 PM: createControls Started
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: createControls Finished
+4/25/2017 2:30:39 PM: generatecontrols Started
+4/25/2017 2:30:39 PM: Calling database to get reference id and watermark.
+4/25/2017 2:30:39 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:39 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: createControls Started
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: createControls Finished
+4/25/2017 2:30:48 PM: generatecontrols Started
+4/25/2017 2:30:48 PM: Calling database to get reference id and watermark.
+4/25/2017 2:30:48 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:48 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: createControls Started
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:55 PM: createControls Finished
+4/25/2017 2:30:55 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:30:55 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:30:55 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:30:56 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 2:30:56 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:30:57 PM: createControls Started
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:30:57 PM: createControls Finished
+4/25/2017 2:30:57 PM: btnSubmit_Click Started
+4/25/2017 2:30:57 PM: btnSubmit_Click Finished
+4/25/2017 2:31:44 PM: createControls Started
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:31:44 PM: createControls Finished
+4/25/2017 2:31:50 PM: Started Saving Uploaded Document in Save Button Click
+4/25/2017 2:32:15 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:32:15 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+4/25/2017 2:32:25 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+4/25/2017 2:32:26 PM: CreateXML Started:-
+4/25/2017 2:32:26 PM: CreateXML Completed:-
+4/25/2017 2:32:26 PM: Save button click after saving or updating the ReturnCode= 0
+4/25/2017 2:32:26 PM: Exception : Thread was being aborted.
+4/25/2017 2:32:57 PM: createControls Started
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: createControls Finished
+4/25/2017 2:32:57 PM: generatecontrols Started
+4/25/2017 2:32:57 PM: Calling database to get reference id and watermark.
+4/25/2017 2:32:57 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:32:57 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:20 PM: createControls Started
+4/25/2017 2:33:20 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:20 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:20 PM: createControls Finished
+4/25/2017 2:33:20 PM: generatecontrols Started
+4/25/2017 2:33:20 PM: Calling database to get reference id and watermark.
+4/25/2017 2:33:20 PM: Database returned result: NO_EX_510_250_1008|
+4/25/2017 2:33:20 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:20 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:24 PM: createControls Started
+4/25/2017 2:33:25 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:25 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:25 PM: createControls Finished
+4/25/2017 2:33:25 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:33:25 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:33:25 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:33:25 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:33:25 PM: createControls Started
+4/25/2017 2:33:25 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:25 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:25 PM: createControls Finished
+4/25/2017 2:33:25 PM: btnSubmit_Click Started
+4/25/2017 2:33:25 PM: btnSubmit_Click Finished
+4/25/2017 2:33:36 PM: createControls Started
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: createControls Finished
+4/25/2017 2:33:36 PM: generatecontrols Started
+4/25/2017 2:33:36 PM: Calling database to get reference id and watermark.
+4/25/2017 2:33:36 PM: Database returned result: NO_LO_510_250_1008|
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:36 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: createControls Started
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:40 PM: createControls Finished
+4/25/2017 2:33:40 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:33:40 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:33:40 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:33:40 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+4/25/2017 2:33:40 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:33:41 PM: createControls Started
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:33:41 PM: createControls Finished
+4/25/2017 2:33:41 PM: btnSubmit_Click Started
+4/25/2017 2:33:41 PM: btnSubmit_Click Finished
+4/25/2017 2:34:01 PM: createControls Started
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:34:01 PM: createControls Finished
+4/25/2017 2:34:05 PM: Started Saving Uploaded Document in Save Button Click
+4/25/2017 2:34:34 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:34:34 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+4/25/2017 2:34:55 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+4/25/2017 2:35:52 PM: CreateXML Started:-
+4/25/2017 2:35:52 PM: CreateXML Completed:-
+4/25/2017 2:35:52 PM: Save button click after saving or updating the ReturnCode= 0
+4/25/2017 2:35:52 PM: Exception : Thread was being aborted.
+4/25/2017 2:38:49 PM: createControls Started
+4/25/2017 2:38:49 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:38:49 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:38:49 PM: createControls Finished
+4/25/2017 2:38:49 PM: generatecontrols Started
+4/25/2017 2:38:49 PM: Calling database to get reference id and watermark.
+4/25/2017 2:38:49 PM: Database returned result: NO_EX_510_250_1008|
+4/25/2017 2:38:49 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:38:49 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:38:52 PM: createControls Started
+4/25/2017 2:38:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:38:52 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:38:52 PM: createControls Finished
+4/25/2017 2:38:52 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:38:52 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:38:52 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:38:52 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:38:53 PM: createControls Started
+4/25/2017 2:38:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:38:53 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:38:53 PM: createControls Finished
+4/25/2017 2:38:53 PM: btnSubmit_Click Started
+4/25/2017 2:38:53 PM: btnSubmit_Click Finished
+4/25/2017 2:41:10 PM: createControls Started
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: createControls Finished
+4/25/2017 2:41:10 PM: generatecontrols Started
+4/25/2017 2:41:10 PM: Calling database to get reference id and watermark.
+4/25/2017 2:41:10 PM: Database returned result: NO_SE_510_250_1008|
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:10 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: createControls Started
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:16 PM: createControls Finished
+4/25/2017 2:41:16 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:41:16 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:41:16 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:41:16 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:41:17 PM: createControls Started
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:17 PM: createControls Finished
+4/25/2017 2:41:17 PM: btnSubmit_Click Started
+4/25/2017 2:41:17 PM: btnSubmit_Click Finished
+4/25/2017 2:41:29 PM: createControls Started
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:29 PM: createControls Finished
+4/25/2017 2:41:31 PM: Started Saving Uploaded Document in Save Button Click
+4/25/2017 2:41:31 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:41:31 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+4/25/2017 2:41:31 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+4/25/2017 2:41:32 PM: CreateXML Started:-
+4/25/2017 2:41:32 PM: CreateXML Completed:-
+4/25/2017 2:41:32 PM: Save button click after saving or updating the ReturnCode= 0
+4/25/2017 2:41:32 PM: Finished Saving Uploaded Document in Save Button Click
+4/25/2017 2:41:32 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:41:32 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:41:32 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:41:32 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:41:58 PM: createControls Started
+4/25/2017 2:41:58 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:58 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:41:58 PM: createControls Finished
+4/25/2017 2:41:58 PM: generatecontrols Started
+4/25/2017 2:41:58 PM: Calling database to get reference id and watermark.
+4/25/2017 2:41:58 PM: Database returned result: NO_EX_510_250_1008|
+4/25/2017 2:41:58 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:41:58 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:42:03 PM: createControls Started
+4/25/2017 2:42:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:03 PM: createControls Finished
+4/25/2017 2:42:03 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:42:03 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:42:03 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:42:03 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:42:03 PM: createControls Started
+4/25/2017 2:42:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:03 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:03 PM: createControls Finished
+4/25/2017 2:42:03 PM: btnSubmit_Click Started
+4/25/2017 2:42:04 PM: btnSubmit_Click Finished
+4/25/2017 2:42:09 PM: createControls Started
+4/25/2017 2:42:09 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: createControls Finished
+4/25/2017 2:42:09 PM: generatecontrols Started
+4/25/2017 2:42:09 PM: Calling database to get reference id and watermark.
+4/25/2017 2:42:09 PM: Database returned result: NO_SE_510_250_1008|
+4/25/2017 2:42:09 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:42:09 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:42:12 PM: createControls Started
+4/25/2017 2:42:12 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:12 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:12 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:12 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:12 PM: createControls Finished
+4/25/2017 2:42:12 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:42:12 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:42:12 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 2:42:16 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().tiff2PDF 1
+4/25/2017 2:42:16 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:42:16 PM: createControls Started
+4/25/2017 2:42:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:16 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:16 PM: createControls Finished
+4/25/2017 2:42:16 PM: btnSubmit_Click Started
+4/25/2017 2:42:16 PM: btnSubmit_Click Finished
+4/25/2017 2:42:19 PM: createControls Started
+4/25/2017 2:42:19 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:19 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:19 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:19 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:42:19 PM: createControls Finished
+4/25/2017 2:42:24 PM: Started Saving Uploaded Document in Save Button Click
+4/25/2017 2:42:34 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 2:42:34 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 2:42:34 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/25/2017 2:42:34 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/25/2017 2:42:34 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/25/2017 2:42:34 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/25/2017 2:42:38 PM: CreateXML Started:-
+4/25/2017 2:42:38 PM: CreateXML Completed:-
+4/25/2017 2:43:43 PM: CreateXML Started:-
+4/25/2017 2:43:43 PM: CreateXML Completed:-
+4/25/2017 2:43:43 PM: Save button click after saving or updating the ReturnCode= 0
+4/25/2017 2:43:43 PM: Exception : Thread was being aborted.
+4/25/2017 2:46:56 PM: createControls Started
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Create controls,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: createControls Finished
+4/25/2017 2:46:56 PM: generatecontrols Started
+4/25/2017 2:46:56 PM: Calling database to get reference id and watermark.
+4/25/2017 2:46:56 PM: Database returned result: NO_HR_510_250_1008|
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:46:56 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 2:47:05 PM: BindDocumentType started
+4/25/2017 2:47:05 PM: BindDocumentType finished
+4/25/2017 5:26:46 PM: createControls Started
+4/25/2017 5:26:46 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:26:46 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:26:46 PM: createControls Finished
+4/25/2017 5:26:46 PM: generatecontrols Started
+4/25/2017 5:26:46 PM: Calling database to get reference id and watermark.
+4/25/2017 5:26:46 PM: Database returned result: NO_EX_510_250_1009|
+4/25/2017 5:26:46 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 5:26:46 PM: Generatecontrols,Load all Textbox dynamic
+4/25/2017 5:27:01 PM: createControls Started
+4/25/2017 5:27:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:27:01 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:27:01 PM: createControls Finished
+4/25/2017 5:27:01 PM: AsyncFileUpload1_UploadedComplete Started
+4/25/2017 5:27:01 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 5:27:01 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/25/2017 5:27:01 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().tiff2PDF 1
+4/25/2017 5:27:01 PM: AsyncFileUpload1_UploadedComplete Finished
+4/25/2017 5:27:02 PM: createControls Started
+4/25/2017 5:27:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:27:02 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:27:02 PM: createControls Finished
+4/25/2017 5:27:02 PM: btnSubmit_Click Started
+4/25/2017 5:27:02 PM: btnSubmit_Click Finished
+4/25/2017 5:27:10 PM: createControls Started
+4/25/2017 5:27:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:27:10 PM: Create controls,Load all Textbox dynamic
+4/25/2017 5:27:10 PM: createControls Finished
+4/25/2017 5:27:10 PM: Started Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 5:27:10 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDA5.pdf
+4/25/2017 5:27:10 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+4/25/2017 5:27:10 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDA5\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDA5 Page No: 1
+4/25/2017 5:27:10 PM: Converting PDF to JPEG without applying watermark.
+4/25/2017 5:27:10 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmda5jpg//1.jpeg
+4/25/2017 5:27:10 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+4/25/2017 5:31:45 PM: BindDocumentType started
+4/25/2017 5:31:45 PM: BindDocumentType finished
+4/25/2017 5:31:57 PM: createControls Started
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: createControls Finished
+4/25/2017 5:31:57 PM: GetTemplateDetails started
+4/25/2017 5:31:57 PM: generatecontrols Started
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:31:57 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:32:10 PM: createControls Started
+4/25/2017 5:32:10 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:32:10 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:32:11 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:32:11 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:32:11 PM: createControls Finished
+4/25/2017 5:32:11 PM: GetTemplateDetails started
+4/25/2017 5:32:11 PM: generatecontrols Started
+4/25/2017 5:32:11 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:32:11 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:32:11 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:32:11 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:16 PM: BindDocumentType started
+4/25/2017 5:34:16 PM: BindDocumentType finished
+4/25/2017 5:34:26 PM: createControls Started
+4/25/2017 5:34:26 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: createControls Finished
+4/25/2017 5:34:26 PM: GetTemplateDetails started
+4/25/2017 5:34:26 PM: generatecontrols Started
+4/25/2017 5:34:26 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:26 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:44 PM: BindDocumentType started
+4/25/2017 5:34:44 PM: BindDocumentType finished
+4/25/2017 5:34:55 PM: createControls Started
+4/25/2017 5:34:55 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: createControls Finished
+4/25/2017 5:34:55 PM: GetTemplateDetails started
+4/25/2017 5:34:55 PM: generatecontrols Started
+4/25/2017 5:34:55 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:34:55 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: createControls Started
+4/25/2017 5:35:05 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: createControls Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: createControls Finished
+4/25/2017 5:35:05 PM: GetTemplateDetails started
+4/25/2017 5:35:05 PM: generatecontrols Started
+4/25/2017 5:35:05 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: GenerateControls:Loaded all Textbox dynamically
+4/25/2017 5:35:05 PM: GenerateControls:Loaded all Textbox dynamically

@@ -1,0 +1,104 @@
+7/24/2017 4:50:09 PM: BindDocumentType started
+7/24/2017 4:50:09 PM: BindDocumentType finished
+7/24/2017 4:50:16 PM: createControls Started
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: createControls Finished
+7/24/2017 4:50:16 PM: GetTemplateDetails started
+7/24/2017 4:50:16 PM: generatecontrols Started
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 4:50:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/24/2017 5:42:32 PM: createControls Started
+7/24/2017 5:42:33 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:42:33 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:42:33 PM: createControls Finished
+7/24/2017 5:42:33 PM: generatecontrols Started
+7/24/2017 5:42:33 PM: Calling database to get reference id and watermark.
+7/24/2017 5:42:33 PM: Database returned result: NO_EX_510_250_1037|
+7/24/2017 5:42:33 PM: Generatecontrols,Load all Textbox dynamic
+7/24/2017 5:42:33 PM: Generatecontrols,Load all Textbox dynamic
+7/24/2017 5:42:35 PM: createControls Started
+7/24/2017 5:42:35 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:42:35 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:42:35 PM: createControls Finished
+7/24/2017 5:42:46 PM: createControls Started
+7/24/2017 5:42:46 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:42:46 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:42:46 PM: createControls Finished
+7/24/2017 5:42:46 PM: AsyncFileUpload1_UploadedComplete Started
+7/24/2017 5:42:46 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/24/2017 5:42:47 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/24/2017 5:42:47 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+7/24/2017 5:43:43 PM: AsyncFileUpload1_UploadedComplete Finished
+7/24/2017 5:43:44 PM: createControls Started
+7/24/2017 5:43:44 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:43:44 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:43:44 PM: createControls Finished
+7/24/2017 5:43:45 PM: btnSubmit_Click Started
+7/24/2017 5:43:45 PM: btnSubmit_Click Finished
+7/24/2017 5:44:00 PM: createControls Started
+7/24/2017 5:44:00 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:44:00 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:44:00 PM: createControls Finished
+7/24/2017 5:44:00 PM: Started Saving Uploaded Document in Save Button Click
+7/24/2017 5:44:39 PM: AsyncFileUpload1_UploadedComplete Started
+7/24/2017 5:44:39 PM: AsyncFileUpload1_UploadedComplete Finished
+7/24/2017 5:44:39 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/24/2017 5:44:39 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/24/2017 5:44:41 PM: CreateXML Started:-
+7/24/2017 5:44:41 PM: CreateXML Completed:-
+7/24/2017 5:44:41 PM: Save button click after saving or updating the ReturnCode= 0
+7/24/2017 5:44:41 PM: Exception : Thread was being aborted.
+7/24/2017 5:53:18 PM: createControls Started
+7/24/2017 5:53:18 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:18 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:18 PM: createControls Finished
+7/24/2017 5:53:18 PM: generatecontrols Started
+7/24/2017 5:53:18 PM: Calling database to get reference id and watermark.
+7/24/2017 5:53:18 PM: Database returned result: NO_EX_510_250_1038|
+7/24/2017 5:53:18 PM: Generatecontrols,Load all Textbox dynamic
+7/24/2017 5:53:18 PM: Generatecontrols,Load all Textbox dynamic
+7/24/2017 5:53:19 PM: createControls Started
+7/24/2017 5:53:19 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:19 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:19 PM: createControls Finished
+7/24/2017 5:53:23 PM: createControls Started
+7/24/2017 5:53:23 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:23 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:23 PM: createControls Finished
+7/24/2017 5:53:24 PM: AsyncFileUpload1_UploadedComplete Started
+7/24/2017 5:53:24 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/24/2017 5:53:24 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/24/2017 5:53:24 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+7/24/2017 5:53:55 PM: AsyncFileUpload1_UploadedComplete Finished
+7/24/2017 5:53:56 PM: createControls Started
+7/24/2017 5:53:56 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:56 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:53:56 PM: createControls Finished
+7/24/2017 5:53:56 PM: btnSubmit_Click Started
+7/24/2017 5:53:56 PM: btnSubmit_Click Finished
+7/24/2017 5:54:07 PM: createControls Started
+7/24/2017 5:54:07 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:54:07 PM: Create controls,Load all Textbox dynamic
+7/24/2017 5:54:07 PM: createControls Finished
+7/24/2017 5:54:07 PM: Started Saving Uploaded Document in Save Button Click
+7/24/2017 5:54:19 PM: AsyncFileUpload1_UploadedComplete Started
+7/24/2017 5:54:19 PM: AsyncFileUpload1_UploadedComplete Finished
+7/24/2017 5:54:19 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/24/2017 5:54:19 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/24/2017 5:54:19 PM: CreateXML Started:-
+7/24/2017 5:54:19 PM: CreateXML Completed:-
+7/24/2017 5:54:19 PM: Save button click after saving or updating the ReturnCode= 0
+7/24/2017 5:54:19 PM: Exception : Thread was being aborted.

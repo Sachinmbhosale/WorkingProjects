@@ -1,0 +1,36 @@
+4/23/2015 3:50:59 PM: BindDocumentType started
+4/23/2015 3:50:59 PM: BindDocumentType finished
+4/23/2015 3:51:24 PM: GetDocumentTypeWithId Started
+4/23/2015 3:51:24 PM: SetDepartmentTemplate Started
+4/23/2015 3:51:24 PM: SetDepartmentTemplate Finished
+4/23/2015 3:51:24 PM: GetDocumentTypeWithId Finished
+4/23/2015 3:51:38 PM: createControls Started
+4/23/2015 3:51:38 PM: Create controls,Load all Textbox dynamic
+4/23/2015 3:51:38 PM: createControls Finished
+4/23/2015 3:51:38 PM: generatecontrols Started
+4/23/2015 3:51:38 PM: Calling database to get reference id and watermark.
+4/23/2015 3:51:38 PM: Database returned result: AI_AD_437_233_1001|
+4/23/2015 3:51:38 PM: Generatecontrols,Load all Textbox dynamic
+4/23/2015 3:51:51 PM: createControls Started
+4/23/2015 3:51:51 PM: Create controls,Load all Textbox dynamic
+4/23/2015 3:51:51 PM: createControls Finished
+4/23/2015 3:51:51 PM: generatecontrols Started
+4/23/2015 3:51:51 PM: Calling database to get reference id and watermark.
+4/23/2015 3:51:51 PM: Database returned result: AI_AD_437_233_1001|
+4/23/2015 3:51:51 PM: Generatecontrols,Load all Textbox dynamic
+4/23/2015 3:52:10 PM: btnSubmit_Click Started
+4/23/2015 3:52:10 PM: btnSubmit_Click Finished
+4/23/2015 3:53:30 PM: GetDocumentTypeWithId Started
+4/23/2015 3:53:31 PM: SetDepartmentTemplate Started
+4/23/2015 3:53:31 PM: SetDepartmentTemplate Finished
+4/23/2015 3:53:31 PM: GetDocumentTypeWithId Finished
+4/23/2015 3:53:48 PM: createControls Started
+4/23/2015 3:53:48 PM: Create controls,Load all Textbox dynamic
+4/23/2015 3:53:48 PM: createControls Finished
+4/23/2015 3:53:48 PM: generatecontrols Started
+4/23/2015 3:53:48 PM: Calling database to get reference id and watermark.
+4/23/2015 3:53:48 PM: Database returned result: AI_CH_437_233_1001|
+4/23/2015 3:53:48 PM: Generatecontrols,Load all Textbox dynamic
+4/23/2015 3:54:06 PM: createControls Started
+4/23/2015 3:54:06 PM: Create controls,Load all Textbox dynamic
+4/23/2015 3:54:06 PM: createControls Finished

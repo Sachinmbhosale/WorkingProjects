@@ -1,0 +1,1253 @@
+.ToolBar
+{
+   background-color:#303030;
+   position:relative;
+   overflow: hidden; 
+}
+
+.ToolBar div
+{
+   margin-left:5px;
+}
+
+.toolbargroup
+{   
+   float:left;
+}
+
+.toolBarItem
+{
+   margin-right:2px;
+   margin-top:2px;
+   margin-bottom:2px;
+   cursor:pointer;
+   display:block;
+   height:64px;
+   width:64px;   
+   float:left;
+}
+
+.SaveAnn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -671px;
+}
+
+.ClickSaveAnn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -671px;
+}
+
+.DisableSaveAnn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -671px;
+}
+
+.SaveAnnSVG
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -671px;
+}
+
+.ClickSaveAnnSVG
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -671px;
+}
+
+.DisableSaveAnnSVG
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -671px;
+}
+
+.LoadAnn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -301px;
+}
+
+.ClickLoadAnn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -301px;
+}
+
+.DisableLoadAnn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -301px;
+}
+
+.Undo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -819px;
+}
+
+.ClickUndo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -819px;
+}
+
+.DisableUndo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -819px;
+}
+
+.Redo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -597px;
+}
+
+.ClickRedo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -597px;
+}
+
+.DisableRedo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -597px;
+}
+
+.Delete
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -79px;
+}
+
+.ClickDelete
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -79px;
+}
+
+.DisableDelete
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -79px;
+}
+
+.Lock
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -227px;
+}
+
+.ClickLock
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -227px;
+}
+
+.DisableLock
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -227px;
+}
+
+.Unlock
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -819px;
+}
+
+.ClickUnlock
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -819px;
+}
+
+.DisableUnlock
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -819px;
+}
+
+.Properties
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -301px;
+}
+
+.ClickProperties
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -301px;
+}
+
+.DisableProperties
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -301px;
+}
+
+.Burn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -5px;
+}
+
+.ClickBurn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -5px;
+}
+
+.DisableBurn
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -5px;
+}
+
+.DesignMode
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -153px;
+}
+
+.ClickDesignMode
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -153px;
+}
+
+.DisableDesignMode
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -153px;
+}
+
+.RunMode
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -597px;
+}
+
+.ClickRunMode
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -597px;
+}
+
+.DisableRunMode
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -597px;
+}
+
+.Line
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -819px;
+}                                                    
+.ClickLine                                          
+{                                                    
+   display:block;                                    
+   width:64px;                                       
+   height:64px;                                      
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -819px;
+}                                                    
+.DisableLine                                         
+{                                                    
+   display:block;                                    
+   width:64px;                                       
+   height:64px;                                      
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -819px;
+}
+
+.Rectangle
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -523px;
+}
+.ClickRectangle
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -523px;
+}
+.DisableRectangle
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -523px;
+}
+
+
+.Ellipse
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -153px;
+}
+.ClickEllipse
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -153px;
+}
+.DisableEllipse
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -153px;
+}
+
+.Polyline
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -449px;
+}
+.ClickPolyline
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -449px;
+}
+.DisablePolyline
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -449px;
+}
+
+.Polygon
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -449px;
+}
+.ClickPolygon
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -449px;
+}
+.DisablePolygon
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -449px;
+}
+
+.Curve
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -79px;
+}
+.ClickCurve
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -79px;
+}
+.DisableCurve
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -79px;
+}
+
+.ClosedCurve
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -79px;
+}
+.ClickClosedCurve
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -79px;
+}
+.DisableClosedCurve
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -79px;
+}
+
+.Pointer
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -375px;
+}
+.ClickPointer
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -375px;
+}
+.DisablePointer
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -375px;
+}
+
+.Freehand
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -153px;
+}
+.ClickFreehand
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -153px;
+}
+.DisableFreehand
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -153px;
+}
+
+.Hilite
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -227px;
+}
+.ClickHilite
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -227px;
+}
+.DisableHilite
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -227px;
+}
+
+.Text
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -745px;
+}
+.ClickText
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -745px;
+}
+.DisableText
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -745px;
+}
+
+.TextRollup
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -523px;
+}
+.ClickTextRollup
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -523px;
+}
+.DisableTextRollup
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -523px;
+}
+
+.TextPointer
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -745px;
+}
+.ClickTextPointer
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -745px;
+}
+.DisableTextPointer
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -745px;
+}
+
+.Note
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -301px;
+}
+.ClickNote
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -301px;
+}
+.DisableNote
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -301px;
+}
+
+.Stamp
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -375px;
+}
+.ClickStamp
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -375px;
+}
+.DisableStamp
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -375px;
+}
+
+.RubberStamp
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -597px;
+}
+.ClickRubberStamp
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -597px;
+}
+.DisableRubberStamp
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -597px;
+}
+
+.HotSpot
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -227px;
+}
+.ClickHotSpot
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -227px;
+}
+.DisableHotSpot
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -227px;
+}
+
+.FreehandHotSpot
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -227px;
+}
+.ClickFreehandHotSpot
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -227px;
+}
+.DisableFreehandHotSpot
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -227px;
+}
+
+.Point
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -375px;
+}
+.ClickPoint
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -375px;
+}
+.DisablePoint
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -375px;
+}
+
+.Ruler
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -597px;
+}
+.ClickRuler
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -597px;
+}
+.DisableRuler
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -597px;
+}
+
+.PolyRuler
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -449px;
+}
+.ClickPolyRuler
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -449px;
+}
+.DisablePolyRuler
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -449px;
+}
+
+.Protractor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -449px;
+}
+.ClickProtractor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -449px;
+}
+.DisableProtractor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -449px;
+}
+
+.CrossProduct
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -79px;
+}
+.ClickCrossProduct
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -79px;
+}
+.DisableCrossProduct
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -79px;
+}
+
+.Redact
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -523px;
+}
+.ClickRedact
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -523px;
+}
+.DisableRedact
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -523px;
+}
+
+.Triangle
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -745px;
+}
+.ClickTriangle
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -745px;
+}
+.DisableTriangle
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -745px;
+}
+
+.Audio
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -5px;
+}
+.ClickAudio
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -5px;
+}
+.DisableAudio
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -5px;
+}
+
+.Video
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -819px;
+}
+.ClickVideo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -819px;
+}
+.DisableVideo
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -819px;
+}
+
+.Encrypt
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -153px;
+}
+.ClickEncrypt
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -153px;
+}
+.DisableEncrypt
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -153px;
+}
+
+.Select
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -745px;
+}
+.ClickSelect
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -745px;
+}
+.DisableSelect
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -745px;
+}
+
+.PanZoom
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -375px;
+}
+.ClickPanZoom
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -375px;
+}
+.DisablePanZoom
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -375px;
+}
+
+.LoadImage
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -301px;
+}
+.ClickLoadImage
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -301px;
+}
+.DisableLoadImage
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -301px;
+}
+
+.SaveImage
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -671px;
+}
+.ClickSaveImage
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -671px;
+}
+.DisableSaveImage
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -671px;
+}
+
+.ApplyEncryptor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -227px -5px;
+}
+.ClickApplyEncryptor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -375px -5px;
+}
+.DisableApplyEncryptor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -301px -5px;
+}
+
+.ApplyDecryptor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -5px -5px;
+}
+.ClickApplyDecryptor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -153px -5px;
+}
+.DisableApplyDecryptor
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -79px -5px;
+}
+
+.RedactionRealize
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -449px -523px;
+}
+.ClickRedactionRealize
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -597px -523px;
+}
+.DisableRedactionRealize
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -523px -523px;
+}
+
+.RedactionRestore
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -671px -523px;
+}
+.ClickRedactionRestore
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -819px -523px;
+}
+.DisableRedactionRestore
+{
+   display:block;
+   width:64px;
+   height:64px;
+   background:url(../LEADTOOLS_HTML5_Annotations_Demo_files/ann-demo-spritesheet.png);
+   background-position: -745px -523px;
+}

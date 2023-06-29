@@ -1,0 +1,172 @@
+5/15/2015 12:46:41 PM: Dataentry Type of the stage : Form
+5/15/2015 12:46:41 PM: Get all stage related data from database
+5/15/2015 12:46:41 PM: Virtual folder path of data entry images/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11
+5/15/2015 12:46:42 PM: Pages count 2
+5/15/2015 12:46:42 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11
+5/15/2015 12:46:42 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11
+5/15/2015 12:46:42 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11\1.jpg
+5/15/2015 12:46:42 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11\2.jpg
+5/15/2015 12:46:42 PM: Converted pdf to jpg
+5/15/2015 12:46:42 PM: Binding image to panel started
+5/15/2015 12:46:42 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11\/1.jpg
+5/15/2015 12:46:42 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/66e98cb8-8606-49c4-8de3-f8995703a94a/3/4/11\/2.jpg
+5/15/2015 12:46:42 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:46:42 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:46:43 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:46:43 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:46:43 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:46:43 PM: Rendering controls completed.
+5/15/2015 12:46:43 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:46:43 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:46:43 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:46:43 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:46:43 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:46:43 PM: Completed initialization of controls.
+5/15/2015 12:46:43 PM: controls binded successfully
+5/15/2015 12:52:50 PM: Dataentry Type of the stage : Form
+5/15/2015 12:52:50 PM: Get all stage related data from database
+5/15/2015 12:52:50 PM: Virtual folder path of data entry images/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11
+5/15/2015 12:52:50 PM: Pages count 2
+5/15/2015 12:52:50 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11
+5/15/2015 12:52:50 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11
+5/15/2015 12:52:50 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\1.jpg
+5/15/2015 12:52:50 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\2.jpg
+5/15/2015 12:52:50 PM: Converted pdf to jpg
+5/15/2015 12:52:50 PM: Binding image to panel started
+5/15/2015 12:52:50 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\/1.jpg
+5/15/2015 12:52:50 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\/2.jpg
+5/15/2015 12:52:50 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:52:50 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:52:50 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:52:50 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:52:50 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:52:50 PM: Rendering controls completed.
+5/15/2015 12:52:50 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:52:50 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:52:50 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:52:50 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:52:50 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:52:50 PM: Completed initialization of controls.
+5/15/2015 12:52:50 PM: controls binded successfully
+5/15/2015 12:53:37 PM: Dataentry Type of the stage : Form
+5/15/2015 12:53:37 PM: Get all stage related data from database
+5/15/2015 12:53:37 PM: controls binded successfully
+5/15/2015 12:53:50 PM: Dataentry Type of the stage : Form
+5/15/2015 12:53:50 PM: Get all stage related data from database
+5/15/2015 12:53:50 PM: Virtual folder path of data entry images/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11
+5/15/2015 12:53:50 PM: Pages count 2
+5/15/2015 12:53:50 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11
+5/15/2015 12:53:50 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11
+5/15/2015 12:53:50 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\1.jpg
+5/15/2015 12:53:50 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\2.jpg
+5/15/2015 12:53:50 PM: Converted pdf to jpg
+5/15/2015 12:53:50 PM: Binding image to panel started
+5/15/2015 12:53:50 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\/1.jpg
+5/15/2015 12:53:50 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c361fb7c-2dca-4f4f-9447-0cdced05d28d/3/4/11\/2.jpg
+5/15/2015 12:53:50 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:53:55 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:54:08 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:54:08 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:54:08 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:54:08 PM: Rendering controls completed.
+5/15/2015 12:54:08 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:54:08 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:54:08 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:54:08 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:54:08 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:54:08 PM: Completed initialization of controls.
+5/15/2015 12:54:08 PM: controls binded successfully
+5/15/2015 12:55:10 PM: Dataentry Type of the stage : Form
+5/15/2015 12:55:10 PM: Get all stage related data from database
+5/15/2015 12:55:10 PM: Virtual folder path of data entry images/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11
+5/15/2015 12:55:10 PM: Pages count 2
+5/15/2015 12:55:10 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11
+5/15/2015 12:55:10 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11
+5/15/2015 12:55:10 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11\1.jpg
+5/15/2015 12:55:10 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11\2.jpg
+5/15/2015 12:55:11 PM: Converted pdf to jpg
+5/15/2015 12:55:11 PM: Binding image to panel started
+5/15/2015 12:55:11 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11\/1.jpg
+5/15/2015 12:55:11 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/321a573b-501d-419a-a63e-d047f08cbb74/3/4/11\/2.jpg
+5/15/2015 12:55:11 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:55:12 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:55:13 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:55:16 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:55:16 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:55:16 PM: Rendering controls completed.
+5/15/2015 12:55:16 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:55:16 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:55:16 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:55:16 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:55:16 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:55:16 PM: Completed initialization of controls.
+5/15/2015 12:55:16 PM: controls binded successfully
+5/15/2015 12:56:16 PM: Dataentry Type of the stage : Form
+5/15/2015 12:56:16 PM: Get all stage related data from database
+5/15/2015 12:56:16 PM: Virtual folder path of data entry images/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11
+5/15/2015 12:56:16 PM: Pages count 2
+5/15/2015 12:56:16 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11
+5/15/2015 12:56:16 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11
+5/15/2015 12:56:16 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11\1.jpg
+5/15/2015 12:56:16 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11\2.jpg
+5/15/2015 12:56:16 PM: Converted pdf to jpg
+5/15/2015 12:56:16 PM: Binding image to panel started
+5/15/2015 12:56:16 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11\/1.jpg
+5/15/2015 12:56:16 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11\/2.jpg
+5/15/2015 12:56:16 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:56:16 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:56:16 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:56:16 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:56:16 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:56:16 PM: Rendering controls completed.
+5/15/2015 12:56:16 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:56:16 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:56:16 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:56:16 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:56:16 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:56:16 PM: Completed initialization of controls.
+5/15/2015 12:56:16 PM: controls binded successfully
+5/15/2015 12:56:29 PM: Virtual folder path of data entry images/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11
+5/15/2015 12:56:29 PM: Pages count 2
+5/15/2015 12:56:29 PM: Converted pdf to jpg
+5/15/2015 12:56:29 PM: Binding image to panel started
+5/15/2015 12:56:29 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11\/1.jpg
+5/15/2015 12:56:29 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2470bd95-a998-44b7-8387-aecdb91eaad9/3/4/11\/2.jpg
+5/15/2015 12:56:29 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:56:29 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:56:29 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:56:29 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:56:29 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:56:29 PM: Rendering controls completed.
+5/15/2015 12:56:29 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 12:56:29 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 12:56:29 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 12:56:29 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 12:56:29 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 12:56:29 PM: Completed initialization of controls.
+5/15/2015 12:56:29 PM: controls binded successfully
+5/15/2015 3:00:24 PM: Dataentry Type of the stage : Form
+5/15/2015 3:00:24 PM: Get all stage related data from database
+5/15/2015 3:00:24 PM: Virtual folder path of data entry images/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11
+5/15/2015 3:00:24 PM: Pages count 2
+5/15/2015 3:00:24 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11
+5/15/2015 3:00:25 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11
+5/15/2015 3:00:25 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11\1.jpg
+5/15/2015 3:00:25 PM: Converting pdf file into jpg. Source: \\\\172.16.1.11\\WDMSDocument\\UploadedDocuments\\global\\1\\2015-04-18\\RE1fQURfMV8xXzExMTE=\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11\2.jpg
+5/15/2015 3:00:25 PM: Converted pdf to jpg
+5/15/2015 3:00:25 PM: Binding image to panel started
+5/15/2015 3:00:25 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11\/1.jpg
+5/15/2015 3:00:25 PM: Image url:http://localhost:55357/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/5d68ca32-6317-423f-90fc-b009009088b2/3/4/11\/2.jpg
+5/15/2015 3:00:25 PM: Rendering controls. Object Type: TextBox, Control Id: Control_3
+5/15/2015 3:00:25 PM: Rendering controls. Object Type: DropDown, Control Id: Control_4
+5/15/2015 3:00:25 PM: Rendering controls. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 3:00:25 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 3:00:25 PM: Rendering controls. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 3:00:25 PM: Rendering controls completed.
+5/15/2015 3:00:25 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_3
+5/15/2015 3:00:25 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_4
+5/15/2015 3:00:25 PM: Initializing controls after rendering. Object Type: MultiDropDown, Control Id: Control_5
+5/15/2015 3:00:25 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_37
+5/15/2015 3:00:25 PM: Initializing controls after rendering. Object Type: DualDataEntry_MaskNone, Control Id: Control_38
+5/15/2015 3:00:25 PM: Completed initialization of controls.
+5/15/2015 3:00:25 PM: controls binded successfully

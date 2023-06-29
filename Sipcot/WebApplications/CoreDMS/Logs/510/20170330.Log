@@ -1,0 +1,668 @@
+3/30/2017 11:44:36 AM: BindDocumentType started
+3/30/2017 11:44:36 AM: BindDocumentType finished
+3/30/2017 11:44:40 AM: createControls Started
+3/30/2017 11:44:40 AM: createControls Loaded all Textbox dynamically
+3/30/2017 11:44:40 AM: createControls Loaded all Textbox dynamically
+3/30/2017 11:44:40 AM: createControls Finished
+3/30/2017 11:44:40 AM: GetTemplateDetails started
+3/30/2017 11:44:40 AM: generatecontrols Started
+3/30/2017 11:44:40 AM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 11:44:40 AM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 11:47:29 AM: BindDocumentType started
+3/30/2017 11:47:29 AM: BindDocumentType finished
+3/30/2017 11:47:34 AM: createControls Started
+3/30/2017 11:47:34 AM: createControls Loaded all Textbox dynamically
+3/30/2017 11:47:34 AM: createControls Loaded all Textbox dynamically
+3/30/2017 11:47:34 AM: createControls Finished
+3/30/2017 11:47:34 AM: GetTemplateDetails started
+3/30/2017 11:47:34 AM: generatecontrols Started
+3/30/2017 11:47:34 AM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 11:47:34 AM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 4:40:15 PM: BindDocumentType started
+3/30/2017 4:40:15 PM: BindDocumentType finished
+3/30/2017 4:40:41 PM: createControls Started
+3/30/2017 4:40:41 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:40:41 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:40:41 PM: createControls Finished
+3/30/2017 4:40:41 PM: GetTemplateDetails started
+3/30/2017 4:40:41 PM: generatecontrols Started
+3/30/2017 4:40:41 PM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 4:40:41 PM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 4:40:59 PM: GetSginatureDetails Started:-
+3/30/2017 4:40:59 PM: GetSginatureDetails Completed:-
+3/30/2017 4:40:59 PM: GetTemplateDetails Started
+3/30/2017 4:40:59 PM: GetTemplateDetails total record count:1
+3/30/2017 4:40:59 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:40:59 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:40:59 PM: GetTemplateDetails Finished
+3/30/2017 4:40:59 PM: InitializeDocumentView started
+3/30/2017 4:40:59 PM: InitializeDocumentView finished
+3/30/2017 4:40:59 PM: Calling database to get annotated images. DocumentId: 1303, Action: GetAnnotatedPages
+3/30/2017 4:40:59 PM: Calling database to get annotated images. DocumentId: 1303, Action: GetTaggedPages
+3/30/2017 4:40:59 PM: LoadImageToViewer started
+3/30/2017 4:40:59 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+3/30/2017 4:40:59 PM: MailPanelFill started
+3/30/2017 4:40:59 PM: MailPanelFill finished
+3/30/2017 4:41:04 PM: GetTemplateDetails Started
+3/30/2017 4:41:04 PM: GetTemplateDetails total record count:1
+3/30/2017 4:41:04 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:41:04 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:41:04 PM: GetTemplateDetails Finished
+3/30/2017 4:41:05 PM: BindDocumentType started
+3/30/2017 4:41:05 PM: BindDocumentType finished
+3/30/2017 4:41:05 PM: GetTemplateDetails started
+3/30/2017 4:41:05 PM: GetTemplateDetails started
+3/30/2017 4:41:05 PM: createControls Started
+3/30/2017 4:41:05 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:41:05 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:41:05 PM: createControls Finished
+3/30/2017 4:41:43 PM: GetSginatureDetails Started:-
+3/30/2017 4:41:43 PM: GetSginatureDetails Completed:-
+3/30/2017 4:41:43 PM: GetTemplateDetails Started
+3/30/2017 4:41:43 PM: GetTemplateDetails total record count:1
+3/30/2017 4:41:43 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:41:43 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:41:43 PM: GetTemplateDetails Finished
+3/30/2017 4:41:43 PM: InitializeDocumentView started
+3/30/2017 4:41:43 PM: InitializeDocumentView finished
+3/30/2017 4:41:43 PM: Calling database to get annotated images. DocumentId: 1303, Action: GetAnnotatedPages
+3/30/2017 4:41:43 PM: Calling database to get annotated images. DocumentId: 1303, Action: GetTaggedPages
+3/30/2017 4:41:43 PM: LoadImageToViewer started
+3/30/2017 4:41:43 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+3/30/2017 4:41:43 PM: MailPanelFill started
+3/30/2017 4:41:43 PM: MailPanelFill finished
+3/30/2017 4:41:49 PM: GetTemplateDetails Started
+3/30/2017 4:41:49 PM: GetTemplateDetails total record count:1
+3/30/2017 4:41:49 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:41:49 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:41:49 PM: GetTemplateDetails Finished
+3/30/2017 4:42:02 PM: GetTemplateDetails Started
+3/30/2017 4:42:02 PM: GetTemplateDetails total record count:1
+3/30/2017 4:42:02 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:02 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:02 PM: GetTemplateDetails Finished
+3/30/2017 4:42:02 PM: BindDocumentType started
+3/30/2017 4:42:02 PM: BindDocumentType finished
+3/30/2017 4:42:02 PM: GetTemplateDetails started
+3/30/2017 4:42:02 PM: GetTemplateDetails started
+3/30/2017 4:42:02 PM: createControls Started
+3/30/2017 4:42:02 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:42:02 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:42:02 PM: createControls Finished
+3/30/2017 4:42:09 PM: GetSginatureDetails Started:-
+3/30/2017 4:42:09 PM: GetSginatureDetails Completed:-
+3/30/2017 4:42:09 PM: GetTemplateDetails Started
+3/30/2017 4:42:09 PM: GetTemplateDetails total record count:1
+3/30/2017 4:42:09 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:09 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:09 PM: GetTemplateDetails Finished
+3/30/2017 4:42:09 PM: InitializeDocumentView started
+3/30/2017 4:42:09 PM: InitializeDocumentView finished
+3/30/2017 4:42:09 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetAnnotatedPages
+3/30/2017 4:42:09 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetTaggedPages
+3/30/2017 4:42:09 PM: LoadImageToViewer started
+3/30/2017 4:42:09 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+3/30/2017 4:42:09 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 4:42:09 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 4:42:09 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 4:42:09 PM: Invoke method to get annotations from databnase.
+3/30/2017 4:42:09 PM: Get annotations from database.
+3/30/2017 4:42:09 PM: Document Id: 1300 Page No: 1
+3/30/2017 4:42:09 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 4:42:09 PM: MailPanelFill started
+3/30/2017 4:42:09 PM: MailPanelFill finished
+3/30/2017 4:42:12 PM: GetTemplateDetails Started
+3/30/2017 4:42:12 PM: GetTemplateDetails total record count:1
+3/30/2017 4:42:12 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:12 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:12 PM: GetTemplateDetails Finished
+3/30/2017 4:42:12 PM: BindDocumentType started
+3/30/2017 4:42:12 PM: BindDocumentType finished
+3/30/2017 4:42:12 PM: GetTemplateDetails started
+3/30/2017 4:42:12 PM: GetTemplateDetails started
+3/30/2017 4:42:12 PM: createControls Started
+3/30/2017 4:42:12 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:42:12 PM: createControls Loaded all Textbox dynamically
+3/30/2017 4:42:12 PM: createControls Finished
+3/30/2017 4:42:25 PM: GetSginatureDetails Started:-
+3/30/2017 4:42:25 PM: GetSginatureDetails Completed:-
+3/30/2017 4:42:25 PM: GetTemplateDetails Started
+3/30/2017 4:42:25 PM: GetTemplateDetails total record count:1
+3/30/2017 4:42:25 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:25 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:25 PM: GetTemplateDetails Finished
+3/30/2017 4:42:25 PM: InitializeDocumentView started
+3/30/2017 4:42:25 PM: InitializeDocumentView finished
+3/30/2017 4:42:25 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetAnnotatedPages
+3/30/2017 4:42:25 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetTaggedPages
+3/30/2017 4:42:25 PM: LoadImageToViewer started
+3/30/2017 4:42:25 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+3/30/2017 4:42:25 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 4:42:25 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 4:42:25 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 4:42:25 PM: Invoke method to get annotations from databnase.
+3/30/2017 4:42:25 PM: Get annotations from database.
+3/30/2017 4:42:25 PM: Document Id: 1300 Page No: 1
+3/30/2017 4:42:25 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 4:42:25 PM: MailPanelFill started
+3/30/2017 4:42:25 PM: MailPanelFill finished
+3/30/2017 4:42:28 PM: GetTemplateDetails Started
+3/30/2017 4:42:28 PM: GetTemplateDetails total record count:1
+3/30/2017 4:42:28 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:28 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:28 PM: GetTemplateDetails Finished
+3/30/2017 4:42:45 PM: GetTemplateDetails Started
+3/30/2017 4:42:45 PM: GetTemplateDetails total record count:1
+3/30/2017 4:42:45 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:45 PM: Create controls,Load all Textbox dynamic
+3/30/2017 4:42:45 PM: GetTemplateDetails Finished
+3/30/2017 4:42:45 PM: btnSaveTag_Click started
+3/30/2017 4:42:45 PM: getAvailablePages Started
+3/30/2017 4:42:45 PM: getAvailablePages Finished
+3/30/2017 4:42:45 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetTaggedPages
+3/30/2017 4:42:45 PM: btnSaveTag_Click finished
+3/30/2017 6:23:22 PM: BindDocumentType started
+3/30/2017 6:23:22 PM: BindDocumentType finished
+3/30/2017 6:23:29 PM: createControls Started
+3/30/2017 6:23:29 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:23:29 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:23:29 PM: createControls Finished
+3/30/2017 6:23:29 PM: GetTemplateDetails started
+3/30/2017 6:23:29 PM: generatecontrols Started
+3/30/2017 6:23:29 PM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 6:23:29 PM: GenerateControls:Loaded all Textbox dynamically
+3/30/2017 6:23:34 PM: GetSginatureDetails Started:-
+3/30/2017 6:23:34 PM: GetSginatureDetails Completed:-
+3/30/2017 6:23:34 PM: GetTemplateDetails Started
+3/30/2017 6:23:34 PM: GetTemplateDetails total record count:1
+3/30/2017 6:23:34 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:34 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:34 PM: GetTemplateDetails Finished
+3/30/2017 6:23:34 PM: InitializeDocumentView started
+3/30/2017 6:23:34 PM: InitializeDocumentView finished
+3/30/2017 6:23:34 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetAnnotatedPages
+3/30/2017 6:23:34 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetTaggedPages
+3/30/2017 6:23:34 PM: LoadImageToViewer started
+3/30/2017 6:23:34 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+3/30/2017 6:23:34 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAx\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAx Page No: 1
+3/30/2017 6:23:34 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:23:34 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdaxjpg//1.jpeg
+3/30/2017 6:23:34 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:23:34 PM: Get annotations from database.
+3/30/2017 6:23:34 PM: Document Id: 1299 Page No: 1
+3/30/2017 6:23:34 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:23:34 PM: MailPanelFill started
+3/30/2017 6:23:34 PM: MailPanelFill finished
+3/30/2017 6:23:38 PM: GetTemplateDetails Started
+3/30/2017 6:23:38 PM: GetTemplateDetails total record count:1
+3/30/2017 6:23:38 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:38 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:38 PM: GetTemplateDetails Finished
+3/30/2017 6:23:38 PM: getAvailablePages Started
+3/30/2017 6:23:38 PM: getAvailablePages Finished
+3/30/2017 6:23:38 PM: getAvailablePages Started
+3/30/2017 6:23:38 PM: getAvailablePages Finished
+3/30/2017 6:23:38 PM: LoadImageToViewer started
+3/30/2017 6:23:38 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+3/30/2017 6:23:38 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAx\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAx Page No: 1
+3/30/2017 6:23:38 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:23:38 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdaxjpg//1.jpeg
+3/30/2017 6:23:38 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:23:38 PM: Get annotations from database.
+3/30/2017 6:23:38 PM: Document Id: 1299 Page No: 1
+3/30/2017 6:23:38 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:23:47 PM: GetTemplateDetails Started
+3/30/2017 6:23:47 PM: GetTemplateDetails total record count:1
+3/30/2017 6:23:47 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:47 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:47 PM: GetTemplateDetails Finished
+3/30/2017 6:23:47 PM: getAvailablePages Started
+3/30/2017 6:23:47 PM: getAvailablePages Finished
+3/30/2017 6:23:47 PM: getAvailablePages Started
+3/30/2017 6:23:47 PM: getAvailablePages Finished
+3/30/2017 6:23:47 PM: LoadImageToViewer started
+3/30/2017 6:23:47 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+3/30/2017 6:23:47 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAx\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAx Page No: 1
+3/30/2017 6:23:47 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:23:47 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdaxjpg//1.jpeg
+3/30/2017 6:23:47 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:23:47 PM: Get annotations from database.
+3/30/2017 6:23:47 PM: Document Id: 1299 Page No: 1
+3/30/2017 6:23:47 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:23:50 PM: GetTemplateDetails Started
+3/30/2017 6:23:50 PM: GetTemplateDetails total record count:1
+3/30/2017 6:23:50 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:50 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:50 PM: GetTemplateDetails Finished
+3/30/2017 6:23:51 PM: BindDocumentType started
+3/30/2017 6:23:51 PM: BindDocumentType finished
+3/30/2017 6:23:51 PM: GetTemplateDetails started
+3/30/2017 6:23:51 PM: GetTemplateDetails started
+3/30/2017 6:23:51 PM: createControls Started
+3/30/2017 6:23:51 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:23:51 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:23:51 PM: createControls Finished
+3/30/2017 6:23:53 PM: GetSginatureDetails Started:-
+3/30/2017 6:23:53 PM: GetSginatureDetails Completed:-
+3/30/2017 6:23:53 PM: GetTemplateDetails Started
+3/30/2017 6:23:53 PM: GetTemplateDetails total record count:1
+3/30/2017 6:23:53 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:53 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:53 PM: GetTemplateDetails Finished
+3/30/2017 6:23:53 PM: InitializeDocumentView started
+3/30/2017 6:23:53 PM: InitializeDocumentView finished
+3/30/2017 6:23:53 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetAnnotatedPages
+3/30/2017 6:23:53 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetTaggedPages
+3/30/2017 6:23:53 PM: LoadImageToViewer started
+3/30/2017 6:23:53 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+3/30/2017 6:23:53 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:23:53 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:23:53 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:23:53 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:23:53 PM: Get annotations from database.
+3/30/2017 6:23:53 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:23:53 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:23:53 PM: MailPanelFill started
+3/30/2017 6:23:53 PM: MailPanelFill finished
+3/30/2017 6:23:56 PM: GetTemplateDetails Started
+3/30/2017 6:23:56 PM: GetTemplateDetails total record count:1
+3/30/2017 6:23:56 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:56 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:23:56 PM: GetTemplateDetails Finished
+3/30/2017 6:23:56 PM: getAvailablePages Started
+3/30/2017 6:23:56 PM: getAvailablePages Finished
+3/30/2017 6:23:56 PM: LoadImageToViewer started
+3/30/2017 6:23:56 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+3/30/2017 6:23:56 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:23:56 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:23:56 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:23:56 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:23:56 PM: Get annotations from database.
+3/30/2017 6:23:56 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:23:56 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:29 PM: GetTemplateDetails Started
+3/30/2017 6:24:29 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:29 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:29 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:29 PM: GetTemplateDetails Finished
+3/30/2017 6:24:29 PM: LoadImageToViewer started
+3/30/2017 6:24:29 PM: Setting image to viewer. Action: NEXT Page count: 2 Current Page:1
+3/30/2017 6:24:29 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\2.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 2
+3/30/2017 6:24:29 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:30 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//2.jpeg
+3/30/2017 6:24:30 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:30 PM: Get annotations from database.
+3/30/2017 6:24:30 PM: Document Id: 1300 Page No: 2
+3/30/2017 6:24:30 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:36 PM: GetTemplateDetails Started
+3/30/2017 6:24:36 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:36 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:36 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:36 PM: GetTemplateDetails Finished
+3/30/2017 6:24:36 PM: getAvailablePages Started
+3/30/2017 6:24:36 PM: getAvailablePages Finished
+3/30/2017 6:24:36 PM: getAvailablePages Started
+3/30/2017 6:24:36 PM: getAvailablePages Finished
+3/30/2017 6:24:36 PM: LoadImageToViewer started
+3/30/2017 6:24:36 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:2
+3/30/2017 6:24:36 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:24:36 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:36 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:24:36 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:36 PM: Get annotations from database.
+3/30/2017 6:24:36 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:24:36 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:39 PM: GetTemplateDetails Started
+3/30/2017 6:24:39 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:39 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:39 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:39 PM: GetTemplateDetails Finished
+3/30/2017 6:24:39 PM: getAvailablePages Started
+3/30/2017 6:24:39 PM: getAvailablePages Finished
+3/30/2017 6:24:39 PM: LoadImageToViewer started
+3/30/2017 6:24:39 PM: Setting image to viewer. Action: NEXT Page count: 2 Current Page:1
+3/30/2017 6:24:39 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:24:39 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:24:39 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:39 PM: Get annotations from database.
+3/30/2017 6:24:39 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:24:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:40 PM: GetTemplateDetails Started
+3/30/2017 6:24:40 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:40 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:40 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:40 PM: GetTemplateDetails Finished
+3/30/2017 6:24:40 PM: getAvailablePages Started
+3/30/2017 6:24:40 PM: getAvailablePages Finished
+3/30/2017 6:24:40 PM: getAvailablePages Started
+3/30/2017 6:24:40 PM: getAvailablePages Finished
+3/30/2017 6:24:40 PM: LoadImageToViewer started
+3/30/2017 6:24:40 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:1
+3/30/2017 6:24:40 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:24:40 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:41 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:24:41 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:41 PM: Get annotations from database.
+3/30/2017 6:24:41 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:24:41 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:44 PM: GetTemplateDetails Started
+3/30/2017 6:24:44 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:44 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:44 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:44 PM: GetTemplateDetails Finished
+3/30/2017 6:24:44 PM: LoadImageToViewer started
+3/30/2017 6:24:44 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:1
+3/30/2017 6:24:44 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\2.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 2
+3/30/2017 6:24:44 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:44 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//2.jpeg
+3/30/2017 6:24:44 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:44 PM: Get annotations from database.
+3/30/2017 6:24:44 PM: Document Id: 1300 Page No: 2
+3/30/2017 6:24:44 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:45 PM: GetTemplateDetails Started
+3/30/2017 6:24:45 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:45 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:45 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:45 PM: GetTemplateDetails Finished
+3/30/2017 6:24:45 PM: LoadImageToViewer started
+3/30/2017 6:24:45 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:2
+3/30/2017 6:24:45 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\3.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 3
+3/30/2017 6:24:45 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:45 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//3.jpeg
+3/30/2017 6:24:45 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:45 PM: Get annotations from database.
+3/30/2017 6:24:45 PM: Document Id: 1300 Page No: 3
+3/30/2017 6:24:45 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:46 PM: GetTemplateDetails Started
+3/30/2017 6:24:46 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:46 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:46 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:46 PM: GetTemplateDetails Finished
+3/30/2017 6:24:46 PM: LoadImageToViewer started
+3/30/2017 6:24:46 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:3
+3/30/2017 6:24:46 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\4.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 4
+3/30/2017 6:24:46 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:46 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//4.jpeg
+3/30/2017 6:24:46 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:46 PM: Get annotations from database.
+3/30/2017 6:24:46 PM: Document Id: 1300 Page No: 4
+3/30/2017 6:24:46 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:47 PM: GetTemplateDetails Started
+3/30/2017 6:24:47 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:47 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:47 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:47 PM: GetTemplateDetails Finished
+3/30/2017 6:24:47 PM: LoadImageToViewer started
+3/30/2017 6:24:47 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:4
+3/30/2017 6:24:47 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\5.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 5
+3/30/2017 6:24:47 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:47 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//5.jpeg
+3/30/2017 6:24:47 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:47 PM: Get annotations from database.
+3/30/2017 6:24:47 PM: Document Id: 1300 Page No: 5
+3/30/2017 6:24:47 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:47 PM: GetTemplateDetails Started
+3/30/2017 6:24:47 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:47 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:47 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:47 PM: GetTemplateDetails Finished
+3/30/2017 6:24:47 PM: LoadImageToViewer started
+3/30/2017 6:24:47 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:5
+3/30/2017 6:24:47 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\6.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 6
+3/30/2017 6:24:47 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:48 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//6.jpeg
+3/30/2017 6:24:48 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:48 PM: Get annotations from database.
+3/30/2017 6:24:48 PM: Document Id: 1300 Page No: 6
+3/30/2017 6:24:48 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:48 PM: GetTemplateDetails Started
+3/30/2017 6:24:48 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:48 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:48 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:48 PM: GetTemplateDetails Finished
+3/30/2017 6:24:48 PM: LoadImageToViewer started
+3/30/2017 6:24:48 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:6
+3/30/2017 6:24:48 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\7.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 7
+3/30/2017 6:24:48 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:48 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//7.jpeg
+3/30/2017 6:24:48 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:48 PM: Get annotations from database.
+3/30/2017 6:24:48 PM: Document Id: 1300 Page No: 7
+3/30/2017 6:24:48 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:51 PM: GetTemplateDetails Started
+3/30/2017 6:24:51 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:51 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:51 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:51 PM: GetTemplateDetails Finished
+3/30/2017 6:24:51 PM: LoadImageToViewer started
+3/30/2017 6:24:51 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:7
+3/30/2017 6:24:51 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\6.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 6
+3/30/2017 6:24:51 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:51 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//6.jpeg
+3/30/2017 6:24:51 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:51 PM: Get annotations from database.
+3/30/2017 6:24:51 PM: Document Id: 1300 Page No: 6
+3/30/2017 6:24:51 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:51 PM: GetTemplateDetails Started
+3/30/2017 6:24:51 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:51 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:51 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:51 PM: GetTemplateDetails Finished
+3/30/2017 6:24:51 PM: LoadImageToViewer started
+3/30/2017 6:24:51 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:6
+3/30/2017 6:24:51 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\5.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 5
+3/30/2017 6:24:51 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:52 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//5.jpeg
+3/30/2017 6:24:52 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:52 PM: Get annotations from database.
+3/30/2017 6:24:52 PM: Document Id: 1300 Page No: 5
+3/30/2017 6:24:52 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:52 PM: GetTemplateDetails Started
+3/30/2017 6:24:52 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:52 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:52 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:52 PM: GetTemplateDetails Finished
+3/30/2017 6:24:52 PM: LoadImageToViewer started
+3/30/2017 6:24:52 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:5
+3/30/2017 6:24:52 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\4.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 4
+3/30/2017 6:24:52 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:52 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//4.jpeg
+3/30/2017 6:24:52 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:52 PM: Get annotations from database.
+3/30/2017 6:24:52 PM: Document Id: 1300 Page No: 4
+3/30/2017 6:24:52 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:52 PM: GetTemplateDetails Started
+3/30/2017 6:24:52 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:52 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:52 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:52 PM: GetTemplateDetails Finished
+3/30/2017 6:24:52 PM: LoadImageToViewer started
+3/30/2017 6:24:52 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:4
+3/30/2017 6:24:52 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\3.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 3
+3/30/2017 6:24:52 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:53 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//3.jpeg
+3/30/2017 6:24:53 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:53 PM: Get annotations from database.
+3/30/2017 6:24:53 PM: Document Id: 1300 Page No: 3
+3/30/2017 6:24:53 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:53 PM: GetTemplateDetails Started
+3/30/2017 6:24:53 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:53 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:53 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:53 PM: GetTemplateDetails Finished
+3/30/2017 6:24:53 PM: LoadImageToViewer started
+3/30/2017 6:24:53 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:3
+3/30/2017 6:24:53 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\2.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 2
+3/30/2017 6:24:53 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:53 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//2.jpeg
+3/30/2017 6:24:53 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:53 PM: Get annotations from database.
+3/30/2017 6:24:53 PM: Document Id: 1300 Page No: 2
+3/30/2017 6:24:53 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:53 PM: GetTemplateDetails Started
+3/30/2017 6:24:53 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:53 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:53 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:53 PM: GetTemplateDetails Finished
+3/30/2017 6:24:53 PM: LoadImageToViewer started
+3/30/2017 6:24:53 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:2
+3/30/2017 6:24:53 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:24:53 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:54 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:24:54 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:54 PM: Get annotations from database.
+3/30/2017 6:24:54 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:24:54 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:55 PM: GetTemplateDetails Started
+3/30/2017 6:24:55 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:55 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:55 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:55 PM: GetTemplateDetails Finished
+3/30/2017 6:24:55 PM: LoadImageToViewer started
+3/30/2017 6:24:55 PM: Setting image to viewer. Action: NEXT Page count: 7 Current Page:1
+3/30/2017 6:24:55 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\2.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 2
+3/30/2017 6:24:55 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:55 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//2.jpeg
+3/30/2017 6:24:55 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:55 PM: Get annotations from database.
+3/30/2017 6:24:55 PM: Document Id: 1300 Page No: 2
+3/30/2017 6:24:55 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:57 PM: GetTemplateDetails Started
+3/30/2017 6:24:57 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:57 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:57 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:57 PM: GetTemplateDetails Finished
+3/30/2017 6:24:57 PM: LoadImageToViewer started
+3/30/2017 6:24:57 PM: Setting image to viewer. Action: PREVIOUS Page count: 7 Current Page:2
+3/30/2017 6:24:57 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:24:57 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:24:57 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:24:57 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:24:57 PM: Get annotations from database.
+3/30/2017 6:24:57 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:24:57 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:24:58 PM: GetTemplateDetails Started
+3/30/2017 6:24:58 PM: GetTemplateDetails total record count:1
+3/30/2017 6:24:58 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:58 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:24:58 PM: GetTemplateDetails Finished
+3/30/2017 6:24:58 PM: BindDocumentType started
+3/30/2017 6:24:58 PM: BindDocumentType finished
+3/30/2017 6:24:58 PM: GetTemplateDetails started
+3/30/2017 6:24:58 PM: GetTemplateDetails started
+3/30/2017 6:24:58 PM: createControls Started
+3/30/2017 6:24:58 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:24:58 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:24:58 PM: createControls Finished
+3/30/2017 6:25:00 PM: GetSginatureDetails Started:-
+3/30/2017 6:25:00 PM: GetSginatureDetails Completed:-
+3/30/2017 6:25:00 PM: GetTemplateDetails Started
+3/30/2017 6:25:00 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:00 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:00 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:00 PM: GetTemplateDetails Finished
+3/30/2017 6:25:00 PM: InitializeDocumentView started
+3/30/2017 6:25:00 PM: InitializeDocumentView finished
+3/30/2017 6:25:00 PM: Calling database to get annotated images. DocumentId: 1303, Action: GetAnnotatedPages
+3/30/2017 6:25:00 PM: Calling database to get annotated images. DocumentId: 1303, Action: GetTaggedPages
+3/30/2017 6:25:00 PM: LoadImageToViewer started
+3/30/2017 6:25:00 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+3/30/2017 6:25:00 PM: MailPanelFill started
+3/30/2017 6:25:00 PM: MailPanelFill finished
+3/30/2017 6:25:08 PM: GetTemplateDetails Started
+3/30/2017 6:25:08 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:08 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:08 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:08 PM: GetTemplateDetails Finished
+3/30/2017 6:25:08 PM: getAvailablePages Started
+3/30/2017 6:25:08 PM: getAvailablePages Finished
+3/30/2017 6:25:08 PM: LoadImageToViewer started
+3/30/2017 6:25:08 PM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+3/30/2017 6:25:08 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDA1\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDA1 Page No: 1
+3/30/2017 6:25:08 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:25:08 PM: Exception: I/O error occurred.
+3/30/2017 6:25:08 PM: convertPDFToImage method returned file path as empty.
+3/30/2017 6:25:08 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:25:08 PM: Get annotations from database.
+3/30/2017 6:25:08 PM: Document Id: 1303 Page No: 1
+3/30/2017 6:25:08 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:25:10 PM: GetTemplateDetails Started
+3/30/2017 6:25:10 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:10 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:10 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:10 PM: GetTemplateDetails Finished
+3/30/2017 6:25:11 PM: BindDocumentType started
+3/30/2017 6:25:11 PM: BindDocumentType finished
+3/30/2017 6:25:11 PM: GetTemplateDetails started
+3/30/2017 6:25:11 PM: GetTemplateDetails started
+3/30/2017 6:25:11 PM: createControls Started
+3/30/2017 6:25:11 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:25:11 PM: createControls Loaded all Textbox dynamically
+3/30/2017 6:25:11 PM: createControls Finished
+3/30/2017 6:25:13 PM: GetSginatureDetails Started:-
+3/30/2017 6:25:13 PM: GetSginatureDetails Completed:-
+3/30/2017 6:25:13 PM: GetTemplateDetails Started
+3/30/2017 6:25:13 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:13 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:13 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:13 PM: GetTemplateDetails Finished
+3/30/2017 6:25:13 PM: InitializeDocumentView started
+3/30/2017 6:25:13 PM: InitializeDocumentView finished
+3/30/2017 6:25:13 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetAnnotatedPages
+3/30/2017 6:25:13 PM: Calling database to get annotated images. DocumentId: 1300, Action: GetTaggedPages
+3/30/2017 6:25:13 PM: LoadImageToViewer started
+3/30/2017 6:25:13 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+3/30/2017 6:25:13 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:25:13 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:25:13 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:25:13 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:25:13 PM: Get annotations from database.
+3/30/2017 6:25:13 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:25:13 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:25:13 PM: MailPanelFill started
+3/30/2017 6:25:13 PM: MailPanelFill finished
+3/30/2017 6:25:19 PM: GetTemplateDetails Started
+3/30/2017 6:25:19 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:19 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:19 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:19 PM: GetTemplateDetails Finished
+3/30/2017 6:25:19 PM: getAvailablePages Started
+3/30/2017 6:25:19 PM: getAvailablePages Finished
+3/30/2017 6:25:19 PM: LoadImageToViewer started
+3/30/2017 6:25:19 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+3/30/2017 6:25:19 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:25:19 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:25:19 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:25:19 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:25:19 PM: Get annotations from database.
+3/30/2017 6:25:19 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:25:19 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:25:21 PM: GetTemplateDetails Started
+3/30/2017 6:25:21 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:21 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:21 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:21 PM: GetTemplateDetails Finished
+3/30/2017 6:25:21 PM: LoadImageToViewer started
+3/30/2017 6:25:21 PM: Setting image to viewer. Action: NEXT Page count: 2 Current Page:1
+3/30/2017 6:25:21 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\2.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 2
+3/30/2017 6:25:21 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:25:21 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//2.jpeg
+3/30/2017 6:25:21 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:25:21 PM: Get annotations from database.
+3/30/2017 6:25:21 PM: Document Id: 1300 Page No: 2
+3/30/2017 6:25:21 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/30/2017 6:25:23 PM: GetTemplateDetails Started
+3/30/2017 6:25:23 PM: GetTemplateDetails total record count:1
+3/30/2017 6:25:23 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:23 PM: Create controls,Load all Textbox dynamic
+3/30/2017 6:25:23 PM: GetTemplateDetails Finished
+3/30/2017 6:25:23 PM: LoadImageToViewer started
+3/30/2017 6:25:23 PM: Setting image to viewer. Action: PREVIOUS Page count: 2 Current Page:2
+3/30/2017 6:25:23 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAy\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAy Page No: 1
+3/30/2017 6:25:23 PM: Converting PDF to JPEG without applying watermark.
+3/30/2017 6:25:23 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdayjpg//1.jpeg
+3/30/2017 6:25:23 PM: Invoke method to get annotations from databnase.
+3/30/2017 6:25:23 PM: Get annotations from database.
+3/30/2017 6:25:23 PM: Document Id: 1300 Page No: 1
+3/30/2017 6:25:23 PM: Invoking method to get annotation data from database. Action: GetAnnotations

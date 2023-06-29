@@ -1,0 +1,147 @@
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\bin\GenService.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\bin\GenService.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\bin\GenService.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\bin\GenService.pdb
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\bin\GenService.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\bin\GenService.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\obj\Debug\GenService.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.dll.config
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\MySql.Data.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\MySql.Data.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\GenService.dll.config
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\GenService.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\GenService.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csproj.AssemblyReference.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csproj.CoreCompileInputs.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csproj.CopyComplete
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\obj\Debug\GenService.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\GenService.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\GenService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\GenService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\obj\Debug\GenService.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\obj\Debug\GenService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\GenService.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\GenService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\GenService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\GenService.dll.config
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\GenService.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\GenService.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\MySql.Data.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.csproj.CoreCompileInputs.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\GenService\obj\Debug\GenService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\GenService.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\GenService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\GenService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\obj\Debug\GenService.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\obj\Debug\GenService.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\obj\Debug\GenService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\GenService\obj\Debug\GenService.pdb

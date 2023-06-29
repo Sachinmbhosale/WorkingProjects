@@ -1,0 +1,176 @@
+5/12/2016 1:42:39 PM: BindDocumentType started
+5/12/2016 1:42:39 PM: BindDocumentType finished
+5/12/2016 1:42:41 PM: createControls Started
+5/12/2016 1:42:41 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:42:41 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:42:41 PM: createControls Finished
+5/12/2016 1:42:41 PM: GetTemplateDetails started
+5/12/2016 1:42:41 PM: generatecontrols Started
+5/12/2016 1:42:41 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:42:41 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:42:52 PM: createControls Started
+5/12/2016 1:42:52 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:42:52 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:42:52 PM: createControls Finished
+5/12/2016 1:42:52 PM: generatecontrols Started
+5/12/2016 1:42:52 PM: Calling database to get reference id and watermark.
+5/12/2016 1:42:52 PM: Database returned result: BY_TW_518_219_1001|
+5/12/2016 1:42:52 PM: Generatecontrols,Load all Textbox dynamic
+5/12/2016 1:42:52 PM: Generatecontrols,Load all Textbox dynamic
+5/12/2016 1:43:37 PM: createControls Started
+5/12/2016 1:43:37 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:37 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:37 PM: createControls Finished
+5/12/2016 1:43:37 PM: AsyncFileUpload1_UploadedComplete Started
+5/12/2016 1:43:37 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+5/12/2016 1:43:38 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+5/12/2016 1:43:38 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 1
+5/12/2016 1:43:38 PM: AsyncFileUpload1_UploadedComplete Finished
+5/12/2016 1:43:38 PM: createControls Started
+5/12/2016 1:43:38 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:38 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:38 PM: createControls Finished
+5/12/2016 1:43:38 PM: btnSubmit_Click Started
+5/12/2016 1:43:38 PM: btnSubmit_Click Finished
+5/12/2016 1:43:39 PM: createControls Started
+5/12/2016 1:43:39 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:39 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:39 PM: createControls Finished
+5/12/2016 1:43:39 PM: Started Previewing Uploaded Document in btnPreview_Click 
+5/12/2016 1:43:39 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\QllfVFdfNTE4XzIxOV8xMDAx.pdf
+5/12/2016 1:43:39 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+5/12/2016 1:43:39 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\QllfVFdfNTE4XzIxOV8xMDAx\1.pdf Image Name: QllfVFdfNTE4XzIxOV8xMDAx Page No: 1
+5/12/2016 1:43:39 PM: Converting PDF to JPEG without applying watermark.
+5/12/2016 1:43:40 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//qllfvfdfnte4xzixov8xmdaxjpg//1.jpeg
+5/12/2016 1:43:40 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+5/12/2016 1:43:48 PM: createControls Started
+5/12/2016 1:43:48 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:48 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:43:48 PM: createControls Finished
+5/12/2016 1:43:48 PM: Started Saving Uploaded Document in Save Button Click
+5/12/2016 1:43:48 PM: AsyncFileUpload1_UploadedComplete Started
+5/12/2016 1:43:48 PM: AsyncFileUpload1_UploadedComplete Finished
+5/12/2016 1:43:48 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+5/12/2016 1:43:48 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+5/12/2016 1:43:48 PM: CreateXML Started:-
+5/12/2016 1:43:48 PM: CreateXML Completed:-
+5/12/2016 1:43:49 PM: Save button click after saving or updating the ReturnCode= 0
+5/12/2016 1:43:49 PM: Exception : Thread was being aborted.
+5/12/2016 1:44:07 PM: BindDocumentType started
+5/12/2016 1:44:07 PM: BindDocumentType finished
+5/12/2016 1:44:09 PM: createControls Started
+5/12/2016 1:44:09 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:44:09 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:44:09 PM: createControls Finished
+5/12/2016 1:44:09 PM: GetTemplateDetails started
+5/12/2016 1:44:09 PM: generatecontrols Started
+5/12/2016 1:44:09 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:44:09 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:44:33 PM: BindDocumentType started
+5/12/2016 1:44:33 PM: BindDocumentType finished
+5/12/2016 1:44:36 PM: createControls Started
+5/12/2016 1:44:36 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:44:36 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:44:36 PM: createControls Finished
+5/12/2016 1:44:36 PM: GetTemplateDetails started
+5/12/2016 1:44:36 PM: generatecontrols Started
+5/12/2016 1:44:36 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:44:36 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:44:48 PM: createControls Started
+5/12/2016 1:44:48 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:44:48 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:44:48 PM: createControls Finished
+5/12/2016 1:44:48 PM: GetTemplateDetails started
+5/12/2016 1:46:05 PM: BindDocumentType started
+5/12/2016 1:46:05 PM: BindDocumentType finished
+5/12/2016 1:46:09 PM: createControls Started
+5/12/2016 1:46:09 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:46:09 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:46:09 PM: createControls Finished
+5/12/2016 1:46:09 PM: GetTemplateDetails started
+5/12/2016 1:46:09 PM: generatecontrols Started
+5/12/2016 1:46:09 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:46:09 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:46:27 PM: createControls Started
+5/12/2016 1:46:27 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:27 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:27 PM: createControls Finished
+5/12/2016 1:46:27 PM: generatecontrols Started
+5/12/2016 1:46:27 PM: Calling database to get reference id and watermark.
+5/12/2016 1:46:27 PM: Database returned result: BY_TW_518_219_1002|
+5/12/2016 1:46:27 PM: Generatecontrols,Load all Textbox dynamic
+5/12/2016 1:46:27 PM: Generatecontrols,Load all Textbox dynamic
+5/12/2016 1:46:42 PM: createControls Started
+5/12/2016 1:46:42 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:42 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:42 PM: createControls Finished
+5/12/2016 1:46:42 PM: AsyncFileUpload1_UploadedComplete Started
+5/12/2016 1:46:42 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+5/12/2016 1:46:42 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+5/12/2016 1:46:42 PM: AsyncFileUpload1_UploadedComplete Finished
+5/12/2016 1:46:42 PM: createControls Started
+5/12/2016 1:46:42 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:42 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:42 PM: createControls Finished
+5/12/2016 1:46:42 PM: btnSubmit_Click Started
+5/12/2016 1:46:42 PM: btnSubmit_Click Finished
+5/12/2016 1:46:48 PM: createControls Started
+5/12/2016 1:46:48 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:48 PM: Create controls,Load all Textbox dynamic
+5/12/2016 1:46:48 PM: createControls Finished
+5/12/2016 1:46:48 PM: Started Saving Uploaded Document in Save Button Click
+5/12/2016 1:46:48 PM: AsyncFileUpload1_UploadedComplete Started
+5/12/2016 1:46:48 PM: AsyncFileUpload1_UploadedComplete Finished
+5/12/2016 1:46:48 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+5/12/2016 1:46:48 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+5/12/2016 1:46:48 PM: CreateXML Started:-
+5/12/2016 1:46:48 PM: CreateXML Completed:-
+5/12/2016 1:46:48 PM: Save button click after saving or updating the ReturnCode= 0
+5/12/2016 1:46:48 PM: Exception : Thread was being aborted.
+5/12/2016 1:46:51 PM: BindDocumentType started
+5/12/2016 1:46:51 PM: BindDocumentType finished
+5/12/2016 1:46:53 PM: createControls Started
+5/12/2016 1:46:53 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:46:53 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:46:53 PM: createControls Finished
+5/12/2016 1:46:53 PM: GetTemplateDetails started
+5/12/2016 1:46:53 PM: generatecontrols Started
+5/12/2016 1:46:53 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:46:53 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:47:22 PM: BindDocumentType started
+5/12/2016 1:47:22 PM: BindDocumentType finished
+5/12/2016 1:47:24 PM: createControls Started
+5/12/2016 1:47:24 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:24 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:24 PM: createControls Finished
+5/12/2016 1:47:25 PM: GetTemplateDetails started
+5/12/2016 1:47:25 PM: generatecontrols Started
+5/12/2016 1:47:25 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:47:25 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:47:38 PM: createControls Started
+5/12/2016 1:47:38 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:38 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:38 PM: createControls Finished
+5/12/2016 1:47:39 PM: createControls Started
+5/12/2016 1:47:39 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:39 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:39 PM: createControls Finished
+5/12/2016 1:47:39 PM: GetTemplateDetails started
+5/12/2016 1:47:39 PM: generatecontrols Started
+5/12/2016 1:47:39 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:47:39 PM: GenerateControls:Loaded all Textbox dynamically
+5/12/2016 1:47:41 PM: createControls Started
+5/12/2016 1:47:41 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:41 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:41 PM: createControls Finished
+5/12/2016 1:47:41 PM: btnPerformQueryClick started
+5/12/2016 1:47:41 PM: BuildQuery() executed properly 
+5/12/2016 1:47:41 PM: whereclause value 
+5/12/2016 1:47:41 PM: From Search click,QueryWhereClause() is executed properly 
+5/12/2016 1:47:41 PM: Before searching the details with whereclause : 
+5/12/2016 1:47:41 PM: btnPerformQueryClick search result record count 1
+5/12/2016 1:47:41 PM: btnPerformQueryClick finished
+5/12/2016 1:47:46 PM: createControls Started
+5/12/2016 1:47:46 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:46 PM: createControls Loaded all Textbox dynamically
+5/12/2016 1:47:46 PM: createControls Finished

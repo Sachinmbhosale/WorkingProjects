@@ -1,0 +1,45 @@
+12/26/2022 3:05:21 PM: BindDocumentType started
+12/26/2022 3:05:21 PM: BindDocumentType finished
+12/26/2022 3:05:26 PM: createControls Started
+12/26/2022 3:05:27 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: createControls Finished
+12/26/2022 3:05:27 PM: GetTemplateDetails started
+12/26/2022 3:05:27 PM: generatecontrols Started
+12/26/2022 3:05:27 PM: GenerateControls:Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: GenerateControls:Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: GenerateControls:Loaded all Textbox dynamically
+12/26/2022 3:05:27 PM: GenerateControls:Loaded all Textbox dynamically
+12/26/2022 3:05:29 PM: createControls Started
+12/26/2022 3:05:29 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:29 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:29 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:29 PM: createControls Loaded all Textbox dynamically
+12/26/2022 3:05:29 PM: createControls Finished
+12/26/2022 3:05:29 PM: Started Loading Entity Drop Down
+12/26/2022 3:05:30 PM: Finished Loading Entity Drop Down
+12/26/2022 3:05:38 PM: GetSginatureDetails Started:-
+12/26/2022 3:05:38 PM: GetSginatureDetails Completed:-
+12/26/2022 3:05:38 PM: GetTemplateDetails Started
+12/26/2022 3:05:38 PM: GetTemplateDetails total record count:1
+12/26/2022 3:05:38 PM: Create controls,Load all Textbox dynamic
+12/26/2022 3:05:38 PM: Create controls,Load all Textbox dynamic
+12/26/2022 3:05:38 PM: Create controls,Load all Textbox dynamic
+12/26/2022 3:05:38 PM: Create controls,Load all Textbox dynamic
+12/26/2022 3:05:38 PM: GetTemplateDetails Finished
+12/26/2022 3:05:39 PM: InitializeDocumentView started
+12/26/2022 3:05:39 PM: InitializeDocumentView finished
+12/26/2022 3:05:39 PM: Calling database to get annotated images. DocumentId: 292146, Action: GetAnnotatedPages
+12/26/2022 3:05:39 PM: Calling database to get annotated images. DocumentId: 292146, Action: GetTaggedPages
+12/26/2022 3:05:39 PM: LoadImageToViewer started
+12/26/2022 3:05:39 PM: Setting image to viewer. Action:  Page count: 13 Current Page:1
+12/26/2022 3:05:39 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAxMA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAxMA== Page No: 1
+12/26/2022 3:05:42 PM: Converting PDF to JPEG without applying watermark.
+12/26/2022 3:05:43 PM: Invoke method to get annotations from databnase.
+12/26/2022 3:05:43 PM: Get annotations from database.
+12/26/2022 3:05:43 PM: Document Id: 292146 Page No: 1
+12/26/2022 3:05:43 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+12/26/2022 3:05:43 PM: MailPanelFill started
+12/26/2022 3:05:43 PM: MailPanelFill finished

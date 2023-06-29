@@ -1,0 +1,1312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9EAF43F3-C541-4D5A-B9B4-FB402AF0522F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lotex.EnterpriseSolutions.WebUI</RootNamespace>
+    <AssemblyName>Lotex.EnterpriseSolutions.WebUI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PackageAsSingleFile>false</PackageAsSingleFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=4.1.60919.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Reduced">
+      <HintPath>..\OfficeConverter\OfficeReferences\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\DataAccessLayer\DLL\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="RJS.Web.WebControl.PopCalendar, Version=6.5.2512.14055, Culture=neutral, PublicKeyToken=1d13e785eb1df5d1">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\RJS.Web.WebControl.PopCalendar.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Accounts\DownloadMailFormat.htm" />
+    <Content Include="Accounts\CustomerMailFormat1.htm" />
+    <Content Include="Accounts\Error.aspx" />
+    <Content Include="Accounts\GenerateCaptcha.aspx" />
+    <Content Include="Accounts\Login.aspx" />
+    <Content Include="Accounts\LogOut.aspx" />
+    <Content Include="Accounts\UserRegistrationMailFormat.htm" />
+    <Content Include="AnnotaionCSS\PDFViewer.css" />
+    <Content Include="AnnotaionImages\Actions-draw-freehand-icon.png" />
+    <Content Include="AnnotaionImages\ActualSize.png" />
+    <Content Include="AnnotaionImages\backward.png" />
+    <Content Include="AnnotaionImages\cursor_drag_arrow.png" />
+    <Content Include="AnnotaionImages\eraser.png" />
+    <Content Include="AnnotaionImages\FitToScreen.png" />
+    <Content Include="AnnotaionImages\FitToWidth.png" />
+    <Content Include="AnnotaionImages\Forward.png" />
+    <Content Include="AnnotaionImages\highlight.png" />
+    <Content Include="AnnotaionImages\Next_24x24.png" />
+    <Content Include="AnnotaionImages\object_rotate_left.png" />
+    <Content Include="AnnotaionImages\object_rotate_right.png" />
+    <Content Include="AnnotaionImages\pencil.png" />
+    <Content Include="AnnotaionImages\Previous_24x24.png" />
+    <Content Include="AnnotaionImages\rectangle.png" />
+    <Content Include="AnnotaionImages\Redo_24x24.png" />
+    <Content Include="AnnotaionImages\remove.png" />
+    <Content Include="AnnotaionImages\Save.png" />
+    <Content Include="AnnotaionImages\SearchNext.png" />
+    <Content Include="AnnotaionImages\SearchPrevious.png" />
+    <Content Include="AnnotaionImages\Search_24x24.png" />
+    <Content Include="AnnotaionImages\sticky-note.png" />
+    <Content Include="AnnotaionImages\tag-label.png" />
+    <Content Include="AnnotaionImages\Text.png" />
+    <Content Include="AnnotaionImages\Undo_24x24.png" />
+    <Content Include="AnnotaionImages\Zoom In_24x24.png" />
+    <Content Include="AnnotaionImages\Zoom Out_24x24.png" />
+    <Content Include="Annotations\ann-demo-spritesheet.png" />
+    <Content Include="Annotations\AnnotationsDemo.js" />
+    <Content Include="Annotations\AnnotationToolbar.css" />
+    <Content Include="Annotations\AnnotationToolbar.touchDevices.css" />
+    <Content Include="Annotations\canvas2image.js" />
+    <Content Include="Annotations\jquery.min.js" />
+    <Content Include="Annotations\jquery.mobile-1.0.1.min.css" />
+    <Content Include="Annotations\jquery.mobile-1.0.1.min.js" />
+    <Content Include="Annotations\Leadtools.Annotations.Automation.js" />
+    <Content Include="Annotations\Leadtools.Annotations.Core.js" />
+    <Content Include="Annotations\Leadtools.Annotations.designers.js" />
+    <Content Include="Annotations\Leadtools.Annotations.Rendering.js" />
+    <Content Include="Annotations\Leadtools.Controls.js" />
+    <Content Include="Annotations\Leadtools.js" />
+    <Content Include="Annotations\loading.gif" />
+    <Content Include="Annotations\node.js" />
+    <Content Include="Annotations\PropertyGrid.js" />
+    <Content Include="App_Themes\common\common.css" />
+    <Content Include="App_Themes\common\Images\export.gif" />
+    <Content Include="App_Themes\common\Images\PaginFirst.gif" />
+    <Content Include="App_Themes\common\Images\PaginFirstInactive.gif" />
+    <Content Include="App_Themes\common\Images\PaginLast.gif" />
+    <Content Include="App_Themes\common\Images\PaginLastInactive.gif" />
+    <Content Include="App_Themes\common\Images\PaginNext.gif" />
+    <Content Include="App_Themes\common\Images\PaginNextInactive.gif" />
+    <Content Include="App_Themes\common\Images\PaginPre.gif" />
+    <Content Include="App_Themes\common\Images\PaginPreInactive.gif" />
+    <Content Include="Assets\Logo\Company_logo.jpg" />
+    <Content Include="Assets\Logo\global_logo.gif" />
+    <Content Include="Assets\Logo\Lotex Business Solutions.gif" />
+    <Content Include="Assets\Skin\Images\CalenderImage.png" />
+    <Content Include="Assets\Skin\Images\CloseBtn.gif" />
+    <Content Include="Assets\Skin\Images\csv.png" />
+    <Content Include="Assets\Skin\Images\del.gif" />
+    <Content Include="Assets\Skin\Images\edit.gif" />
+    <Content Include="Assets\Skin\Images\edit.png" />
+    <Content Include="Assets\Skin\Images\excel.png" />
+    <Content Include="Assets\Skin\Images\Fullview.png" />
+    <Content Include="Assets\Skin\Images\Menu\configuration.png" />
+    <Content Include="Assets\Skin\Images\Menu\define workflow.png" />
+    <Content Include="Assets\Skin\Images\Menu\define.png" />
+    <Content Include="Assets\Skin\Images\Menu\dms.png" />
+    <Content Include="Assets\Skin\Images\Menu\Document Search.png" />
+    <Content Include="Assets\Skin\Images\Menu\Documents.png" />
+    <Content Include="Assets\Skin\Images\Menu\Home.png" />
+    <Content Include="Assets\Skin\Images\Menu\Reports.png" />
+    <Content Include="Assets\Skin\Images\Menu\security.png" />
+    <Content Include="Assets\Skin\Images\Menu\sep_03.png" />
+    <Content Include="Assets\Skin\Images\Menu\Settings.png" />
+    <Content Include="Assets\Skin\Images\Menu\tasks.png" />
+    <Content Include="Assets\Skin\Images\Menu\workflow.png" />
+    <Content Include="Assets\Skin\Images\Taggedview.png" />
+    <Content Include="Assets\Skin\Images\text.png" />
+    <Content Include="Assets\Skin\Images\view.png" />
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\Excel.dll" />
+    <Content Include="bin\Excel.pdb" />
+    <Content Include="bin\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="bin\itextsharp.dll" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreBE.dll" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreBE.pdb" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreBL.dll" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreBL.pdb" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreDAL.dll" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreDAL.pdb" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.WebUI.dll" />
+    <Content Include="bin\Lotex.EnterpriseSolutions.WebUI.pdb" />
+    <Content Include="bin\LotexIFilter.dll" />
+    <Content Include="bin\LotexIFilter.pdb" />
+    <Content Include="bin\Microsoft.ReportViewer.Common.dll" />
+    <Content Include="bin\Microsoft.ReportViewer.ProcessingObjectModel.dll" />
+    <Content Include="bin\Microsoft.ReportViewer.WebForms.dll" />
+    <Content Include="bin\MuPDF.dll" />
+    <Content Include="bin\MuPDFLib-x64.dll" />
+    <Content Include="bin\MuPDFLib-x86.dll" />
+    <Content Include="bin\PdfSharp.dll" />
+    <Content Include="bin\RJS.Web.WebControl.PopCalendar.dll" />
+    <Content Include="css\DataGrid.css" />
+    <Content Include="css\workflow_styles.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\Add.png" />
+    <Content Include="Images\addbutton.png" />
+    <Content Include="Images\add_to_list.png" />
+    <Content Include="Images\arrow_left.png" />
+    <Content Include="Images\arrow_right.png" />
+    <Content Include="Images\bad7.png" />
+    <Content Include="Images\CalenderImage.png" />
+    <Content Include="Images\cancel.png" />
+    <Content Include="Images\clear.png" />
+    <Content Include="Images\close.png" />
+    <Content Include="Images\CloseBtn.gif" />
+    <Content Include="Images\Delete-icon.png" />
+    <Content Include="Images\Delete.jpg" />
+    <Content Include="Images\Delete.png" />
+    <Content Include="Images\DeleteIcon.png" />
+    <Content Include="Images\Down.png" />
+    <Content Include="Images\Download.png" />
+    <Content Include="Images\downloadsave.png" />
+    <Content Include="Images\Downloadwithann.png" />
+    <Content Include="Images\dropDownArrow.png" />
+    <Content Include="Images\edit-icon.png" />
+    <Content Include="Images\Edit.jpg" />
+    <Content Include="Images\favicon.ico" />
+    <Content Include="Images\iconsave.gif" />
+    <Content Include="Images\imagesCAM5Q0T7.jpg" />
+    <Content Include="Images\img_bg.jpg" />
+    <Content Include="Images\img_loginbg.gif" />
+    <Content Include="Images\img_loginbg.png" />
+    <Content Include="Images\indicator.gif" />
+    <Content Include="Images\list_arrow.gif" />
+    <Content Include="Images\loading.gif" />
+    <Content Include="Images\login.png" />
+    <Content Include="Images\logo_writer.gif" />
+    <Content Include="Images\logo_writer_new.gif" />
+    <Content Include="Images\preview-not-available.jpg" />
+    <Content Include="Images\Print.png" />
+    <Content Include="Images\Remove.png" />
+    <Content Include="Images\save.png" />
+    <Content Include="Images\search.png" />
+    <Content Include="Images\sep_03.png" />
+    <Content Include="Images\UI_addbutton.png" />
+    <Content Include="Images\UI_advancedsearch.png" />
+    <Content Include="Images\UI_arrow_down.png" />
+    <Content Include="Images\UI_arrow_first.png" />
+    <Content Include="Images\UI_arrow_last.png" />
+    <Content Include="Images\UI_arrow_left.png" />
+    <Content Include="Images\UI_arrow_right.png" />
+    <Content Include="Images\UI_arrow_up.png" />
+    <Content Include="Images\UI_bulkupload.png" />
+    <Content Include="Images\UI_cancel.png" />
+    <Content Include="Images\UI_clear.png" />
+    <Content Include="Images\UI_Clone.png" />
+    <Content Include="Images\UI_close.png" />
+    <Content Include="Images\UI_commit.png" />
+    <Content Include="Images\UI_Confirm.png" />
+    <Content Include="Images\UI_dataentry.png" />
+    <Content Include="Images\UI_deleteicon.png" />
+    <Content Include="Images\UI_downloaddocument.png" />
+    <Content Include="Images\UI_downloadtemplate.png" />
+    <Content Include="Images\UI_email.png" />
+    <Content Include="Images\UI_generatereport.png" />
+    <Content Include="Images\UI_goback.png" />
+    <Content Include="Images\UI_goforward.png" />
+    <Content Include="Images\UI_history.png" />
+    <Content Include="Images\UI_login.png" />
+    <Content Include="Images\UI_mainreport.png" />
+    <Content Include="Images\UI_Mapping.png" />
+    <Content Include="Images\UI_Ok.png" />
+    <Content Include="Images\UI_preview.png" />
+    <Content Include="Images\UI_remove.png" />
+    <Content Include="Images\UI_resetpassword.png" />
+    <Content Include="Images\UI_save.png" />
+    <Content Include="Images\UI_search.png" />
+    <Content Include="Images\UI_sendemail.png" />
+    <Content Include="Images\UI_submainreport.png" />
+    <Content Include="Images\UI_treeview.png" />
+    <Content Include="Images\up.png" />
+    <Content Include="Images\Upload.png" />
+    <Content Include="Images\view.png" />
+    <Content Include="PopCalendar\Calendar.gif" />
+    <Content Include="PopCalendar\CSS\Calendar.gif" />
+    <Content Include="PopCalendar\CSS\Classic.css" />
+    <Content Include="PopCalendar\CSS\Classic_Images\baddate.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\calendar.css" />
+    <Content Include="PopCalendar\CSS\Classic_Images\calendar.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\close.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\closedown.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\divider.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\down.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\drop1.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\drop2.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\left1.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\left2.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\popcalendar.css" />
+    <Content Include="PopCalendar\CSS\Classic_Images\popcalendar.js" />
+    <Content Include="PopCalendar\CSS\Classic_Images\popcalendarTesting.js" />
+    <Content Include="PopCalendar\CSS\Classic_Images\right1.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\right2.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\special.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\up.gif" />
+    <Content Include="PopCalendar\CSS\Classic_Images\up2.gif" />
+    <Content Include="PopCalendar\CSS\Modern.css" />
+    <Content Include="PopCalendar\CSS\Modern_Images\baddate.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\baddatex.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\calendar.css" />
+    <Content Include="PopCalendar\CSS\Modern_Images\calendar.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\close.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\closedown.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\divider.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\down.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\drop1.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\drop2.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\left1.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\left2.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\popcalendar.css" />
+    <Content Include="PopCalendar\CSS\Modern_Images\popcalendar.js" />
+    <Content Include="PopCalendar\CSS\Modern_Images\popcalendarTesting.js" />
+    <Content Include="PopCalendar\CSS\Modern_Images\right1.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\right2.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\special.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\up.gif" />
+    <Content Include="PopCalendar\CSS\Modern_Images\up2.gif" />
+    <Content Include="PopCalendar\CSS\Small.css" />
+    <Content Include="PopCalendar\CSS\Small_Images\baddate.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\calendar.css" />
+    <Content Include="PopCalendar\CSS\Small_Images\calendar.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\close.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\closedown.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\divider.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\down.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\drop1.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\drop2.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\left1.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\left2.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\popcalendar.css" />
+    <Content Include="PopCalendar\CSS\Small_Images\popcalendar.js" />
+    <Content Include="PopCalendar\CSS\Small_Images\popcalendarTesting.js" />
+    <Content Include="PopCalendar\CSS\Small_Images\right1.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\right2.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\special.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\up.gif" />
+    <Content Include="PopCalendar\CSS\Small_Images\up2.gif" />
+    <Content Include="PopCalendar\DisableCalendar.gif" />
+    <Content Include="PopCalendar\PopCalendar.js" />
+    <Content Include="PopCalendar\PopCalendarFunctions.js" />
+    <Content Include="Scripts\accordionScripts.js" />
+    <Content Include="Scripts\AjaxPostScripts.js" />
+    <Content Include="Scripts\AjaxPostScripts_back.js" />
+    <Content Include="Scripts\GeneralFunctions.js" />
+    <Content Include="Scripts\GridRowSelection.js" />
+    <Content Include="Scripts\HTMLEncoding.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.7-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.7.js" />
+    <Content Include="Scripts\jquery-1.7.min.js" />
+    <Content Include="Scripts\jsapi.JS" />
+    <Content Include="Secure\ConfigurationPage.aspx" />
+    <Content Include="Secure\Core\BatchUpload.aspx" />
+    <Content Include="Secure\Core\BulkUploadUsers.aspx" />
+    <Content Include="Secure\Core\ChanagePassword.aspx" />
+    <Content Include="Secure\Core\CheckerDashboard.aspx" />
+    <Content Include="Secure\Core\CreateBatch.aspx" />
+    <Content Include="Secure\Core\DigitalSignature.aspx" />
+    <Content Include="Secure\Core\DocumentDownload.aspx" />
+    <Content Include="Secure\Core\DocumentDownloadDetails.aspx" />
+    <Content Include="Secure\Core\DocumentDownloadSearch.aspx" />
+    <Content Include="Secure\Core\DocumentHistoryView.aspx" />
+    <Content Include="Secure\Core\DocumentQualityCheck.aspx" />
+    <Content Include="Secure\Core\DocumentView.aspx" />
+    <Content Include="Secure\Core\MakerDashboard.aspx" />
+    <Content Include="Secure\Core\ManageTemplate.aspx" />
+    <Content Include="Secure\Core\Department.aspx" />
+    <Content Include="Secure\Core\DepartmentAddNew.aspx" />
+    <Content Include="Secure\Core\DocumentTypes.aspx" />
+    <Content Include="Secure\Core\DocumentUpload.aspx" />
+    <Content Include="Secure\Core\ManageDocumentType.aspx" />
+    <Content Include="Secure\Core\PDFViewer.ascx" />
+    <Content Include="Secure\Core\Pricing.aspx" />
+    <Content Include="Secure\Core\PricingMasterAddNew.aspx" />
+    <Content Include="Secure\Core\ReadOCRText.aspx" />
+    <Content Include="Secure\Core\SearchTemplates.aspx" />
+    <Content Include="Secure\CustomerLogin.aspx" />
+    <Content Include="Secure\Reports\AuditReport.aspx" />
+    <Content Include="Secure\Reports\BillingMainReport.aspx" />
+    <Content Include="Secure\Reports\DocumentTypeReport.aspx" />
+    <Content Include="Secure\Reports\ExpiryReport.aspx" />
+    <Content Include="Secure\Reports\LogformReport.aspx" />
+    <Content Include="Secure\Reports\MISReport.aspx" />
+    <Content Include="Secure\Reports\TagChangeReport.aspx" />
+    <Content Include="Secure\UnAuthorised.aspx" />
+    <Content Include="SiteStyle.css" />
+    <Content Include="Styles\jquery-ui.css" />
+    <Content Include="Styles\jquery.autocomplete.css" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="UserControls\ApplicationTabs.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Workflow\css\accordionStyles.css" />
+    <Content Include="Workflow\css\calendar-blue.css" />
+    <Content Include="Workflow\css\DataGrid.css" />
+    <Content Include="Workflow\css\dragdropStyles.css" />
+    <Content Include="Workflow\css\jquery.Jcrop.css" />
+    <Content Include="Workflow\css\workflow_styles.css" />
+    <Content Include="Workflow\DragAndDrop\css\jquery-ui-1.9.2.custom.min.css" />
+    <Content Include="Workflow\DragAndDrop\Images\ImgAddWorkflow.png" />
+    <Content Include="Workflow\DragAndDrop\Javascripts\jquery-ui-1.9.2.custom.min.js" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStudio.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowStudioStageFields.aspx" />
+    <Content Include="Workflow\images\cal.gif" />
+    <Content Include="Workflow\images\delete.png" />
+    <Content Include="Workflow\images\docdownload.png" />
+    <Content Include="Workflow\images\Edit.png" />
+    <Content Include="Workflow\images\fields_icon.png" />
+    <Content Include="Workflow\DragAndDrop\Images\imgAddProcess.png" />
+    <Content Include="Workflow\images\movedown.png" />
+    <Content Include="Workflow\images\moveup.png" />
+    <Content Include="Workflow\images\notification_icon.png" />
+    <Content Include="Workflow\images\process_icon.png" />
+    <Content Include="Workflow\images\sep_03.png" />
+    <Content Include="Workflow\images\stagefileds.png" />
+    <Content Include="Workflow\images\stagenotifications.png" />
+    <Content Include="Workflow\images\stagestatuses.png" />
+    <Content Include="Workflow\images\stageusers.png" />
+    <Content Include="Workflow\images\stage_icon.png" />
+    <Content Include="Workflow\images\status_icon.png" />
+    <Content Include="Workflow\images\users_icon.png" />
+    <Content Include="Workflow\images\viewicon.png" />
+    <Content Include="Workflow\images\workflow_icon.png" />
+    <Content Include="Workflow\WorkflowAdmin\DownloadDocument.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageFormDataEntry.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageGuidedDataEntry.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageMasterTypes.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageMasterValues.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageNotification.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageProcess.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageProcessOwners.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStageFeildsEdit.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStageFeildsList.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStages.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStageUsers.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStatus.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageStatusMaster.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageWorkflow.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts\ForgotPassword.aspx.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accounts\ForgotPassword.aspx.designer.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\GenerateCaptcha.aspx.cs">
+      <DependentUpon>GenerateCaptcha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accounts\GenerateCaptcha.aspx.designer.cs">
+      <DependentUpon>GenerateCaptcha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Base\ControlHelper.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Base\CSVExport.cs" />
+    <Compile Include="Base\MasterPageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DocumentMaster.Master.cs">
+      <DependentUpon>DocumentMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DocumentMaster.Master.designer.cs">
+      <DependentUpon>DocumentMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\AppConfiguration.cs" />
+    <Compile Include="Helpers\ConfigHelper.cs" />
+    <Compile Include="Helpers\DropdownBinder.cs" />
+    <Compile Include="Helpers\HtmlHelper.cs" />
+    <Compile Include="Helpers\FileZip.cs" />
+    <Compile Include="Helpers\IOUtility.cs" />
+    <Compile Include="Helpers\MessageFormatter.cs" />
+    <Compile Include="Secure\ConfigurationPage.aspx.cs">
+      <DependentUpon>ConfigurationPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\ConfigurationPage.aspx.designer.cs">
+      <DependentUpon>ConfigurationPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\BulkUploadUsers.aspx.cs">
+      <DependentUpon>BulkUploadUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\BulkUploadUsers.aspx.designer.cs">
+      <DependentUpon>BulkUploadUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\CheckerDashboard.aspx.cs">
+      <DependentUpon>CheckerDashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\CheckerDashboard.aspx.designer.cs">
+      <DependentUpon>CheckerDashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\CreateBatch.aspx.cs">
+      <DependentUpon>CreateBatch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\CreateBatch.aspx.designer.cs">
+      <DependentUpon>CreateBatch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DigitalSignature.aspx.cs">
+      <DependentUpon>DigitalSignature.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DigitalSignature.aspx.designer.cs">
+      <DependentUpon>DigitalSignature.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentDownloadSearch.aspx.cs">
+      <DependentUpon>DocumentDownloadSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentDownloadSearch.aspx.designer.cs">
+      <DependentUpon>DocumentDownloadSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentHistoryView.aspx.cs">
+      <DependentUpon>DocumentHistoryView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentHistoryView.aspx.designer.cs">
+      <DependentUpon>DocumentHistoryView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentQualityCheck.aspx.cs">
+      <DependentUpon>DocumentQualityCheck.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentQualityCheck.aspx.designer.cs">
+      <DependentUpon>DocumentQualityCheck.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentView.aspx.cs">
+      <DependentUpon>DocumentView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentView.aspx.designer.cs">
+      <DependentUpon>DocumentView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\MakerDashboard.aspx.cs">
+      <DependentUpon>MakerDashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\MakerDashboard.aspx.designer.cs">
+      <DependentUpon>MakerDashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\PDFViewer.ascx.cs">
+      <DependentUpon>PDFViewer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\PDFViewer.ascx.designer.cs">
+      <DependentUpon>PDFViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ReadOCRText.aspx.cs">
+      <DependentUpon>ReadOCRText.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ReadOCRText.aspx.designer.cs">
+      <DependentUpon>ReadOCRText.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\AuditReport.aspx.cs">
+      <DependentUpon>AuditReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\AuditReport.aspx.designer.cs">
+      <DependentUpon>AuditReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\DMSInfoSearch_DevDataSetExpiryReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DMSInfoSearch_DevDataSetExpiryReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="General.Master.cs">
+      <DependentUpon>General.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="General.Master.designer.cs">
+      <DependentUpon>General.Master</DependentUpon>
+    </Compile>
+    <Compile Include="GenericHandler.ashx.cs">
+      <DependentUpon>GenericHandler.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\BatchUpload.aspx.cs">
+      <DependentUpon>BatchUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\BatchUpload.aspx.designer.cs">
+      <DependentUpon>BatchUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ChanagePassword.aspx.cs">
+      <DependentUpon>ChanagePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ChanagePassword.aspx.designer.cs">
+      <DependentUpon>ChanagePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentDownloadDetails.aspx.cs">
+      <DependentUpon>DocumentDownloadDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentDownloadDetails.aspx.designer.cs">
+      <DependentUpon>DocumentDownloadDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ManageTemplate.aspx.cs">
+      <DependentUpon>ManageTemplate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ManageTemplate.aspx.designer.cs">
+      <DependentUpon>ManageTemplate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\Department.aspx.cs">
+      <DependentUpon>Department.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\Department.aspx.designer.cs">
+      <DependentUpon>Department.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DepartmentAddNew.aspx.cs">
+      <DependentUpon>DepartmentAddNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DepartmentAddNew.aspx.designer.cs">
+      <DependentUpon>DepartmentAddNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentTypes.aspx.cs">
+      <DependentUpon>DocumentTypes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentTypes.aspx.designer.cs">
+      <DependentUpon>DocumentTypes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentUpload.aspx.cs">
+      <DependentUpon>DocumentUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\DocumentUpload.aspx.designer.cs">
+      <DependentUpon>DocumentUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ManageDocumentType.aspx.cs">
+      <DependentUpon>ManageDocumentType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ManageDocumentType.aspx.designer.cs">
+      <DependentUpon>ManageDocumentType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ManageOrg.aspx.cs">
+      <DependentUpon>ManageOrg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ManageOrg.aspx.designer.cs">
+      <DependentUpon>ManageOrg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\Pricing.aspx.cs">
+      <DependentUpon>Pricing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\Pricing.aspx.designer.cs">
+      <DependentUpon>Pricing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\PricingMasterAddNew.aspx.cs">
+      <DependentUpon>PricingMasterAddNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\PricingMasterAddNew.aspx.designer.cs">
+      <DependentUpon>PricingMasterAddNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\SearchOrg.aspx.cs">
+      <DependentUpon>SearchOrg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\SearchOrg.aspx.designer.cs">
+      <DependentUpon>SearchOrg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ManageGroup.aspx.cs">
+      <DependentUpon>ManageGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ManageGroup.aspx.designer.cs">
+      <DependentUpon>ManageGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\SearchGroup.aspx.cs">
+      <DependentUpon>SearchGroup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\SearchGroup.aspx.designer.cs">
+      <DependentUpon>SearchGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Base\Logger.cs" />
+    <Compile Include="Base\PageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Base\SecurePageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SecureMaster.Master.cs">
+      <DependentUpon>SecureMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SecureMaster.Master.designer.cs">
+      <DependentUpon>SecureMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accounts\Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accounts\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Accounts\LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secure\Core\Configuration.aspx.cs">
+      <DependentUpon>Configuration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\Configuration.aspx.designer.cs">
+      <DependentUpon>Configuration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\ManageUser.aspx.cs">
+      <DependentUpon>ManageUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\ManageUser.aspx.designer.cs">
+      <DependentUpon>ManageUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\SearchTemplates.aspx.cs">
+      <DependentUpon>SearchTemplates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\SearchTemplates.aspx.designer.cs">
+      <DependentUpon>SearchTemplates.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Core\SearchUser.aspx.cs">
+      <DependentUpon>SearchUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Core\SearchUser.aspx.designer.cs">
+      <DependentUpon>SearchUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\CustomerLogin.aspx.cs">
+      <DependentUpon>CustomerLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\CustomerLogin.aspx.designer.cs">
+      <DependentUpon>CustomerLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\BillingMainReport.aspx.cs">
+      <DependentUpon>BillingMainReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\BillingMainReport.aspx.designer.cs">
+      <DependentUpon>BillingMainReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\DocumentTypeReport.aspx.cs">
+      <DependentUpon>DocumentTypeReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\DocumentTypeReport.aspx.designer.cs">
+      <DependentUpon>DocumentTypeReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\ExpiryReport.aspx.cs">
+      <DependentUpon>ExpiryReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\ExpiryReport.aspx.designer.cs">
+      <DependentUpon>ExpiryReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\LogformReport.aspx.cs">
+      <DependentUpon>LogformReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\LogformReport.aspx.designer.cs">
+      <DependentUpon>LogformReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\MainReportDataSet.cs">
+      <DependentUpon>MainReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\MISReport.aspx.cs">
+      <DependentUpon>MISReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\MISReport.aspx.designer.cs">
+      <DependentUpon>MISReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\Reports\TagChangeReport.aspx.cs">
+      <DependentUpon>TagChangeReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Secure\Reports\TagChangeReport.aspx.designer.cs">
+      <DependentUpon>TagChangeReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Secure\UnAuthorised.aspx.cs">
+      <DependentUpon>UnAuthorised.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TagChangeReportDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TagChangeReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ApplicationTabs.ascx.cs">
+      <DependentUpon>ApplicationTabs.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ApplicationTabs.ascx.designer.cs">
+      <DependentUpon>ApplicationTabs.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStudio.aspx.cs">
+      <DependentUpon>ManageStudio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStudio.aspx.designer.cs">
+      <DependentUpon>ManageStudio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowStudioStageFields.aspx.cs">
+      <DependentUpon>WorkflowStudioStageFields.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowStudioStageFields.aspx.designer.cs">
+      <DependentUpon>WorkflowStudioStageFields.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\DownloadDocument.aspx.cs">
+      <DependentUpon>DownloadDocument.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\DownloadDocument.aspx.designer.cs">
+      <DependentUpon>DownloadDocument.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageFormDataEntry.aspx.cs">
+      <DependentUpon>ManageFormDataEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageFormDataEntry.aspx.designer.cs">
+      <DependentUpon>ManageFormDataEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageGuidedDataEntry.aspx.cs">
+      <DependentUpon>ManageGuidedDataEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageGuidedDataEntry.aspx.designer.cs">
+      <DependentUpon>ManageGuidedDataEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageMasterTypes.aspx.cs">
+      <DependentUpon>ManageMasterTypes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageMasterTypes.aspx.designer.cs">
+      <DependentUpon>ManageMasterTypes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageMasterValues.aspx.cs">
+      <DependentUpon>ManageMasterValues.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageMasterValues.aspx.designer.cs">
+      <DependentUpon>ManageMasterValues.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageNotification.aspx.cs">
+      <DependentUpon>ManageNotification.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageNotification.aspx.designer.cs">
+      <DependentUpon>ManageNotification.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageProcess.aspx.cs">
+      <DependentUpon>ManageProcess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageProcess.aspx.designer.cs">
+      <DependentUpon>ManageProcess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageProcessOwners.aspx.cs">
+      <DependentUpon>ManageProcessOwners.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageProcessOwners.aspx.designer.cs">
+      <DependentUpon>ManageProcessOwners.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStageFeildsEdit.aspx.cs">
+      <DependentUpon>ManageStageFeildsEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStageFeildsEdit.aspx.designer.cs">
+      <DependentUpon>ManageStageFeildsEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStageFeildsList.aspx.cs">
+      <DependentUpon>ManageStageFeildsList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStageFeildsList.aspx.designer.cs">
+      <DependentUpon>ManageStageFeildsList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStages.aspx.cs">
+      <DependentUpon>ManageStages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStages.aspx.designer.cs">
+      <DependentUpon>ManageStages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStageUsers.aspx.cs">
+      <DependentUpon>ManageStageUsers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStageUsers.aspx.designer.cs">
+      <DependentUpon>ManageStageUsers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStatus.aspx.cs">
+      <DependentUpon>ManageStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStatus.aspx.designer.cs">
+      <DependentUpon>ManageStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStatusMaster.aspx.cs">
+      <DependentUpon>ManageStatusMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageStatusMaster.aspx.designer.cs">
+      <DependentUpon>ManageStatusMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflow.aspx.cs">
+      <DependentUpon>ManageWorkflow.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflow.aspx.designer.cs">
+      <DependentUpon>ManageWorkflow.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowBulkUpload.aspx.cs">
+      <DependentUpon>ManageWorkflowBulkUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowBulkUpload.aspx.designer.cs">
+      <DependentUpon>ManageWorkflowBulkUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowOptions.aspx.cs">
+      <DependentUpon>ManageWorkflowOptions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowOptions.aspx.designer.cs">
+      <DependentUpon>ManageWorkflowOptions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowOwners.aspx.cs">
+      <DependentUpon>ManageWorkflowOwners.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowOwners.aspx.designer.cs">
+      <DependentUpon>ManageWorkflowOwners.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkFlowPDFtemplate.aspx.cs">
+      <DependentUpon>ManageWorkFlowPDFtemplate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkFlowPDFtemplate.aspx.designer.cs">
+      <DependentUpon>ManageWorkFlowPDFtemplate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowDmsFieldsMapping.aspx.cs">
+      <DependentUpon>ManageWorkflowDmsFieldsMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\ManageWorkflowDmsFieldsMapping.aspx.designer.cs">
+      <DependentUpon>ManageWorkflowDmsFieldsMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowAdavanceSearch.aspx.cs">
+      <DependentUpon>WorkflowAdavanceSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowAdavanceSearch.aspx.designer.cs">
+      <DependentUpon>WorkflowAdavanceSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowCommonFns.cs" />
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowDataEntry.aspx.cs">
+      <DependentUpon>WorkflowDataEntry.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowDataEntry.aspx.designer.cs">
+      <DependentUpon>WorkflowDataEntry.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowDataEntry_View.aspx.cs">
+      <DependentUpon>WorkflowDataEntry_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowDataEntry_View.aspx.designer.cs">
+      <DependentUpon>WorkflowDataEntry_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowHome.aspx.cs">
+      <DependentUpon>WorkFlowHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowHome.aspx.designer.cs">
+      <DependentUpon>WorkFlowHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowPDFViewer.ascx.cs">
+      <DependentUpon>WorkflowPDFViewer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowPDFViewer.ascx.designer.cs">
+      <DependentUpon>WorkflowPDFViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowPendingList.aspx.cs">
+      <DependentUpon>WorkflowPendingList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowPendingList.aspx.designer.cs">
+      <DependentUpon>WorkflowPendingList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowReport_TaskStatus.aspx.cs">
+      <DependentUpon>WorkflowReport_TaskStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowReport_TaskStatus.aspx.designer.cs">
+      <DependentUpon>WorkflowReport_TaskStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowReport_TAT.aspx.cs">
+      <DependentUpon>WorkflowReport_TAT.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowReport_TAT.aspx.designer.cs">
+      <DependentUpon>WorkflowReport_TAT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowReport_UserProductivity.aspx.cs">
+      <DependentUpon>WorkflowReport_UserProductivity.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkflowReport_UserProductivity.aspx.designer.cs">
+      <DependentUpon>WorkflowReport_UserProductivity.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowSentMail.aspx.cs">
+      <DependentUpon>WorkFlowSentMail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowSentMail.aspx.designer.cs">
+      <DependentUpon>WorkFlowSentMail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowWizardMenu.ascx.cs">
+      <DependentUpon>WorkFlowWizardMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowAdmin\WorkFlowWizardMenu.ascx.designer.cs">
+      <DependentUpon>WorkFlowWizardMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\WorkflowMaster\WorkflowAdmin.Master.cs">
+      <DependentUpon>WorkflowAdmin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Workflow\WorkflowMaster\WorkflowAdmin.Master.designer.cs">
+      <DependentUpon>WorkflowAdmin.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Accounts\ForgotPassword.aspx" />
+    <Content Include="Accounts\MailFormat.htm" />
+    <Content Include="Assets\Scripts\master.js" />
+    <Content Include="Assets\Scripts\test_table.html" />
+    <Content Include="Default.htm" />
+    <Content Include="Secure\Core\ManageOrg.aspx" />
+    <Content Include="Secure\Core\SearchOrg.aspx" />
+    <Content Include="Secure\Core\ManageGroup.aspx" />
+    <Content Include="Secure\Core\SearchGroup.aspx" />
+    <Content Include="Assets\Scripts\Lib\Ajax.js" />
+    <Content Include="Assets\Scripts\Lib\animation-min.js" />
+    <Content Include="Assets\Scripts\Lib\Copyright.js" />
+    <Content Include="Assets\Scripts\Lib\dpEncodeRequest.js" />
+    <Content Include="Assets\Scripts\Lib\Fin.js" />
+    <Content Include="Assets\Scripts\Lib\Homepage.js" />
+    <Content Include="Assets\Scripts\Lib\Innerpages.js" />
+    <Content Include="Assets\Scripts\Lib\InternationlNews.js" />
+    <Content Include="Assets\Scripts\Lib\jquery-1.3.2.min.js" />
+    <Content Include="Assets\Scripts\Lib\jquery-latest.js" />
+    <Content Include="Assets\Scripts\Lib\jquery-latest.pack.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.jNice.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.min.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.print.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.simple-watermark.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.simple-watermark.pack.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.tools.min.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.validate.js" />
+    <Content Include="Assets\Scripts\Lib\jquery.validation.js" />
+    <Content Include="Assets\Scripts\Lib\json-to-table.js" />
+    <Content Include="Assets\Scripts\Lib\PartnersHome.js" />
+    <Content Include="Assets\Scripts\Lib\Sectors.js" />
+    <Content Include="Assets\Scripts\Lib\watermark.js" />
+    <Content Include="Assets\Scripts\Lib\yahoo-dom-event.js" />
+    <Content Include="Assets\Skin\Images\bg.gif" />
+    <Content Include="Assets\Skin\Images\header.gif" />
+    <Content Include="CoreService.svc" />
+    <Content Include="SecureMaster.Master" />
+    <Content Include="Assets\Scripts\AccountScripts.js" />
+    <Content Include="Secure\Core\Configuration.aspx" />
+    <Content Include="Secure\Core\ManageUser.aspx" />
+    <Content Include="Secure\Core\SearchUser.aspx" />
+    <Content Include="Secure\Home.aspx" />
+    <Content Include="General.Master" />
+    <Content Include="GenericHandler.ashx" />
+    <Content Include="Images\preview-not-available.pdf" />
+    <Content Include="App_Browsers\IE11.browser" />
+    <None Include="Assets\Templates\UserUploadTemplate.xlsx" />
+    <Content Include="DocumentMaster.Master" />
+    <None Include="Secure\Reports\DMSInfoSearch_DevDataSetExpiryReport.xsc">
+      <DependentUpon>DMSInfoSearch_DevDataSetExpiryReport.xsd</DependentUpon>
+    </None>
+    <None Include="Secure\Reports\DMSInfoSearch_DevDataSetExpiryReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DMSInfoSearch_DevDataSetExpiryReport.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Secure\Reports\DMSInfoSearch_DevDataSetExpiryReport.xss">
+      <DependentUpon>DMSInfoSearch_DevDataSetExpiryReport.xsd</DependentUpon>
+    </None>
+    <None Include="PopCalendar\CSS\Classic_Images\Thumbs.db" />
+    <None Include="PopCalendar\CSS\Classic_Images\vssver.scc" />
+    <None Include="PopCalendar\CSS\Modern_Images\Thumbs.db" />
+    <None Include="PopCalendar\CSS\Modern_Images\vssver.scc" />
+    <None Include="PopCalendar\CSS\Small_Images\Thumbs.db" />
+    <None Include="PopCalendar\CSS\Small_Images\vssver.scc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Secure\Reports\MainReportDataSet.xsc">
+      <DependentUpon>MainReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Secure\Reports\MainReportDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Include="Secure\Reports\MainReportDataSet.xss">
+      <DependentUpon>MainReportDataSet.xsd</DependentUpon>
+    </None>
+    <Content Include="Web.sitemap" />
+    <None Include="TagChangeReportDataSet.xsc">
+      <DependentUpon>TagChangeReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TagChangeReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TagChangeReportDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TagChangeReportDataSet.xss">
+      <DependentUpon>TagChangeReportDataSet.xsd</DependentUpon>
+    </None>
+    <Content Include="Workflow\WorkflowAdmin\ManageWorkflowBulkUpload.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageWorkflowOptions.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageWorkflowOwners.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageWorkFlowPDFtemplate.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\ManageWorkflowDmsFieldsMapping.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowAdavanceSearch.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowDataEntry.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowDataEntry_View.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkFlowHome.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowPDFViewer.ascx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowPendingList.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowReport_TaskStatus.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowReport_TAT.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkflowReport_UserProductivity.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkFlowSentMail.aspx" />
+    <Content Include="Workflow\WorkflowAdmin\WorkFlowWizardMenu.ascx" />
+    <Content Include="Workflow\WorkflowJS\calendar-en.min.js" />
+    <Content Include="Workflow\WorkflowJS\jquery-1.4.1.js" />
+    <Content Include="Workflow\WorkflowJS\jquery.dynDateTime.min.js" />
+    <Content Include="Workflow\WorkflowJS\jquery.Jcrop.js" />
+    <Content Include="Workflow\WorkflowJS\jquery.min.js" />
+    <Content Include="Workflow\WorkflowJS\WFPDFViewer.js" />
+    <Content Include="Workflow\WorkflowMaster\WorkflowAdmin.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppConfig\" />
+    <Folder Include="App_Data\" />
+    <Folder Include="Properties\DataSources\" />
+    <Folder Include="Workflow\WorkflowMailFormats\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Secure\Reports\CustTypeDocTypeReport.rdlc" />
+    <Content Include="Secure\Reports\ExpiryReport.rdlc" />
+    <Content Include="Secure\Reports\Logreport.rdlc" />
+    <Content Include="Secure\Reports\MainReport.rdlc" />
+    <Content Include="Secure\Reports\SubMainReport.rdlc" />
+    <Content Include="Secure\Reports\TagChangeReport.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageProcess.aspx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageProcess.aspx.de.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageNotification.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageNotification.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStageFields.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStageFields.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStages.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStages.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStageUsers.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStageUsers.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStatus.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageStatus.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageWorkflow.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageWorkflow.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageWorkflowOptions.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageWorkflowOptions.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\WorkFlowHome.aspx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\WorkFlowHome.aspx.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\WorkFlowWizardMenu.ascx.de.resx" />
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\WorkFlowWizardMenu.ascx.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\Core\CoreBE\CoreBE.csproj">
+      <Project>{9EB49ED8-EF28-472E-92BD-02009730740C}</Project>
+      <Name>CoreBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\Core\CoreBL\CoreBL.csproj">
+      <Project>{F99D8E50-6301-43AF-B7E1-EACE7E11B8F5}</Project>
+      <Name>CoreBL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\Core\CoreServiceLib\CoreServiceLib.csproj">
+      <Project>{FA04B745-6FA1-4C57-B35D-D24693A1DB66}</Project>
+      <Name>CoreServiceLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\LotexIFilter\LotexIFilter.csproj">
+      <Project>{A6DA99BE-BE8F-4E99-81A8-9C93A01902EC}</Project>
+      <Name>LotexIFilter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\OfficeConverter\OfficeConverter.csproj">
+      <Project>{5431A159-E6AB-4D6C-8BD5-A5CABB716E19}</Project>
+      <Name>OfficeConverter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\Workflow\WorkflowBAL\WorkflowBAL.csproj">
+      <Project>{C60072D8-C444-4359-882E-FC4829BBCEC4}</Project>
+      <Name>WorkflowBAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Libraries\Workflow\WorkflowBLL\WorkflowBLL.csproj">
+      <Project>{70900329-8DC0-4BB1-89B9-7A12873BD09A}</Project>
+      <Name>WorkflowBLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Workflow\WorkflowAdmin\App_LocalResources\ManageWorkFlowPDFtemplate.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>55361</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>http://localhost:88/</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,65 @@
+10/25/2017 3:22:22 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:26:39 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:26:48 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:26:58 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:27:01 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:27:03 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:27:07 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:27:09 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:27:14 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:27:45 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 3:28:33 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:07:36 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:07:42 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:01 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:03 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:12 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:12 PM: System.IO.DirectoryNotFoundException: Could not find a part of the path 'd:\wdmsdocument\uploadeddocuments\midcplot\586\2017-10-13\tulfvfrfntg2xzi2n18xmdax'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnSubmit_Click(Object sender, EventArgs e) in f:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 632
+10/25/2017 5:27:28 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:32 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:35 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:40 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:27:40 PM: System.IO.DirectoryNotFoundException: Could not find a part of the path 'd:\wdmsdocument\uploadeddocuments\midcplot\586\2017-10-13\tulfvfrfntg2xzi2n18xmdax'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnSubmit_Click(Object sender, EventArgs e) in f:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 632
+10/25/2017 5:30:28 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:30:28 PM: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnCancel_Click(Object sender, EventArgs e) in f:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 964
+10/25/2017 5:31:22 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:31:23 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:31:32 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:31:32 PM: System.IO.DirectoryNotFoundException: Could not find a part of the path 'd:\wdmsdocument\uploadeddocuments\midcplot\586\2017-10-13\tulfvfrfntg2xzi2n18xmdax'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnSubmit_Click(Object sender, EventArgs e) in f:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 632
+10/25/2017 5:32:06 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:32:27 PM: System.IO.DirectoryNotFoundException: Could not find a part of the path 'd:\wdmsdocument\uploadeddocuments\midcplot\586\2017-10-13\tulfvfrfntg2xzi2n18xmdax'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   at System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnSubmit_Click(Object sender, EventArgs e) in f:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 632
+10/25/2017 5:34:07 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:34:08 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:34:14 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+10/25/2017 5:38:51 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.

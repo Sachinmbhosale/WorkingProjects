@@ -1,0 +1,88 @@
+9/17/2019 4:41:18 PM: createControls Started
+9/17/2019 4:41:18 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:18 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:18 PM: createControls Finished
+9/17/2019 4:41:18 PM: generatecontrols Started
+9/17/2019 4:41:18 PM: Calling database to get reference id and watermark.
+9/17/2019 4:41:18 PM: Database returned result: NO_EX_510_250_1016|
+9/17/2019 4:41:18 PM: Generatecontrols,Load all Textbox dynamic
+9/17/2019 4:41:18 PM: Generatecontrols,Load all Textbox dynamic
+9/17/2019 4:41:19 PM: createControls Started
+9/17/2019 4:41:19 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:19 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:19 PM: createControls Finished
+9/17/2019 4:41:19 PM: generatecontrols Started
+9/17/2019 4:41:19 PM: Calling database to get reference id and watermark.
+9/17/2019 4:41:19 PM: Database returned result: NO_EX_510_250_1016|
+9/17/2019 4:41:19 PM: Generatecontrols,Load all Textbox dynamic
+9/17/2019 4:41:19 PM: Generatecontrols,Load all Textbox dynamic
+9/17/2019 4:41:43 PM: createControls Started
+9/17/2019 4:41:43 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:43 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:43 PM: createControls Finished
+9/17/2019 4:41:44 PM: Exception : 
+9/17/2019 4:41:48 PM: createControls Started
+9/17/2019 4:41:48 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:48 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:41:48 PM: createControls Finished
+9/17/2019 4:41:48 PM: btnSubmit_Click Started
+9/17/2019 4:41:48 PM: btnSubmit_Click Finished
+9/17/2019 4:49:39 PM: createControls Started
+9/17/2019 4:49:39 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:49:39 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:49:39 PM: createControls Finished
+9/17/2019 4:49:39 PM: generatecontrols Started
+9/17/2019 4:49:39 PM: Calling database to get reference id and watermark.
+9/17/2019 4:49:39 PM: Database returned result: NO_EX_510_250_1016|
+9/17/2019 4:49:39 PM: Generatecontrols,Load all Textbox dynamic
+9/17/2019 4:49:39 PM: Generatecontrols,Load all Textbox dynamic
+9/17/2019 4:49:40 PM: createControls Started
+9/17/2019 4:49:40 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:49:40 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:49:40 PM: createControls Finished
+9/17/2019 4:49:57 PM: createControls Started
+9/17/2019 4:49:57 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:49:57 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:49:57 PM: createControls Finished
+9/17/2019 4:49:57 PM: AsyncFileUpload1_UploadedComplete Started
+9/17/2019 4:49:57 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/17/2019 4:50:00 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/17/2019 4:50:09 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 608
+9/17/2019 4:50:09 PM: AsyncFileUpload1_UploadedComplete Finished
+9/17/2019 4:50:23 PM: createControls Started
+9/17/2019 4:50:23 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:50:23 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:50:23 PM: createControls Finished
+9/17/2019 4:50:24 PM: Started Saving Uploaded Document in Save Button Click
+9/17/2019 4:50:50 PM: AsyncFileUpload1_UploadedComplete Started
+9/17/2019 4:50:50 PM: AsyncFileUpload1_UploadedComplete Finished
+9/17/2019 4:50:50 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+9/17/2019 4:50:50 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+9/17/2019 4:50:54 PM: CreateXML Started:-
+9/17/2019 4:50:54 PM: CreateXML Completed:-
+9/17/2019 4:50:54 PM: Save button click after saving or updating the ReturnCode= 0
+9/17/2019 4:50:54 PM: Finished Saving Uploaded Document in Save Button Click
+9/17/2019 4:50:54 PM: AsyncFileUpload1_UploadedComplete Started
+9/17/2019 4:50:54 PM: AsyncFileUpload1_UploadedComplete Finished
+9/17/2019 4:53:06 PM: createControls Started
+9/17/2019 4:53:06 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:53:06 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:53:06 PM: createControls Finished
+9/17/2019 4:53:07 PM: btnSubmit_Click Started
+9/17/2019 4:53:07 PM: btnSubmit_Click Finished
+9/17/2019 4:57:16 PM: createControls Started
+9/17/2019 4:57:16 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:57:16 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:57:16 PM: createControls Finished
+9/17/2019 4:57:16 PM: Started Saving Uploaded Document in Save Button Click
+9/17/2019 4:57:16 PM: Exception : Length cannot be less than zero.
+Parameter name: length
+9/17/2019 4:57:16 PM: AsyncFileUpload1_UploadedComplete Started
+9/17/2019 4:57:16 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/17/2019 4:57:17 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/17/2019 4:57:24 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 608
+9/17/2019 4:57:24 PM: AsyncFileUpload1_UploadedComplete Finished
+9/17/2019 4:58:12 PM: createControls Started
+9/17/2019 4:58:12 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:58:12 PM: Create controls,Load all Textbox dynamic
+9/17/2019 4:58:12 PM: createControls Finished

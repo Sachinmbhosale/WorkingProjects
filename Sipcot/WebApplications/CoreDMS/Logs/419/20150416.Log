@@ -1,0 +1,50 @@
+4/16/2015 4:24:53 PM: DataEntryTypes count : 3
+4/16/2015 4:25:07 PM: DataEntryTypes count : 3
+4/16/2015 4:25:15 PM: DataEntryTypes count : 3
+4/16/2015 4:25:23 PM: DataEntryTypes count : 3
+4/16/2015 4:43:27 PM: DataEntryTypes count : 3
+4/16/2015 4:43:43 PM: DataEntryTypes count : 3
+4/16/2015 4:43:59 PM: DataEntryTypes count : 3
+4/16/2015 4:44:05 PM: DataEntryTypes count : 3
+4/16/2015 4:44:11 PM: DataEntryTypes count : 3
+4/16/2015 4:44:22 PM: DataEntryTypes count : 3
+4/16/2015 4:45:11 PM: DataEntryTypes count : 3
+4/16/2015 4:47:14 PM: DataEntryTypes count : 3
+4/16/2015 4:47:24 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:47:37 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:47:37 PM: retrive the data from textbox to save the values
+4/16/2015 4:47:37 PM: Save completed successfully: 
+4/16/2015 4:47:37 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:47:37 PM: retrive the data from textbox to save the values
+4/16/2015 4:47:44 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:47:44 PM: retrive the data from textbox to save the values
+4/16/2015 4:47:51 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:47:51 PM: retrive the data from textbox to save the values
+4/16/2015 4:48:50 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:48:55 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:49:16 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:49:16 PM: retrive the data from textbox to save the values
+4/16/2015 4:49:16 PM: Save completed successfully: 
+4/16/2015 4:49:33 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:49:33 PM: Retrived the data to bind the controls
+4/16/2015 4:49:33 PM: All controls values binded properly
+4/16/2015 4:49:42 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:49:42 PM: retrive the data from textbox to save the values
+4/16/2015 4:49:42 PM: Save completed successfully: 
+4/16/2015 4:49:49 PM: Dataentry Type of the stage : Normal
+4/16/2015 4:50:48 PM: DataEntryTypes count : 3
+4/16/2015 4:51:28 PM: DataEntryTypes count : 3
+4/16/2015 4:54:15 PM: DataEntryTypes count : 3
+4/16/2015 4:55:00 PM: DataEntryTypes count : 3
+4/16/2015 4:57:28 PM: Before binding image to viewer 
+4/16/2015 4:57:40 PM: Before binding image to viewer 
+4/16/2015 4:57:40 PM: btnSave_Click Started
+4/16/2015 4:57:40 PM: MoveFilesFromTempToOriginal() started 
+4/16/2015 4:57:40 PM: MoveFilesFromTempToOriginal() has , error System.UnauthorizedAccessException: Access to the path '3c0119a4-adc0-4da1-8202-e63b38229931\5\8\28\' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at System.IO.Directory.CreateDirectory(String path)
+   at OfficeConverter.ManageDirectory.CreateDirectory(String DirectoryPath) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\OfficeConverter\ManageDirectory.cs:line 87
+   at Lotex.EnterpriseSolutions.WebUI.Workflow.WorkflowAdmin.WorkflowDataEntry.MoveFilesFromTempToOriginal() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Workflow\WorkflowAdmin\WorkflowDataEntry.aspx.cs:line 2401
+4/16/2015 4:57:40 PM: btnSave_Click Finished

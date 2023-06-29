@@ -1,0 +1,61 @@
+1/3/2023 11:55:30 AM: BindDocumentType started
+1/3/2023 11:55:30 AM: BindDocumentType finished
+1/3/2023 11:55:36 AM: createControls Started
+1/3/2023 11:55:36 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: createControls Finished
+1/3/2023 11:55:36 AM: GetTemplateDetails started
+1/3/2023 11:55:36 AM: generatecontrols Started
+1/3/2023 11:55:36 AM: GenerateControls:Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: GenerateControls:Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: GenerateControls:Loaded all Textbox dynamically
+1/3/2023 11:55:36 AM: GenerateControls:Loaded all Textbox dynamically
+1/3/2023 11:55:39 AM: createControls Started
+1/3/2023 11:55:39 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:39 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:39 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:39 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:55:39 AM: createControls Finished
+1/3/2023 11:55:39 AM: Started Loading Entity Drop Down
+1/3/2023 11:55:40 AM: Finished Loading Entity Drop Down
+1/3/2023 11:55:47 AM: GetSginatureDetails Started:-
+1/3/2023 11:55:47 AM: GetSginatureDetails Completed:-
+1/3/2023 11:55:47 AM: GetTemplateDetails Started
+1/3/2023 11:55:47 AM: GetTemplateDetails total record count:1
+1/3/2023 11:55:47 AM: Create controls,Load all Textbox dynamic
+1/3/2023 11:55:47 AM: Create controls,Load all Textbox dynamic
+1/3/2023 11:55:47 AM: Create controls,Load all Textbox dynamic
+1/3/2023 11:55:47 AM: Create controls,Load all Textbox dynamic
+1/3/2023 11:55:47 AM: GetTemplateDetails Finished
+1/3/2023 11:55:47 AM: InitializeDocumentView started
+1/3/2023 11:55:47 AM: InitializeDocumentView finished
+1/3/2023 11:55:47 AM: Calling database to get annotated images. DocumentId: 292146, Action: GetAnnotatedPages
+1/3/2023 11:55:48 AM: Calling database to get annotated images. DocumentId: 292146, Action: GetTaggedPages
+1/3/2023 11:55:48 AM: LoadImageToViewer started
+1/3/2023 11:55:48 AM: Setting image to viewer. Action:  Page count: 13 Current Page:1
+1/3/2023 11:55:48 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAxMA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAxMA== Page No: 1
+1/3/2023 11:55:50 AM: Converting PDF to JPEG without applying watermark.
+1/3/2023 11:55:53 AM: Invoke method to get annotations from databnase.
+1/3/2023 11:55:53 AM: Get annotations from database.
+1/3/2023 11:55:53 AM: Document Id: 292146 Page No: 1
+1/3/2023 11:55:53 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+1/3/2023 11:55:53 AM: MailPanelFill started
+1/3/2023 11:55:53 AM: MailPanelFill finished
+1/3/2023 11:59:28 AM: createControls Started
+1/3/2023 11:59:28 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:59:28 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:59:28 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:59:28 AM: createControls Loaded all Textbox dynamically
+1/3/2023 11:59:28 AM: createControls Finished
+1/3/2023 11:59:28 AM: BindQueries started
+1/3/2023 11:59:28 AM: BindQueries finished
+1/3/2023 11:59:29 AM: GetTemplatefieldDetails started
+1/3/2023 11:59:29 AM: GetTemplatefieldDetails finished
+1/3/2023 11:59:34 AM: btnPerformQueryClick started
+1/3/2023 11:59:34 AM: BuildQuery() executed properly 
+1/3/2023 11:59:34 AM: whereclause value 
+1/3/2023 11:59:34 AM: From Search click,QueryWhereClause() is executed properly 
+1/3/2023 11:59:34 AM: Before searching the details with whereclause : 
+1/3/2023 11:59:34 AM: Exception : Object reference not set to an instance of an object.

@@ -1,0 +1,14 @@
+4/11/2015 3:50:37 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 192
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 62
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 240
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+4/11/2015 4:34:54 PM: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\1\2015-04-11\VEVfQURfMV8xXzExMDU=\1.pdf
+4/11/2015 4:34:55 PM: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\1\2015-04-11\VEVfQURfMV8xXzExMDU=\1.jpg
+4/11/2015 4:35:28 PM: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\1\2015-04-11\VEVfQURfMV8xXzExMDY=\1.pdf
+4/11/2015 4:35:28 PM: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\1\2015-04-11\VEVfQURfMV8xXzExMDY=\1.jpg
+4/11/2015 6:18:20 PM: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\335\2015-04-08\UE9fQURfMzM1XzFfMTM5Mw==\1.pdf
+4/11/2015 6:18:21 PM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\1bea4e05-0eac-4fa8-a5f7-ee4b244e74cf\2\2\2\1.jpg
+4/11/2015 6:18:21 PM: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\335\2015-04-08\UE9fQURfMzM1XzFfMTM5Mw==\2.pdf
+4/11/2015 6:18:22 PM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\1bea4e05-0eac-4fa8-a5f7-ee4b244e74cf\2\2\2\2.jpg
+4/11/2015 6:18:22 PM: Exception:External component has thrown an exception.

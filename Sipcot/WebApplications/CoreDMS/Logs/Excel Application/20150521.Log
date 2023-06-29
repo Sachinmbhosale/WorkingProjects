@@ -1,0 +1,6 @@
+5/21/2015 10:42:22 AM: FileName :\\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjM=.xlsDestinationFileName : \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjM=.pdf
+5/21/2015 10:42:24 AM: System.ArgumentException: Value does not fall within the expected range.
+   at Microsoft.Office.Interop.Excel._Workbook.ExportAsFixedFormat(XlFixedFormatType Type, Object Filename, Object Quality, Object IncludeDocProperties, Object IgnorePrintAreas, Object From, Object To, Object OpenAfterPublish, Object FixedFormatExtClassPtr)
+   at OfficeConverter.MSExcel.Convert(String FileName, String destinationFileName, Boolean slice) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\OfficeConverter\MSExcel.cs:line 91
+5/21/2015 10:42:24 AM: excelWorkBook_Closed
+5/21/2015 10:42:24 AM: excelApplication_Closed

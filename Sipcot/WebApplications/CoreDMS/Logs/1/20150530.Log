@@ -1,0 +1,31 @@
+5/30/2015 3:21:33 PM: DataEntryTypes count : 3
+5/30/2015 3:21:54 PM: Retrived the data to bind the controls
+5/30/2015 3:21:54 PM: All controls values binded properly
+5/30/2015 3:21:54 PM: TemplatefilePath from database : 
+5/30/2015 3:21:54 PM: Loading image based on page number for coordinate capturing
+5/30/2015 3:21:54 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\/1.
+5/30/2015 3:22:41 PM: DataEntryTypes count : 3
+5/30/2015 4:14:21 PM: btnExport_Click Started
+5/30/2015 4:14:22 PM: ExportToExcel started
+5/30/2015 4:14:22 PM: Exception:Thread was being aborted.
+5/30/2015 4:19:33 PM: btnExport_Click Started
+5/30/2015 4:19:33 PM: ExportToExcel started
+5/30/2015 4:19:33 PM: Exception:Thread was being aborted.
+5/30/2015 4:27:24 PM: btnExport_Click Started
+5/30/2015 4:27:25 PM: ExportToExcel started
+5/30/2015 4:27:25 PM: Exception:Thread was being aborted.
+5/30/2015 4:29:06 PM: btnExport_Click Started
+5/30/2015 4:29:07 PM: ExportToExcel started
+5/30/2015 4:29:07 PM: Exception:Thread was being aborted.
+5/30/2015 4:41:40 PM: btnExport_Click Started
+5/30/2015 4:41:40 PM: ExportToExcel started
+5/30/2015 4:41:40 PM: Exception:Thread was being aborted.
+5/30/2015 4:42:24 PM: btnExport_Click Started
+5/30/2015 4:42:25 PM: ExportToExcel started
+5/30/2015 4:42:25 PM: Exception:Thread was being aborted.
+5/30/2015 4:42:31 PM: btnExport_Click Started
+5/30/2015 4:42:31 PM: ExportToExcel started
+5/30/2015 4:42:31 PM: Exception:Thread was being aborted.
+5/30/2015 4:43:19 PM: btnExport_Click Started
+5/30/2015 4:43:19 PM: ExportToExcel started
+5/30/2015 4:43:19 PM: Exception:Thread was being aborted.

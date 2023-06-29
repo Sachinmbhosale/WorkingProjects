@@ -1,0 +1,115 @@
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+F:\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csproj.AssemblyReference.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csproj.CoreCompileInputs.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csproj.CopyComplete
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\MySql.Data.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\bin\Release\WorkflowBAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\Libraries\Workflow\WorkflowBLL\obj\Release\WorkflowBLL.pdb

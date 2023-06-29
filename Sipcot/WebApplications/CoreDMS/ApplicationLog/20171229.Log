@@ -1,0 +1,25 @@
+12/29/2017 3:21:35 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 216
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+12/29/2017 3:22:02 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 216
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+12/29/2017 3:23:42 PM: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "DMSOnline" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 216
+ClientConnectionId:ec63b94b-b549-473f-ae73-121fa59c524d
+Error Number:4060,State:1,Class:11
+12/29/2017 3:25:38 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in f:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 216
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20

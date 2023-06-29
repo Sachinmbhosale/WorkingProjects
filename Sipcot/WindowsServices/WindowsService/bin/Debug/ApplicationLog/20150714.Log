@@ -1,0 +1,3 @@
+7/14/2015 12:09:31 PM: System.Runtime.InteropServices.COMException (0x800706BE): The remote procedure call failed. (Exception from HRESULT: 0x800706BE)
+   at Microsoft.Office.Interop.Word.Documents.Open(Object& FileName, Object& ConfirmConversions, Object& ReadOnly, Object& AddToRecentFiles, Object& PasswordDocument, Object& PasswordTemplate, Object& Revert, Object& WritePasswordDocument, Object& WritePasswordTemplate, Object& Format, Object& Encoding, Object& Visible, Object& OpenAndRepair, Object& DocumentDirection, Object& NoEncodingDialog, Object& XMLTransform)
+   at OfficeConverter.MSWord.Convert(String FileName, String destinationFileName, Boolean slice) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\OfficeConverter\MSWord.cs:line 91

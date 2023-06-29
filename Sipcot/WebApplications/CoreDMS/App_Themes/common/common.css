@@ -1,0 +1,362 @@
+﻿
+.divGrid /* outer div size */
+{
+    /*      border-style: solid;      border-width: 1px;     border-color: #4d4d4d;     overflow: auto;*/
+    height: 50%; /* width: 100%; */
+    top: 0px;
+    left: 0px;
+}
+
+div#customGridDiv
+{
+    /* position: relative;*/
+    overflow: auto;
+    height: 50%;
+    width: 100%;
+    min-height: 225px;
+    top: 0px;
+    left: 0px;
+}
+
+.CustomGrid
+{
+    /* table-layout: fixed; */
+    width: 100%;
+    cursor: pointer;
+}
+
+.GridRowSelect
+{
+    background-color: #4B4B4B;
+    cursor: pointer;
+}
+
+.GridRowHover
+{
+    background-color: #FFFFE1;
+    cursor: pointer;
+}
+
+.GridPager span
+{
+    border: 1px solid #787878;
+    background-color: #434345;
+    font-size: 12px;
+    padding: 4px;
+    color: #B4B4B4;
+}
+
+.GridPager td
+{
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.GridHeader
+{
+    margin: 0px;
+    border: 1px solid #4D4D4D;
+    background-position: left top;
+    font-family: Tahoma;
+    letter-spacing: 1pt;
+    font-size: 8pt;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #E5E5E5;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px 6px 3px 6px;
+    background-image: url('Images/Header_Grid.png' );
+    background-repeat: repeat-x;
+    background-color: #4B4B4B;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: -moz-pre-wrap !important;
+    min-height: 40px;
+}
+
+.GridHeader A
+{
+    font-family: Tahoma;
+    letter-spacing: 1pt;
+    font-size: 8pt;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #E5E5E5;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.GridLine
+{
+    border: .25px solid #4D4D4D;
+}
+
+.GridItem1
+{
+    border: 1px solid #4D4D4D; /* text-align: left;*/
+    vertical-align: middle;
+    padding: 4px 6px 4px 6px;
+    font-family: Verdana;
+    font-size: 8pt;
+    color: #000000;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 0 10px 0 10px;
+}
+
+.GridItemAmount
+{
+    text-align: right;
+    vertical-align: middle;
+}
+
+.GridFooterTD
+{
+    background-color: #D4D0C8;
+    padding-left: 6px;
+    font-size: 9pt;
+    width: 300px;
+}
+
+.PagingTD
+{
+    /* valign: middle;*/
+    background-color: #D4D0C8;
+    padding-left: 6px;
+    font-size: 9pt;
+}
+
+.PagingControl
+{
+    background-color: #D4D0C8;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 200px;
+}
+
+div#customGridDiv th
+{
+    top: expression(document.getElementById("customGridDiv").scrollTop-2);
+    left: expression(parentNode.parentNode.parentNode.parentNode.scrollLeft);
+    position: relative;
+    z-index: 20;
+}
+
+.GridPagePreviousInactive
+{
+    background-position: center center;
+    background-image: url(Images/PaginPreInactive.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    height: 22px;
+}
+
+.GridPagePreviousActive
+{
+    background-position: center center;
+    background-image: url(Images/PaginPre.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    height: 22px;
+}
+
+.GridPageNextInactive
+{
+    background-position: center center;
+    background-image: url(Images/PaginNextInactive.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    height: 22px;
+}
+
+.GridPageNextActive
+{
+    background-position: center center;
+    background-image: url(Images/PaginNext.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    height: 22px;
+}
+
+.GridPageFirstInactive
+{
+    background-position: center center;
+    background-image: url(Images/PaginFirstInactive.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    height: 22px;
+}
+
+.GridPageFirstActive
+{
+    background-position: center center;
+    background-image: url(Images/PaginFirst.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    height: 22px;
+}
+
+.GridPageLastInactive
+{
+    background-position: center center;
+    background-image: url('Images/PaginLastInactive.gif');
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    height: 22px;
+}
+
+.GridPageLastActive
+{
+    background-position: center center;
+    background-image: url(Images/PaginLast.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    height: 22px;
+}
+
+.Export
+{
+    background-position: center center;
+    background-image: url(Images/export.gif);
+    text-decoration: none;
+    border-width: 0px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    height: 22px;
+}
+
+
+/* -- another grid -- */
+
+
+
+
+.GridTitleCssStyle
+{
+    color: #1f5ca9;
+    background-color: #c5d4e6;
+    table-layout: auto;
+    border-collapse: separate;
+    border-right: gray thin solid;
+    border-top: gray thin solid;
+    border-left: gray thin solid;
+    border-bottom: gray thin solid;
+}
+
+.gv caption
+{
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
+    padding: 2px;
+    background-color: Red;
+}
+
+
+/*GridViewCSS White Chrome Style*/
+.GridViewStyle
+{
+    font-family: Arial, Sans-Serif;
+    font-size: small;
+    table-layout: auto;
+    border-collapse: collapse;
+    border: #999999 1px solid;
+}
+/*Header and Pager styles*/
+.HeaderStyle, .PagerStyle /*Common Styles*/
+{
+    background-position: center;
+    background-repeat: repeat-x;
+    background-color: #eeeeee;
+    border-bottom: solid 1px #999;
+}
+.HeaderStyle th
+{
+    padding: 5px;
+    color: #333;
+}
+.HeaderStyle a
+{
+    text-decoration: none;
+    color: #333;
+    display: block;
+    text-align: left;
+    font-weight: normal;
+}
+.PagerStyle table
+{
+    text-align: center;
+    margin: auto;
+}
+.PagerStyle table td
+{
+    border: 0px;
+    padding: 5px;
+}
+.PagerStyle td
+{
+    border-top: #999999 1px solid;
+}
+.PagerStyle a
+{
+    color: #333;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px;
+    border-top: solid 1px #fff;
+    border-right: solid 1px #999;
+    border-bottom: solid 1px #999;
+    border-left: solid 1px #fff;
+}
+.PagerStyle span
+{
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    padding: 2px 10px 2px 10px;
+}
+/*RowStyles */
+.RowStyle td, .AltRowStyle td, .SelectedRowStyle td, .EditRowStyle td /*Common Styles*/
+{
+    padding: 5px;
+    border-right: solid 1px #999;
+}
+.RowStyle td
+{
+    /* background-color: #E4E4E4; */
+}
+.AltRowStyle td
+{
+    background-color: #fff;
+}
+.SelectedRowStyle td
+{
+    background-color: #FF9;
+}

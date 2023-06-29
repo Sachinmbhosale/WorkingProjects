@@ -1,0 +1,18 @@
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\GenService.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\MySql.Data.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Release\GenService.csprojResolveAssemblyReference.cache
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Release\GenService.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\GenService\obj\Release\GenService.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\GenService.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\Newtonsoft.Json.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\MySql.Data.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\bin\DataAccessLayer.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Release\GenService.csprojResolveAssemblyReference.cache
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Release\GenService.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\GenService\obj\Release\GenService.pdb

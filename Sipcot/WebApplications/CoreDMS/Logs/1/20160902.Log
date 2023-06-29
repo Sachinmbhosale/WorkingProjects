@@ -1,0 +1,101 @@
+9/2/2016 4:06:44 PM: BindDocumentType started
+9/2/2016 4:06:44 PM: BindDocumentType finished
+9/2/2016 4:07:54 PM: createControls Started
+9/2/2016 4:07:55 PM: Create controls,Load all Textbox dynamic
+9/2/2016 4:07:55 PM: Create controls,Load all Textbox dynamic
+9/2/2016 4:07:55 PM: Createcontrols,Load all Dropdownlist dynamic
+9/2/2016 4:07:55 PM: Createcontrols,Load all Dropdownlist dynamic
+9/2/2016 4:07:55 PM: createControls Finished
+9/2/2016 4:07:55 PM: generatecontrols Started
+9/2/2016 4:07:55 PM: Calling database to get reference id and watermark.
+9/2/2016 4:07:55 PM: Database returned result: DM_IT_1_1_1003|Lotex Business Solutions
+9/2/2016 4:07:55 PM: Generatecontrols,Load all Textbox dynamic
+9/2/2016 4:07:55 PM: Generatecontrols,Load all Textbox dynamic
+9/2/2016 4:07:55 PM: generatecontrols,Load all Dropdownlist dynamic
+9/2/2016 4:07:55 PM: generatecontrols,Load all Dropdownlist dynamic
+9/2/2016 4:09:55 PM: BindDocumentType started
+9/2/2016 4:09:55 PM: BindDocumentType finished
+9/2/2016 4:10:00 PM: BindQueries started
+9/2/2016 4:10:00 PM: BindQueries finished
+9/2/2016 4:10:01 PM: GetTemplatefieldDetails started
+9/2/2016 4:10:01 PM: GetTemplatefieldDetails finished
+9/2/2016 4:10:07 PM: btnPerformQueryClick started
+9/2/2016 4:10:07 PM: BuildQuery() executed properly 
+9/2/2016 4:10:07 PM: whereclause value 
+9/2/2016 4:10:07 PM: From Search click,QueryWhereClause() is executed properly 
+9/2/2016 4:10:07 PM: Before searching the details with whereclause : 
+9/2/2016 4:10:07 PM: btnPerformQueryClick search result record count 1
+9/2/2016 4:10:07 PM: btnPerformQueryClick finished
+9/2/2016 4:10:12 PM: AddQuery started
+9/2/2016 4:10:12 PM: btnAddClauseClick started
+9/2/2016 4:10:12 PM: Exception : Index was outside the bounds of the array.
+9/2/2016 4:10:12 PM: btnAddClauseClick finished
+9/2/2016 4:10:12 PM: AddQuery finished
+9/2/2016 4:10:15 PM: Exception : Index was outside the bounds of the array.
+9/2/2016 4:10:15 PM: btnPerformQueryClick started
+9/2/2016 4:10:15 PM: BuildQuery() executed properly 
+9/2/2016 4:10:15 PM: whereclause value 
+9/2/2016 4:10:15 PM: From Search click,QueryWhereClause() is executed properly 
+9/2/2016 4:10:15 PM: Before searching the details with whereclause : 
+9/2/2016 4:10:15 PM: Exception : Object reference not set to an instance of an object.
+9/2/2016 4:10:20 PM: Exception : Index was outside the bounds of the array.
+9/2/2016 4:10:20 PM: BindQueries started
+9/2/2016 4:10:20 PM: BindQueries finished
+9/2/2016 4:10:22 PM: GetTemplatefieldDetails started
+9/2/2016 4:10:22 PM: GetTemplatefieldDetails finished
+9/2/2016 4:10:25 PM: btnPerformQueryClick started
+9/2/2016 4:10:25 PM: BuildQuery() executed properly 
+9/2/2016 4:10:25 PM: whereclause value 
+9/2/2016 4:10:25 PM: From Search click,QueryWhereClause() is executed properly 
+9/2/2016 4:10:25 PM: Before searching the details with whereclause : 
+9/2/2016 4:10:25 PM: Exception : Object reference not set to an instance of an object.
+9/2/2016 4:10:51 PM: BindDocumentType started
+9/2/2016 4:10:51 PM: BindDocumentType finished
+9/2/2016 4:11:14 PM: BindDocumentType started
+9/2/2016 4:11:14 PM: BindDocumentType finished
+9/2/2016 4:11:24 PM: BindDocumentType started
+9/2/2016 4:11:24 PM: BindDocumentType finished
+9/2/2016 4:11:30 PM: createControls Started
+9/2/2016 4:11:30 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:11:30 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:11:30 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:11:30 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:11:30 PM: createControls Finished
+9/2/2016 4:11:30 PM: GetTemplateDetails started
+9/2/2016 4:11:30 PM: generatecontrols Started
+9/2/2016 4:11:30 PM: GenerateControls:Loaded all Textbox dynamically
+9/2/2016 4:11:30 PM: GenerateControls:Loaded all Textbox dynamically
+9/2/2016 4:11:30 PM: GenerateControls:Loaded all Dropdownlist dynamically
+9/2/2016 4:11:30 PM: GenerateControls:Loaded all Dropdownlist dynamically
+9/2/2016 4:11:52 PM: createControls Started
+9/2/2016 4:11:52 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:11:52 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:11:52 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:11:52 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:11:52 PM: createControls Finished
+9/2/2016 4:11:54 PM: createControls Started
+9/2/2016 4:11:54 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:11:54 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:11:54 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:11:54 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:11:54 PM: createControls Finished
+9/2/2016 4:11:54 PM: GetTemplateDetails started
+9/2/2016 4:11:54 PM: generatecontrols Started
+9/2/2016 4:11:54 PM: GenerateControls:Loaded all Textbox dynamically
+9/2/2016 4:11:54 PM: GenerateControls:Loaded all Textbox dynamically
+9/2/2016 4:11:54 PM: GenerateControls:Loaded all Dropdownlist dynamically
+9/2/2016 4:11:54 PM: GenerateControls:Loaded all Dropdownlist dynamically
+9/2/2016 4:12:59 PM: BindDocumentType started
+9/2/2016 4:12:59 PM: BindDocumentType finished
+9/2/2016 4:13:08 PM: createControls Started
+9/2/2016 4:13:08 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:13:08 PM: createControls Loaded all Textbox dynamically
+9/2/2016 4:13:08 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:13:08 PM: createControls Loaded all Dropdownlist dynamically
+9/2/2016 4:13:08 PM: createControls Finished
+9/2/2016 4:13:08 PM: GetTemplateDetails started
+9/2/2016 4:13:08 PM: generatecontrols Started
+9/2/2016 4:13:08 PM: GenerateControls:Loaded all Textbox dynamically
+9/2/2016 4:13:08 PM: GenerateControls:Loaded all Textbox dynamically
+9/2/2016 4:13:08 PM: GenerateControls:Loaded all Dropdownlist dynamically
+9/2/2016 4:13:08 PM: GenerateControls:Loaded all Dropdownlist dynamically

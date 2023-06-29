@@ -1,0 +1,234 @@
+D:\AxisFinance\TaggingCode\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.AssemblyReference.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.AssemblyReference.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CopyComplete
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sharefolder\New folder\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\RdlCompile.cache
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\RdlCompile.compiled
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\E_Drive_Data_Backup\projects\Sipcot Code\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeReferences\itextsharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.cs
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Secure\Core\DocumentTag.aspx.designer.cs
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.WebUI.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\LotexIFilter.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeConverter.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBAL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBLL.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\DataAccessLayer.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\itextsharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\MuPDF.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\PdfSharp.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBE.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreBL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreDAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\Lotex.EnterpriseSolutions.CoreServiceLib.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\LotexIFilter.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\OfficeConverter.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBAL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\WorkflowBLL.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\bin\DataAccessLayer.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\WebUI.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WebApplications\CoreDMS\obj\Debug\Lotex.EnterpriseSolutions.WebUI.pdb

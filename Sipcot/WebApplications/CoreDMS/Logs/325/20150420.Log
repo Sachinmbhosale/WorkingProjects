@@ -1,0 +1,23 @@
+4/20/2015 12:05:01 PM: DataEntryTypes count : 3
+4/20/2015 12:05:19 PM: Dataentry Type of the stage : Normal
+4/20/2015 12:05:32 PM: Dataentry Type of the stage : Normal
+4/20/2015 12:05:32 PM: retrive the data from textbox to save the values
+4/20/2015 12:05:33 PM: Save completed successfully: 
+4/20/2015 12:05:40 PM: DataEntryTypes count : 3
+4/20/2015 12:06:47 PM: DataEntryTypes count : 3
+4/20/2015 12:07:09 PM: DataEntryTypes count : 3
+4/20/2015 12:07:57 PM: Rendering controls. Object Type: TextBox, Control Id: Control_62
+4/20/2015 12:07:57 PM: Rendering controls completed.
+4/20/2015 12:07:57 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_62
+4/20/2015 12:07:57 PM: Completed initialization of controls.
+4/20/2015 12:07:57 PM: Before binding image to viewer 
+4/20/2015 12:08:03 PM: Rendering controls. Object Type: TextBox, Control Id: Control_62
+4/20/2015 12:08:03 PM: Rendering controls completed.
+4/20/2015 12:08:03 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_62
+4/20/2015 12:08:03 PM: Completed initialization of controls.
+4/20/2015 12:08:03 PM: Before binding image to viewer 
+4/20/2015 12:08:03 PM: btnSave_Click Started
+4/20/2015 12:08:03 PM: Building update query from controls. Object Type: TextBox, Control Id: Control_62
+4/20/2015 12:08:03 PM: Completed building query. Query: UPDATE WorkflowStageFieldData SET WorkflowStageFieldData_vFld1='chumma', 
+4/20/2015 12:08:03 PM: Completed building query. Query: UPDATE WorkflowStageFieldData SET WorkflowStageFieldData_vFld1='chumma', 
+4/20/2015 12:08:03 PM: btnSave_Click Finished

@@ -1,0 +1,203 @@
+1/18/2017 10:49:00 AM: BindDocumentType started
+1/18/2017 10:49:00 AM: BindDocumentType finished
+1/18/2017 10:49:11 AM: createControls Started
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Loaded all Textbox dynamically
+1/18/2017 10:49:11 AM: createControls Finished
+1/18/2017 10:49:12 AM: GetTemplateDetails started
+1/18/2017 10:49:12 AM: generatecontrols Started
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:49:12 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 10:51:58 AM: BindDocumentType started
+1/18/2017 10:51:58 AM: BindDocumentType finished
+1/18/2017 10:58:43 AM: btnManageList_Click Started
+1/18/2017 10:58:43 AM: ManageTagListbox Started
+1/18/2017 10:58:43 AM: btnManageList_Click finished
+1/18/2017 10:58:55 AM: btnManageList_Click Started
+1/18/2017 10:58:55 AM: ManageTagListbox Started
+1/18/2017 10:58:55 AM: btnManageList_Click finished
+1/18/2017 10:58:58 AM: btnManageList_Click Started
+1/18/2017 10:58:58 AM: ManageTagListbox Started
+1/18/2017 10:58:58 AM: btnManageList_Click finished
+1/18/2017 10:59:09 AM: btnClearAll_Click Started
+1/18/2017 10:59:09 AM: btnClearAll_Click Finished
+1/18/2017 10:59:27 AM: GetIndexFieldsByTemplateId Started
+1/18/2017 10:59:27 AM: GetIndexFieldsByTemplateId Finished
+1/18/2017 10:59:30 AM: btnManageList_Click Started
+1/18/2017 10:59:30 AM: ManageTagListbox Started
+1/18/2017 10:59:30 AM: btnManageList_Click finished
+1/18/2017 10:59:41 AM: btnManageList_Click Started
+1/18/2017 10:59:41 AM: ManageTagListbox Started
+1/18/2017 10:59:41 AM: btnManageList_Click finished
+1/18/2017 11:00:00 AM: btnSubmit_Click Started
+1/18/2017 11:00:00 AM: btnSubmit_Click Finished
+1/18/2017 11:00:53 AM: Started Loading Domain Name Drop Down
+1/18/2017 11:00:53 AM: Finished Loading Domain Name Drop Down
+1/18/2017 11:01:32 AM: btnSubmit_Click started
+1/18/2017 11:01:47 AM: btnSubmit_Click finished
+1/18/2017 11:06:56 AM: BindDocumentType started
+1/18/2017 11:06:56 AM: BindDocumentType finished
+1/18/2017 11:24:06 AM: BindDocumentType started
+1/18/2017 11:24:06 AM: BindDocumentType finished
+1/18/2017 11:24:10 AM: createControls Started
+1/18/2017 11:24:10 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:24:10 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:24:10 AM: createControls Finished
+1/18/2017 11:24:10 AM: GetTemplateDetails started
+1/18/2017 11:24:10 AM: generatecontrols Started
+1/18/2017 11:24:10 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:24:10 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:24:28 AM: createControls Started
+1/18/2017 11:24:28 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:24:28 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:24:28 AM: createControls Finished
+1/18/2017 11:24:28 AM: generatecontrols Started
+1/18/2017 11:24:28 AM: Calling database to get reference id and watermark.
+1/18/2017 11:24:28 AM: Database returned result: NO_EX_510_250_1003|
+1/18/2017 11:24:28 AM: Generatecontrols,Load all Textbox dynamic
+1/18/2017 11:24:28 AM: Generatecontrols,Load all Textbox dynamic
+1/18/2017 11:24:48 AM: createControls Started
+1/18/2017 11:24:48 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:24:48 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:24:48 AM: createControls Finished
+1/18/2017 11:24:48 AM: AsyncFileUpload1_UploadedComplete Started
+1/18/2017 11:24:48 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+1/18/2017 11:24:48 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+1/18/2017 11:24:48 AM: AsyncFileUpload1_UploadedComplete Finished
+1/18/2017 11:24:49 AM: createControls Started
+1/18/2017 11:24:49 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:24:49 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:24:49 AM: createControls Finished
+1/18/2017 11:24:49 AM: btnSubmit_Click Started
+1/18/2017 11:24:49 AM: btnSubmit_Click Finished
+1/18/2017 11:25:36 AM: createControls Started
+1/18/2017 11:25:36 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:25:36 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:25:36 AM: createControls Finished
+1/18/2017 11:25:36 AM: Started Saving Uploaded Document in Save Button Click
+1/18/2017 11:25:37 AM: AsyncFileUpload1_UploadedComplete Started
+1/18/2017 11:25:37 AM: AsyncFileUpload1_UploadedComplete Finished
+1/18/2017 11:25:37 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+1/18/2017 11:25:37 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+1/18/2017 11:25:37 AM: CreateXML Started:-
+1/18/2017 11:25:37 AM: CreateXML Completed:-
+1/18/2017 11:25:37 AM: Save button click after saving or updating the ReturnCode= 0
+1/18/2017 11:25:37 AM: Exception : Thread was being aborted.
+1/18/2017 11:25:42 AM: BindDocumentType started
+1/18/2017 11:25:42 AM: BindDocumentType finished
+1/18/2017 11:25:46 AM: createControls Started
+1/18/2017 11:25:46 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:25:46 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:25:46 AM: createControls Finished
+1/18/2017 11:25:46 AM: GetTemplateDetails started
+1/18/2017 11:25:46 AM: generatecontrols Started
+1/18/2017 11:25:46 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:25:46 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:26:51 AM: createControls Started
+1/18/2017 11:26:51 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:26:51 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:26:51 AM: createControls Finished
+1/18/2017 11:26:51 AM: generatecontrols Started
+1/18/2017 11:26:51 AM: Calling database to get reference id and watermark.
+1/18/2017 11:26:51 AM: Database returned result: NO_EX_510_250_1004|
+1/18/2017 11:26:51 AM: Generatecontrols,Load all Textbox dynamic
+1/18/2017 11:26:51 AM: Generatecontrols,Load all Textbox dynamic
+1/18/2017 11:26:58 AM: createControls Started
+1/18/2017 11:26:58 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:26:58 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:26:58 AM: createControls Finished
+1/18/2017 11:26:58 AM: AsyncFileUpload1_UploadedComplete Started
+1/18/2017 11:26:58 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+1/18/2017 11:26:58 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+1/18/2017 11:26:59 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 2
+1/18/2017 11:26:59 AM: AsyncFileUpload1_UploadedComplete Finished
+1/18/2017 11:26:59 AM: createControls Started
+1/18/2017 11:26:59 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:26:59 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:26:59 AM: createControls Finished
+1/18/2017 11:26:59 AM: btnSubmit_Click Started
+1/18/2017 11:26:59 AM: btnSubmit_Click Finished
+1/18/2017 11:27:14 AM: createControls Started
+1/18/2017 11:27:14 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:27:14 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:27:14 AM: createControls Finished
+1/18/2017 11:27:14 AM: Started Previewing Uploaded Document in btnPreview_Click 
+1/18/2017 11:27:14 AM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDA0.pdf
+1/18/2017 11:27:14 AM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+1/18/2017 11:27:14 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDA0\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDA0 Page No: 1
+1/18/2017 11:27:14 AM: Converting PDF to JPEG without applying watermark.
+1/18/2017 11:27:14 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmda0jpg//1.jpeg
+1/18/2017 11:27:14 AM: Finished Previewing Uploaded Document in btnPreview_Click 
+1/18/2017 11:27:24 AM: createControls Started
+1/18/2017 11:27:24 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:27:24 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:27:24 AM: createControls Finished
+1/18/2017 11:27:24 AM: Started Saving Uploaded Document in Save Button Click
+1/18/2017 11:27:25 AM: AsyncFileUpload1_UploadedComplete Started
+1/18/2017 11:27:25 AM: AsyncFileUpload1_UploadedComplete Finished
+1/18/2017 11:27:25 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+1/18/2017 11:27:25 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+1/18/2017 11:27:25 AM: CreateXML Started:-
+1/18/2017 11:27:25 AM: CreateXML Completed:-
+1/18/2017 11:27:25 AM: Save button click after saving or updating the ReturnCode= 0
+1/18/2017 11:27:25 AM: Exception : Thread was being aborted.
+1/18/2017 11:27:28 AM: BindDocumentType started
+1/18/2017 11:27:28 AM: BindDocumentType finished
+1/18/2017 11:27:40 AM: createControls Started
+1/18/2017 11:27:40 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:27:40 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:27:40 AM: createControls Finished
+1/18/2017 11:27:40 AM: GetTemplateDetails started
+1/18/2017 11:27:40 AM: generatecontrols Started
+1/18/2017 11:27:40 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:27:40 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:27:54 AM: BindDocumentType started
+1/18/2017 11:27:54 AM: BindDocumentType finished
+1/18/2017 11:28:21 AM: createControls Started
+1/18/2017 11:28:21 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:28:21 AM: createControls Loaded all Textbox dynamically
+1/18/2017 11:28:21 AM: createControls Finished
+1/18/2017 11:28:21 AM: GetTemplateDetails started
+1/18/2017 11:28:22 AM: generatecontrols Started
+1/18/2017 11:28:22 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:28:22 AM: GenerateControls:Loaded all Textbox dynamically
+1/18/2017 11:28:26 AM: GetSginatureDetails Started:-
+1/18/2017 11:28:26 AM: GetSginatureDetails Completed:-
+1/18/2017 11:28:26 AM: GetTemplateDetails Started
+1/18/2017 11:28:26 AM: GetTemplateDetails total record count:1
+1/18/2017 11:28:26 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:28:26 AM: Create controls,Load all Textbox dynamic
+1/18/2017 11:28:26 AM: GetTemplateDetails Finished
+1/18/2017 11:28:26 AM: InitializeDocumentView started
+1/18/2017 11:28:26 AM: InitializeDocumentView finished
+1/18/2017 11:28:26 AM: Calling database to get annotated images. DocumentId: 1295, Action: GetAnnotatedPages
+1/18/2017 11:28:26 AM: Calling database to get annotated images. DocumentId: 1295, Action: GetTaggedPages
+1/18/2017 11:28:26 AM: LoadImageToViewer started
+1/18/2017 11:28:26 AM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+1/18/2017 11:28:26 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDA0\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDA0 Page No: 1
+1/18/2017 11:28:26 AM: Converting PDF to JPEG without applying watermark.
+1/18/2017 11:28:27 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmda0jpg//1.jpeg
+1/18/2017 11:28:27 AM: Invoke method to get annotations from databnase.
+1/18/2017 11:28:27 AM: Get annotations from database.
+1/18/2017 11:28:27 AM: Document Id: 1295 Page No: 1
+1/18/2017 11:28:27 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+1/18/2017 11:28:27 AM: MailPanelFill started
+1/18/2017 11:28:27 AM: MailPanelFill finished
+1/18/2017 11:28:32 AM: BindDocumentType started
+1/18/2017 11:28:32 AM: BindDocumentType finished
+1/18/2017 1:04:06 PM: BindDocumentType started
+1/18/2017 1:04:06 PM: BindDocumentType finished
+1/18/2017 2:42:45 PM: BindDocumentType started
+1/18/2017 2:42:45 PM: BindDocumentType finished
+1/18/2017 4:05:04 PM: BindDocumentType started
+1/18/2017 4:05:04 PM: BindDocumentType finished

@@ -1,0 +1,22 @@
+4/12/2023 3:42:50 PM: Successfully executed the report DAL funtion
+4/12/2023 3:42:50 PM: Successfully executed the report DAL funtion
+4/12/2023 3:55:09 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:14 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:15 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:17 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:18 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:18 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:19 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:19 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:20 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586
+4/12/2023 3:55:21 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2586

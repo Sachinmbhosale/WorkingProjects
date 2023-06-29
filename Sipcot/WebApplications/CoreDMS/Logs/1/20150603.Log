@@ -1,0 +1,507 @@
+6/3/2015 10:43:29 AM: Dataentry Type of the stage : Form
+6/3/2015 10:43:29 AM: Get all stage related data from database
+6/3/2015 10:43:29 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:43:29 AM: controls binded successfully
+6/3/2015 10:43:40 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:43:40 AM: controls binded successfully
+6/3/2015 10:43:42 AM: Dataentry Type of the stage : Form
+6/3/2015 10:43:42 AM: Get all stage related data from database
+6/3/2015 10:43:42 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:43:42 AM: Pages count 1
+6/3/2015 10:43:42 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:43:42 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:43:42 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202\1.jpg
+6/3/2015 10:43:42 AM: Converted pdf to jpg
+6/3/2015 10:43:42 AM: Binding image to panel started
+6/3/2015 10:43:42 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202\/1.jpg
+6/3/2015 10:43:42 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:43:42 AM: Rendering controls completed.
+6/3/2015 10:43:42 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:43:42 AM: Completed initialization of controls.
+6/3/2015 10:43:42 AM: controls binded successfully
+6/3/2015 10:46:51 AM: Dataentry Type of the stage : Form
+6/3/2015 10:46:51 AM: Get all stage related data from database
+6/3/2015 10:46:51 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:46:52 AM: controls binded successfully
+6/3/2015 10:47:15 AM: DataEntryTypes count : 3
+6/3/2015 10:47:22 AM: DataEntryTypes count : 3
+6/3/2015 10:47:27 AM: Dataentry Type of the stage : Form
+6/3/2015 10:47:27 AM: Retrived the data to bind the controls
+6/3/2015 10:47:27 AM: All controls values binded properly
+6/3/2015 10:47:27 AM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/3/2015 10:47:27 AM: Loading image based on page number for coordinate capturing
+6/3/2015 10:47:27 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/3/2015 10:47:27 AM: status of the back ground image is: False
+6/3/2015 10:47:30 AM: Dataentry Type of the stage : Form
+6/3/2015 10:47:39 AM: Dataentry Type of the stage : Form
+6/3/2015 10:47:41 AM: Dataentry Type of the stage : Form
+6/3/2015 10:47:41 AM: retrive the data from textbox to save the values
+6/3/2015 10:47:41 AM: Dataentry Type of the stage before saving : Form
+6/3/2015 10:47:41 AM: Save completed successfully: 
+6/3/2015 10:47:54 AM: Dataentry Type of the stage : Form
+6/3/2015 10:47:54 AM: Get all stage related data from database
+6/3/2015 10:47:54 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:47:54 AM: controls binded successfully
+6/3/2015 10:48:27 AM: Dataentry Type of the stage : Form
+6/3/2015 10:48:27 AM: Get all stage related data from database
+6/3/2015 10:48:27 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:48:27 AM: controls binded successfully
+6/3/2015 10:48:37 AM: Dataentry Type of the stage : Form
+6/3/2015 10:48:37 AM: Get all stage related data from database
+6/3/2015 10:48:37 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:48:37 AM: controls binded successfully
+6/3/2015 10:48:46 AM: Dataentry Type of the stage : Form
+6/3/2015 10:48:46 AM: Get all stage related data from database
+6/3/2015 10:48:46 AM: Virtual folder path of data entry images/Images/DataEntry/4bd42e10-c950-45d4-add2-ccf29fba2a1d/32/33/202
+6/3/2015 10:48:46 AM: controls binded successfully
+6/3/2015 10:53:45 AM: Dataentry Type of the stage : Form
+6/3/2015 10:53:45 AM: Get all stage related data from database
+6/3/2015 10:53:46 AM: Virtual folder path of data entry images/Images/DataEntry/cb501d94-a3b5-406c-bfc9-34e6fec5ca1b/32/33/202
+6/3/2015 10:53:46 AM: Pages count 1
+6/3/2015 10:53:46 AM: Binding image to panel started
+6/3/2015 10:53:46 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 10:53:46 AM: No Image avaiable
+6/3/2015 10:53:46 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:53:46 AM: Rendering controls completed.
+6/3/2015 10:53:46 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:53:46 AM: Completed initialization of controls.
+6/3/2015 10:53:46 AM: controls binded successfully
+6/3/2015 10:54:03 AM: Dataentry Type of the stage : Form
+6/3/2015 10:54:03 AM: Get all stage related data from database
+6/3/2015 10:54:03 AM: controls binded successfully
+6/3/2015 10:55:13 AM: Dataentry Type of the stage : Form
+6/3/2015 10:55:13 AM: Get all stage related data from database
+6/3/2015 10:55:15 AM: Virtual folder path of data entry images/Images/DataEntry/cb501d94-a3b5-406c-bfc9-34e6fec5ca1b/32/33/202
+6/3/2015 10:55:15 AM: Pages count 1
+6/3/2015 10:55:15 AM: Binding image to panel started
+6/3/2015 10:55:15 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 10:55:15 AM: No Image avaiable
+6/3/2015 10:55:15 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:55:15 AM: Rendering controls completed.
+6/3/2015 10:55:15 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:55:15 AM: Completed initialization of controls.
+6/3/2015 10:55:15 AM: controls binded successfully
+6/3/2015 10:56:16 AM: Dataentry Type of the stage : Form
+6/3/2015 10:56:16 AM: Get all stage related data from database
+6/3/2015 10:56:39 AM: Virtual folder path of data entry images/Images/DataEntry/cb501d94-a3b5-406c-bfc9-34e6fec5ca1b/32/33/202
+6/3/2015 10:57:23 AM: Pages count 1
+6/3/2015 10:57:43 AM: Binding image to panel started
+6/3/2015 10:57:44 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 10:57:58 AM: No Image avaiable
+6/3/2015 10:57:58 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:57:58 AM: Rendering controls completed.
+6/3/2015 10:57:58 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 10:57:58 AM: Completed initialization of controls.
+6/3/2015 10:57:58 AM: controls binded successfully
+6/3/2015 11:18:15 AM: Dataentry Type of the stage : Form
+6/3/2015 11:18:15 AM: Get all stage related data from database
+6/3/2015 11:18:17 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:18:27 AM: Pages count 1
+6/3/2015 11:18:27 AM: Binding image to panel started
+6/3/2015 11:18:27 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:18:27 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:18:27 AM: Rendering controls completed.
+6/3/2015 11:18:27 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:18:27 AM: Completed initialization of controls.
+6/3/2015 11:18:27 AM: controls binded successfully
+6/3/2015 11:18:49 AM: Dataentry Type of the stage : Form
+6/3/2015 11:18:49 AM: Get all stage related data from database
+6/3/2015 11:19:00 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:19:15 AM: Pages count 1
+6/3/2015 11:19:15 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:19:15 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:19:15 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\1.jpg
+6/3/2015 11:19:15 AM: Converted pdf to jpg
+6/3/2015 11:19:15 AM: Binding image to panel started
+6/3/2015 11:19:15 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:19:15 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:19:15 AM: Rendering controls completed.
+6/3/2015 11:19:15 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:19:15 AM: Completed initialization of controls.
+6/3/2015 11:19:15 AM: controls binded successfully
+6/3/2015 11:19:36 AM: Dataentry Type of the stage : Form
+6/3/2015 11:19:36 AM: Get all stage related data from database
+6/3/2015 11:19:39 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:20:46 AM: Pages count 1
+6/3/2015 11:20:47 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:20:47 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:20:47 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\1.jpg
+6/3/2015 11:20:48 AM: Converted pdf to jpg
+6/3/2015 11:21:07 AM: Binding image to panel started
+6/3/2015 11:23:00 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:29:45 AM: Binding image to panel started
+6/3/2015 11:29:45 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:29:45 AM: Exception: Multiple controls with the same ID 'ControlPnl1' were found. FindControl requires that controls have unique IDs.
+6/3/2015 11:29:45 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:29:45 AM: Completed initialization of controls.
+6/3/2015 11:29:45 AM: controls binded successfully
+6/3/2015 11:29:51 AM: Dataentry Type of the stage : Form
+6/3/2015 11:29:51 AM: Get all stage related data from database
+6/3/2015 11:29:55 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:29:56 AM: Pages count 1
+6/3/2015 11:29:56 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:29:56 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:29:56 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\1.jpg
+6/3/2015 11:29:56 AM: Converted pdf to jpg
+6/3/2015 11:30:02 AM: Binding image to panel started
+6/3/2015 11:30:02 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:30:11 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:30:11 AM: Rendering controls completed.
+6/3/2015 11:30:11 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:30:11 AM: Completed initialization of controls.
+6/3/2015 11:30:11 AM: controls binded successfully
+6/3/2015 11:30:40 AM: Dataentry Type of the stage : Form
+6/3/2015 11:30:40 AM: Get all stage related data from database
+6/3/2015 11:30:42 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:30:43 AM: Pages count 1
+6/3/2015 11:30:43 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:30:43 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:30:43 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\1.jpg
+6/3/2015 11:30:43 AM: Converted pdf to jpg
+6/3/2015 11:30:43 AM: Binding image to panel started
+6/3/2015 11:30:43 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:30:43 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:30:43 AM: Rendering controls completed.
+6/3/2015 11:30:43 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:30:43 AM: Completed initialization of controls.
+6/3/2015 11:30:43 AM: controls binded successfully
+6/3/2015 11:30:48 AM: Dataentry Type of the stage : Form
+6/3/2015 11:30:48 AM: Get all stage related data from database
+6/3/2015 11:30:49 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:30:50 AM: controls binded successfully
+6/3/2015 11:31:01 AM: Dataentry Type of the stage : Form
+6/3/2015 11:31:01 AM: Get all stage related data from database
+6/3/2015 11:31:02 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:31:03 AM: Pages count 1
+6/3/2015 11:31:03 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:31:03 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:31:03 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\1.jpg
+6/3/2015 11:31:03 AM: Converted pdf to jpg
+6/3/2015 11:31:10 AM: Binding image to panel started
+6/3/2015 11:31:10 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:33:15 AM: Pages count 1
+6/3/2015 11:33:18 AM: Binding image to panel started
+6/3/2015 11:33:18 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:33:36 AM: Exception: Multiple controls with the same ID 'ControlPnl1' were found. FindControl requires that controls have unique IDs.
+6/3/2015 11:33:36 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:33:36 AM: Completed initialization of controls.
+6/3/2015 11:33:36 AM: controls binded successfully
+6/3/2015 11:33:56 AM: Dataentry Type of the stage : Form
+6/3/2015 11:33:56 AM: Get all stage related data from database
+6/3/2015 11:33:58 AM: Virtual folder path of data entry images/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:34:01 AM: Pages count 1
+6/3/2015 11:34:01 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:34:01 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202
+6/3/2015 11:34:01 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\1.jpg
+6/3/2015 11:34:01 AM: Converted pdf to jpg
+6/3/2015 11:34:06 AM: Binding image to panel started
+6/3/2015 11:34:06 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/c352e086-c585-4ed3-8829-1e92c2f45b54/32/33/202\/1.jpg
+6/3/2015 11:34:26 AM: Pages count 1
+6/3/2015 11:35:25 AM: Binding image to panel started
+6/3/2015 11:35:31 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:36:04 AM: Exception: Multiple controls with the same ID 'ControlPnl1' were found. FindControl requires that controls have unique IDs.
+6/3/2015 11:36:04 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:36:04 AM: Completed initialization of controls.
+6/3/2015 11:36:04 AM: controls binded successfully
+6/3/2015 11:48:33 AM: Dataentry Type of the stage : Form
+6/3/2015 11:48:33 AM: Get all stage related data from database
+6/3/2015 11:48:35 AM: Virtual folder path of data entry images/Images/DataEntry/f3dbe0a1-98a7-474f-992d-f33c96fb69db/32/33/202
+6/3/2015 11:48:35 AM: Pages count 1
+6/3/2015 11:48:35 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f3dbe0a1-98a7-474f-992d-f33c96fb69db/32/33/202
+6/3/2015 11:48:35 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f3dbe0a1-98a7-474f-992d-f33c96fb69db/32/33/202
+6/3/2015 11:48:35 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f3dbe0a1-98a7-474f-992d-f33c96fb69db/32/33/202\1.jpg
+6/3/2015 11:48:35 AM: Converted pdf to jpg
+6/3/2015 11:48:35 AM: Binding image to panel started
+6/3/2015 11:48:36 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f3dbe0a1-98a7-474f-992d-f33c96fb69db/32/33/202\/1.jpg
+6/3/2015 11:48:36 AM: Pages count 1
+6/3/2015 11:48:36 AM: Binding image to panel started
+6/3/2015 11:48:36 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:48:36 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:48:36 AM: Rendering controls completed.
+6/3/2015 11:48:36 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:48:36 AM: Completed initialization of controls.
+6/3/2015 11:48:36 AM: controls binded successfully
+6/3/2015 11:51:07 AM: Dataentry Type of the stage : Form
+6/3/2015 11:51:07 AM: Get all stage related data from database
+6/3/2015 11:51:09 AM: Virtual folder path of data entry images/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:51:09 AM: Pages count 1
+6/3/2015 11:51:09 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:51:09 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:51:09 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202\1.jpg
+6/3/2015 11:51:10 AM: Converted pdf to jpg
+6/3/2015 11:51:10 AM: Binding image to panel started
+6/3/2015 11:51:10 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202\/1.jpg
+6/3/2015 11:51:10 AM: Pages count 1
+6/3/2015 11:51:10 AM: Binding image to panel started
+6/3/2015 11:51:10 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:51:10 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:51:10 AM: Rendering controls completed.
+6/3/2015 11:51:10 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:51:10 AM: Completed initialization of controls.
+6/3/2015 11:51:10 AM: controls binded successfully
+6/3/2015 11:51:20 AM: Dataentry Type of the stage : Form
+6/3/2015 11:51:20 AM: Get all stage related data from database
+6/3/2015 11:51:25 AM: Virtual folder path of data entry images/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:51:25 AM: Pages count 1
+6/3/2015 11:51:25 AM: Binding image to panel started
+6/3/2015 11:51:25 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:51:25 AM: No Image avaiable
+6/3/2015 11:51:25 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:51:25 AM: Rendering controls completed.
+6/3/2015 11:51:25 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:51:25 AM: Completed initialization of controls.
+6/3/2015 11:51:25 AM: controls binded successfully
+6/3/2015 11:52:17 AM: Dataentry Type of the stage : Form
+6/3/2015 11:52:17 AM: Get all stage related data from database
+6/3/2015 11:52:17 AM: Virtual folder path of data entry images/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:52:17 AM: Pages count 1
+6/3/2015 11:52:17 AM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:52:17 AM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:52:17 AM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202\1.jpg
+6/3/2015 11:52:17 AM: Converted pdf to jpg
+6/3/2015 11:52:17 AM: Binding image to panel started
+6/3/2015 11:52:17 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202\/1.jpg
+6/3/2015 11:52:17 AM: Pages count 1
+6/3/2015 11:52:17 AM: Binding image to panel started
+6/3/2015 11:52:17 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:52:31 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:52:31 AM: Rendering controls completed.
+6/3/2015 11:52:31 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:52:31 AM: Completed initialization of controls.
+6/3/2015 11:52:31 AM: controls binded successfully
+6/3/2015 11:52:39 AM: Dataentry Type of the stage : Form
+6/3/2015 11:52:39 AM: Get all stage related data from database
+6/3/2015 11:52:39 AM: Virtual folder path of data entry images/Images/DataEntry/254e62e9-9976-4113-aea9-edc0f41a6ce5/32/33/202
+6/3/2015 11:52:39 AM: Pages count 1
+6/3/2015 11:52:39 AM: Binding image to panel started
+6/3/2015 11:52:39 AM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 11:52:53 AM: No Image avaiable
+6/3/2015 11:52:53 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:52:53 AM: Rendering controls completed.
+6/3/2015 11:52:53 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 11:52:53 AM: Completed initialization of controls.
+6/3/2015 11:52:53 AM: controls binded successfully
+6/3/2015 12:27:36 PM: Dataentry Type of the stage : Form
+6/3/2015 12:27:36 PM: Get all stage related data from database
+6/3/2015 12:27:36 PM: Virtual folder path of data entry images/Images/DataEntry/f489cd6b-4f76-47f2-8a1e-352f814a4c89/32/33/202
+6/3/2015 12:27:36 PM: Pages count 1
+6/3/2015 12:27:36 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f489cd6b-4f76-47f2-8a1e-352f814a4c89/32/33/202
+6/3/2015 12:27:36 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f489cd6b-4f76-47f2-8a1e-352f814a4c89/32/33/202
+6/3/2015 12:27:36 PM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f489cd6b-4f76-47f2-8a1e-352f814a4c89/32/33/202\1.jpg
+6/3/2015 12:27:37 PM: Converted pdf to jpg
+6/3/2015 12:27:37 PM: Binding image to panel started
+6/3/2015 12:27:37 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/f489cd6b-4f76-47f2-8a1e-352f814a4c89/32/33/202\/1.jpg
+6/3/2015 12:27:37 PM: Pages count 1
+6/3/2015 12:27:37 PM: Binding image to panel started
+6/3/2015 12:27:37 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 12:27:39 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 12:27:39 PM: Rendering controls completed.
+6/3/2015 12:27:39 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 12:27:39 PM: Completed initialization of controls.
+6/3/2015 12:27:39 PM: controls binded successfully
+6/3/2015 2:51:34 PM: Dataentry Type of the stage : Form
+6/3/2015 2:51:34 PM: Get all stage related data from database
+6/3/2015 2:51:34 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:51:34 PM: Pages count 1
+6/3/2015 2:51:34 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:51:34 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:51:34 PM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\1.jpg
+6/3/2015 2:51:34 PM: Converted pdf to jpg
+6/3/2015 2:51:34 PM: Binding image to panel started
+6/3/2015 2:51:34 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\/1.jpg
+6/3/2015 2:51:34 PM: Pages count 1
+6/3/2015 2:51:34 PM: Binding image to panel started
+6/3/2015 2:51:34 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 2:51:34 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:51:34 PM: Rendering controls completed.
+6/3/2015 2:51:34 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:51:34 PM: Completed initialization of controls.
+6/3/2015 2:51:34 PM: controls binded successfully
+6/3/2015 2:51:56 PM: DataEntryTypes count : 3
+6/3/2015 2:52:03 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:03 PM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/3/2015 2:52:03 PM: Loading image based on page number for coordinate capturing
+6/3/2015 2:52:03 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/3/2015 2:52:03 PM: status of the back ground image is: False
+6/3/2015 2:52:06 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:09 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:09 PM: Retrived the data to bind the controls
+6/3/2015 2:52:09 PM: All controls values binded properly
+6/3/2015 2:52:09 PM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/3/2015 2:52:09 PM: Loading image based on page number for coordinate capturing
+6/3/2015 2:52:09 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/3/2015 2:52:09 PM: status of the back ground image is: False
+6/3/2015 2:52:16 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:18 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:18 PM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/3/2015 2:52:18 PM: Loading image based on page number for coordinate capturing
+6/3/2015 2:52:18 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/3/2015 2:52:18 PM: status of the back ground image is: False
+6/3/2015 2:52:30 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:30 PM: retrive the data from textbox to save the values
+6/3/2015 2:52:30 PM: Dataentry Type of the stage before saving : Form
+6/3/2015 2:52:30 PM: Save completed successfully: 
+6/3/2015 2:52:34 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:34 PM: Retrived the data to bind the controls
+6/3/2015 2:52:34 PM: All controls values binded properly
+6/3/2015 2:52:34 PM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/3/2015 2:52:34 PM: Loading image based on page number for coordinate capturing
+6/3/2015 2:52:34 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/3/2015 2:52:34 PM: status of the back ground image is: False
+6/3/2015 2:52:36 PM: Dataentry Type of the stage : Form
+6/3/2015 2:52:56 PM: Dataentry Type of the stage : Form
+6/3/2015 2:53:02 PM: Dataentry Type of the stage : Form
+6/3/2015 2:53:02 PM: Get all stage related data from database
+6/3/2015 2:53:02 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:02 PM: Pages count 1
+6/3/2015 2:53:02 PM: Binding image to panel started
+6/3/2015 2:53:02 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 2:53:02 PM: No Image avaiable
+6/3/2015 2:53:02 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:53:02 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:53:02 PM: Exception: Object reference not set to an instance of an object.
+6/3/2015 2:53:02 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:53:02 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:53:02 PM: Completed initialization of controls.
+6/3/2015 2:53:02 PM: controls binded successfully
+6/3/2015 2:53:09 PM: Dataentry Type of the stage : Form
+6/3/2015 2:53:09 PM: Get all stage related data from database
+6/3/2015 2:53:09 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:09 PM: controls binded successfully
+6/3/2015 2:53:16 PM: Dataentry Type of the stage : Form
+6/3/2015 2:53:16 PM: Get all stage related data from database
+6/3/2015 2:53:16 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:16 PM: Pages count 1
+6/3/2015 2:53:16 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:16 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:16 PM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\1.jpg
+6/3/2015 2:53:16 PM: Converted pdf to jpg
+6/3/2015 2:53:16 PM: Binding image to panel started
+6/3/2015 2:53:16 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\/1.jpg
+6/3/2015 2:53:16 PM: Pages count 1
+6/3/2015 2:53:16 PM: Binding image to panel started
+6/3/2015 2:53:16 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 2:53:16 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:53:16 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:53:16 PM: Exception: Object reference not set to an instance of an object.
+6/3/2015 2:53:16 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:53:16 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:53:16 PM: Completed initialization of controls.
+6/3/2015 2:53:16 PM: controls binded successfully
+6/3/2015 2:53:30 PM: Dataentry Type of the stage : Form
+6/3/2015 2:53:30 PM: Get all stage related data from database
+6/3/2015 2:53:30 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:30 PM: controls binded successfully
+6/3/2015 2:53:35 PM: Dataentry Type of the stage : Form
+6/3/2015 2:53:35 PM: Get all stage related data from database
+6/3/2015 2:53:35 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:35 PM: Pages count 1
+6/3/2015 2:53:35 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:35 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:53:35 PM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\1.jpg
+6/3/2015 2:53:35 PM: Converted pdf to jpg
+6/3/2015 2:53:35 PM: Binding image to panel started
+6/3/2015 2:53:35 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\/1.jpg
+6/3/2015 2:53:35 PM: Pages count 1
+6/3/2015 2:53:35 PM: Binding image to panel started
+6/3/2015 2:53:35 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 2:53:35 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:53:35 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:53:35 PM: Exception: Object reference not set to an instance of an object.
+6/3/2015 2:53:35 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:53:35 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:53:35 PM: Completed initialization of controls.
+6/3/2015 2:53:35 PM: controls binded successfully
+6/3/2015 2:54:07 PM: DataEntryTypes count : 3
+6/3/2015 2:54:13 PM: Dataentry Type of the stage : Form
+6/3/2015 2:54:13 PM: Retrived the data to bind the controls
+6/3/2015 2:54:13 PM: All controls values binded properly
+6/3/2015 2:54:13 PM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/3/2015 2:54:13 PM: Loading image based on page number for coordinate capturing
+6/3/2015 2:54:13 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/3/2015 2:54:13 PM: status of the back ground image is: False
+6/3/2015 2:54:15 PM: Dataentry Type of the stage : Form
+6/3/2015 2:54:22 PM: Dataentry Type of the stage : Form
+6/3/2015 2:54:24 PM: Dataentry Type of the stage : Form
+6/3/2015 2:54:25 PM: retrive the data from textbox to save the values
+6/3/2015 2:54:25 PM: Dataentry Type of the stage before saving : Form
+6/3/2015 2:54:25 PM: Save completed successfully: 
+6/3/2015 2:54:31 PM: Dataentry Type of the stage : Form
+6/3/2015 2:54:31 PM: Get all stage related data from database
+6/3/2015 2:54:31 PM: Virtual folder path of data entry images/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:54:31 PM: Pages count 1
+6/3/2015 2:54:31 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:54:31 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202
+6/3/2015 2:54:31 PM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\1.jpg
+6/3/2015 2:54:31 PM: Converted pdf to jpg
+6/3/2015 2:54:31 PM: Binding image to panel started
+6/3/2015 2:54:31 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/addfb541-f1ae-4382-99f9-e22d910666bc/32/33/202\/1.jpg
+6/3/2015 2:54:31 PM: Pages count 1
+6/3/2015 2:54:31 PM: Binding image to panel started
+6/3/2015 2:54:31 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 2:54:32 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:54:32 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:54:32 PM: Rendering controls completed.
+6/3/2015 2:54:32 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 2:54:32 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/3/2015 2:54:32 PM: Completed initialization of controls.
+6/3/2015 2:54:32 PM: controls binded successfully
+6/3/2015 3:10:39 PM: Dataentry Type of the stage : Form
+6/3/2015 3:10:39 PM: Get all stage related data from database
+6/3/2015 3:10:39 PM: Virtual folder path of data entry images/Images/DataEntry/ca5eadc3-9226-406a-8a36-9fcf0b155391/32/33/202
+6/3/2015 3:10:39 PM: Pages count 1
+6/3/2015 3:10:39 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/ca5eadc3-9226-406a-8a36-9fcf0b155391/32/33/202
+6/3/2015 3:10:39 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/ca5eadc3-9226-406a-8a36-9fcf0b155391/32/33/202
+6/3/2015 3:10:39 PM: Converting pdf file into jpg. Source: D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjY=\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/ca5eadc3-9226-406a-8a36-9fcf0b155391/32/33/202\1.jpg
+6/3/2015 3:10:39 PM: Converted pdf to jpg
+6/3/2015 3:10:39 PM: Binding image to panel started
+6/3/2015 3:10:39 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/ca5eadc3-9226-406a-8a36-9fcf0b155391/32/33/202\/1.jpg
+6/3/2015 3:10:39 PM: Pages count 1
+6/3/2015 3:10:39 PM: Binding image to panel started
+6/3/2015 3:10:39 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/3/2015 3:10:39 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/3/2015 3:10:39 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/3/2015 3:10:39 PM: Rendering controls completed.
+6/3/2015 3:10:39 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/3/2015 3:10:39 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/3/2015 3:10:39 PM: Completed initialization of controls.
+6/3/2015 3:10:39 PM: controls binded successfully
+6/3/2015 3:26:14 PM: BindDocumentType started
+6/3/2015 3:26:14 PM: BindDocumentType finished
+6/3/2015 3:38:00 PM: createControls Started
+6/3/2015 3:38:00 PM: createControls Loaded all Textbox dynamically
+6/3/2015 3:38:00 PM: createControls Loaded all Dropdownlist dynamically
+6/3/2015 3:38:00 PM: createControls Loaded all Dropdownlist dynamically
+6/3/2015 3:38:00 PM: createControls Loaded all Textbox dynamically
+6/3/2015 3:38:00 PM: createControls Loaded all Textbox dynamically
+6/3/2015 3:38:00 PM: createControls Loaded all Textbox dynamically
+6/3/2015 3:38:00 PM: createControls Finished
+6/3/2015 3:38:00 PM: GetTemplateDetails started
+6/3/2015 3:38:00 PM: generatecontrols Started
+6/3/2015 3:38:00 PM: GenerateControls:Loaded all Textbox dynamically
+6/3/2015 3:38:00 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/3/2015 3:38:00 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/3/2015 3:38:00 PM: GenerateControls:Loaded all Textbox dynamically
+6/3/2015 3:38:01 PM: GenerateControls:Loaded all Textbox dynamically
+6/3/2015 3:38:01 PM: GenerateControls:Loaded all Textbox dynamically
+6/3/2015 3:38:17 PM: GetSginatureDetails Started:-
+6/3/2015 3:38:17 PM: GetSginatureDetails Completed:-
+6/3/2015 3:38:17 PM: GetTemplateDetails Started
+6/3/2015 3:38:17 PM: GetTemplateDetails total record count:1
+6/3/2015 3:38:17 PM: Create controls,Load all Textbox dynamic
+6/3/2015 3:38:17 PM: Createcontrols,Load all Dropdownlist dynamic
+6/3/2015 3:38:17 PM: Createcontrols,Load all Dropdownlist dynamic
+6/3/2015 3:38:17 PM: Create controls,Load all Textbox dynamic
+6/3/2015 3:38:17 PM: Create controls,Load all Textbox dynamic
+6/3/2015 3:38:17 PM: Create controls,Load all Textbox dynamic
+6/3/2015 3:38:17 PM: GetTemplateDetails Finished
+6/3/2015 3:38:17 PM: InitializeDocumentView started
+6/3/2015 3:38:17 PM: InitializeDocumentView finished
+6/3/2015 3:38:17 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetAnnotatedPages
+6/3/2015 3:38:18 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetTaggedPages
+6/3/2015 3:38:18 PM: LoadImageToViewer started
+6/3/2015 3:38:18 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+6/3/2015 3:38:18 PM: MailPanelFill started
+6/3/2015 3:38:18 PM: MailPanelFill finished
+6/3/2015 3:38:24 PM: BindDocumentType started
+6/3/2015 3:38:24 PM: BindDocumentType finished

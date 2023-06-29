@@ -1,0 +1,237 @@
+27/12/2016 10:40:16 AM: BindDocumentType started
+27/12/2016 10:40:17 AM: BindDocumentType finished
+27/12/2016 10:40:19 AM: createControls Started
+27/12/2016 10:40:19 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: createControls Finished
+27/12/2016 10:40:19 AM: GetTemplateDetails started
+27/12/2016 10:40:19 AM: generatecontrols Started
+27/12/2016 10:40:19 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:40:19 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Started
+27/12/2016 10:40:32 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:32 AM: createControls Finished
+27/12/2016 10:40:32 AM: GetTemplateDetails started
+27/12/2016 10:40:45 AM: createControls Started
+27/12/2016 10:40:45 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:45 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:45 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:45 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:45 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:45 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:40:45 AM: createControls Finished
+27/12/2016 10:40:45 AM: BindQueries started
+27/12/2016 10:40:45 AM: BindQueries finished
+27/12/2016 10:40:46 AM: GetTemplatefieldDetails started
+27/12/2016 10:40:46 AM: GetTemplatefieldDetails finished
+27/12/2016 10:40:50 AM: btnPerformQueryClick started
+27/12/2016 10:40:50 AM: BuildQuery() executed properly 
+27/12/2016 10:40:50 AM: whereclause value 
+27/12/2016 10:40:50 AM: From Search click,QueryWhereClause() is executed properly 
+27/12/2016 10:40:50 AM: Before searching the details with whereclause : 
+27/12/2016 10:40:50 AM: btnPerformQueryClick search result record count 1
+27/12/2016 10:40:50 AM: btnPerformQueryClick finished
+27/12/2016 10:41:03 AM: createControls Started
+27/12/2016 10:41:03 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: createControls Finished
+27/12/2016 10:41:03 AM: GetTemplateDetails started
+27/12/2016 10:41:03 AM: generatecontrols Started
+27/12/2016 10:41:03 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:41:03 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:30 AM: BindDocumentType started
+27/12/2016 10:42:30 AM: BindDocumentType finished
+27/12/2016 10:42:33 AM: createControls Started
+27/12/2016 10:42:33 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: createControls Finished
+27/12/2016 10:42:33 AM: GetTemplateDetails started
+27/12/2016 10:42:33 AM: generatecontrols Started
+27/12/2016 10:42:33 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:33 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Started
+27/12/2016 10:42:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 10:42:51 AM: createControls Finished
+27/12/2016 10:42:51 AM: BindQueries started
+27/12/2016 10:42:51 AM: BindQueries finished
+27/12/2016 10:42:52 AM: GetTemplatefieldDetails started
+27/12/2016 10:42:52 AM: GetTemplatefieldDetails finished
+27/12/2016 10:42:54 AM: btnPerformQueryClick started
+27/12/2016 10:42:54 AM: BuildQuery() executed properly 
+27/12/2016 10:42:54 AM: whereclause value 
+27/12/2016 10:42:54 AM: From Search click,QueryWhereClause() is executed properly 
+27/12/2016 10:42:54 AM: Before searching the details with whereclause : 
+27/12/2016 10:42:54 AM: btnPerformQueryClick search result record count 1
+27/12/2016 10:42:54 AM: btnPerformQueryClick finished
+27/12/2016 11:28:06 AM: BindDocumentType started
+27/12/2016 11:28:06 AM: BindDocumentType finished
+27/12/2016 11:28:26 AM: createControls Started
+27/12/2016 11:28:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: createControls Finished
+27/12/2016 11:28:26 AM: GetTemplateDetails started
+27/12/2016 11:28:26 AM: generatecontrols Started
+27/12/2016 11:28:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:28:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:29:23 AM: BindDocumentType started
+27/12/2016 11:29:23 AM: BindDocumentType finished
+27/12/2016 11:29:29 AM: createControls Started
+27/12/2016 11:29:29 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: createControls Finished
+27/12/2016 11:29:29 AM: GetTemplateDetails started
+27/12/2016 11:29:29 AM: generatecontrols Started
+27/12/2016 11:29:29 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:29:29 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:32:08 AM: BindDocumentType started
+27/12/2016 11:32:08 AM: BindDocumentType finished
+27/12/2016 11:32:13 AM: createControls Started
+27/12/2016 11:32:13 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: createControls Finished
+27/12/2016 11:32:13 AM: GetTemplateDetails started
+27/12/2016 11:32:13 AM: generatecontrols Started
+27/12/2016 11:32:13 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:32:13 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:34:46 AM: BindDocumentType started
+27/12/2016 11:34:46 AM: BindDocumentType finished
+27/12/2016 11:34:51 AM: createControls Started
+27/12/2016 11:34:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: createControls Finished
+27/12/2016 11:34:51 AM: GetTemplateDetails started
+27/12/2016 11:34:51 AM: generatecontrols Started
+27/12/2016 11:34:51 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:34:51 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:37:19 AM: BindDocumentType started
+27/12/2016 11:37:19 AM: BindDocumentType finished
+27/12/2016 11:37:21 AM: BindDocumentType started
+27/12/2016 11:37:21 AM: BindDocumentType finished
+27/12/2016 11:37:26 AM: createControls Started
+27/12/2016 11:37:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: createControls Finished
+27/12/2016 11:37:26 AM: GetTemplateDetails started
+27/12/2016 11:37:26 AM: generatecontrols Started
+27/12/2016 11:37:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:37:26 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:11 AM: BindDocumentType started
+27/12/2016 11:39:11 AM: BindDocumentType finished
+27/12/2016 11:39:17 AM: createControls Started
+27/12/2016 11:39:17 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: createControls Finished
+27/12/2016 11:39:17 AM: GetTemplateDetails started
+27/12/2016 11:39:17 AM: generatecontrols Started
+27/12/2016 11:39:17 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:17 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:39:38 AM: BindDocumentType started
+27/12/2016 11:39:38 AM: BindDocumentType finished
+27/12/2016 11:42:01 AM: BindDocumentType started
+27/12/2016 11:42:01 AM: BindDocumentType finished
+27/12/2016 11:42:04 AM: createControls Started
+27/12/2016 11:42:04 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: createControls Finished
+27/12/2016 11:42:04 AM: GetTemplateDetails started
+27/12/2016 11:42:04 AM: generatecontrols Started
+27/12/2016 11:42:04 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:42:04 AM: GenerateControls:Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Started
+27/12/2016 11:42:35 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Loaded all Textbox dynamically
+27/12/2016 11:42:35 AM: createControls Finished

@@ -1,0 +1,98 @@
+5/4/2023 12:38:09 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2765
+5/4/2023 12:38:12 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2765
+5/4/2023 12:38:17 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2765
+5/4/2023 3:15:50 PM: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.GridView1_RowDataBound(Object sender, GridViewRowEventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2921
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2782
+5/4/2023 3:31:51 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.GridView1_RowDataBound(Object sender, GridViewRowEventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2922
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2782
+5/4/2023 3:38:47 PM: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Web.UI.WebControls.DataKeyArray.get_Item(Int32 index)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.GridView1_RowDataBound(Object sender, GridViewRowEventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2914
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2782
+5/4/2023 3:44:42 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.GridView1_RowDataBound(Object sender, GridViewRowEventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2915
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2782
+5/4/2023 3:46:44 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.GridView1_RowDataBound(Object sender, GridViewRowEventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2915
+   at System.Web.UI.WebControls.GridView.OnRowDataBound(GridViewRowEventArgs e)
+   at System.Web.UI.WebControls.GridView.CreateRow(Int32 rowIndex, Int32 dataSourceIndex, DataControlRowType rowType, DataControlRowState rowState, Boolean dataBind, Object dataItem, DataControlField[] fields, TableRowCollection rows, PagedDataSource pagedDataSource)
+   at System.Web.UI.WebControls.GridView.CreateChildControls(IEnumerable dataSource, Boolean dataBinding)
+   at System.Web.UI.WebControls.CompositeDataBoundControl.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.GridView.PerformDataBinding(IEnumerable data)
+   at System.Web.UI.WebControls.DataBoundControl.OnDataSourceViewSelectCallback(IEnumerable data)
+   at System.Web.UI.DataSourceView.Select(DataSourceSelectArguments arguments, DataSourceViewSelectCallback callback)
+   at System.Web.UI.WebControls.DataBoundControl.PerformSelect()
+   at System.Web.UI.WebControls.BaseDataBoundControl.DataBind()
+   at System.Web.UI.WebControls.GridView.DataBind()
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2782
+5/4/2023 5:25:21 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2635
+5/4/2023 5:35:16 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:35:30 PM: Successfully executed the report DAL funtion
+5/4/2023 5:37:15 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:38:28 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:38:37 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:39:28 PM: Successfully executed the report DAL funtion
+5/4/2023 5:41:23 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:48:28 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:49:01 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:50:14 PM: StartIndex cannot be less than zero.
+Parameter name: startIndex
+5/4/2023 5:50:43 PM: Successfully executed the report DAL funtion

@@ -1,0 +1,369 @@
+12/21/2017 4:28:50 PM: BindDocumentType started
+12/21/2017 4:28:50 PM: BindDocumentType finished
+12/21/2017 4:28:53 PM: createControls Started
+12/21/2017 4:28:53 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:28:53 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:28:53 PM: createControls Finished
+12/21/2017 4:28:53 PM: GetTemplateDetails started
+12/21/2017 4:28:53 PM: generatecontrols Started
+12/21/2017 4:28:53 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 4:28:53 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 4:28:54 PM: createControls Started
+12/21/2017 4:28:54 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:28:54 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:28:54 PM: createControls Finished
+12/21/2017 4:28:54 PM: Started Loading Entity Drop Down
+12/21/2017 4:28:54 PM: Finished Loading Entity Drop Down
+12/21/2017 4:28:56 PM: createControls Started
+12/21/2017 4:28:56 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:28:56 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:28:56 PM: createControls Finished
+12/21/2017 4:28:58 PM: GetSginatureDetails Started:-
+12/21/2017 4:28:58 PM: GetSginatureDetails Completed:-
+12/21/2017 4:28:58 PM: GetTemplateDetails Started
+12/21/2017 4:28:58 PM: GetTemplateDetails total record count:1
+12/21/2017 4:28:58 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:28:58 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:28:58 PM: GetTemplateDetails Finished
+12/21/2017 4:28:58 PM: InitializeDocumentView started
+12/21/2017 4:28:58 PM: InitializeDocumentView finished
+12/21/2017 4:28:58 PM: Calling database to get annotated images. DocumentId: 338671, Action: GetAnnotatedPages
+12/21/2017 4:28:58 PM: Calling database to get annotated images. DocumentId: 338671, Action: GetTaggedPages
+12/21/2017 4:28:58 PM: LoadImageToViewer started
+12/21/2017 4:28:58 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+12/21/2017 4:28:58 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xNDAz\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xNDAz Page No: 1
+12/21/2017 4:28:58 PM: Converting PDF to JPEG without applying watermark.
+12/21/2017 4:28:58 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xndazjpg//1.jpeg
+12/21/2017 4:28:58 PM: Invoke method to get annotations from databnase.
+12/21/2017 4:28:58 PM: Get annotations from database.
+12/21/2017 4:28:58 PM: Document Id: 338671 Page No: 1
+12/21/2017 4:28:58 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+12/21/2017 4:28:58 PM: MailPanelFill started
+12/21/2017 4:28:58 PM: MailPanelFill finished
+12/21/2017 4:29:05 PM: GetTemplateDetails Started
+12/21/2017 4:29:05 PM: GetTemplateDetails total record count:1
+12/21/2017 4:29:05 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:29:05 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:29:05 PM: GetTemplateDetails Finished
+12/21/2017 4:29:05 PM: LoadImageToViewer started
+12/21/2017 4:29:05 PM: Setting image to viewer. Action: NEXT Page count: 6 Current Page:1
+12/21/2017 4:29:05 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xNDAz\2.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xNDAz Page No: 2
+12/21/2017 4:29:05 PM: Converting PDF to JPEG without applying watermark.
+12/21/2017 4:29:05 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xndazjpg//2.jpeg
+12/21/2017 4:29:05 PM: Invoke method to get annotations from databnase.
+12/21/2017 4:29:05 PM: Get annotations from database.
+12/21/2017 4:29:05 PM: Document Id: 338671 Page No: 2
+12/21/2017 4:29:05 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+12/21/2017 4:29:12 PM: GetTemplateDetails Started
+12/21/2017 4:29:12 PM: GetTemplateDetails total record count:1
+12/21/2017 4:29:12 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:29:12 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:29:12 PM: GetTemplateDetails Finished
+12/21/2017 4:29:12 PM: DownloadWithAnnotation started
+12/21/2017 4:29:12 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:29:12 PM: Converting JPG back to pdf.
+12/21/2017 4:29:13 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:29:13 PM: Converting JPG back to pdf.
+12/21/2017 4:29:13 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:29:13 PM: Converting JPG back to pdf.
+12/21/2017 4:29:13 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:29:13 PM: Converting JPG back to pdf.
+12/21/2017 4:29:13 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:29:14 PM: Converting JPG back to pdf.
+12/21/2017 4:29:14 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:29:14 PM: Converting JPG back to pdf.
+12/21/2017 4:29:14 PM: Calling database to get annotated images. DocumentId: 338671, Action: GetAnnotationsForDownload
+12/21/2017 4:29:14 PM: getAvailablePages Started
+12/21/2017 4:31:10 PM: Updating activity track table for the action: UpdateTrackTableOnDownload
+12/21/2017 4:31:15 PM: GetTemplateDetails Started
+12/21/2017 4:31:15 PM: GetTemplateDetails total record count:1
+12/21/2017 4:31:15 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:31:15 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:31:15 PM: GetTemplateDetails Finished
+12/21/2017 4:31:15 PM: Downloading original document.
+12/21/2017 4:31:15 PM: GetDigitalSignatureDocumentDetails Started:-
+12/21/2017 4:31:15 PM: GetDigitalSignatureDocumentDetails Completed:-
+12/21/2017 4:31:15 PM: Updating activity track table for the action: UpdateTrackTableOnDownload
+12/21/2017 4:31:15 PM: Downloading original document completed.
+12/21/2017 4:33:58 PM: GetTemplateDetails Started
+12/21/2017 4:33:58 PM: GetTemplateDetails total record count:1
+12/21/2017 4:33:58 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:33:58 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:33:58 PM: GetTemplateDetails Finished
+12/21/2017 4:33:58 PM: DownloadWithAnnotation started
+12/21/2017 4:35:20 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:35:24 PM: Converting JPG back to pdf.
+12/21/2017 4:35:26 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:35:26 PM: Converting JPG back to pdf.
+12/21/2017 4:35:27 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:35:28 PM: Converting JPG back to pdf.
+12/21/2017 4:35:29 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:35:29 PM: Converting JPG back to pdf.
+12/21/2017 4:35:30 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:35:30 PM: Converting JPG back to pdf.
+12/21/2017 4:35:31 PM: Converting PDF to JPG and applying watermark on it
+12/21/2017 4:35:31 PM: Converting JPG back to pdf.
+12/21/2017 4:35:32 PM: Calling database to get annotated images. DocumentId: 338671, Action: GetAnnotationsForDownload
+12/21/2017 4:35:32 PM: getAvailablePages Started
+12/21/2017 4:35:32 PM: Updating activity track table for the action: UpdateTrackTableOnDownload
+12/21/2017 4:39:54 PM: GetTemplateDetails Started
+12/21/2017 4:39:54 PM: GetTemplateDetails total record count:1
+12/21/2017 4:39:54 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:39:54 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:39:54 PM: GetTemplateDetails Finished
+12/21/2017 4:39:54 PM: Downloading original document.
+12/21/2017 4:40:10 PM: GetDigitalSignatureDocumentDetails Started:-
+12/21/2017 4:40:10 PM: GetDigitalSignatureDocumentDetails Completed:-
+12/21/2017 4:41:05 PM: Updating activity track table for the action: UpdateTrackTableOnDownload
+12/21/2017 4:41:11 PM: Downloading original document completed.
+12/21/2017 4:46:58 PM: createControls Started
+12/21/2017 4:46:58 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:46:58 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:46:58 PM: createControls Finished
+12/21/2017 4:46:58 PM: generatecontrols Started
+12/21/2017 4:46:58 PM: Calling database to get reference id and watermark.
+12/21/2017 4:46:59 PM: Database returned result: NO_EX_510_250_1404|
+12/21/2017 4:46:59 PM: Generatecontrols,Load all Textbox dynamic
+12/21/2017 4:46:59 PM: Generatecontrols,Load all Textbox dynamic
+12/21/2017 4:47:00 PM: createControls Started
+12/21/2017 4:47:00 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:00 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:00 PM: createControls Finished
+12/21/2017 4:47:00 PM: generatecontrols Started
+12/21/2017 4:47:00 PM: Calling database to get reference id and watermark.
+12/21/2017 4:47:00 PM: Database returned result: NO_EX_510_250_1404|
+12/21/2017 4:47:00 PM: Generatecontrols,Load all Textbox dynamic
+12/21/2017 4:47:00 PM: Generatecontrols,Load all Textbox dynamic
+12/21/2017 4:47:05 PM: createControls Started
+12/21/2017 4:47:05 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:05 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:05 PM: createControls Finished
+12/21/2017 4:47:05 PM: AsyncFileUpload1_UploadedComplete Started
+12/21/2017 4:47:05 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/21/2017 4:47:05 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/21/2017 4:47:05 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/21/2017 4:47:05 PM: AsyncFileUpload1_UploadedComplete Finished
+12/21/2017 4:47:05 PM: createControls Started
+12/21/2017 4:47:05 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:05 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:05 PM: createControls Finished
+12/21/2017 4:47:05 PM: btnSubmit_Click Started
+12/21/2017 4:47:05 PM: btnSubmit_Click Finished
+12/21/2017 4:47:11 PM: createControls Started
+12/21/2017 4:47:11 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:11 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:47:11 PM: createControls Finished
+12/21/2017 4:47:11 PM: Started Saving Uploaded Document in Save Button Click
+12/21/2017 4:47:11 PM: AsyncFileUpload1_UploadedComplete Started
+12/21/2017 4:47:11 PM: AsyncFileUpload1_UploadedComplete Finished
+12/21/2017 4:47:11 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/21/2017 4:47:11 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/21/2017 4:47:13 PM: CreateXML Started:-
+12/21/2017 4:47:13 PM: CreateXML Completed:-
+12/21/2017 4:47:13 PM: Save button click after saving or updating the ReturnCode= 0
+12/21/2017 4:47:13 PM: Finished Saving Uploaded Document in Save Button Click
+12/21/2017 4:47:13 PM: AsyncFileUpload1_UploadedComplete Started
+12/21/2017 4:47:13 PM: AsyncFileUpload1_UploadedComplete Finished
+12/21/2017 4:50:23 PM: BindDocumentType started
+12/21/2017 4:50:23 PM: BindDocumentType finished
+12/21/2017 4:50:27 PM: createControls Started
+12/21/2017 4:50:27 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:50:27 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:50:27 PM: createControls Finished
+12/21/2017 4:50:27 PM: GetTemplateDetails started
+12/21/2017 4:50:27 PM: generatecontrols Started
+12/21/2017 4:50:27 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 4:50:27 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 4:50:29 PM: createControls Started
+12/21/2017 4:50:29 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:50:29 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:50:29 PM: createControls Finished
+12/21/2017 4:50:29 PM: Started Loading Entity Drop Down
+12/21/2017 4:50:29 PM: Finished Loading Entity Drop Down
+12/21/2017 4:50:31 PM: createControls Started
+12/21/2017 4:50:31 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:50:31 PM: createControls Loaded all Textbox dynamically
+12/21/2017 4:50:31 PM: createControls Finished
+12/21/2017 4:50:33 PM: GetSginatureDetails Started:-
+12/21/2017 4:50:33 PM: GetSginatureDetails Completed:-
+12/21/2017 4:50:33 PM: GetTemplateDetails Started
+12/21/2017 4:50:33 PM: GetTemplateDetails total record count:1
+12/21/2017 4:50:33 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:50:33 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:50:33 PM: GetTemplateDetails Finished
+12/21/2017 4:50:33 PM: InitializeDocumentView started
+12/21/2017 4:50:33 PM: InitializeDocumentView finished
+12/21/2017 4:50:33 PM: Calling database to get annotated images. DocumentId: 338672, Action: GetAnnotatedPages
+12/21/2017 4:50:33 PM: Calling database to get annotated images. DocumentId: 338672, Action: GetTaggedPages
+12/21/2017 4:50:33 PM: LoadImageToViewer started
+12/21/2017 4:50:33 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+12/21/2017 4:50:33 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xNDA0\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xNDA0 Page No: 1
+12/21/2017 4:50:33 PM: Converting PDF to JPEG without applying watermark.
+12/21/2017 4:50:33 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xnda0jpg//1.jpeg
+12/21/2017 4:50:33 PM: Invoke method to get annotations from databnase.
+12/21/2017 4:50:33 PM: Get annotations from database.
+12/21/2017 4:50:33 PM: Document Id: 338672 Page No: 1
+12/21/2017 4:50:33 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+12/21/2017 4:50:34 PM: MailPanelFill started
+12/21/2017 4:50:34 PM: MailPanelFill finished
+12/21/2017 4:50:36 PM: GetTemplateDetails Started
+12/21/2017 4:50:36 PM: GetTemplateDetails total record count:1
+12/21/2017 4:50:36 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:50:36 PM: Create controls,Load all Textbox dynamic
+12/21/2017 4:50:36 PM: GetTemplateDetails Finished
+12/21/2017 4:50:36 PM: Downloading original document.
+12/21/2017 4:50:50 PM: GetDigitalSignatureDocumentDetails Started:-
+12/21/2017 4:50:50 PM: GetDigitalSignatureDocumentDetails Completed:-
+12/21/2017 4:51:07 PM: Updating activity track table for the action: UpdateTrackTableOnDownload
+12/21/2017 4:51:08 PM: Downloading original document completed.
+12/21/2017 5:00:43 PM: BindDocumentType started
+12/21/2017 5:00:43 PM: BindDocumentType finished
+12/21/2017 5:00:47 PM: createControls Started
+12/21/2017 5:00:47 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:00:47 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:00:47 PM: createControls Finished
+12/21/2017 5:00:47 PM: GetTemplateDetails started
+12/21/2017 5:00:47 PM: generatecontrols Started
+12/21/2017 5:00:47 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:00:47 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:00:48 PM: createControls Started
+12/21/2017 5:00:48 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:00:48 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:00:48 PM: createControls Finished
+12/21/2017 5:00:48 PM: Started Loading Entity Drop Down
+12/21/2017 5:00:49 PM: Finished Loading Entity Drop Down
+12/21/2017 5:00:51 PM: createControls Started
+12/21/2017 5:00:51 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:00:51 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:00:51 PM: createControls Finished
+12/21/2017 5:00:54 PM: GetSginatureDetails Started:-
+12/21/2017 5:00:54 PM: GetSginatureDetails Completed:-
+12/21/2017 5:00:54 PM: GetTemplateDetails Started
+12/21/2017 5:00:54 PM: GetTemplateDetails total record count:1
+12/21/2017 5:00:54 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:00:54 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:00:54 PM: GetTemplateDetails Finished
+12/21/2017 5:00:54 PM: InitializeDocumentView started
+12/21/2017 5:00:54 PM: InitializeDocumentView finished
+12/21/2017 5:00:54 PM: Calling database to get annotated images. DocumentId: 208960, Action: GetAnnotatedPages
+12/21/2017 5:00:54 PM: Calling database to get annotated images. DocumentId: 208960, Action: GetTaggedPages
+12/21/2017 5:00:54 PM: LoadImageToViewer started
+12/21/2017 5:00:54 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/21/2017 5:00:54 PM: MailPanelFill started
+12/21/2017 5:00:54 PM: MailPanelFill finished
+12/21/2017 5:00:57 PM: GetTemplateDetails Started
+12/21/2017 5:00:57 PM: GetTemplateDetails total record count:1
+12/21/2017 5:00:57 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:00:57 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:00:57 PM: GetTemplateDetails Finished
+12/21/2017 5:00:57 PM: Downloading original document.
+12/21/2017 5:01:37 PM: BindDocumentType started
+12/21/2017 5:01:37 PM: BindDocumentType finished
+12/21/2017 5:01:40 PM: createControls Started
+12/21/2017 5:01:40 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:01:40 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:01:40 PM: createControls Finished
+12/21/2017 5:01:40 PM: GetTemplateDetails started
+12/21/2017 5:01:40 PM: generatecontrols Started
+12/21/2017 5:01:40 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:01:40 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:01:41 PM: createControls Started
+12/21/2017 5:01:41 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:01:41 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:01:41 PM: createControls Finished
+12/21/2017 5:01:41 PM: Started Loading Entity Drop Down
+12/21/2017 5:01:41 PM: Finished Loading Entity Drop Down
+12/21/2017 5:01:43 PM: createControls Started
+12/21/2017 5:01:43 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:01:43 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:01:43 PM: createControls Finished
+12/21/2017 5:02:03 PM: createControls Started
+12/21/2017 5:02:03 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:02:03 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:02:03 PM: createControls Finished
+12/21/2017 5:02:09 PM: GetSginatureDetails Started:-
+12/21/2017 5:02:09 PM: GetSginatureDetails Completed:-
+12/21/2017 5:02:09 PM: GetTemplateDetails Started
+12/21/2017 5:02:09 PM: GetTemplateDetails total record count:1
+12/21/2017 5:02:09 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:02:09 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:02:09 PM: GetTemplateDetails Finished
+12/21/2017 5:02:09 PM: InitializeDocumentView started
+12/21/2017 5:02:09 PM: InitializeDocumentView finished
+12/21/2017 5:02:09 PM: Calling database to get annotated images. DocumentId: 338672, Action: GetAnnotatedPages
+12/21/2017 5:02:09 PM: Calling database to get annotated images. DocumentId: 338672, Action: GetTaggedPages
+12/21/2017 5:02:09 PM: LoadImageToViewer started
+12/21/2017 5:02:09 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+12/21/2017 5:02:09 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xNDA0\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xNDA0 Page No: 1
+12/21/2017 5:02:09 PM: Converting PDF to JPEG without applying watermark.
+12/21/2017 5:02:09 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xnda0jpg//1.jpeg
+12/21/2017 5:02:09 PM: Invoke method to get annotations from databnase.
+12/21/2017 5:02:09 PM: Get annotations from database.
+12/21/2017 5:02:09 PM: Document Id: 338672 Page No: 1
+12/21/2017 5:02:09 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+12/21/2017 5:02:09 PM: MailPanelFill started
+12/21/2017 5:02:09 PM: MailPanelFill finished
+12/21/2017 5:02:12 PM: GetTemplateDetails Started
+12/21/2017 5:02:12 PM: GetTemplateDetails total record count:1
+12/21/2017 5:02:12 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:02:12 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:02:12 PM: GetTemplateDetails Finished
+12/21/2017 5:02:12 PM: Downloading original document.
+12/21/2017 5:02:12 PM: getAvailablePages Started
+12/21/2017 5:02:13 PM: Updating activity track table for the action: UpdateTrackTableOnDownload
+12/21/2017 5:02:13 PM: Downloading original document completed.
+12/21/2017 5:02:27 PM: GetTemplateDetails Started
+12/21/2017 5:02:27 PM: GetTemplateDetails total record count:1
+12/21/2017 5:02:27 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+12/21/2017 5:54:52 PM: BindDocumentType started
+12/21/2017 5:54:52 PM: BindDocumentType finished
+12/21/2017 5:54:54 PM: createControls Started
+12/21/2017 5:54:54 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:54:54 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:54:54 PM: createControls Finished
+12/21/2017 5:54:54 PM: GetTemplateDetails started
+12/21/2017 5:54:54 PM: generatecontrols Started
+12/21/2017 5:54:54 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:54:54 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:54:56 PM: createControls Started
+12/21/2017 5:54:56 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:54:56 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:54:56 PM: createControls Finished
+12/21/2017 5:54:56 PM: Started Loading Entity Drop Down
+12/21/2017 5:54:56 PM: Finished Loading Entity Drop Down
+12/21/2017 5:55:46 PM: BindDocumentType started
+12/21/2017 5:55:46 PM: BindDocumentType finished
+12/21/2017 5:55:49 PM: createControls Started
+12/21/2017 5:55:49 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:55:49 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:55:49 PM: createControls Finished
+12/21/2017 5:55:49 PM: GetTemplateDetails started
+12/21/2017 5:55:49 PM: generatecontrols Started
+12/21/2017 5:55:49 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:55:49 PM: GenerateControls:Loaded all Textbox dynamically
+12/21/2017 5:55:50 PM: createControls Started
+12/21/2017 5:55:50 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:55:50 PM: createControls Loaded all Textbox dynamically
+12/21/2017 5:55:50 PM: createControls Finished
+12/21/2017 5:55:50 PM: Started Loading Entity Drop Down
+12/21/2017 5:55:50 PM: Finished Loading Entity Drop Down
+12/21/2017 5:55:52 PM: GetSginatureDetails Started:-
+12/21/2017 5:55:52 PM: GetSginatureDetails Completed:-
+12/21/2017 5:55:52 PM: GetTemplateDetails Started
+12/21/2017 5:55:52 PM: GetTemplateDetails total record count:1
+12/21/2017 5:55:52 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:55:52 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:55:52 PM: GetTemplateDetails Finished
+12/21/2017 5:55:52 PM: InitializeDocumentView started
+12/21/2017 5:55:52 PM: InitializeDocumentView finished
+12/21/2017 5:55:52 PM: Calling database to get annotated images. DocumentId: 1230, Action: GetAnnotatedPages
+12/21/2017 5:55:53 PM: Calling database to get annotated images. DocumentId: 1230, Action: GetTaggedPages
+12/21/2017 5:55:53 PM: LoadImageToViewer started
+12/21/2017 5:55:53 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/21/2017 5:55:53 PM: MailPanelFill started
+12/21/2017 5:55:53 PM: MailPanelFill finished
+12/21/2017 5:56:27 PM: GetTemplateDetails Started
+12/21/2017 5:56:27 PM: GetTemplateDetails total record count:1
+12/21/2017 5:56:27 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:56:27 PM: Create controls,Load all Textbox dynamic
+12/21/2017 5:56:27 PM: GetTemplateDetails Finished

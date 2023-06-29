@@ -1,0 +1,84 @@
+6/4/2015 11:00:56 AM: createControls Started
+6/4/2015 11:00:56 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:00:56 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:00:56 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: createControls Finished
+6/4/2015 11:00:56 AM: generatecontrols Started
+6/4/2015 11:00:56 AM: Calling database to get reference id and watermark.
+6/4/2015 11:00:56 AM: Database returned result: CU_AD_287_1_1019|
+6/4/2015 11:00:56 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: generatecontrols,Load all Dropdownlist dynamic
+6/4/2015 11:00:56 AM: generatecontrols,Load all Dropdownlist dynamic
+6/4/2015 11:00:56 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 11:00:56 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 11:01:00 AM: createControls Started
+6/4/2015 11:01:00 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:00 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:00 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:00 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:00 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:00 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:00 AM: createControls Finished
+6/4/2015 11:01:00 AM: AsyncFileUpload1_UploadedComplete Started
+6/4/2015 11:01:00 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 11:01:01 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 11:01:01 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 4
+6/4/2015 11:01:01 AM: AsyncFileUpload1_UploadedComplete Finished
+6/4/2015 11:01:02 AM: createControls Started
+6/4/2015 11:01:02 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:02 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:02 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:02 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:02 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:02 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:02 AM: createControls Finished
+6/4/2015 11:01:02 AM: btnSubmit_Click Started
+6/4/2015 11:01:02 AM: btnSubmit_Click Finished
+6/4/2015 11:01:03 AM: createControls Started
+6/4/2015 11:01:03 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:03 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:03 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:03 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:03 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:03 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:03 AM: createControls Finished
+6/4/2015 11:01:03 AM: Started Previewing Uploaded Document in btnPreview_Click 
+6/4/2015 11:01:03 AM: Src Details : http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\\WDMSDocument\TempWorkFolder\Q1VfQURfMjg3XzFfMTAxOQ==.pdf
+6/4/2015 11:01:03 AM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+6/4/2015 11:01:03 AM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\\WDMSDocument\TempWorkFolder\Q1VfQURfMjg3XzFfMTAxOQ==\1.pdf Image Name: Q1VfQURfMjg3XzFfMTAxOQ== Page No: 1
+6/4/2015 11:01:03 AM: Converting PDF to JPEG without applying watermark.
+6/4/2015 11:01:03 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11////wdmsdocument//tempworkfolder//q1vfqurfmjg3xzffmtaxoq==jpg//1.jpeg
+6/4/2015 11:01:03 AM: Finished Previewing Uploaded Document in btnPreview_Click 
+6/4/2015 11:01:08 AM: createControls Started
+6/4/2015 11:01:08 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:08 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:08 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:08 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:08 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:08 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:08 AM: createControls Finished
+6/4/2015 11:01:15 AM: createControls Started
+6/4/2015 11:01:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:15 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:15 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 11:01:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 11:01:15 AM: createControls Finished
+6/4/2015 11:01:15 AM: Started Saving Uploaded Document in Save Button Click
+6/4/2015 11:01:16 AM: AsyncFileUpload1_UploadedComplete Started
+6/4/2015 11:01:16 AM: AsyncFileUpload1_UploadedComplete Finished
+6/4/2015 11:01:16 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+6/4/2015 11:01:16 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+6/4/2015 11:01:16 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+6/4/2015 11:01:16 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+6/4/2015 11:01:16 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+6/4/2015 11:01:16 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+6/4/2015 11:01:17 AM: CreateXML Started:-
+6/4/2015 11:01:17 AM: CreateXML Completed:-
+6/4/2015 11:01:17 AM: Save button click after saving or updating the ReturnCode= 0
+6/4/2015 11:01:17 AM: Exception : Thread was being aborted.

@@ -1,0 +1,307 @@
+5/5/2017 11:17:29 AM: BindDocumentType started
+5/5/2017 11:17:29 AM: BindDocumentType finished
+5/5/2017 11:17:37 AM: createControls Started
+5/5/2017 11:17:37 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:17:37 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:17:37 AM: createControls Finished
+5/5/2017 11:17:37 AM: GetTemplateDetails started
+5/5/2017 11:17:37 AM: generatecontrols Started
+5/5/2017 11:17:37 AM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 11:17:37 AM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 11:17:39 AM: createControls Started
+5/5/2017 11:17:39 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:17:39 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:17:39 AM: createControls Finished
+5/5/2017 11:22:06 AM: BindDocumentType started
+5/5/2017 11:22:06 AM: BindDocumentType finished
+5/5/2017 11:22:13 AM: BindDocumentType started
+5/5/2017 11:22:13 AM: BindDocumentType finished
+5/5/2017 11:22:18 AM: createControls Started
+5/5/2017 11:22:18 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:22:18 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:22:18 AM: createControls Finished
+5/5/2017 11:22:18 AM: GetTemplateDetails started
+5/5/2017 11:22:18 AM: generatecontrols Started
+5/5/2017 11:22:18 AM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 11:22:18 AM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 11:22:21 AM: createControls Started
+5/5/2017 11:22:21 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:22:21 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:22:21 AM: createControls Finished
+5/5/2017 11:22:29 AM: createControls Started
+5/5/2017 11:22:29 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:22:29 AM: createControls Loaded all Textbox dynamically
+5/5/2017 11:22:29 AM: createControls Finished
+5/5/2017 12:21:30 PM: BindDocumentType started
+5/5/2017 12:21:30 PM: BindDocumentType finished
+5/5/2017 12:21:33 PM: createControls Started
+5/5/2017 12:21:33 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:33 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:33 PM: createControls Finished
+5/5/2017 12:21:33 PM: GetTemplateDetails started
+5/5/2017 12:21:33 PM: generatecontrols Started
+5/5/2017 12:21:33 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:33 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Started
+5/5/2017 12:21:42 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: createControls Finished
+5/5/2017 12:21:42 PM: GetTemplateDetails started
+5/5/2017 12:21:42 PM: generatecontrols Started
+5/5/2017 12:21:42 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:42 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:21:50 PM: GetSginatureDetails Started:-
+5/5/2017 12:21:50 PM: GetSginatureDetails Completed:-
+5/5/2017 12:21:50 PM: GetTemplateDetails Started
+5/5/2017 12:21:50 PM: GetTemplateDetails total record count:1
+5/5/2017 12:21:50 PM: Create controls,Load all Textbox dynamic
+5/5/2017 12:21:50 PM: Create controls,Load all Textbox dynamic
+5/5/2017 12:21:50 PM: Create controls,Load all Textbox dynamic
+5/5/2017 12:21:50 PM: Create controls,Load all Textbox dynamic
+5/5/2017 12:21:50 PM: Create controls,Load all Textbox dynamic
+5/5/2017 12:21:50 PM: Create controls,Load all Textbox dynamic
+5/5/2017 12:21:50 PM: GetTemplateDetails Finished
+5/5/2017 12:21:50 PM: InitializeDocumentView started
+5/5/2017 12:21:50 PM: InitializeDocumentView finished
+5/5/2017 12:21:50 PM: Calling database to get annotated images. DocumentId: 1351, Action: GetAnnotatedPages
+5/5/2017 12:21:50 PM: Calling database to get annotated images. DocumentId: 1351, Action: GetTaggedPages
+5/5/2017 12:21:50 PM: LoadImageToViewer started
+5/5/2017 12:21:50 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+5/5/2017 12:21:50 PM: MailPanelFill started
+5/5/2017 12:21:50 PM: MailPanelFill finished
+5/5/2017 12:22:45 PM: BindDocumentType started
+5/5/2017 12:22:45 PM: BindDocumentType finished
+5/5/2017 12:22:49 PM: createControls Started
+5/5/2017 12:22:49 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:22:49 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:22:49 PM: createControls Finished
+5/5/2017 12:22:49 PM: GetTemplateDetails started
+5/5/2017 12:22:49 PM: generatecontrols Started
+5/5/2017 12:22:49 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:22:49 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 12:22:50 PM: createControls Started
+5/5/2017 12:22:50 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:22:50 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:22:50 PM: createControls Finished
+5/5/2017 12:22:56 PM: createControls Started
+5/5/2017 12:22:56 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:22:56 PM: createControls Loaded all Textbox dynamically
+5/5/2017 12:22:56 PM: createControls Finished
+5/5/2017 3:37:49 PM: BindDocumentType started
+5/5/2017 3:37:49 PM: BindDocumentType finished
+5/5/2017 3:37:52 PM: createControls Started
+5/5/2017 3:37:52 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:37:52 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:37:52 PM: createControls Finished
+5/5/2017 3:37:52 PM: GetTemplateDetails started
+5/5/2017 3:37:52 PM: generatecontrols Started
+5/5/2017 3:37:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:37:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:37:53 PM: createControls Started
+5/5/2017 3:37:53 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:37:53 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:37:53 PM: createControls Finished
+5/5/2017 3:37:59 PM: createControls Started
+5/5/2017 3:37:59 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:37:59 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:37:59 PM: createControls Finished
+5/5/2017 3:40:00 PM: BindDocumentType started
+5/5/2017 3:40:00 PM: BindDocumentType finished
+5/5/2017 3:40:13 PM: BindDocumentType started
+5/5/2017 3:40:13 PM: BindDocumentType finished
+5/5/2017 3:40:17 PM: createControls Started
+5/5/2017 3:40:17 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:40:17 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:40:17 PM: createControls Finished
+5/5/2017 3:40:17 PM: GetTemplateDetails started
+5/5/2017 3:40:17 PM: generatecontrols Started
+5/5/2017 3:40:17 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:40:17 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:40:18 PM: createControls Started
+5/5/2017 3:40:18 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:40:18 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:40:18 PM: createControls Finished
+5/5/2017 3:40:23 PM: createControls Started
+5/5/2017 3:40:23 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:40:23 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:40:23 PM: createControls Finished
+5/5/2017 3:43:16 PM: BindDocumentType started
+5/5/2017 3:43:16 PM: BindDocumentType finished
+5/5/2017 3:43:21 PM: createControls Started
+5/5/2017 3:43:21 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:21 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:21 PM: createControls Finished
+5/5/2017 3:43:21 PM: GetTemplateDetails started
+5/5/2017 3:43:21 PM: generatecontrols Started
+5/5/2017 3:43:21 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:21 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:31 PM: BindDocumentType started
+5/5/2017 3:43:31 PM: BindDocumentType finished
+5/5/2017 3:43:36 PM: createControls Started
+5/5/2017 3:43:36 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: createControls Finished
+5/5/2017 3:43:36 PM: GetTemplateDetails started
+5/5/2017 3:43:36 PM: generatecontrols Started
+5/5/2017 3:43:36 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:36 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:40 PM: createControls Started
+5/5/2017 3:43:40 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:40 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:40 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:40 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:40 PM: createControls Finished
+5/5/2017 3:43:44 PM: createControls Started
+5/5/2017 3:43:44 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:44 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:44 PM: createControls Finished
+5/5/2017 3:43:44 PM: GetTemplateDetails started
+5/5/2017 3:43:44 PM: generatecontrols Started
+5/5/2017 3:43:44 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:44 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:43:47 PM: createControls Started
+5/5/2017 3:43:47 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:47 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:47 PM: createControls Finished
+5/5/2017 3:43:55 PM: createControls Started
+5/5/2017 3:43:55 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:55 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:43:55 PM: createControls Finished
+5/5/2017 3:45:31 PM: BindDocumentType started
+5/5/2017 3:45:31 PM: BindDocumentType finished
+5/5/2017 3:46:01 PM: createControls Started
+5/5/2017 3:46:01 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:01 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:01 PM: createControls Finished
+5/5/2017 3:46:01 PM: GetTemplateDetails started
+5/5/2017 3:46:01 PM: generatecontrols Started
+5/5/2017 3:46:01 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:46:01 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:46:03 PM: createControls Started
+5/5/2017 3:46:03 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:03 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:03 PM: createControls Finished
+5/5/2017 3:46:07 PM: createControls Started
+5/5/2017 3:46:07 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:07 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:07 PM: createControls Finished
+5/5/2017 3:46:13 PM: createControls Started
+5/5/2017 3:46:13 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:13 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:46:13 PM: createControls Finished
+5/5/2017 3:46:30 PM: BindDocumentType started
+5/5/2017 3:46:30 PM: BindDocumentType finished
+5/5/2017 3:47:49 PM: BindDocumentType started
+5/5/2017 3:47:49 PM: BindDocumentType finished
+5/5/2017 3:47:52 PM: createControls Started
+5/5/2017 3:47:52 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:47:52 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:47:52 PM: createControls Finished
+5/5/2017 3:47:52 PM: GetTemplateDetails started
+5/5/2017 3:47:52 PM: generatecontrols Started
+5/5/2017 3:47:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:47:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:47:57 PM: BindDocumentType started
+5/5/2017 3:47:57 PM: BindDocumentType finished
+5/5/2017 3:48:03 PM: createControls Started
+5/5/2017 3:48:03 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:48:03 PM: createControls Loaded all Textbox dynamically
+5/5/2017 3:48:03 PM: createControls Finished
+5/5/2017 3:48:03 PM: GetTemplateDetails started
+5/5/2017 3:48:03 PM: generatecontrols Started
+5/5/2017 3:48:03 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:48:03 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 3:48:06 PM: GetSginatureDetails Started:-
+5/5/2017 3:48:06 PM: GetSginatureDetails Completed:-
+5/5/2017 3:48:06 PM: GetTemplateDetails Started
+5/5/2017 3:48:06 PM: GetTemplateDetails total record count:1
+5/5/2017 3:48:06 PM: Create controls,Load all Textbox dynamic
+5/5/2017 3:48:06 PM: Create controls,Load all Textbox dynamic
+5/5/2017 3:48:06 PM: GetTemplateDetails Finished
+5/5/2017 3:48:06 PM: InitializeDocumentView started
+5/5/2017 3:48:06 PM: InitializeDocumentView finished
+5/5/2017 3:48:06 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetAnnotatedPages
+5/5/2017 3:48:06 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetTaggedPages
+5/5/2017 3:48:06 PM: LoadImageToViewer started
+5/5/2017 3:48:06 PM: Setting image to viewer. Action:  Page count: 6 Current Page:1
+5/5/2017 3:48:06 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDAx\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDAx Page No: 1
+5/5/2017 3:48:06 PM: Converting PDF to JPEG without applying watermark.
+5/5/2017 3:48:07 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdaxjpg//1.jpeg
+5/5/2017 3:48:07 PM: Invoke method to get annotations from databnase.
+5/5/2017 3:48:07 PM: Get annotations from database.
+5/5/2017 3:48:07 PM: Document Id: 1299 Page No: 1
+5/5/2017 3:48:07 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/5/2017 3:48:07 PM: MailPanelFill started
+5/5/2017 3:48:07 PM: MailPanelFill finished
+5/5/2017 3:51:27 PM: GetTemplateDetails Started
+5/5/2017 3:51:27 PM: GetTemplateDetails total record count:1
+5/5/2017 3:51:27 PM: Create controls,Load all Textbox dynamic
+5/5/2017 3:51:27 PM: Create controls,Load all Textbox dynamic
+5/5/2017 3:51:27 PM: GetTemplateDetails Finished
+5/5/2017 3:51:27 PM: Saving annotations to database.
+5/5/2017 3:51:27 PM: Hidden variable action: SAVEANNOTATIONS
+5/5/2017 3:51:27 PM: Document Id: 1299 Page No: 1 Action: SaveAnnotations.
+5/5/2017 3:51:27 PM: Database returned dataset which has 1 rows.
+5/5/2017 3:51:27 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetAnnotatedPages
+5/5/2017 3:51:47 PM: IntitialLoadGrid Started:-
+5/5/2017 3:51:47 PM: IntitialLoadGrid Completed:-
+5/5/2017 3:53:23 PM: BindDocumentType started
+5/5/2017 3:53:23 PM: BindDocumentType finished
+5/5/2017 3:53:52 PM: BindDocumentType started
+5/5/2017 3:53:52 PM: BindDocumentType finished
+5/5/2017 3:58:43 PM: BindQueries started
+5/5/2017 3:58:43 PM: BindQueries finished
+5/5/2017 4:01:04 PM: BindDocumentType started
+5/5/2017 4:01:04 PM: BindDocumentType finished
+5/5/2017 4:02:04 PM: BindDocumentType started
+5/5/2017 4:02:04 PM: BindDocumentType finished
+5/5/2017 4:02:47 PM: BindDocumentType started
+5/5/2017 4:02:47 PM: BindDocumentType finished
+5/5/2017 4:06:17 PM: BindDocumentType started
+5/5/2017 4:06:17 PM: BindDocumentType finished
+5/5/2017 4:06:20 PM: createControls Started
+5/5/2017 4:06:20 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:20 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:20 PM: createControls Finished
+5/5/2017 4:06:20 PM: GetTemplateDetails started
+5/5/2017 4:06:20 PM: generatecontrols Started
+5/5/2017 4:06:20 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 4:06:20 PM: GenerateControls:Loaded all Textbox dynamically
+5/5/2017 4:06:24 PM: createControls Started
+5/5/2017 4:06:24 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:24 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:24 PM: createControls Finished
+5/5/2017 4:06:27 PM: createControls Started
+5/5/2017 4:06:27 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:27 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:27 PM: createControls Finished
+5/5/2017 4:06:30 PM: createControls Started
+5/5/2017 4:06:30 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:30 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:30 PM: createControls Finished
+5/5/2017 4:06:34 PM: createControls Started
+5/5/2017 4:06:34 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:34 PM: createControls Loaded all Textbox dynamically
+5/5/2017 4:06:34 PM: createControls Finished
+5/5/2017 4:06:52 PM: BindDocumentType started
+5/5/2017 4:06:52 PM: BindDocumentType finished
+5/5/2017 4:08:02 PM: BindDocumentType started
+5/5/2017 4:08:02 PM: BindDocumentType finished
+5/5/2017 4:09:48 PM: BindDocumentType started
+5/5/2017 4:09:48 PM: BindDocumentType finished
+5/5/2017 4:11:05 PM: BindDocumentType started
+5/5/2017 4:11:05 PM: BindDocumentType finished
+5/5/2017 4:12:58 PM: BindDocumentType started
+5/5/2017 4:12:58 PM: BindDocumentType finished

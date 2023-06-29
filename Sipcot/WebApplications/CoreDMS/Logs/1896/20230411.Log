@@ -1,0 +1,212 @@
+4/11/2023 10:13:49 AM: Finished Loading Entity Drop Down
+4/11/2023 10:27:48 AM: BindDocumentType started
+4/11/2023 10:27:48 AM: BindDocumentType finished
+4/11/2023 10:27:56 AM: createControls Started
+4/11/2023 10:27:56 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:56 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:56 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:56 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:56 AM: createControls Finished
+4/11/2023 10:27:56 AM: GetTemplateDetails started
+4/11/2023 10:27:56 AM: generatecontrols Started
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: createControls Started
+4/11/2023 10:27:57 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: createControls Finished
+4/11/2023 10:27:57 AM: GetTemplateDetails started
+4/11/2023 10:27:57 AM: generatecontrols Started
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:57 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:27:58 AM: Started Loading Entity Drop Down
+4/11/2023 10:28:05 AM: Finished Loading Entity Drop Down
+4/11/2023 10:29:27 AM: GetSginatureDetails Started:-
+4/11/2023 10:29:28 AM: GetSginatureDetails Completed:-
+4/11/2023 10:29:28 AM: GetTemplateDetails Started
+4/11/2023 10:29:28 AM: GetTemplateDetails total record count:1
+4/11/2023 10:29:28 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:29:28 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:29:28 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:29:28 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:29:28 AM: GetTemplateDetails Finished
+4/11/2023 10:29:29 AM: InitializeDocumentView started
+4/11/2023 10:29:29 AM: InitializeDocumentView finished
+4/11/2023 10:29:29 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+4/11/2023 10:29:31 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+4/11/2023 10:29:31 AM: LoadImageToViewer started
+4/11/2023 10:29:31 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+4/11/2023 10:29:31 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+4/11/2023 10:29:31 AM: Converting PDF to JPEG without applying watermark.
+4/11/2023 10:29:33 AM: Exception: I/O error occurred.
+4/11/2023 10:29:33 AM: convertPDFToImage method returned file path as empty.
+4/11/2023 10:29:33 AM: Invoke method to get annotations from databnase.
+4/11/2023 10:29:33 AM: Get annotations from database.
+4/11/2023 10:29:33 AM: Document Id: 282139 Page No: 1
+4/11/2023 10:29:33 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+4/11/2023 10:29:33 AM: MailPanelFill started
+4/11/2023 10:29:33 AM: MailPanelFill finished
+4/11/2023 10:33:41 AM: createControls Started
+4/11/2023 10:33:41 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:33:41 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:33:41 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:33:41 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:33:41 AM: createControls Finished
+4/11/2023 10:33:41 AM: BindQueries started
+4/11/2023 10:33:41 AM: BindQueries finished
+4/11/2023 10:33:43 AM: GetTemplatefieldDetails started
+4/11/2023 10:33:43 AM: GetTemplatefieldDetails finished
+4/11/2023 10:33:46 AM: AddQuery started
+4/11/2023 10:33:46 AM: btnAddClauseClick started
+4/11/2023 10:33:46 AM: Exception : Index was outside the bounds of the array.
+4/11/2023 10:33:46 AM: btnAddClauseClick finished
+4/11/2023 10:33:46 AM: AddQuery finished
+4/11/2023 10:37:10 AM: GetTemplateDetails Started
+4/11/2023 10:37:10 AM: GetTemplateDetails total record count:1
+4/11/2023 10:37:10 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:37:10 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:37:10 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:37:10 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:37:10 AM: GetTemplateDetails Finished
+4/11/2023 10:38:19 AM: Exception : Index was outside the bounds of the array.
+4/11/2023 10:38:24 AM: createControls Started
+4/11/2023 10:38:24 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: createControls Finished
+4/11/2023 10:38:24 AM: Exception : Index was outside the bounds of the array.
+4/11/2023 10:38:24 AM: GetTemplateDetails started
+4/11/2023 10:38:24 AM: generatecontrols Started
+4/11/2023 10:38:24 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:38:24 AM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 10:38:27 AM: createControls Started
+4/11/2023 10:38:27 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:27 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:27 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:27 AM: createControls Loaded all Textbox dynamically
+4/11/2023 10:38:27 AM: createControls Finished
+4/11/2023 10:38:27 AM: Exception : Index was outside the bounds of the array.
+4/11/2023 10:38:27 AM: Started Loading Entity Drop Down
+4/11/2023 10:38:27 AM: Finished Loading Entity Drop Down
+4/11/2023 10:44:19 AM: GetSginatureDetails Started:-
+4/11/2023 10:44:19 AM: GetSginatureDetails Completed:-
+4/11/2023 10:44:19 AM: GetTemplateDetails Started
+4/11/2023 10:44:19 AM: GetTemplateDetails total record count:1
+4/11/2023 10:44:19 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:44:19 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:44:19 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:44:19 AM: Create controls,Load all Textbox dynamic
+4/11/2023 10:44:19 AM: GetTemplateDetails Finished
+4/11/2023 10:44:19 AM: InitializeDocumentView started
+4/11/2023 10:44:20 AM: InitializeDocumentView finished
+4/11/2023 10:44:20 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+4/11/2023 10:44:20 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+4/11/2023 10:44:20 AM: LoadImageToViewer started
+4/11/2023 10:44:20 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+4/11/2023 10:44:20 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+4/11/2023 10:44:20 AM: Converting PDF to JPEG without applying watermark.
+4/11/2023 10:44:20 AM: Exception: I/O error occurred.
+4/11/2023 10:44:20 AM: convertPDFToImage method returned file path as empty.
+4/11/2023 10:44:20 AM: Invoke method to get annotations from databnase.
+4/11/2023 10:44:20 AM: Get annotations from database.
+4/11/2023 10:44:20 AM: Document Id: 282139 Page No: 1
+4/11/2023 10:44:20 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+4/11/2023 10:44:20 AM: MailPanelFill started
+4/11/2023 10:44:20 AM: MailPanelFill finished
+4/11/2023 5:49:27 PM: BindDocumentType started
+4/11/2023 5:49:27 PM: BindDocumentType finished
+4/11/2023 6:00:20 PM: BindDocumentType started
+4/11/2023 6:00:20 PM: BindDocumentType finished
+4/11/2023 7:30:07 PM: BindDocumentType started
+4/11/2023 7:30:07 PM: BindDocumentType finished
+4/11/2023 7:30:13 PM: createControls Started
+4/11/2023 7:30:13 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: createControls Finished
+4/11/2023 7:30:13 PM: GetTemplateDetails started
+4/11/2023 7:30:13 PM: generatecontrols Started
+4/11/2023 7:30:13 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:30:13 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:30:15 PM: createControls Started
+4/11/2023 7:30:15 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:15 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:15 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:15 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:15 PM: createControls Finished
+4/11/2023 7:30:15 PM: Started Loading Entity Drop Down
+4/11/2023 7:30:15 PM: Finished Loading Entity Drop Down
+4/11/2023 7:30:17 PM: createControls Started
+4/11/2023 7:30:17 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:17 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:17 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:17 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:30:17 PM: createControls Finished
+4/11/2023 7:32:40 PM: BindDocumentType started
+4/11/2023 7:32:40 PM: BindDocumentType finished
+4/11/2023 7:32:46 PM: createControls Started
+4/11/2023 7:32:46 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: createControls Finished
+4/11/2023 7:32:46 PM: GetTemplateDetails started
+4/11/2023 7:32:46 PM: generatecontrols Started
+4/11/2023 7:32:46 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:32:46 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:32:49 PM: createControls Started
+4/11/2023 7:32:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:49 PM: createControls Finished
+4/11/2023 7:32:49 PM: Started Loading Entity Drop Down
+4/11/2023 7:32:49 PM: Finished Loading Entity Drop Down
+4/11/2023 7:32:51 PM: createControls Started
+4/11/2023 7:32:51 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:51 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:51 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:51 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:32:51 PM: createControls Finished
+4/11/2023 7:57:41 PM: BindDocumentType started
+4/11/2023 7:57:41 PM: BindDocumentType finished
+4/11/2023 7:57:49 PM: createControls Started
+4/11/2023 7:57:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:49 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:49 PM: createControls Finished
+4/11/2023 7:57:49 PM: GetTemplateDetails started
+4/11/2023 7:57:50 PM: generatecontrols Started
+4/11/2023 7:57:50 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:57:50 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:57:50 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:57:50 PM: GenerateControls:Loaded all Textbox dynamically
+4/11/2023 7:57:52 PM: createControls Started
+4/11/2023 7:57:52 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:52 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:52 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:52 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:52 PM: createControls Finished
+4/11/2023 7:57:53 PM: Started Loading Entity Drop Down
+4/11/2023 7:57:53 PM: Finished Loading Entity Drop Down
+4/11/2023 7:57:54 PM: createControls Started
+4/11/2023 7:57:54 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:54 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:54 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:54 PM: createControls Loaded all Textbox dynamically
+4/11/2023 7:57:54 PM: createControls Finished

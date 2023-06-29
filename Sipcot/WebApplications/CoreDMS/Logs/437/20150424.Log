@@ -1,0 +1,25 @@
+4/24/2015 10:11:50 AM: btnExport_Click Started
+4/24/2015 10:11:51 AM: ExportToExcel started
+4/24/2015 10:11:51 AM: Exception:Thread was being aborted.
+4/24/2015 10:13:10 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:13:12 AM: Exception:Cannot update.  Database or object is read-only.
+4/24/2015 10:14:03 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:14:04 AM: Exception:Cannot update.  Database or object is read-only.
+4/24/2015 10:15:22 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:15:23 AM: Exception:Cannot update.  Database or object is read-only.
+4/24/2015 10:15:43 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:17:03 AM: Exception:Cannot update.  Database or object is read-only.
+4/24/2015 10:20:37 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:20:37 AM: Exception:Cannot update.  Database or object is read-only.
+4/24/2015 10:20:55 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:32:38 AM: Exception:Cannot update.  Database or object is read-only.
+4/24/2015 10:35:31 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:35:32 AM: Started Extracting Soft Data
+4/24/2015 10:35:38 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:36:08 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/24/2015 10:36:08 AM: Started Extracting Soft Data
+4/24/2015 10:36:09 AM: Exception:Could not find installable ISAM.
+4/24/2015 10:36:09 AM: Exception:Could not find installable ISAM.
+4/24/2015 2:37:33 PM: btnExport_Click Started
+4/24/2015 2:37:33 PM: ExportToExcel started
+4/24/2015 2:37:33 PM: Exception:Thread was being aborted.

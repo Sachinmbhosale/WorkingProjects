@@ -1,0 +1,141 @@
+5/29/2017 10:04:58 AM: BindDocumentType started
+5/29/2017 10:04:58 AM: BindDocumentType finished
+5/29/2017 10:05:04 AM: createControls Started
+5/29/2017 10:05:04 AM: createControls Loaded all Textbox dynamically
+5/29/2017 10:05:04 AM: createControls Loaded all Textbox dynamically
+5/29/2017 10:05:04 AM: createControls Finished
+5/29/2017 10:05:04 AM: GetTemplateDetails started
+5/29/2017 10:05:04 AM: generatecontrols Started
+5/29/2017 10:05:05 AM: GenerateControls:Loaded all Textbox dynamically
+5/29/2017 10:05:05 AM: GenerateControls:Loaded all Textbox dynamically
+5/29/2017 10:05:07 AM: createControls Started
+5/29/2017 10:05:07 AM: createControls Loaded all Textbox dynamically
+5/29/2017 10:05:07 AM: createControls Loaded all Textbox dynamically
+5/29/2017 10:05:07 AM: createControls Finished
+5/29/2017 10:05:23 AM: createControls Started
+5/29/2017 10:05:23 AM: createControls Loaded all Textbox dynamically
+5/29/2017 10:05:23 AM: createControls Loaded all Textbox dynamically
+5/29/2017 10:05:23 AM: createControls Finished
+5/29/2017 11:18:51 AM: BindDocumentType started
+5/29/2017 11:18:51 AM: BindDocumentType finished
+5/29/2017 11:19:18 AM: BindDocumentType started
+5/29/2017 11:19:18 AM: BindDocumentType finished
+5/29/2017 11:19:39 AM: BindDocumentType started
+5/29/2017 11:19:39 AM: BindDocumentType finished
+5/29/2017 11:20:03 AM: BindDocumentType started
+5/29/2017 11:20:03 AM: BindDocumentType finished
+5/29/2017 11:20:26 AM: BindDocumentType started
+5/29/2017 11:20:26 AM: BindDocumentType finished
+5/29/2017 3:01:23 PM: BindDocumentType started
+5/29/2017 3:01:23 PM: BindDocumentType finished
+5/29/2017 3:06:06 PM: BindDocumentType started
+5/29/2017 3:06:06 PM: BindDocumentType finished
+5/29/2017 3:08:37 PM: BindDocumentType started
+5/29/2017 3:08:37 PM: BindDocumentType finished
+5/29/2017 3:10:25 PM: BindDocumentType started
+5/29/2017 3:10:25 PM: BindDocumentType finished
+5/29/2017 3:11:26 PM: BindDocumentType started
+5/29/2017 3:11:26 PM: BindDocumentType finished
+5/29/2017 3:11:55 PM: GetSginatureDetails Started:-
+5/29/2017 3:11:55 PM: GetSginatureDetails Completed:-
+5/29/2017 3:11:55 PM: GetTemplateDetails Started
+5/29/2017 3:11:55 PM: GetTemplateDetails total record count:1
+5/29/2017 3:11:55 PM: Create controls,Load all Textbox dynamic
+5/29/2017 3:11:55 PM: Create controls,Load all Textbox dynamic
+5/29/2017 3:11:55 PM: GetTemplateDetails Finished
+5/29/2017 3:11:55 PM: InitializeDocumentView started
+5/29/2017 3:11:55 PM: InitializeDocumentView finished
+5/29/2017 3:11:55 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetAnnotatedPages
+5/29/2017 3:11:55 PM: Calling database to get annotated images. DocumentId: 1299, Action: GetTaggedPages
+5/29/2017 3:11:56 PM: LoadImageToViewer started
+5/29/2017 3:11:56 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+5/29/2017 3:11:56 PM: MailPanelFill started
+5/29/2017 3:11:56 PM: MailPanelFill finished
+5/29/2017 3:12:01 PM: BindDocumentType started
+5/29/2017 3:12:01 PM: BindDocumentType finished
+5/29/2017 3:13:18 PM: BindDocumentType started
+5/29/2017 3:13:18 PM: BindDocumentType finished
+5/29/2017 3:14:36 PM: BindDocumentType started
+5/29/2017 3:14:36 PM: BindDocumentType finished
+5/29/2017 3:16:08 PM: BindDocumentType started
+5/29/2017 3:16:08 PM: BindDocumentType finished
+5/29/2017 3:23:59 PM: BindDocumentType started
+5/29/2017 3:23:59 PM: BindDocumentType finished
+5/29/2017 3:24:46 PM: BindDocumentType started
+5/29/2017 3:24:46 PM: BindDocumentType finished
+5/29/2017 3:29:52 PM: BindDocumentType started
+5/29/2017 3:29:52 PM: BindDocumentType finished
+5/29/2017 3:30:31 PM: BindDocumentType started
+5/29/2017 3:30:31 PM: BindDocumentType finished
+5/29/2017 3:30:47 PM: BindDocumentType started
+5/29/2017 3:30:47 PM: BindDocumentType finished
+5/29/2017 3:32:09 PM: BindDocumentType started
+5/29/2017 3:32:09 PM: BindDocumentType finished
+5/29/2017 3:34:54 PM: BindDocumentType started
+5/29/2017 3:34:54 PM: BindDocumentType finished
+5/29/2017 3:35:16 PM: BindDocumentType started
+5/29/2017 3:35:16 PM: BindDocumentType finished
+5/29/2017 3:35:59 PM: BindDocumentType started
+5/29/2017 3:35:59 PM: BindDocumentType finished
+5/29/2017 3:36:59 PM: BindDocumentType started
+5/29/2017 3:36:59 PM: BindDocumentType finished
+5/29/2017 3:39:10 PM: BindDocumentType started
+5/29/2017 3:39:10 PM: BindDocumentType finished
+5/29/2017 3:40:00 PM: BindDocumentType started
+5/29/2017 3:40:00 PM: BindDocumentType finished
+5/29/2017 3:40:21 PM: BindDocumentType started
+5/29/2017 3:40:21 PM: BindDocumentType finished
+5/29/2017 3:40:58 PM: BindDocumentType started
+5/29/2017 3:40:58 PM: BindDocumentType finished
+5/29/2017 3:41:28 PM: BindDocumentType started
+5/29/2017 3:41:28 PM: BindDocumentType finished
+5/29/2017 3:42:14 PM: BindDocumentType started
+5/29/2017 3:42:14 PM: BindDocumentType finished
+5/29/2017 3:42:39 PM: BindDocumentType started
+5/29/2017 3:42:39 PM: BindDocumentType finished
+5/29/2017 3:42:53 PM: BindDocumentType started
+5/29/2017 3:42:53 PM: BindDocumentType finished
+5/29/2017 3:43:06 PM: BindDocumentType started
+5/29/2017 3:43:06 PM: BindDocumentType finished
+5/29/2017 3:43:19 PM: BindDocumentType started
+5/29/2017 3:43:19 PM: BindDocumentType finished
+5/29/2017 3:44:03 PM: BindDocumentType started
+5/29/2017 3:44:03 PM: BindDocumentType finished
+5/29/2017 3:46:24 PM: BindDocumentType started
+5/29/2017 3:46:24 PM: BindDocumentType finished
+5/29/2017 3:46:46 PM: BindDocumentType started
+5/29/2017 3:46:46 PM: BindDocumentType finished
+5/29/2017 3:50:45 PM: BindDocumentType started
+5/29/2017 3:50:45 PM: BindDocumentType finished
+5/29/2017 3:52:03 PM: BindDocumentType started
+5/29/2017 3:52:03 PM: BindDocumentType finished
+5/29/2017 3:52:53 PM: BindDocumentType started
+5/29/2017 3:52:53 PM: BindDocumentType finished
+5/29/2017 3:53:04 PM: GetSginatureDetails Started:-
+5/29/2017 3:53:04 PM: GetSginatureDetails Completed:-
+5/29/2017 3:53:04 PM: GetTemplateDetails Started
+5/29/2017 3:53:04 PM: GetTemplateDetails total record count:1
+5/29/2017 3:53:04 PM: Create controls,Load all Textbox dynamic
+5/29/2017 3:53:04 PM: Create controls,Load all Textbox dynamic
+5/29/2017 3:53:04 PM: GetTemplateDetails Finished
+5/29/2017 3:53:04 PM: InitializeDocumentView started
+5/29/2017 3:53:04 PM: InitializeDocumentView finished
+5/29/2017 3:53:04 PM: Calling database to get annotated images. DocumentId: 1369, Action: GetAnnotatedPages
+5/29/2017 3:53:04 PM: Calling database to get annotated images. DocumentId: 1369, Action: GetTaggedPages
+5/29/2017 3:53:04 PM: LoadImageToViewer started
+5/29/2017 3:53:04 PM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+5/29/2017 3:53:04 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDM1\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDM1 Page No: 1
+5/29/2017 3:53:04 PM: Converting PDF to JPEG without applying watermark.
+5/29/2017 3:53:05 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdm1jpg//1.jpeg
+5/29/2017 3:53:05 PM: Invoke method to get annotations from databnase.
+5/29/2017 3:53:05 PM: Get annotations from database.
+5/29/2017 3:53:05 PM: Document Id: 1369 Page No: 1
+5/29/2017 3:53:05 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/29/2017 3:53:05 PM: MailPanelFill started
+5/29/2017 3:53:05 PM: MailPanelFill finished
+5/29/2017 3:53:05 PM: Unzipping file. Filepath: D:\WDMSDocument\TempWorkFolder\\Tk9fRVhfNTEwXzI1MF8xMDM1.zip
+5/29/2017 3:53:20 PM: GetTemplateDetails Started
+5/29/2017 3:53:20 PM: GetTemplateDetails total record count:1
+5/29/2017 3:53:20 PM: Create controls,Load all Textbox dynamic
+5/29/2017 3:53:20 PM: Create controls,Load all Textbox dynamic
+5/29/2017 3:53:20 PM: GetTemplateDetails Finished

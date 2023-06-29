@@ -1,0 +1,19 @@
+7/25/2019 6:11:14 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:11:17 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:11:22 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:12:11 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:12:11 PM: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnCancel_Click(Object sender, EventArgs e) in d:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 1052
+7/25/2019 6:13:00 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:13:02 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:13:06 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:13:07 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:13:12 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:13:17 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+7/25/2019 6:13:19 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.

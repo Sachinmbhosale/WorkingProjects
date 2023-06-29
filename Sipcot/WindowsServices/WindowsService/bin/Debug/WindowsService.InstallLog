@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsServices\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsServices\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsServices\WindowsService\bin\Debug\WindowsService.exe
+Installing service DMSInfoSearchService...
+Service DMSInfoSearchService has been successfully installed.
+Creating EventLog source DMSInfoSearchService in log Application...
+Committing assembly 'D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsServices\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsServices\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsServices\WindowsService\bin\Debug\WindowsService.exe

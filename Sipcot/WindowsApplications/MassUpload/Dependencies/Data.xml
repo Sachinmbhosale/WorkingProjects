@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:complexType name="Files_Info">
+      <xs:sequence>
+        <xs:element name="Data" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FileName" type="xs:string" msdata:Ordinal="1" />
+              <xs:element name="FilePath" type="xs:string" msdata:Ordinal="2" />
+              <xs:element name="Status" type="xs:string" msdata:Ordinal="3" />
+              <xs:element name="Remarks" type="xs:string" msdata:Ordinal="4" />
+            </xs:sequence>
+            <xs:attribute name="Id" type="xs:int" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:element name="UploadDetails" type="Files_Info" />
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="UploadDetails" />
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

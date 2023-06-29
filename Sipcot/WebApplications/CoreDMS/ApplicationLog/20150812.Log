@@ -1,0 +1,4 @@
+8/12/2015 11:42:39 AM: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\Projects\DMS\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\Projects\DMS\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215

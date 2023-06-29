@@ -1,0 +1,27 @@
+7/28/2015 10:39:58 AM: MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown database 'writer-dms-enhancement5_current'
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+7/28/2015 11:21:07 AM: D:\WDMSDocument\TempWorkFolder\35\36\470\1.pdf
+7/28/2015 11:21:07 AM: D:\WDMSDocument\TempWorkFolder\35\36\470\1.jpg
+7/28/2015 11:21:58 AM: D:\WDMSDocument\TempWorkFolder\35\36\471\1.pdf
+7/28/2015 11:21:58 AM: D:\WDMSDocument\TempWorkFolder\35\36\471\1.jpg
+7/28/2015 11:23:10 AM: D:\WDMSDocument\TempWorkFolder\35\36\472\1.pdf
+7/28/2015 11:23:10 AM: D:\WDMSDocument\TempWorkFolder\35\36\472\1.jpg
+7/28/2015 11:29:03 AM: D:\WDMSDocument\TempWorkFolder\35\36\470\1.pdf
+7/28/2015 11:29:03 AM: D:\WDMSDocument\TempWorkFolder\35\36\470\1.jpg
+7/28/2015 11:30:13 AM: D:\WDMSDocument\TempWorkFolder\35\36\471\1.pdf
+7/28/2015 11:30:13 AM: D:\WDMSDocument\TempWorkFolder\35\36\471\1.jpg
+7/28/2015 11:30:25 AM: D:\WDMSDocument\TempWorkFolder\35\36\472\1.pdf
+7/28/2015 11:30:26 AM: D:\WDMSDocument\TempWorkFolder\35\36\472\1.jpg
+7/28/2015 11:30:26 AM: Exception:External component has thrown an exception.
+7/28/2015 1:15:51 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+7/28/2015 1:16:38 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+ClientConnectionId:00000000-0000-0000-0000-000000000000

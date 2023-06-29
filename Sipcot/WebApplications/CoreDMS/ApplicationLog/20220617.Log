@@ -1,0 +1,47 @@
+6/17/2022 4:12:08 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:25:43 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:27:59 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:28:49 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:32:38 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:37:16 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:39:51 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:41:08 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:41:42 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:42:20 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:47:12 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:48:33 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 4:51:10 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 5:27:41 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 5:31:11 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 5:35:43 PM: Successfully executed the report DAL funtion
+6/17/2022 5:35:59 PM: Successfully executed the report DAL funtion
+6/17/2022 6:00:44 PM: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 214
+ClientConnectionId:5f147222-f851-46fd-9d59-afe9c0f63c88
+Error Number:18456,State:1,Class:14
+6/17/2022 6:00:49 PM: Login.aspx - btnSubmit_Click () :Login failed for user 'sa'.
+6/17/2022 6:29:23 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 6:30:37 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 6:34:47 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519
+6/17/2022 6:36:03 PM: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentDownloadSearch.btnSubmit_Click(Object sender, EventArgs e) in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Secure\Core\DocumentDownloadSearch.aspx.cs:line 2519

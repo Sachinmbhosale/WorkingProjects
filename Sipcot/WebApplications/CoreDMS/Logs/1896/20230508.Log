@@ -1,0 +1,59 @@
+5/8/2023 11:50:09 AM: GetTemplateDetails started
+5/8/2023 11:50:09 AM: generatecontrols Started
+5/8/2023 11:50:09 AM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 11:50:09 AM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 11:50:09 AM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 11:50:09 AM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 11:50:09 AM: GetTemplatefieldDetails started
+5/8/2023 11:50:09 AM: GetTemplatefieldDetails finished
+5/8/2023 11:50:09 AM: Started Loading Entity Drop Down
+5/8/2023 11:50:09 AM: Finished Loading Entity Drop Down
+5/8/2023 11:50:09 AM: BindDocumentType started
+5/8/2023 11:50:09 AM: BindDocumentType finished
+5/8/2023 11:50:09 AM: BindQueries started
+5/8/2023 11:50:09 AM: BindQueries finished
+5/8/2023 11:50:09 AM: createControls Started
+5/8/2023 11:50:09 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:10 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:10 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:10 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:10 AM: createControls Finished
+5/8/2023 11:50:17 AM: createControls Started
+5/8/2023 11:50:18 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:18 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:18 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:18 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:18 AM: createControls Finished
+5/8/2023 11:50:18 AM: AddQuery started
+5/8/2023 11:50:18 AM: btnAddClauseClick started
+5/8/2023 11:50:18 AM: btnAddClauseClick finished
+5/8/2023 11:50:18 AM: AddQuery finished
+5/8/2023 11:50:24 AM: createControls Started
+5/8/2023 11:50:24 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:24 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:24 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:24 AM: createControls Loaded all Textbox dynamically
+5/8/2023 11:50:24 AM: createControls Finished
+5/8/2023 11:50:24 AM: btnPerformQueryClick started
+5/8/2023 11:50:33 AM: BuildQuery() executed properly 
+5/8/2023 11:52:20 AM: whereclause value Family&If
+5/8/2023 7:53:08 PM: GetTemplateDetails started
+5/8/2023 7:53:08 PM: generatecontrols Started
+5/8/2023 7:53:08 PM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 7:53:08 PM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 7:53:08 PM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 7:53:08 PM: GenerateControls:Loaded all Textbox dynamically
+5/8/2023 7:53:08 PM: GetTemplatefieldDetails started
+5/8/2023 7:53:08 PM: GetTemplatefieldDetails finished
+5/8/2023 7:53:08 PM: Started Loading Entity Drop Down
+5/8/2023 7:53:09 PM: Finished Loading Entity Drop Down
+5/8/2023 7:53:09 PM: BindDocumentType started
+5/8/2023 7:53:09 PM: BindDocumentType finished
+5/8/2023 7:53:09 PM: BindQueries started
+5/8/2023 7:53:09 PM: BindQueries finished
+5/8/2023 7:53:09 PM: createControls Started
+5/8/2023 7:53:09 PM: createControls Loaded all Textbox dynamically
+5/8/2023 7:53:09 PM: createControls Loaded all Textbox dynamically
+5/8/2023 7:53:09 PM: createControls Loaded all Textbox dynamically
+5/8/2023 7:53:09 PM: createControls Loaded all Textbox dynamically
+5/8/2023 7:53:09 PM: createControls Finished

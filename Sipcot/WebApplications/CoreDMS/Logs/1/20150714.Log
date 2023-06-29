@@ -1,0 +1,101 @@
+7/14/2015 4:01:52 PM: IntitialLoadGrid Started:-
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: CreateLinKs started
+7/14/2015 4:01:59 PM: IntitialLoadGrid Completed:-
+7/14/2015 4:02:53 PM: createControls Started
+7/14/2015 4:02:53 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:02:53 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:02:53 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: createControls Finished
+7/14/2015 4:02:53 PM: generatecontrols Started
+7/14/2015 4:02:53 PM: Calling database to get reference id and watermark.
+7/14/2015 4:02:53 PM: Database returned result: CU_AD_1_1_1139|
+7/14/2015 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: generatecontrols,Load all Dropdownlist dynamic
+7/14/2015 4:02:53 PM: generatecontrols,Load all Dropdownlist dynamic
+7/14/2015 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+7/14/2015 4:02:53 PM: Generatecontrols,Load all Textbox dynamic
+7/14/2015 4:03:03 PM: createControls Started
+7/14/2015 4:03:03 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:03 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:03 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:03 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:03 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:03 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:03 PM: createControls Finished
+7/14/2015 4:03:03 PM: AsyncFileUpload1_UploadedComplete Started
+7/14/2015 4:03:03 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/14/2015 4:03:03 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/14/2015 4:03:14 PM: AsyncFileUpload1_UploadedComplete Pagecount of MSExcel 1
+7/14/2015 4:03:14 PM: AsyncFileUpload1_UploadedComplete Finished
+7/14/2015 4:03:16 PM: createControls Started
+7/14/2015 4:03:16 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:16 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:16 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:16 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:16 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:16 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:16 PM: createControls Finished
+7/14/2015 4:03:16 PM: btnSubmit_Click Started
+7/14/2015 4:03:16 PM: Exception : no filter defined for D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMzk=.xlsx
+7/14/2015 4:03:18 PM: createControls Started
+7/14/2015 4:03:19 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:19 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:19 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:19 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:19 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:19 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:19 PM: createControls Finished
+7/14/2015 4:03:19 PM: Started Previewing Uploaded Document in btnPreview_Click 
+7/14/2015 4:03:19 PM: Src Details : http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMzk=.pdf
+7/14/2015 4:03:19 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/14/2015 4:03:19 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMzk=\1.pdf Image Name: Q1VfQURfMV8xXzExMzk= Page No: 1
+7/14/2015 4:03:19 PM: Converting PDF to JPEG without applying watermark.
+7/14/2015 4:03:20 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmzk=jpg//1.jpeg
+7/14/2015 4:03:20 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+7/14/2015 4:03:26 PM: createControls Started
+7/14/2015 4:03:26 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:26 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:26 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:26 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:26 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:26 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:26 PM: createControls Finished
+7/14/2015 4:03:27 PM: createControls Started
+7/14/2015 4:03:27 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:27 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:27 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:03:27 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:27 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:27 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:03:27 PM: createControls Finished
+7/14/2015 4:04:46 PM: createControls Started
+7/14/2015 4:04:46 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:04:46 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:04:46 PM: Createcontrols,Load all Dropdownlist dynamic
+7/14/2015 4:04:46 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:04:46 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:04:46 PM: Create controls,Load all Textbox dynamic
+7/14/2015 4:04:46 PM: createControls Finished
+7/14/2015 4:04:53 PM: Started Saving Uploaded Document in Save Button Click
+7/14/2015 6:23:29 PM: AsyncFileUpload1_UploadedComplete Started
+7/14/2015 6:23:29 PM: AsyncFileUpload1_UploadedComplete Finished
+7/14/2015 6:23:29 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/14/2015 6:23:29 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/14/2015 6:23:29 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/14/2015 6:23:29 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/14/2015 6:23:30 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/14/2015 6:23:30 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/14/2015 6:23:31 PM: CreateXML Started:-
+7/14/2015 6:23:31 PM: CreateXML Completed:-
+7/14/2015 6:23:31 PM: Save button click after saving or updating the ReturnCode= 0
+7/14/2015 6:23:32 PM: Exception : Thread was being aborted.

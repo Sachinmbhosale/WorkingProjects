@@ -1,0 +1,128 @@
+6/29/2015 12:07:34 PM: Dataentry Type of the stage : Form
+6/29/2015 12:07:35 PM: Get all stage related data from database
+6/29/2015 12:07:35 PM: Virtual folder path of data entry images/Images/DataEntry/d7194e09-c1e7-4cd9-982a-3c4916786f69/12/16/209
+6/29/2015 12:07:35 PM: controls binded successfully
+6/29/2015 12:55:58 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/29/2015 12:55:58 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/29/2015 12:55:58 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/29/2015 12:55:58 PM: Rendering controls completed.
+6/29/2015 12:55:58 PM: Rendering controls. Object Type: TextBox, Control Id: Control_146
+6/29/2015 12:55:58 PM: Rendering controls completed.
+6/29/2015 12:55:58 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_146
+6/29/2015 12:55:58 PM: Completed initialization of controls.
+6/29/2015 12:55:58 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/29/2015 12:55:58 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/29/2015 12:55:58 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/29/2015 12:55:58 PM: Completed initialization of controls.
+6/29/2015 12:55:58 PM: Before binding image to viewer 
+6/29/2015 12:57:04 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/29/2015 12:57:04 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/29/2015 12:57:04 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/29/2015 12:57:04 PM: Rendering controls completed.
+6/29/2015 12:57:04 PM: Rendering controls. Object Type: TextBox, Control Id: Control_146
+6/29/2015 12:57:04 PM: Rendering controls completed.
+6/29/2015 12:57:04 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_146
+6/29/2015 12:57:04 PM: Completed initialization of controls.
+6/29/2015 12:57:04 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/29/2015 12:57:04 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/29/2015 12:57:04 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/29/2015 12:57:04 PM: Completed initialization of controls.
+6/29/2015 12:57:04 PM: Before binding image to viewer 
+6/29/2015 1:00:27 PM: Before binding image to viewer 
+6/29/2015 1:00:30 PM: Before binding image to viewer 
+6/29/2015 1:00:30 PM: btnSave_Click Started
+6/29/2015 1:00:30 PM: Completed building query. Query: 
+6/29/2015 1:00:30 PM: Completed building query. Query: 
+6/29/2015 1:00:30 PM: btnSave_Click Finished
+6/29/2015 1:00:35 PM: Before binding image to viewer 
+6/29/2015 1:00:35 PM: btnSave_Click Started
+6/29/2015 1:00:35 PM: btnSave_Click has Error Check GenerateFieldSaveQuery()
+6/29/2015 1:01:29 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/29/2015 1:01:29 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/29/2015 1:01:29 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/29/2015 1:01:30 PM: Rendering controls completed.
+6/29/2015 1:01:30 PM: Rendering controls. Object Type: TextBox, Control Id: Control_146
+6/29/2015 1:01:30 PM: Rendering controls completed.
+6/29/2015 1:01:30 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_146
+6/29/2015 1:01:30 PM: Completed initialization of controls.
+6/29/2015 1:01:30 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/29/2015 1:01:30 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/29/2015 1:01:30 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/29/2015 1:01:30 PM: Completed initialization of controls.
+6/29/2015 1:01:30 PM: Before binding image to viewer 
+6/29/2015 4:20:52 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/29/2015 4:20:52 PM: Rendering controls. Object Type: TextBox, Control Id: Control_132
+6/29/2015 4:20:52 PM: Rendering controls. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/29/2015 4:20:52 PM: Rendering controls. Object Type: TextBox, Control Id: Control_148
+6/29/2015 4:20:52 PM: Rendering controls. Object Type: DropDown, Control Id: Control_150
+6/29/2015 4:20:52 PM: Rendering controls completed.
+6/29/2015 4:20:52 PM: Rendering controls. Object Type: TextBox, Control Id: Control_149
+6/29/2015 4:20:52 PM: Rendering controls completed.
+6/29/2015 4:20:52 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_149
+6/29/2015 4:20:52 PM: Completed initialization of controls.
+6/29/2015 4:20:52 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/29/2015 4:20:52 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_132
+6/29/2015 4:20:52 PM: Initializing controls after rendering. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/29/2015 4:20:52 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_148
+6/29/2015 4:20:52 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_150
+6/29/2015 4:20:52 PM: Completed initialization of controls.
+6/29/2015 4:20:52 PM: Before binding image to viewer 
+6/29/2015 4:23:07 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/29/2015 4:23:07 PM: Rendering controls. Object Type: TextBox, Control Id: Control_132
+6/29/2015 4:23:07 PM: Rendering controls. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/29/2015 4:23:07 PM: Rendering controls. Object Type: TextBox, Control Id: Control_148
+6/29/2015 4:23:07 PM: Rendering controls. Object Type: DropDown, Control Id: Control_150
+6/29/2015 4:23:07 PM: Rendering controls completed.
+6/29/2015 4:23:07 PM: Rendering controls. Object Type: TextBox, Control Id: Control_149
+6/29/2015 4:23:07 PM: Rendering controls completed.
+6/29/2015 4:23:07 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_149
+6/29/2015 4:23:07 PM: Completed initialization of controls.
+6/29/2015 4:23:07 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/29/2015 4:23:07 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_132
+6/29/2015 4:23:07 PM: Initializing controls after rendering. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/29/2015 4:23:07 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_148
+6/29/2015 4:23:07 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_150
+6/29/2015 4:23:07 PM: Completed initialization of controls.
+6/29/2015 4:23:07 PM: Before binding image to viewer 
+6/29/2015 4:23:10 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/29/2015 4:23:10 PM: Rendering controls. Object Type: TextBox, Control Id: Control_132
+6/29/2015 4:23:10 PM: Rendering controls. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/29/2015 4:23:10 PM: Rendering controls. Object Type: TextBox, Control Id: Control_148
+6/29/2015 4:23:10 PM: Rendering controls. Object Type: DropDown, Control Id: Control_150
+6/29/2015 4:23:10 PM: Rendering controls completed.
+6/29/2015 4:23:10 PM: Rendering controls. Object Type: TextBox, Control Id: Control_149
+6/29/2015 4:23:10 PM: Rendering controls completed.
+6/29/2015 4:23:10 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_149
+6/29/2015 4:23:10 PM: Completed initialization of controls.
+6/29/2015 4:23:10 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/29/2015 4:23:10 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_132
+6/29/2015 4:23:10 PM: Initializing controls after rendering. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/29/2015 4:23:10 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_148
+6/29/2015 4:23:10 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_150
+6/29/2015 4:23:10 PM: Completed initialization of controls.
+6/29/2015 4:23:10 PM: Before binding image to viewer 
+6/29/2015 4:23:43 PM: Rendering controls. Object Type: TextBox, Control Id: Control_154
+6/29/2015 4:23:43 PM: Rendering controls completed.
+6/29/2015 4:23:43 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_154
+6/29/2015 4:23:43 PM: Completed initialization of controls.
+6/29/2015 4:23:43 PM: Before binding image to viewer 
+6/29/2015 5:38:56 PM: DataEntryTypes count : 3
+6/29/2015 5:39:57 PM: DataEntryTypes count : 3
+6/29/2015 6:28:52 PM: Dataentry Type of the stage : Form
+6/29/2015 6:28:53 PM: Get all stage related data from database
+6/29/2015 6:28:53 PM: Virtual folder path of data entry images/Images/DataEntry/bf9ac873-8628-481d-90c9-5ce5c50dbba7/12/16/209
+6/29/2015 6:28:53 PM: controls binded successfully
+6/29/2015 6:28:55 PM: Dataentry Type of the stage : Form
+6/29/2015 6:28:55 PM: Get all stage related data from database
+6/29/2015 6:28:55 PM: controls binded successfully
+6/29/2015 6:56:18 PM: Rendering controls. Object Type: TextBox, Control Id: Control_154
+6/29/2015 6:56:18 PM: Rendering controls completed.
+6/29/2015 6:56:18 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_154
+6/29/2015 6:56:18 PM: Completed initialization of controls.
+6/29/2015 6:56:18 PM: Before binding image to viewer 
+6/29/2015 7:56:24 PM: Before binding image to viewer \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-02\RE1fQURfMjg3XzFfMTAxOA==.pdf
+6/29/2015 7:56:25 PM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+6/29/2015 7:56:25 PM: source file path \172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-02\RE1fQURfMjg3XzFfMTAxOA==\1.pdf
+6/29/2015 7:56:25 PM: source file path \172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-02\RE1fQURfMjg3XzFfMTAxOA==
+6/29/2015 7:56:25 PM: Converting PDF to JPEG.
+6/29/2015 7:56:26 PM: convertPDFToImage method returned file path as empty.

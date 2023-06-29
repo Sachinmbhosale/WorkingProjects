@@ -1,0 +1,382 @@
+12/1/2022 12:40:59 PM: GetIndexFieldsByTemplateId Started
+12/1/2022 12:40:59 PM: GetIndexFieldsByTemplateId Finished
+12/1/2022 12:41:12 PM: Started Loading Domain Name Drop Down
+12/1/2022 12:41:12 PM: Finished Loading Domain Name Drop Down
+12/1/2022 12:41:51 PM: GetDocumentTypeWithId Started
+12/1/2022 12:41:51 PM: SetDepartmentTemplate Started
+12/1/2022 12:41:51 PM: SetDepartmentTemplate Finished
+12/1/2022 12:41:51 PM: GetDocumentTypeWithId Finished
+12/1/2022 12:44:32 PM: BindDocumentType started
+12/1/2022 12:44:32 PM: BindDocumentType finished
+12/1/2022 12:44:38 PM: createControls Started
+12/1/2022 12:44:38 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: createControls Finished
+12/1/2022 12:44:38 PM: GetTemplateDetails started
+12/1/2022 12:44:38 PM: generatecontrols Started
+12/1/2022 12:44:38 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 12:44:38 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 12:44:39 PM: createControls Started
+12/1/2022 12:44:39 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:39 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:39 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:39 PM: createControls Loaded all Textbox dynamically
+12/1/2022 12:44:39 PM: createControls Finished
+12/1/2022 12:44:40 PM: Started Loading Entity Drop Down
+12/1/2022 12:44:40 PM: Finished Loading Entity Drop Down
+12/1/2022 1:04:42 PM: BindDocumentType started
+12/1/2022 1:04:42 PM: BindDocumentType finished
+12/1/2022 1:04:45 PM: createControls Started
+12/1/2022 1:04:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:45 PM: createControls Finished
+12/1/2022 1:04:45 PM: GetTemplateDetails started
+12/1/2022 1:04:46 PM: generatecontrols Started
+12/1/2022 1:04:46 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:04:46 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:04:46 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:04:46 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:04:47 PM: createControls Started
+12/1/2022 1:04:47 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:47 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:47 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:47 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:04:47 PM: createControls Finished
+12/1/2022 1:04:47 PM: Started Loading Entity Drop Down
+12/1/2022 1:04:47 PM: Finished Loading Entity Drop Down
+12/1/2022 1:10:19 PM: BindDocumentType started
+12/1/2022 1:10:19 PM: BindDocumentType finished
+12/1/2022 1:10:22 PM: createControls Started
+12/1/2022 1:10:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:22 PM: createControls Finished
+12/1/2022 1:10:22 PM: GetTemplateDetails started
+12/1/2022 1:10:22 PM: generatecontrols Started
+12/1/2022 1:10:23 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:10:23 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:10:23 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:10:23 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 1:10:24 PM: createControls Started
+12/1/2022 1:10:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 1:10:24 PM: createControls Finished
+12/1/2022 1:10:24 PM: Started Loading Entity Drop Down
+12/1/2022 1:10:24 PM: Finished Loading Entity Drop Down
+12/1/2022 3:06:16 PM: BindDocumentType started
+12/1/2022 3:06:16 PM: BindDocumentType finished
+12/1/2022 3:06:26 PM: createControls Started
+12/1/2022 3:06:26 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: createControls Finished
+12/1/2022 3:06:26 PM: GetTemplateDetails started
+12/1/2022 3:06:26 PM: generatecontrols Started
+12/1/2022 3:06:26 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:06:26 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:06:28 PM: createControls Started
+12/1/2022 3:06:28 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:28 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:28 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:28 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:06:28 PM: createControls Finished
+12/1/2022 3:06:28 PM: Started Loading Entity Drop Down
+12/1/2022 3:06:28 PM: Finished Loading Entity Drop Down
+12/1/2022 3:09:04 PM: BindDocumentType started
+12/1/2022 3:09:04 PM: BindDocumentType finished
+12/1/2022 3:09:09 PM: createControls Started
+12/1/2022 3:09:09 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: createControls Finished
+12/1/2022 3:09:09 PM: GetTemplateDetails started
+12/1/2022 3:09:09 PM: generatecontrols Started
+12/1/2022 3:09:09 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:09 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:10 PM: createControls Started
+12/1/2022 3:09:11 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:11 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:11 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:11 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:11 PM: createControls Finished
+12/1/2022 3:09:11 PM: Started Loading Entity Drop Down
+12/1/2022 3:09:11 PM: Finished Loading Entity Drop Down
+12/1/2022 3:09:18 PM: createControls Started
+12/1/2022 3:09:18 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:18 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:18 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:18 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:18 PM: createControls Finished
+12/1/2022 3:09:18 PM: Started Loading Entity Drop Down
+12/1/2022 3:09:18 PM: Finished Loading Entity Drop Down
+12/1/2022 3:09:40 PM: BindDocumentType started
+12/1/2022 3:09:40 PM: BindDocumentType finished
+12/1/2022 3:09:45 PM: createControls Started
+12/1/2022 3:09:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: createControls Finished
+12/1/2022 3:09:45 PM: GetTemplateDetails started
+12/1/2022 3:09:45 PM: generatecontrols Started
+12/1/2022 3:09:45 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:45 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:09:46 PM: createControls Started
+12/1/2022 3:09:46 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:46 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:46 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:46 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:09:46 PM: createControls Finished
+12/1/2022 3:09:46 PM: Started Loading Entity Drop Down
+12/1/2022 3:09:46 PM: Finished Loading Entity Drop Down
+12/1/2022 3:12:11 PM: BindDocumentType started
+12/1/2022 3:12:11 PM: BindDocumentType finished
+12/1/2022 3:12:15 PM: createControls Started
+12/1/2022 3:12:15 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: createControls Finished
+12/1/2022 3:12:15 PM: GetTemplateDetails started
+12/1/2022 3:12:15 PM: generatecontrols Started
+12/1/2022 3:12:15 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:12:15 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:12:16 PM: createControls Started
+12/1/2022 3:12:16 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:16 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:16 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:16 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:12:16 PM: createControls Finished
+12/1/2022 3:12:16 PM: Started Loading Entity Drop Down
+12/1/2022 3:12:16 PM: Finished Loading Entity Drop Down
+12/1/2022 3:13:19 PM: BindDocumentType started
+12/1/2022 3:13:19 PM: BindDocumentType finished
+12/1/2022 3:13:22 PM: createControls Started
+12/1/2022 3:13:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: createControls Finished
+12/1/2022 3:13:22 PM: GetTemplateDetails started
+12/1/2022 3:13:22 PM: generatecontrols Started
+12/1/2022 3:13:22 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:13:22 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:13:23 PM: createControls Started
+12/1/2022 3:13:23 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:23 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:23 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:23 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:13:23 PM: createControls Finished
+12/1/2022 3:13:23 PM: Started Loading Entity Drop Down
+12/1/2022 3:13:23 PM: Finished Loading Entity Drop Down
+12/1/2022 3:23:39 PM: BindDocumentType started
+12/1/2022 3:23:39 PM: BindDocumentType finished
+12/1/2022 3:23:41 PM: createControls Started
+12/1/2022 3:23:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: createControls Finished
+12/1/2022 3:23:42 PM: GetTemplateDetails started
+12/1/2022 3:23:42 PM: generatecontrols Started
+12/1/2022 3:23:42 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:23:42 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:23:43 PM: createControls Started
+12/1/2022 3:23:43 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:43 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:43 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:43 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:23:43 PM: createControls Finished
+12/1/2022 3:23:43 PM: Started Loading Entity Drop Down
+12/1/2022 3:23:43 PM: Finished Loading Entity Drop Down
+12/1/2022 3:26:20 PM: BindDocumentType started
+12/1/2022 3:26:20 PM: BindDocumentType finished
+12/1/2022 3:26:24 PM: createControls Started
+12/1/2022 3:26:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: createControls Finished
+12/1/2022 3:26:24 PM: GetTemplateDetails started
+12/1/2022 3:26:24 PM: generatecontrols Started
+12/1/2022 3:26:24 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:26:24 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:26:25 PM: createControls Started
+12/1/2022 3:26:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:26:25 PM: createControls Finished
+12/1/2022 3:26:25 PM: Started Loading Entity Drop Down
+12/1/2022 3:26:25 PM: Finished Loading Entity Drop Down
+12/1/2022 3:27:45 PM: BindDocumentType started
+12/1/2022 3:27:45 PM: BindDocumentType finished
+12/1/2022 3:27:49 PM: createControls Started
+12/1/2022 3:27:49 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: createControls Finished
+12/1/2022 3:27:49 PM: GetTemplateDetails started
+12/1/2022 3:27:49 PM: generatecontrols Started
+12/1/2022 3:27:49 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:27:49 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 3:27:50 PM: createControls Started
+12/1/2022 3:27:50 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:50 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:50 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:50 PM: createControls Loaded all Textbox dynamically
+12/1/2022 3:27:50 PM: createControls Finished
+12/1/2022 3:27:50 PM: Started Loading Entity Drop Down
+12/1/2022 3:27:50 PM: Finished Loading Entity Drop Down
+12/1/2022 5:43:20 PM: BindDocumentType started
+12/1/2022 5:43:20 PM: BindDocumentType finished
+12/1/2022 5:43:25 PM: createControls Started
+12/1/2022 5:43:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: createControls Finished
+12/1/2022 5:43:25 PM: GetTemplateDetails started
+12/1/2022 5:43:25 PM: generatecontrols Started
+12/1/2022 5:43:25 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:25 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:27 PM: createControls Started
+12/1/2022 5:43:27 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:27 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:27 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:27 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:27 PM: createControls Finished
+12/1/2022 5:43:27 PM: Started Loading Entity Drop Down
+12/1/2022 5:43:27 PM: Finished Loading Entity Drop Down
+12/1/2022 5:43:54 PM: BindDocumentType started
+12/1/2022 5:43:54 PM: BindDocumentType finished
+12/1/2022 5:43:58 PM: createControls Started
+12/1/2022 5:43:58 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: createControls Finished
+12/1/2022 5:43:58 PM: GetTemplateDetails started
+12/1/2022 5:43:58 PM: generatecontrols Started
+12/1/2022 5:43:58 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:58 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 5:43:59 PM: createControls Started
+12/1/2022 5:43:59 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:59 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:59 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:59 PM: createControls Loaded all Textbox dynamically
+12/1/2022 5:43:59 PM: createControls Finished
+12/1/2022 5:43:59 PM: Started Loading Entity Drop Down
+12/1/2022 5:43:59 PM: Finished Loading Entity Drop Down
+12/1/2022 6:01:00 PM: BindDocumentType started
+12/1/2022 6:01:00 PM: BindDocumentType finished
+12/1/2022 6:01:03 PM: createControls Started
+12/1/2022 6:01:03 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: createControls Finished
+12/1/2022 6:01:03 PM: GetTemplateDetails started
+12/1/2022 6:01:03 PM: generatecontrols Started
+12/1/2022 6:01:03 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:01:03 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:01:04 PM: createControls Started
+12/1/2022 6:01:05 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:05 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:05 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:05 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:01:05 PM: createControls Finished
+12/1/2022 6:01:05 PM: Started Loading Entity Drop Down
+12/1/2022 6:01:05 PM: Finished Loading Entity Drop Down
+12/1/2022 6:02:53 PM: createControls Started
+12/1/2022 6:02:53 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:02:53 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:02:53 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:02:53 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:02:53 PM: createControls Finished
+12/1/2022 6:02:53 PM: BindQueries started
+12/1/2022 6:02:53 PM: BindQueries finished
+12/1/2022 6:02:55 PM: GetTemplatefieldDetails started
+12/1/2022 6:02:55 PM: GetTemplatefieldDetails finished
+12/1/2022 6:02:56 PM: btnPerformQueryClick started
+12/1/2022 6:02:56 PM: BuildQuery() executed properly 
+12/1/2022 6:02:56 PM: whereclause value 
+12/1/2022 6:02:56 PM: From Search click,QueryWhereClause() is executed properly 
+12/1/2022 6:02:56 PM: Before searching the details with whereclause : 
+12/1/2022 6:02:57 PM: Exception : Object reference not set to an instance of an object.
+12/1/2022 6:03:14 PM: btnPerformQueryClick started
+12/1/2022 6:03:14 PM: BuildQuery() executed properly 
+12/1/2022 6:03:14 PM: whereclause value 
+12/1/2022 6:03:14 PM: From Search click,QueryWhereClause() is executed properly 
+12/1/2022 6:03:14 PM: Before searching the details with whereclause : 
+12/1/2022 6:03:14 PM: Exception : Object reference not set to an instance of an object.
+12/1/2022 6:03:34 PM: createControls Started
+12/1/2022 6:03:34 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: createControls Finished
+12/1/2022 6:03:34 PM: GetTemplateDetails started
+12/1/2022 6:03:34 PM: generatecontrols Started
+12/1/2022 6:03:34 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:03:34 PM: GenerateControls:Loaded all Textbox dynamically
+12/1/2022 6:03:35 PM: createControls Started
+12/1/2022 6:03:35 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:35 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:35 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:35 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:03:35 PM: createControls Finished
+12/1/2022 6:03:35 PM: Started Loading Entity Drop Down
+12/1/2022 6:03:35 PM: Finished Loading Entity Drop Down
+12/1/2022 6:04:41 PM: createControls Started
+12/1/2022 6:04:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:04:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:04:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:04:42 PM: createControls Loaded all Textbox dynamically
+12/1/2022 6:04:42 PM: createControls Finished
+12/1/2022 6:04:42 PM: BindQueries started
+12/1/2022 6:04:42 PM: BindQueries finished
+12/1/2022 6:04:43 PM: GetTemplatefieldDetails started
+12/1/2022 6:04:43 PM: GetTemplatefieldDetails finished
+12/1/2022 6:04:44 PM: btnPerformQueryClick started
+12/1/2022 6:04:44 PM: BuildQuery() executed properly 
+12/1/2022 6:04:44 PM: whereclause value 
+12/1/2022 6:04:44 PM: From Search click,QueryWhereClause() is executed properly 
+12/1/2022 6:04:44 PM: Before searching the details with whereclause : 
+12/1/2022 6:04:44 PM: Exception : Object reference not set to an instance of an object.

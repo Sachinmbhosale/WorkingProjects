@@ -1,0 +1,43 @@
+6/16/2022 7:01:45 PM: GetTemplateDetails started
+6/16/2022 7:01:45 PM: generatecontrols Started
+6/16/2022 7:01:45 PM: GenerateControls:Loaded all Textbox dynamically
+6/16/2022 7:01:45 PM: GenerateControls:Loaded all Textbox dynamically
+6/16/2022 7:01:45 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/16/2022 7:01:45 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/16/2022 7:01:45 PM: GenerateControls:Loaded all Textbox dynamically
+6/16/2022 7:01:45 PM: BindDocumentType started
+6/16/2022 7:01:45 PM: BindDocumentType finished
+6/16/2022 7:01:45 PM: createControls Started
+6/16/2022 7:01:45 PM: createControls Loaded all Textbox dynamically
+6/16/2022 7:01:45 PM: createControls Loaded all Textbox dynamically
+6/16/2022 7:01:45 PM: createControls Loaded all Dropdownlist dynamically
+6/16/2022 7:01:45 PM: createControls Loaded all Dropdownlist dynamically
+6/16/2022 7:01:45 PM: createControls Loaded all Textbox dynamically
+6/16/2022 7:01:45 PM: createControls Finished
+6/16/2022 7:01:49 PM: createControls Started
+6/16/2022 7:01:49 PM: createControls Loaded all Textbox dynamically
+6/16/2022 7:01:49 PM: createControls Loaded all Textbox dynamically
+6/16/2022 7:01:49 PM: createControls Loaded all Dropdownlist dynamically
+6/16/2022 7:01:49 PM: createControls Loaded all Dropdownlist dynamically
+6/16/2022 7:01:49 PM: createControls Loaded all Textbox dynamically
+6/16/2022 7:01:49 PM: createControls Finished
+6/16/2022 7:01:49 PM: Started Loading Entity Drop Down
+6/16/2022 7:01:56 PM: Finished Loading Entity Drop Down
+6/16/2022 7:03:26 PM: GetSginatureDetails Started:-
+6/16/2022 7:03:26 PM: GetSginatureDetails Completed:-
+6/16/2022 7:03:26 PM: GetTemplateDetails Started
+6/16/2022 7:03:26 PM: GetTemplateDetails total record count:1
+6/16/2022 7:03:26 PM: Create controls,Load all Textbox dynamic
+6/16/2022 7:03:26 PM: Create controls,Load all Textbox dynamic
+6/16/2022 7:03:26 PM: Createcontrols,Load all Dropdownlist dynamic
+6/16/2022 7:03:26 PM: Createcontrols,Load all Dropdownlist dynamic
+6/16/2022 7:03:26 PM: Create controls,Load all Textbox dynamic
+6/16/2022 7:03:26 PM: GetTemplateDetails Finished
+6/16/2022 7:03:26 PM: InitializeDocumentView started
+6/16/2022 7:03:26 PM: InitializeDocumentView finished
+6/16/2022 7:03:26 PM: Calling database to get annotated images. DocumentId: 230666, Action: GetAnnotatedPages
+6/16/2022 7:03:27 PM: Calling database to get annotated images. DocumentId: 230666, Action: GetTaggedPages
+6/16/2022 7:03:27 PM: LoadImageToViewer started
+6/16/2022 7:03:27 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+6/16/2022 7:03:28 PM: MailPanelFill started
+6/16/2022 7:03:28 PM: MailPanelFill finished

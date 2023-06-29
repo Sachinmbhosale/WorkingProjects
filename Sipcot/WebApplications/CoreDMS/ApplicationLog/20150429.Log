@@ -1,0 +1,21 @@
+4/29/2015 2:31:20 PM: MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'sa'@'LBSBLRLT017' (using password: YES)
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 192
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 62
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+4/29/2015 2:56:06 PM: MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'sa'@'LBSBLRLT017' (using password: YES)
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 192
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 62
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+4/29/2015 2:58:17 PM: MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Exception: Call to GetHostEntry failed after 00:00:00.0706396 while querying for hostname '172.16.1.11:3306': SocketErrorCode=HostNotFound, ErrorCode=11001, NativeErrorCode=11001. ---> System.Net.Sockets.SocketException: No such host is known
+   at System.Net.Dns.GetAddrInfo(String name)
+   at System.Net.Dns.InternalGetHostByName(String hostName, Boolean includeIPv6)
+   at System.Net.Dns.GetHostEntry(String hostNameOrAddress)
+   at MySql.Data.Common.StreamCreator.GetDnsHostEntry(String hostname)
+   --- End of inner exception stack trace ---
+   at MySql.Data.Common.StreamCreator.GetDnsHostEntry(String hostname)
+   at MySql.Data.Common.StreamCreator.GetHostEntry(String hostname)
+   at MySql.Data.Common.StreamCreator.GetStream(UInt32 timeout)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 192
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 62
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215

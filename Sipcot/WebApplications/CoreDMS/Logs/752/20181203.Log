@@ -1,0 +1,205 @@
+12/3/2018 10:55:38 AM: createControls Started
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:55:38 AM: createControls Finished
+12/3/2018 10:55:38 AM: generatecontrols Started
+12/3/2018 10:55:38 AM: Calling database to get reference id and watermark.
+12/3/2018 10:55:39 AM: Database returned result: II_WE_752_279_1012|
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:55:39 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: createControls Started
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:01 AM: createControls Finished
+12/3/2018 10:56:01 AM: Started Saving Uploaded Document in Save Button Click
+12/3/2018 10:56:01 AM: Exception : Object reference not set to an instance of an object.
+12/3/2018 10:56:01 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:56:01 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/3/2018 10:56:02 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/3/2018 10:56:03 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 226
+12/3/2018 10:56:03 AM: AsyncFileUpload1_UploadedComplete Finished
+12/3/2018 10:56:12 AM: createControls Started
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:12 AM: createControls Finished
+12/3/2018 10:56:12 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:56:12 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/3/2018 10:56:12 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/3/2018 10:56:14 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 226
+12/3/2018 10:56:14 AM: AsyncFileUpload1_UploadedComplete Finished
+12/3/2018 10:56:15 AM: createControls Started
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:15 AM: createControls Finished
+12/3/2018 10:56:15 AM: btnSubmit_Click Started
+12/3/2018 10:56:15 AM: btnSubmit_Click Finished
+12/3/2018 10:56:21 AM: createControls Started
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:56:21 AM: createControls Finished
+12/3/2018 10:56:21 AM: Started Saving Uploaded Document in Save Button Click
+12/3/2018 10:56:38 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:56:38 AM: AsyncFileUpload1_UploadedComplete Finished
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld7
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld8
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld9
+12/3/2018 10:56:38 AM: GetDBFieldName the DBFld UPLOAD_vFld10
+12/3/2018 10:56:42 AM: CreateXML Started:-
+12/3/2018 10:56:42 AM: CreateXML Completed:-
+12/3/2018 10:56:42 AM: Save button click after saving or updating the ReturnCode= 0
+12/3/2018 10:56:42 AM: Finished Saving Uploaded Document in Save Button Click
+12/3/2018 10:56:42 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:56:42 AM: AsyncFileUpload1_UploadedComplete Finished
+12/3/2018 10:57:18 AM: createControls Started
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: createControls Finished
+12/3/2018 10:57:18 AM: generatecontrols Started
+12/3/2018 10:57:18 AM: Calling database to get reference id and watermark.
+12/3/2018 10:57:18 AM: Database returned result: II_WE_752_279_1013|
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:18 AM: Generatecontrols,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: createControls Started
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:19 AM: createControls Finished
+12/3/2018 10:57:26 AM: createControls Started
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:26 AM: createControls Finished
+12/3/2018 10:57:26 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:57:26 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/3/2018 10:57:26 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/3/2018 10:57:26 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 226
+12/3/2018 10:57:26 AM: AsyncFileUpload1_UploadedComplete Finished
+12/3/2018 10:57:27 AM: createControls Started
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:27 AM: createControls Finished
+12/3/2018 10:57:27 AM: btnSubmit_Click Started
+12/3/2018 10:57:27 AM: btnSubmit_Click Finished
+12/3/2018 10:57:36 AM: createControls Started
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: Create controls,Load all Textbox dynamic
+12/3/2018 10:57:36 AM: createControls Finished
+12/3/2018 10:57:36 AM: Started Saving Uploaded Document in Save Button Click
+12/3/2018 10:57:40 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:57:40 AM: AsyncFileUpload1_UploadedComplete Finished
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld7
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld8
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld9
+12/3/2018 10:57:40 AM: GetDBFieldName the DBFld UPLOAD_vFld10
+12/3/2018 10:57:40 AM: CreateXML Started:-
+12/3/2018 10:57:40 AM: CreateXML Completed:-
+12/3/2018 10:57:41 AM: Save button click after saving or updating the ReturnCode= 0
+12/3/2018 10:57:41 AM: Finished Saving Uploaded Document in Save Button Click
+12/3/2018 10:57:41 AM: AsyncFileUpload1_UploadedComplete Started
+12/3/2018 10:57:41 AM: AsyncFileUpload1_UploadedComplete Finished

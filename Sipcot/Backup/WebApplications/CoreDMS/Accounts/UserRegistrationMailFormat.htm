@@ -1,0 +1,53 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HTML Page to Send Mail </title>
+</head>
+<body>
+    User Registration Confirmation<br />
+    <br />
+    <div style="border-top: 3px solid #EB5E00">
+        <br />
+        <span style="font-family: Arial; font-size: 10pt">Hi $$FirstName$$ $$LastName$$
+        <br />
+        Welcome to DMS Infosearch. Please login to DMS Infosearch by clicking the below 
+        link or Copy and Paste the same in browser. User credentials are given below.<br />
+        <br />
+        Note: This site is better viewed in Internet Explorer 8 or above.</span>&nbsp;<br />
+        <br />
+    </div>
+    <table style="border: 1px solid #EB5E00">
+        <tr>
+            <td>
+                <b><span style="font-family: Arial; font-size: 10pt">User Name:</span></b>
+            </td>
+            <td>
+                $$UserName$$
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <b><span style="font-family: Arial; font-size: 10pt">New Password:</span></b>
+            </td>
+            <td>
+                $$NewPassword$$
+            </td>
+        </tr>       
+        <tr>
+            <td>
+                <b><span style="font-family: Arial; font-size: 10pt">Website URL:</span></b>
+            </td>
+            <td>
+                $$Website$$
+            </td>
+        </tr>
+    </table>
+    <p>
+        <span style="font-family: Arial; font-size: 10pt">Please login to the website and change
+            the password at the earliest.</span></p>
+    <span style="font-family: Arial; font-size: 10pt">Regards,</span>
+    <br />
+    <b><span style="font-family: Arial; font-size: 10pt">WebMaster</span></b>
+    <br />
+    <b><span style="font-family: Arial; font-size: 10pt">$$OrgName$$</span></b>
+</body>
+</html>

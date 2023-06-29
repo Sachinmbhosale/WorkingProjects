@@ -1,0 +1,152 @@
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\Projects\DMS\trunk\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\WriterDMS_11_06_2015\SourceCode\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.CoreCompileInputs.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\AxisFinance\ESK\ESK\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\bin\Debug\MassUpload.exe
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\bin\Debug\MassUpload.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\frmAbout.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Properties.Resources.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.Upload.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.UserLogin.resources
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.GenerateResource.Cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.exe
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WindowsApplications\MassUpload\obj\x86\Debug\MassUpload.csprojResolveAssemblyReference.cache

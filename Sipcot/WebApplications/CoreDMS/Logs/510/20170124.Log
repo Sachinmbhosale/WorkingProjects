@@ -1,0 +1,25 @@
+1/24/2017 3:56:58 PM: BindDocumentType started
+1/24/2017 3:56:58 PM: BindDocumentType finished
+1/24/2017 3:57:03 PM: createControls Started
+1/24/2017 3:57:03 PM: createControls Loaded all Textbox dynamically
+1/24/2017 3:57:03 PM: createControls Loaded all Textbox dynamically
+1/24/2017 3:57:03 PM: createControls Finished
+1/24/2017 3:57:03 PM: GetTemplateDetails started
+1/24/2017 3:57:03 PM: generatecontrols Started
+1/24/2017 3:57:03 PM: GenerateControls:Loaded all Textbox dynamically
+1/24/2017 3:57:03 PM: GenerateControls:Loaded all Textbox dynamically
+1/24/2017 3:57:08 PM: GetSginatureDetails Started:-
+1/24/2017 3:57:08 PM: GetSginatureDetails Completed:-
+1/24/2017 3:57:08 PM: GetTemplateDetails Started
+1/24/2017 3:57:08 PM: GetTemplateDetails total record count:1
+1/24/2017 3:57:08 PM: Create controls,Load all Textbox dynamic
+1/24/2017 3:57:08 PM: Create controls,Load all Textbox dynamic
+1/24/2017 3:57:08 PM: GetTemplateDetails Finished
+1/24/2017 3:57:08 PM: InitializeDocumentView started
+1/24/2017 3:57:08 PM: InitializeDocumentView finished
+1/24/2017 3:57:08 PM: Calling database to get annotated images. DocumentId: 1228, Action: GetAnnotatedPages
+1/24/2017 3:57:08 PM: Calling database to get annotated images. DocumentId: 1228, Action: GetTaggedPages
+1/24/2017 3:57:09 PM: LoadImageToViewer started
+1/24/2017 3:57:09 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+1/24/2017 3:57:09 PM: MailPanelFill started
+1/24/2017 3:57:09 PM: MailPanelFill finished

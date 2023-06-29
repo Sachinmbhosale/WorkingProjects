@@ -1,0 +1,142 @@
+6/5/2015 2:58:28 PM: DataEntryTypes count : 3
+6/5/2015 2:58:38 PM: Dataentry Type of the stage : Form
+6/5/2015 2:58:38 PM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/32/33/202/temp_202.pdf
+6/5/2015 2:58:38 PM: Loading image based on page number for coordinate capturing
+6/5/2015 2:58:38 PM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\32\33\202\/1.jpg
+6/5/2015 2:58:38 PM: status of the back ground image is: False
+6/5/2015 2:59:23 PM: Dataentry Type of the stage : Form
+6/5/2015 2:59:30 PM: Dataentry Type of the stage : Form
+6/5/2015 3:00:20 PM: Dataentry Type of the stage : Form
+6/5/2015 3:00:20 PM: retrive the data from textbox to save the values
+6/5/2015 3:00:20 PM: Dataentry Type of the stage before saving : Form
+6/5/2015 3:00:21 PM: Save completed successfully: 
+6/5/2015 3:00:34 PM: Dataentry Type of the stage : Form
+6/5/2015 3:00:34 PM: Get all stage related data from database
+6/5/2015 3:00:34 PM: Virtual folder path of data entry images/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:00:34 PM: Pages count 4
+6/5/2015 3:00:34 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:00:34 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:00:34 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\1.jpg
+6/5/2015 3:00:35 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\2.jpg
+6/5/2015 3:00:35 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\3.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\3.jpg
+6/5/2015 3:00:35 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\4.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\4.jpg
+6/5/2015 3:00:36 PM: Converted pdf to jpg
+6/5/2015 3:00:36 PM: Binding image to panel started
+6/5/2015 3:00:36 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/1.jpg
+6/5/2015 3:00:36 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/2.jpg
+6/5/2015 3:00:36 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/3.jpg
+6/5/2015 3:00:36 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/4.jpg
+6/5/2015 3:00:36 PM: Pages count 1
+6/5/2015 3:00:36 PM: Binding image to panel started
+6/5/2015 3:00:36 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/5/2015 3:00:36 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:00:36 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:00:36 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:00:36 PM: Rendering controls completed.
+6/5/2015 3:00:36 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:00:36 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:00:36 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:00:36 PM: Completed initialization of controls.
+6/5/2015 3:00:36 PM: controls binded successfully
+6/5/2015 3:00:50 PM: Virtual folder path of data entry images/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:00:50 PM: Pages count 4
+6/5/2015 3:00:50 PM: Converted pdf to jpg
+6/5/2015 3:00:50 PM: Binding image to panel started
+6/5/2015 3:00:50 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/1.jpg
+6/5/2015 3:00:50 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/2.jpg
+6/5/2015 3:00:50 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/3.jpg
+6/5/2015 3:00:50 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/4.jpg
+6/5/2015 3:00:50 PM: Pages count 1
+6/5/2015 3:00:50 PM: Binding image to panel started
+6/5/2015 3:00:50 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/5/2015 3:00:50 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:00:50 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:00:50 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:00:50 PM: Rendering controls completed.
+6/5/2015 3:00:50 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:00:50 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:00:50 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:00:50 PM: Completed initialization of controls.
+6/5/2015 3:00:50 PM: controls binded successfully
+6/5/2015 3:01:01 PM: Virtual folder path of data entry images/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:01:01 PM: Pages count 4
+6/5/2015 3:01:01 PM: Converted pdf to jpg
+6/5/2015 3:01:01 PM: Binding image to panel started
+6/5/2015 3:01:01 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/1.jpg
+6/5/2015 3:01:01 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/2.jpg
+6/5/2015 3:01:01 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/3.jpg
+6/5/2015 3:01:01 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/4.jpg
+6/5/2015 3:01:01 PM: Pages count 1
+6/5/2015 3:01:01 PM: Binding image to panel started
+6/5/2015 3:01:01 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/5/2015 3:01:01 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:01 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:01 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:01 PM: Rendering controls completed.
+6/5/2015 3:01:01 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:01 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:01 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:01 PM: Completed initialization of controls.
+6/5/2015 3:01:01 PM: controls binded successfully
+6/5/2015 3:01:01 PM: btnSave_Click Started
+6/5/2015 3:01:01 PM: Building update query from controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:01 PM: Building update query from controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:01 PM: Building update query from controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:01 PM: Completed building query. Query: UPDATE WorkflowStageFieldData SET WorkflowStageFieldData_vFld1='ff', WorkflowStageFieldData_vFld2='fff', WorkflowStageFieldData_vFld4='46', 
+6/5/2015 3:01:01 PM: Completed building query. Query: UPDATE WorkflowStageFieldData SET WorkflowStageFieldData_vFld1='ff', WorkflowStageFieldData_vFld2='fff', WorkflowStageFieldData_vFld4='46', 
+6/5/2015 3:01:02 PM: btnSave_Click Finished
+6/5/2015 3:01:12 PM: Dataentry Type of the stage : Form
+6/5/2015 3:01:12 PM: Get all stage related data from database
+6/5/2015 3:01:12 PM: Virtual folder path of data entry images/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:01:12 PM: Pages count 4
+6/5/2015 3:01:12 PM: Creating directory in web to store jpg files for data entry. Path: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:01:12 PM: deleting the old jpg files in folder:D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:01:12 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\1.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\1.jpg
+6/5/2015 3:01:12 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\2.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\2.jpg
+6/5/2015 3:01:13 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\3.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\3.jpg
+6/5/2015 3:01:13 PM: Converting pdf file into jpg. Source: \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-04\Q1VfQURfMjg3XzFfMTAxOQ==\4.pdf Destination: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\4.jpg
+6/5/2015 3:01:13 PM: Converted pdf to jpg
+6/5/2015 3:01:13 PM: Binding image to panel started
+6/5/2015 3:01:13 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/1.jpg
+6/5/2015 3:01:13 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/2.jpg
+6/5/2015 3:01:13 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/3.jpg
+6/5/2015 3:01:13 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/4.jpg
+6/5/2015 3:01:13 PM: Pages count 1
+6/5/2015 3:01:13 PM: Binding image to panel started
+6/5/2015 3:01:13 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/5/2015 3:01:13 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:13 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:13 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:13 PM: Rendering controls completed.
+6/5/2015 3:01:13 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:13 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:13 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:13 PM: Completed initialization of controls.
+6/5/2015 3:01:13 PM: controls binded successfully
+6/5/2015 3:01:52 PM: Virtual folder path of data entry images/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202
+6/5/2015 3:01:53 PM: Pages count 4
+6/5/2015 3:01:53 PM: Converted pdf to jpg
+6/5/2015 3:01:53 PM: Binding image to panel started
+6/5/2015 3:01:53 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/1.jpg
+6/5/2015 3:01:53 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/2.jpg
+6/5/2015 3:01:53 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/3.jpg
+6/5/2015 3:01:53 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\/Images/DataEntry/2a534b7e-1b43-4ac0-81b8-0ed4f583e5f6/32/33/202\/4.jpg
+6/5/2015 3:01:53 PM: Pages count 1
+6/5/2015 3:01:53 PM: Binding image to panel started
+6/5/2015 3:01:53 PM: Image url:http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload/32/33/202\/1.jpg
+6/5/2015 3:01:53 PM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:53 PM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:53 PM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:53 PM: Rendering controls completed.
+6/5/2015 3:01:53 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:53 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:53 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:53 PM: Completed initialization of controls.
+6/5/2015 3:01:53 PM: controls binded successfully
+6/5/2015 3:01:53 PM: btnSave_Click Started
+6/5/2015 3:01:53 PM: Building update query from controls. Object Type: TextBox, Control Id: Control_144
+6/5/2015 3:01:53 PM: Building update query from controls. Object Type: TextBox, Control Id: Control_145
+6/5/2015 3:01:53 PM: Building update query from controls. Object Type: DropDown, Control Id: Control_147
+6/5/2015 3:01:53 PM: Completed building query. Query: UPDATE WorkflowStageFieldData SET WorkflowStageFieldData_vFld1='ff', WorkflowStageFieldData_vFld2='fff', WorkflowStageFieldData_vFld4='46', 
+6/5/2015 3:01:53 PM: Completed building query. Query: UPDATE WorkflowStageFieldData SET WorkflowStageFieldData_vFld1='ff', WorkflowStageFieldData_vFld2='fff', WorkflowStageFieldData_vFld4='46', 
+6/5/2015 3:01:53 PM: btnSave_Click Finished

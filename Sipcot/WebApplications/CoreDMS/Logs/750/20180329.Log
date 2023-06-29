@@ -1,0 +1,246 @@
+3/29/2018 11:48:07 AM: BindDocumentType started
+3/29/2018 11:48:07 AM: BindDocumentType finished
+3/29/2018 11:48:12 AM: createControls Started
+3/29/2018 11:48:12 AM: createControls Loaded all Textbox dynamically
+3/29/2018 11:48:12 AM: createControls Finished
+3/29/2018 11:48:12 AM: GetTemplateDetails started
+3/29/2018 11:48:12 AM: generatecontrols Started
+3/29/2018 11:48:12 AM: GenerateControls:Loaded all Textbox dynamically
+3/29/2018 11:48:13 AM: createControls Started
+3/29/2018 11:48:13 AM: createControls Loaded all Textbox dynamically
+3/29/2018 11:48:13 AM: createControls Finished
+3/29/2018 11:48:13 AM: Started Loading Entity Drop Down
+3/29/2018 11:48:15 AM: Finished Loading Entity Drop Down
+3/29/2018 11:48:35 AM: createControls Started
+3/29/2018 11:48:35 AM: createControls Loaded all Textbox dynamically
+3/29/2018 11:48:35 AM: createControls Finished
+3/29/2018 11:48:35 AM: Started Loading Entity Drop Down
+3/29/2018 11:48:35 AM: Finished Loading Entity Drop Down
+3/29/2018 12:05:14 PM: BindDocumentType started
+3/29/2018 12:05:14 PM: BindDocumentType finished
+3/29/2018 12:05:17 PM: createControls Started
+3/29/2018 12:05:17 PM: createControls Loaded all Textbox dynamically
+3/29/2018 12:05:17 PM: createControls Finished
+3/29/2018 12:05:17 PM: GetTemplateDetails started
+3/29/2018 12:05:17 PM: generatecontrols Started
+3/29/2018 12:05:17 PM: GenerateControls:Loaded all Textbox dynamically
+3/29/2018 12:05:20 PM: createControls Started
+3/29/2018 12:05:20 PM: createControls Loaded all Textbox dynamically
+3/29/2018 12:05:20 PM: createControls Finished
+3/29/2018 12:05:21 PM: Started Loading Entity Drop Down
+3/29/2018 12:05:21 PM: Finished Loading Entity Drop Down
+3/29/2018 1:04:24 PM: BindDocumentType started
+3/29/2018 1:04:24 PM: BindDocumentType finished
+3/29/2018 1:04:27 PM: createControls Started
+3/29/2018 1:04:27 PM: createControls Loaded all Textbox dynamically
+3/29/2018 1:04:27 PM: createControls Finished
+3/29/2018 1:04:27 PM: GetTemplateDetails started
+3/29/2018 1:04:27 PM: generatecontrols Started
+3/29/2018 1:04:27 PM: GenerateControls:Loaded all Textbox dynamically
+3/29/2018 1:04:31 PM: createControls Started
+3/29/2018 1:04:31 PM: createControls Loaded all Textbox dynamically
+3/29/2018 1:04:31 PM: createControls Finished
+3/29/2018 1:04:31 PM: Started Loading Entity Drop Down
+3/29/2018 1:04:31 PM: Finished Loading Entity Drop Down
+3/29/2018 1:32:51 PM: BindDocumentType started
+3/29/2018 1:32:51 PM: BindDocumentType finished
+3/29/2018 1:32:54 PM: createControls Started
+3/29/2018 1:32:54 PM: createControls Loaded all Textbox dynamically
+3/29/2018 1:32:54 PM: createControls Finished
+3/29/2018 1:32:54 PM: GetTemplateDetails started
+3/29/2018 1:32:54 PM: generatecontrols Started
+3/29/2018 1:32:54 PM: GenerateControls:Loaded all Textbox dynamically
+3/29/2018 1:32:57 PM: createControls Started
+3/29/2018 1:32:57 PM: createControls Loaded all Textbox dynamically
+3/29/2018 1:32:57 PM: createControls Finished
+3/29/2018 1:32:57 PM: Started Loading Entity Drop Down
+3/29/2018 1:32:57 PM: Finished Loading Entity Drop Down
+3/29/2018 2:20:14 PM: BindDocumentType started
+3/29/2018 2:20:14 PM: BindDocumentType finished
+3/29/2018 2:20:17 PM: createControls Started
+3/29/2018 2:20:17 PM: createControls Loaded all Textbox dynamically
+3/29/2018 2:20:17 PM: createControls Finished
+3/29/2018 2:20:17 PM: GetTemplateDetails started
+3/29/2018 2:20:17 PM: generatecontrols Started
+3/29/2018 2:20:17 PM: GenerateControls:Loaded all Textbox dynamically
+3/29/2018 2:20:20 PM: createControls Started
+3/29/2018 2:20:20 PM: createControls Loaded all Textbox dynamically
+3/29/2018 2:20:20 PM: createControls Finished
+3/29/2018 2:20:20 PM: Started Loading Entity Drop Down
+3/29/2018 2:20:20 PM: Finished Loading Entity Drop Down
+3/29/2018 2:20:22 PM: GetSginatureDetails Started:-
+3/29/2018 2:20:22 PM: GetSginatureDetails Completed:-
+3/29/2018 2:20:22 PM: GetTemplateDetails Started
+3/29/2018 2:20:22 PM: GetTemplateDetails total record count:1
+3/29/2018 2:20:22 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:20:22 PM: GetTemplateDetails Finished
+3/29/2018 2:20:22 PM: InitializeDocumentView started
+3/29/2018 2:20:22 PM: InitializeDocumentView finished
+3/29/2018 2:20:22 PM: Calling database to get annotated images. DocumentId: 342839, Action: GetAnnotatedPages
+3/29/2018 2:20:22 PM: Calling database to get annotated images. DocumentId: 342839, Action: GetTaggedPages
+3/29/2018 2:20:23 PM: LoadImageToViewer started
+3/29/2018 2:20:23 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+3/29/2018 2:20:23 PM: MailPanelFill started
+3/29/2018 2:20:23 PM: MailPanelFill finished
+3/29/2018 2:20:33 PM: GetTemplateDetails Started
+3/29/2018 2:20:33 PM: GetTemplateDetails total record count:1
+3/29/2018 2:20:33 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:20:33 PM: GetTemplateDetails Finished
+3/29/2018 2:20:33 PM: getAvailablePages Started
+3/29/2018 2:20:33 PM: LoadImageToViewer started
+3/29/2018 2:20:33 PM: Setting image to viewer. Action:  Page count: 52 Current Page:1
+3/29/2018 2:20:33 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\16.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 16
+3/29/2018 2:20:33 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:20:34 PM: Exception: I/O error occurred.
+3/29/2018 2:20:34 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:20:34 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:20:34 PM: Get annotations from database.
+3/29/2018 2:20:34 PM: Document Id: 342839 Page No: 16
+3/29/2018 2:20:34 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:20:38 PM: GetTemplateDetails Started
+3/29/2018 2:20:38 PM: GetTemplateDetails total record count:1
+3/29/2018 2:20:38 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:20:38 PM: GetTemplateDetails Finished
+3/29/2018 2:20:38 PM: LoadImageToViewer started
+3/29/2018 2:20:38 PM: Setting image to viewer. Action: GOTO Page count: 52 Current Page:16
+3/29/2018 2:20:38 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\17.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 17
+3/29/2018 2:20:38 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:20:38 PM: Exception: I/O error occurred.
+3/29/2018 2:20:38 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:20:38 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:20:38 PM: Get annotations from database.
+3/29/2018 2:20:38 PM: Document Id: 342839 Page No: 17
+3/29/2018 2:20:38 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:20:44 PM: GetTemplateDetails Started
+3/29/2018 2:20:44 PM: GetTemplateDetails total record count:1
+3/29/2018 2:20:44 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:20:44 PM: GetTemplateDetails Finished
+3/29/2018 2:20:44 PM: LoadImageToViewer started
+3/29/2018 2:20:44 PM: Setting image to viewer. Action: GOTO Page count: 52 Current Page:17
+3/29/2018 2:20:44 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\19.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 19
+3/29/2018 2:20:44 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:20:44 PM: Exception: I/O error occurred.
+3/29/2018 2:20:44 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:20:44 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:20:44 PM: Get annotations from database.
+3/29/2018 2:20:44 PM: Document Id: 342839 Page No: 19
+3/29/2018 2:20:44 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:20:53 PM: GetTemplateDetails Started
+3/29/2018 2:20:53 PM: GetTemplateDetails total record count:1
+3/29/2018 2:20:53 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:20:53 PM: GetTemplateDetails Finished
+3/29/2018 2:20:53 PM: LoadImageToViewer started
+3/29/2018 2:20:53 PM: Setting image to viewer. Action: GOTO Page count: 52 Current Page:19
+3/29/2018 2:20:53 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\20.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 20
+3/29/2018 2:20:53 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:20:53 PM: Exception: I/O error occurred.
+3/29/2018 2:20:53 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:20:53 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:20:53 PM: Get annotations from database.
+3/29/2018 2:20:53 PM: Document Id: 342839 Page No: 20
+3/29/2018 2:20:53 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:24:38 PM: GetTemplateDetails Started
+3/29/2018 2:24:38 PM: GetTemplateDetails total record count:1
+3/29/2018 2:24:38 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:24:38 PM: GetTemplateDetails Finished
+3/29/2018 2:24:38 PM: getAvailablePages Started
+3/29/2018 2:24:38 PM: getAvailablePages Finished
+3/29/2018 2:24:38 PM: getAvailablePages Started
+3/29/2018 2:24:38 PM: getAvailablePages Finished
+3/29/2018 2:24:38 PM: LoadImageToViewer started
+3/29/2018 2:24:38 PM: Setting image to viewer. Action: GOTO Page count: 52 Current Page:20
+3/29/2018 2:24:38 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\16.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 16
+3/29/2018 2:24:38 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:24:38 PM: Exception: I/O error occurred.
+3/29/2018 2:24:38 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:24:38 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:24:38 PM: Get annotations from database.
+3/29/2018 2:24:38 PM: Document Id: 342839 Page No: 16
+3/29/2018 2:24:38 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:02 PM: GetTemplateDetails Started
+3/29/2018 2:25:02 PM: GetTemplateDetails total record count:1
+3/29/2018 2:25:02 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:25:02 PM: GetTemplateDetails Finished
+3/29/2018 2:25:02 PM: LoadImageToViewer started
+3/29/2018 2:25:02 PM: Setting image to viewer. Action: NEXT Page count: 52 Current Page:16
+3/29/2018 2:25:02 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\17.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 17
+3/29/2018 2:25:02 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:25:03 PM: Exception: I/O error occurred.
+3/29/2018 2:25:03 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:25:03 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:25:03 PM: Get annotations from database.
+3/29/2018 2:25:03 PM: Document Id: 342839 Page No: 17
+3/29/2018 2:25:03 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:04 PM: GetTemplateDetails Started
+3/29/2018 2:25:04 PM: GetTemplateDetails total record count:1
+3/29/2018 2:25:04 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:25:04 PM: GetTemplateDetails Finished
+3/29/2018 2:25:04 PM: LoadImageToViewer started
+3/29/2018 2:25:04 PM: Setting image to viewer. Action: NEXT Page count: 52 Current Page:17
+3/29/2018 2:25:04 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\18.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 18
+3/29/2018 2:25:04 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:25:04 PM: Exception: I/O error occurred.
+3/29/2018 2:25:04 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:25:04 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:25:04 PM: Get annotations from database.
+3/29/2018 2:25:04 PM: Document Id: 342839 Page No: 18
+3/29/2018 2:25:04 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:09 PM: GetTemplateDetails Started
+3/29/2018 2:25:09 PM: GetTemplateDetails total record count:1
+3/29/2018 2:25:09 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:25:09 PM: GetTemplateDetails Finished
+3/29/2018 2:25:09 PM: LoadImageToViewer started
+3/29/2018 2:25:09 PM: Setting image to viewer. Action: NEXT Page count: 52 Current Page:18
+3/29/2018 2:25:09 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\19.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 19
+3/29/2018 2:25:09 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:25:09 PM: Exception: I/O error occurred.
+3/29/2018 2:25:09 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:25:09 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:25:09 PM: Get annotations from database.
+3/29/2018 2:25:09 PM: Document Id: 342839 Page No: 19
+3/29/2018 2:25:09 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:10 PM: GetTemplateDetails Started
+3/29/2018 2:25:10 PM: GetTemplateDetails total record count:1
+3/29/2018 2:25:10 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:25:10 PM: GetTemplateDetails Finished
+3/29/2018 2:25:10 PM: LoadImageToViewer started
+3/29/2018 2:25:10 PM: Setting image to viewer. Action: NEXT Page count: 52 Current Page:19
+3/29/2018 2:25:10 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\20.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 20
+3/29/2018 2:25:10 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:25:11 PM: Exception: I/O error occurred.
+3/29/2018 2:25:11 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:25:11 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:25:11 PM: Get annotations from database.
+3/29/2018 2:25:11 PM: Document Id: 342839 Page No: 20
+3/29/2018 2:25:11 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:11 PM: GetTemplateDetails Started
+3/29/2018 2:25:11 PM: GetTemplateDetails total record count:1
+3/29/2018 2:25:11 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:25:11 PM: GetTemplateDetails Finished
+3/29/2018 2:25:11 PM: LoadImageToViewer started
+3/29/2018 2:25:11 PM: Setting image to viewer. Action: NEXT Page count: 52 Current Page:20
+3/29/2018 2:25:11 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\21.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 21
+3/29/2018 2:25:11 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:25:11 PM: Exception: I/O error occurred.
+3/29/2018 2:25:11 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:25:11 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:25:11 PM: Get annotations from database.
+3/29/2018 2:25:11 PM: Document Id: 342839 Page No: 21
+3/29/2018 2:25:11 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:11 PM: GetTemplateDetails Started
+3/29/2018 2:25:11 PM: GetTemplateDetails total record count:1
+3/29/2018 2:25:12 PM: Create controls,Load all Textbox dynamic
+3/29/2018 2:25:12 PM: GetTemplateDetails Finished
+3/29/2018 2:25:12 PM: LoadImageToViewer started
+3/29/2018 2:25:12 PM: Setting image to viewer. Action: NEXT Page count: 52 Current Page:21
+3/29/2018 2:25:12 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fU0lfNTk4XzI3OF8xMzAzNQ==\22.pdf Image Name: Tk9fU0lfNTk4XzI3OF8xMzAzNQ== Page No: 22
+3/29/2018 2:25:12 PM: Converting PDF to JPEG without applying watermark.
+3/29/2018 2:25:12 PM: Exception: I/O error occurred.
+3/29/2018 2:25:12 PM: convertPDFToImage method returned file path as empty.
+3/29/2018 2:25:12 PM: Invoke method to get annotations from databnase.
+3/29/2018 2:25:12 PM: Get annotations from database.
+3/29/2018 2:25:12 PM: Document Id: 342839 Page No: 22
+3/29/2018 2:25:12 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+3/29/2018 2:25:21 PM: createControls Started
+3/29/2018 2:25:21 PM: createControls Loaded all Textbox dynamically
+3/29/2018 2:25:21 PM: createControls Finished

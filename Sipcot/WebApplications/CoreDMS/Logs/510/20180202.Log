@@ -1,0 +1,83 @@
+2/2/2018 2:39:07 PM: createControls Started
+2/2/2018 2:39:07 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:39:07 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:39:07 PM: createControls Finished
+2/2/2018 2:39:07 PM: generatecontrols Started
+2/2/2018 2:39:07 PM: Calling database to get reference id and watermark.
+2/2/2018 2:39:07 PM: Database returned result: NO_EX_510_250_1404|
+2/2/2018 2:39:07 PM: Generatecontrols,Load all Textbox dynamic
+2/2/2018 2:39:08 PM: Generatecontrols,Load all Textbox dynamic
+2/2/2018 2:39:12 PM: createControls Started
+2/2/2018 2:39:12 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:39:12 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:39:12 PM: createControls Finished
+2/2/2018 2:40:19 PM: createControls Started
+2/2/2018 2:40:19 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:40:19 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:40:19 PM: createControls Finished
+2/2/2018 2:40:19 PM: AsyncFileUpload1_UploadedComplete Started
+2/2/2018 2:40:19 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+2/2/2018 2:40:19 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+2/2/2018 2:40:22 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 138
+2/2/2018 2:40:22 PM: AsyncFileUpload1_UploadedComplete Finished
+2/2/2018 2:40:22 PM: createControls Started
+2/2/2018 2:40:22 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:40:22 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:40:22 PM: createControls Finished
+2/2/2018 2:40:23 PM: btnSubmit_Click Started
+2/2/2018 2:40:23 PM: btnSubmit_Click Finished
+2/2/2018 2:40:27 PM: createControls Started
+2/2/2018 2:40:27 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:40:27 PM: Create controls,Load all Textbox dynamic
+2/2/2018 2:40:27 PM: createControls Finished
+2/2/2018 2:40:27 PM: Started Saving Uploaded Document in Save Button Click
+2/2/2018 2:40:36 PM: AsyncFileUpload1_UploadedComplete Started
+2/2/2018 2:40:36 PM: AsyncFileUpload1_UploadedComplete Finished
+2/2/2018 2:40:36 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+2/2/2018 2:40:36 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+2/2/2018 2:40:38 PM: CreateXML Started:-
+2/2/2018 2:40:38 PM: CreateXML Completed:-
+2/2/2018 2:40:39 PM: Save button click after saving or updating the ReturnCode= 0
+2/2/2018 2:40:39 PM: Finished Saving Uploaded Document in Save Button Click
+2/2/2018 2:40:39 PM: AsyncFileUpload1_UploadedComplete Started
+2/2/2018 2:40:39 PM: AsyncFileUpload1_UploadedComplete Finished
+2/2/2018 2:40:50 PM: BindDocumentType started
+2/2/2018 2:40:50 PM: BindDocumentType finished
+2/2/2018 2:40:55 PM: createControls Started
+2/2/2018 2:40:55 PM: createControls Loaded all Textbox dynamically
+2/2/2018 2:40:55 PM: createControls Loaded all Textbox dynamically
+2/2/2018 2:40:55 PM: createControls Finished
+2/2/2018 2:40:55 PM: GetTemplateDetails started
+2/2/2018 2:40:55 PM: generatecontrols Started
+2/2/2018 2:40:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2018 2:40:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2018 2:40:57 PM: createControls Started
+2/2/2018 2:40:57 PM: createControls Loaded all Textbox dynamically
+2/2/2018 2:40:57 PM: createControls Loaded all Textbox dynamically
+2/2/2018 2:40:57 PM: createControls Finished
+2/2/2018 2:40:57 PM: Started Loading Entity Drop Down
+2/2/2018 2:40:58 PM: Finished Loading Entity Drop Down
+2/2/2018 2:41:00 PM: createControls Started
+2/2/2018 2:41:00 PM: createControls Loaded all Textbox dynamically
+2/2/2018 2:41:00 PM: createControls Loaded all Textbox dynamically
+2/2/2018 2:41:00 PM: createControls Finished
+2/2/2018 3:41:37 PM: BindDocumentType started
+2/2/2018 3:41:37 PM: BindDocumentType finished
+2/2/2018 3:41:41 PM: createControls Started
+2/2/2018 3:41:41 PM: createControls Loaded all Textbox dynamically
+2/2/2018 3:41:41 PM: createControls Loaded all Textbox dynamically
+2/2/2018 3:41:41 PM: createControls Finished
+2/2/2018 3:41:41 PM: GetTemplateDetails started
+2/2/2018 3:41:41 PM: generatecontrols Started
+2/2/2018 3:41:41 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2018 3:41:41 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2018 3:41:43 PM: createControls Started
+2/2/2018 3:41:43 PM: createControls Loaded all Textbox dynamically
+2/2/2018 3:41:43 PM: createControls Loaded all Textbox dynamically
+2/2/2018 3:41:43 PM: createControls Finished
+2/2/2018 3:41:43 PM: Started Loading Entity Drop Down
+2/2/2018 3:41:43 PM: Finished Loading Entity Drop Down
+2/2/2018 3:41:45 PM: createControls Started
+2/2/2018 3:41:45 PM: createControls Loaded all Textbox dynamically
+2/2/2018 3:41:45 PM: createControls Loaded all Textbox dynamically
+2/2/2018 3:41:45 PM: createControls Finished

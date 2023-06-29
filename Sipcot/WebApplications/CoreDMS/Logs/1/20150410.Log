@@ -1,0 +1,292 @@
+4/10/2015 1:17:04 PM: createControls Started
+4/10/2015 1:17:04 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:04 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:04 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:04 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:04 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:04 PM: createControls Finished
+4/10/2015 1:17:04 PM: generatecontrols Started
+4/10/2015 1:17:04 PM: Calling database to get reference id and watermark.
+4/10/2015 1:17:04 PM: Database returned result: TE_AD_1_1_1104|sxsx
+4/10/2015 1:17:04 PM: Generatecontrols,Load all Textbox dynamic
+4/10/2015 1:17:04 PM: Generatecontrols,Load all Textbox dynamic
+4/10/2015 1:17:04 PM: Generatecontrols,Load all Textbox dynamic
+4/10/2015 1:17:04 PM: generatecontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:04 PM: generatecontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:22 PM: createControls Started
+4/10/2015 1:17:22 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:22 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:22 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:22 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:22 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:22 PM: createControls Finished
+4/10/2015 1:17:22 PM: AsyncFileUpload1_UploadedComplete Started
+4/10/2015 1:17:22 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/10/2015 1:17:23 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+4/10/2015 1:17:31 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 82
+4/10/2015 1:17:31 PM: AsyncFileUpload1_UploadedComplete Finished
+4/10/2015 1:17:32 PM: createControls Started
+4/10/2015 1:17:32 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:32 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:32 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:32 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:32 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:32 PM: createControls Finished
+4/10/2015 1:17:32 PM: btnSubmit_Click Started
+4/10/2015 1:17:32 PM: btnSubmit_Click Finished
+4/10/2015 1:17:33 PM: createControls Started
+4/10/2015 1:17:33 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:33 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:33 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:33 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:33 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:33 PM: createControls Finished
+4/10/2015 1:17:33 PM: Started Previewing Uploaded Document in btnPreview_Click 
+4/10/2015 1:17:33 PM: Src Details : http://localhost:55357/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\TempWorkFolder\VEVfQURfMV8xXzExMDQ=.pdf
+4/10/2015 1:17:33 PM: Setting image to viewer. Action:  Page count: 82 Current Page:1
+4/10/2015 1:17:33 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\VEVfQURfMV8xXzExMDQ=\1.pdf Image Name: VEVfQURfMV8xXzExMDQ= Page No: 1
+4/10/2015 1:17:33 PM: Converting PDF to JPEG along with watermark. Watermark text: sxsx
+4/10/2015 1:17:34 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55357/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//vevfqurfmv8xxzexmdq=jpg//1.jpeg
+4/10/2015 1:17:34 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+4/10/2015 1:17:40 PM: createControls Started
+4/10/2015 1:17:40 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:40 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:40 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:40 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:40 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:40 PM: createControls Finished
+4/10/2015 1:17:42 PM: createControls Started
+4/10/2015 1:17:42 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:42 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:42 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:42 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:42 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:42 PM: createControls Finished
+4/10/2015 1:17:43 PM: createControls Started
+4/10/2015 1:17:43 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:43 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:43 PM: Create controls,Load all Textbox dynamic
+4/10/2015 1:17:43 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:43 PM: Createcontrols,Load all Dropdownlist dynamic
+4/10/2015 1:17:43 PM: createControls Finished
+4/10/2015 1:17:43 PM: Started Saving Uploaded Document in Save Button Click
+4/10/2015 1:17:50 PM: AsyncFileUpload1_UploadedComplete Started
+4/10/2015 1:17:50 PM: AsyncFileUpload1_UploadedComplete Finished
+4/10/2015 1:17:50 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+4/10/2015 1:17:50 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+4/10/2015 1:17:50 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+4/10/2015 1:17:50 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+4/10/2015 1:17:50 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+4/10/2015 1:17:51 PM: CreateXML Started:-
+4/10/2015 1:17:51 PM: CreateXML Completed:-
+4/10/2015 1:17:51 PM: Save button click after saving or updating the ReturnCode= 0
+4/10/2015 1:17:51 PM: Exception : Thread was being aborted.
+4/10/2015 1:18:46 PM: DataEntryTypes count : 3
+4/10/2015 1:19:22 PM: DataEntryTypes count : 3
+4/10/2015 1:19:38 PM: DataEntryTypes count : 3
+4/10/2015 1:19:48 PM: DataEntryTypes count : 3
+4/10/2015 1:19:57 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:19:57 PM: TemplatefilePath from database : 
+4/10/2015 1:19:57 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:19:57 PM: ImagePath for binding the viewer: /Images/5/5/10/1.
+4/10/2015 1:20:15 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:20:15 PM: TemplatefilePath from database : 
+4/10/2015 1:20:15 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:20:15 PM: ImagePath for binding the viewer: /Images/5/5/10/1.
+4/10/2015 1:20:20 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:20:20 PM: retrive the data from textbox to save the values
+4/10/2015 1:21:31 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:21:31 PM: retrive the data from textbox to save the values
+4/10/2015 1:22:50 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:22:50 PM: retrive the data from textbox to save the values
+4/10/2015 1:28:08 PM: DataEntryTypes count : 3
+4/10/2015 1:28:21 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:28:21 PM: TemplatefilePath from database : 
+4/10/2015 1:28:21 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:28:21 PM: ImagePath for binding the viewer: /Images/5/5/12/1.
+4/10/2015 1:37:50 PM: DataEntryTypes count : 3
+4/10/2015 1:37:58 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:37:58 PM: TemplatefilePath from database : 
+4/10/2015 1:37:58 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:37:58 PM: ImagePath for binding the viewer: /Images/5/5/12/1.
+4/10/2015 1:44:16 PM: DataEntryTypes count : 3
+4/10/2015 1:44:27 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:44:27 PM: TemplatefilePath from database : 
+4/10/2015 1:44:27 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:44:27 PM: ImagePath for binding the viewer: /Images/5/5/12/1.
+4/10/2015 1:45:40 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:45:42 PM: retrive the data from textbox to save the values
+4/10/2015 1:45:42 PM: Save completed successfully: 
+4/10/2015 1:51:55 PM: DataEntryTypes count : 3
+4/10/2015 1:52:04 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:52:04 PM: TemplatefilePath from database : 
+4/10/2015 1:52:04 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:52:04 PM: ImagePath for binding the viewer: /Images/5/5/12/1.
+4/10/2015 1:52:34 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:52:34 PM: retrive the data from textbox to save the values
+4/10/2015 1:52:34 PM: Save completed successfully: 
+4/10/2015 1:52:40 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:52:41 PM: TemplatefilePath from database : 
+4/10/2015 1:52:41 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:52:41 PM: ImagePath for binding the viewer: /Images/5/5/12/1.
+4/10/2015 1:52:41 PM: Retrived the data to bind the controls
+4/10/2015 1:52:41 PM: All controls values binded properly
+4/10/2015 1:52:46 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:52:46 PM: retrive the data from textbox to save the values
+4/10/2015 1:52:46 PM: Save completed successfully: 
+4/10/2015 1:52:49 PM: DataEntryTypes count : 3
+4/10/2015 1:53:02 PM: User browsed template for stage.
+4/10/2015 1:53:02 PM: File upload control contains file. File path: Chaitanya LPPP Enhancement 1 _MidAPP User Manual.pdf
+4/10/2015 1:53:02 PM: Deleting temporary folder path to clear old files if exists. Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\/5/5/12
+4/10/2015 1:53:02 PM: Creating temporary folder path to store uploaded file/template. Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\/5/5/12
+4/10/2015 1:53:02 PM: Multiple page file, Renaming as temp_12..pdf
+4/10/2015 1:53:02 PM: deleting the old pdf files in folder:\\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12
+4/10/2015 1:53:02 PM: deleting the old jpg files in folder:\\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12
+4/10/2015 1:53:02 PM: Saving uploaded file/template to temporary location: \\172.16.1.11\WDMSDocument\TempWorkFolder\/5/5/12/temp_12.pdf
+4/10/2015 1:53:03 PM: Calling method to split files and return splitted pages count.
+4/10/2015 1:53:11 PM: Splitting of file is successfully completed. Pages count: 82
+4/10/2015 1:53:11 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\1.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\1.jpg
+4/10/2015 1:53:11 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\2.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\2.jpg
+4/10/2015 1:53:12 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\3.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\3.jpg
+4/10/2015 1:53:12 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\4.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\4.jpg
+4/10/2015 1:53:12 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\5.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\5.jpg
+4/10/2015 1:53:13 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\6.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\6.jpg
+4/10/2015 1:53:13 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\7.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\7.jpg
+4/10/2015 1:53:13 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\8.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\8.jpg
+4/10/2015 1:53:14 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\9.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\9.jpg
+4/10/2015 1:53:14 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\10.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\10.jpg
+4/10/2015 1:53:15 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\11.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\11.jpg
+4/10/2015 1:53:15 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\12.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\12.jpg
+4/10/2015 1:53:16 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\13.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\13.jpg
+4/10/2015 1:53:16 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\14.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\14.jpg
+4/10/2015 1:53:16 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\15.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\15.jpg
+4/10/2015 1:53:17 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\16.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\16.jpg
+4/10/2015 1:53:17 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\17.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\17.jpg
+4/10/2015 1:53:17 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\18.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\18.jpg
+4/10/2015 1:53:18 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\19.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\19.jpg
+4/10/2015 1:53:18 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\20.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\20.jpg
+4/10/2015 1:53:18 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\21.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\21.jpg
+4/10/2015 1:53:19 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\22.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\22.jpg
+4/10/2015 1:53:19 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\23.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\23.jpg
+4/10/2015 1:53:20 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\24.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\24.jpg
+4/10/2015 1:53:20 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\25.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\25.jpg
+4/10/2015 1:53:21 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\26.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\26.jpg
+4/10/2015 1:53:21 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\27.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\27.jpg
+4/10/2015 1:53:21 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\28.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\28.jpg
+4/10/2015 1:53:21 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\29.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\29.jpg
+4/10/2015 1:53:22 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\30.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\30.jpg
+4/10/2015 1:53:22 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\31.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\31.jpg
+4/10/2015 1:53:23 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\32.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\32.jpg
+4/10/2015 1:53:23 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\33.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\33.jpg
+4/10/2015 1:53:23 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\34.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\34.jpg
+4/10/2015 1:53:24 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\35.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\35.jpg
+4/10/2015 1:53:24 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\36.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\36.jpg
+4/10/2015 1:53:24 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\37.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\37.jpg
+4/10/2015 1:53:25 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\38.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\38.jpg
+4/10/2015 1:53:25 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\39.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\39.jpg
+4/10/2015 1:53:26 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\40.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\40.jpg
+4/10/2015 1:53:26 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\41.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\41.jpg
+4/10/2015 1:53:26 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\42.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\42.jpg
+4/10/2015 1:53:27 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\43.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\43.jpg
+4/10/2015 1:53:27 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\44.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\44.jpg
+4/10/2015 1:53:28 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\45.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\45.jpg
+4/10/2015 1:53:28 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\46.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\46.jpg
+4/10/2015 1:53:28 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\47.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\47.jpg
+4/10/2015 1:53:29 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\48.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\48.jpg
+4/10/2015 1:53:29 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\49.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\49.jpg
+4/10/2015 1:53:29 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\50.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\50.jpg
+4/10/2015 1:53:30 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\51.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\51.jpg
+4/10/2015 1:53:30 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\52.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\52.jpg
+4/10/2015 1:53:31 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\53.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\53.jpg
+4/10/2015 1:53:31 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\54.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\54.jpg
+4/10/2015 1:53:31 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\55.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\55.jpg
+4/10/2015 1:53:32 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\56.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\56.jpg
+4/10/2015 1:53:32 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\57.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\57.jpg
+4/10/2015 1:53:33 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\58.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\58.jpg
+4/10/2015 1:53:33 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\59.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\59.jpg
+4/10/2015 1:53:33 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\60.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\60.jpg
+4/10/2015 1:53:34 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\61.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\61.jpg
+4/10/2015 1:53:34 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\62.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\62.jpg
+4/10/2015 1:53:34 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\63.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\63.jpg
+4/10/2015 1:53:35 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\64.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\64.jpg
+4/10/2015 1:53:35 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\65.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\65.jpg
+4/10/2015 1:53:35 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\66.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\66.jpg
+4/10/2015 1:53:36 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\67.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\67.jpg
+4/10/2015 1:53:36 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\68.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\68.jpg
+4/10/2015 1:53:37 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\69.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\69.jpg
+4/10/2015 1:53:37 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\70.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\70.jpg
+4/10/2015 1:53:37 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\71.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\71.jpg
+4/10/2015 1:53:37 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\72.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\72.jpg
+4/10/2015 1:53:38 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\73.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\73.jpg
+4/10/2015 1:53:38 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\74.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\74.jpg
+4/10/2015 1:53:38 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\75.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\75.jpg
+4/10/2015 1:53:39 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\76.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\76.jpg
+4/10/2015 1:53:39 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\77.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\77.jpg
+4/10/2015 1:53:40 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\78.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\78.jpg
+4/10/2015 1:53:40 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\79.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\79.jpg
+4/10/2015 1:53:40 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\80.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\80.jpg
+4/10/2015 1:53:41 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\81.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\81.jpg
+4/10/2015 1:53:41 PM: Converting splitted files into jpg. Source: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\82.pdf Destination: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\82.jpg
+4/10/2015 1:53:41 PM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: \\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12
+4/10/2015 1:53:41 PM: Exception : The process cannot access the file '\\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\10.pdf' because it is being used by another process.
+4/10/2015 1:54:13 PM: DataEntryTypes count : 3
+4/10/2015 1:54:18 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:54:18 PM: TemplatefilePath from database : 
+4/10/2015 1:54:18 PM: Loading image based on page number for coordinate capturing
+4/10/2015 1:54:18 PM: ImagePath for binding the viewer: /Images/5/5/12/1.
+4/10/2015 1:54:18 PM: Retrived the data to bind the controls
+4/10/2015 1:54:18 PM: All controls values binded properly
+4/10/2015 1:54:29 PM: Dataentry Type of the stage : Normal
+4/10/2015 1:54:29 PM: retrive the data from textbox to save the values
+4/10/2015 1:54:29 PM: Save completed successfully: 
+4/10/2015 1:56:47 PM: DataEntryTypes count : 3
+4/10/2015 1:57:11 PM: User browsed template for stage.
+4/10/2015 1:57:11 PM: File upload control contains file. File path: Chaitanya LPPP Enhancement 1 _MidAPP User Manual.pdf
+4/10/2015 1:57:11 PM: Deleting temporary folder path to clear old files if exists. Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\/5/5/12
+4/10/2015 1:57:16 PM: Creating temporary folder path to store uploaded file/template. Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\/5/5/12
+4/10/2015 1:57:16 PM: Multiple page file, Renaming as temp_12..pdf
+4/10/2015 1:57:16 PM: deleting the old pdf files in folder:\\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12
+4/10/2015 1:57:16 PM: Exception : The process cannot access the file '\\172.16.1.11\WDMSDocument\TempWorkFolder\5\5\12\10.pdf' because it is being used by another process.
+4/10/2015 1:57:19 PM: User clicked save to save stage details.
+4/10/2015 1:57:19 PM: Selected data entry type: Guided
+4/10/2015 1:57:19 PM: Selected data entry type Id: 1027
+4/10/2015 3:19:13 PM: DataEntryTypes count : 3
+4/10/2015 3:19:18 PM: Dataentry Type of the stage : Normal
+4/10/2015 3:19:18 PM: TemplatefilePath from database : 
+4/10/2015 3:19:18 PM: Loading image based on page number for coordinate capturing
+4/10/2015 3:19:18 PM: ImagePath for binding the viewer: /Images/5/5/10/1.
+4/10/2015 3:19:28 PM: Dataentry Type of the stage : Normal
+4/10/2015 3:19:28 PM: retrive the data from textbox to save the values
+4/10/2015 3:19:33 PM: Dataentry Type of the stage : Normal
+4/10/2015 3:19:33 PM: retrive the data from textbox to save the values
+4/10/2015 3:19:33 PM: Save completed successfully: 
+4/10/2015 3:19:44 PM: DataEntryTypes count : 3
+4/10/2015 3:19:55 PM: DataEntryTypes count : 3
+4/10/2015 3:20:01 PM: DataEntryTypes count : 3
+4/10/2015 3:20:45 PM: DataEntryTypes count : 3
+4/10/2015 3:20:50 PM: DataEntryTypes count : 3
+4/10/2015 3:20:55 PM: DataEntryTypes count : 3
+4/10/2015 3:21:24 PM: DataEntryTypes count : 3
+4/10/2015 3:21:34 PM: DataEntryTypes count : 3
+4/10/2015 3:22:19 PM: DataEntryTypes count : 3
+4/10/2015 3:22:48 PM: DataEntryTypes count : 3
+4/10/2015 3:22:52 PM: DataEntryTypes count : 3
+4/10/2015 3:23:10 PM: Before binding image to viewer 
+4/10/2015 3:23:17 PM: Before binding image to viewer 
+4/10/2015 3:23:59 PM: Before binding image to viewer 
+4/10/2015 3:24:05 PM: Before binding image to viewer 
+4/10/2015 3:24:10 PM: Before binding image to viewer 
+4/10/2015 3:24:14 PM: Before binding image to viewer 
+4/10/2015 3:24:43 PM: Before binding image to viewer 
+4/10/2015 3:24:46 PM: Before binding image to viewer 
+4/10/2015 3:24:55 PM: Before binding image to viewer 
+4/10/2015 3:25:03 PM: Before binding image to viewer 
+4/10/2015 3:27:24 PM: Before binding image to viewer 
+4/10/2015 3:27:31 PM: Before binding image to viewer 
+4/10/2015 3:27:43 PM: DataEntryTypes count : 3
+4/10/2015 3:27:59 PM: Before binding image to viewer 
+4/10/2015 3:28:02 PM: Before binding image to viewer 
+4/10/2015 3:28:21 PM: Before binding image to viewer 
+4/10/2015 3:28:24 PM: Before binding image to viewer 
+4/10/2015 3:28:47 PM: Before binding image to viewer 
+4/10/2015 3:28:49 PM: Before binding image to viewer 

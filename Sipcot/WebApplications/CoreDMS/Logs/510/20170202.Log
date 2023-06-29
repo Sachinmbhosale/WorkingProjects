@@ -1,0 +1,496 @@
+2/2/2017 10:56:27 AM: BindDocumentType started
+2/2/2017 10:56:27 AM: BindDocumentType finished
+2/2/2017 10:56:31 AM: createControls Started
+2/2/2017 10:56:31 AM: createControls Loaded all Textbox dynamically
+2/2/2017 10:56:31 AM: createControls Loaded all Textbox dynamically
+2/2/2017 10:56:31 AM: createControls Finished
+2/2/2017 10:56:31 AM: GetTemplateDetails started
+2/2/2017 10:56:31 AM: generatecontrols Started
+2/2/2017 10:56:31 AM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 10:56:31 AM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 10:56:44 AM: createControls Started
+2/2/2017 10:56:44 AM: createControls Loaded all Textbox dynamically
+2/2/2017 10:56:44 AM: createControls Loaded all Textbox dynamically
+2/2/2017 10:56:44 AM: createControls Finished
+2/2/2017 11:17:02 AM: BindDocumentType started
+2/2/2017 11:17:02 AM: BindDocumentType finished
+2/2/2017 11:24:26 AM: BindDocumentType started
+2/2/2017 11:24:26 AM: BindDocumentType finished
+2/2/2017 11:25:26 AM: BindDocumentType started
+2/2/2017 11:25:26 AM: BindDocumentType finished
+2/2/2017 11:25:30 AM: BindDocumentType started
+2/2/2017 11:25:30 AM: BindDocumentType finished
+2/2/2017 11:27:23 AM: BindDocumentType started
+2/2/2017 11:27:23 AM: BindDocumentType finished
+2/2/2017 11:35:54 AM: BindDocumentType started
+2/2/2017 11:35:54 AM: BindDocumentType finished
+2/2/2017 11:38:19 AM: BindDocumentType started
+2/2/2017 11:38:19 AM: BindDocumentType finished
+2/2/2017 11:40:02 AM: BindDocumentType started
+2/2/2017 11:40:02 AM: BindDocumentType finished
+2/2/2017 11:56:43 AM: BindDocumentType started
+2/2/2017 11:56:43 AM: BindDocumentType finished
+2/2/2017 11:57:54 AM: BindDocumentType started
+2/2/2017 11:57:54 AM: BindDocumentType finished
+2/2/2017 12:38:14 PM: BindDocumentType started
+2/2/2017 12:38:14 PM: BindDocumentType finished
+2/2/2017 12:38:18 PM: createControls Started
+2/2/2017 12:38:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 12:38:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 12:38:18 PM: createControls Finished
+2/2/2017 12:38:18 PM: GetTemplateDetails started
+2/2/2017 12:38:18 PM: generatecontrols Started
+2/2/2017 12:38:18 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 12:38:18 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 12:38:27 PM: GetSginatureDetails Started:-
+2/2/2017 12:38:27 PM: GetSginatureDetails Completed:-
+2/2/2017 12:38:27 PM: GetTemplateDetails Started
+2/2/2017 12:38:27 PM: GetTemplateDetails total record count:1
+2/2/2017 12:38:27 PM: Create controls,Load all Textbox dynamic
+2/2/2017 12:38:27 PM: Create controls,Load all Textbox dynamic
+2/2/2017 12:38:27 PM: GetTemplateDetails Finished
+2/2/2017 12:38:27 PM: InitializeDocumentView started
+2/2/2017 12:38:27 PM: InitializeDocumentView finished
+2/2/2017 12:38:27 PM: Calling database to get annotated images. DocumentId: 1228, Action: GetAnnotatedPages
+2/2/2017 12:38:27 PM: Calling database to get annotated images. DocumentId: 1228, Action: GetTaggedPages
+2/2/2017 12:38:27 PM: LoadImageToViewer started
+2/2/2017 12:38:27 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+2/2/2017 12:38:27 PM: MailPanelFill started
+2/2/2017 12:38:27 PM: MailPanelFill finished
+2/2/2017 12:38:39 PM: GetTemplateDetails Started
+2/2/2017 12:38:39 PM: GetTemplateDetails total record count:1
+2/2/2017 12:38:39 PM: Create controls,Load all Textbox dynamic
+2/2/2017 12:38:39 PM: Create controls,Load all Textbox dynamic
+2/2/2017 12:38:39 PM: GetTemplateDetails Finished
+2/2/2017 12:38:39 PM: BindDocumentType started
+2/2/2017 12:38:39 PM: BindDocumentType finished
+2/2/2017 12:38:39 PM: GetTemplateDetails started
+2/2/2017 12:38:39 PM: GetTemplateDetails started
+2/2/2017 12:38:39 PM: createControls Started
+2/2/2017 12:38:39 PM: createControls Loaded all Textbox dynamically
+2/2/2017 12:38:39 PM: createControls Loaded all Textbox dynamically
+2/2/2017 12:38:39 PM: createControls Finished
+2/2/2017 2:33:51 PM: BindDocumentType started
+2/2/2017 2:33:51 PM: BindDocumentType finished
+2/2/2017 2:33:55 PM: createControls Started
+2/2/2017 2:33:55 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:33:55 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:33:55 PM: createControls Finished
+2/2/2017 2:33:55 PM: GetTemplateDetails started
+2/2/2017 2:33:55 PM: generatecontrols Started
+2/2/2017 2:33:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:33:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:34:11 PM: createControls Started
+2/2/2017 2:34:11 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:34:11 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:34:11 PM: createControls Finished
+2/2/2017 2:36:41 PM: BindDocumentType started
+2/2/2017 2:36:41 PM: BindDocumentType finished
+2/2/2017 2:36:45 PM: createControls Started
+2/2/2017 2:36:45 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:36:45 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:36:45 PM: createControls Finished
+2/2/2017 2:36:45 PM: GetTemplateDetails started
+2/2/2017 2:36:45 PM: generatecontrols Started
+2/2/2017 2:36:45 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:36:45 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:37:10 PM: createControls Started
+2/2/2017 2:37:10 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:37:10 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:37:10 PM: createControls Finished
+2/2/2017 2:37:10 PM: GetTemplateDetails started
+2/2/2017 2:37:10 PM: generatecontrols Started
+2/2/2017 2:37:10 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:37:10 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:37:14 PM: BindDocumentType started
+2/2/2017 2:37:14 PM: BindDocumentType finished
+2/2/2017 2:37:23 PM: createControls Started
+2/2/2017 2:37:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:37:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:37:23 PM: createControls Finished
+2/2/2017 2:37:23 PM: GetTemplateDetails started
+2/2/2017 2:37:23 PM: generatecontrols Started
+2/2/2017 2:37:23 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:37:23 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:38:30 PM: BindDocumentType started
+2/2/2017 2:38:30 PM: BindDocumentType finished
+2/2/2017 2:38:35 PM: createControls Started
+2/2/2017 2:38:35 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:38:35 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:38:35 PM: createControls Finished
+2/2/2017 2:38:35 PM: GetTemplateDetails started
+2/2/2017 2:38:35 PM: generatecontrols Started
+2/2/2017 2:38:35 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:38:35 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:40:24 PM: createControls Started
+2/2/2017 2:40:24 PM: createControls Finished
+2/2/2017 2:40:28 PM: createControls Started
+2/2/2017 2:40:28 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:40:28 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:40:28 PM: createControls Finished
+2/2/2017 2:40:28 PM: GetTemplateDetails started
+2/2/2017 2:40:28 PM: generatecontrols Started
+2/2/2017 2:40:28 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:40:28 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:41:14 PM: createControls Started
+2/2/2017 2:41:14 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:41:14 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:41:14 PM: createControls Finished
+2/2/2017 2:42:18 PM: createControls Started
+2/2/2017 2:42:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:42:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 2:42:18 PM: createControls Finished
+2/2/2017 2:42:18 PM: GetTemplateDetails started
+2/2/2017 2:42:29 PM: generatecontrols Started
+2/2/2017 2:44:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:45:24 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 2:48:46 PM: BindDocumentType started
+2/2/2017 2:48:46 PM: BindDocumentType finished
+2/2/2017 3:02:37 PM: BindDocumentType started
+2/2/2017 3:02:37 PM: BindDocumentType finished
+2/2/2017 3:17:46 PM: BindDocumentType started
+2/2/2017 3:17:46 PM: BindDocumentType finished
+2/2/2017 3:49:26 PM: BindDocumentType started
+2/2/2017 3:49:26 PM: BindDocumentType finished
+2/2/2017 3:57:57 PM: BindDocumentType started
+2/2/2017 3:57:57 PM: BindDocumentType finished
+2/2/2017 3:59:04 PM: BindDocumentType started
+2/2/2017 3:59:04 PM: BindDocumentType finished
+2/2/2017 3:59:12 PM: BindDocumentType started
+2/2/2017 3:59:12 PM: BindDocumentType finished
+2/2/2017 3:59:18 PM: BindDocumentType started
+2/2/2017 3:59:18 PM: BindDocumentType finished
+2/2/2017 3:59:50 PM: BindDocumentType started
+2/2/2017 3:59:50 PM: BindDocumentType finished
+2/2/2017 3:59:52 PM: BindDocumentType started
+2/2/2017 3:59:52 PM: BindDocumentType finished
+2/2/2017 3:59:53 PM: BindDocumentType started
+2/2/2017 3:59:53 PM: BindDocumentType finished
+2/2/2017 3:59:54 PM: BindDocumentType started
+2/2/2017 3:59:54 PM: BindDocumentType finished
+2/2/2017 3:59:57 PM: BindDocumentType started
+2/2/2017 3:59:57 PM: BindDocumentType finished
+2/2/2017 4:01:25 PM: BindDocumentType started
+2/2/2017 4:01:25 PM: BindDocumentType finished
+2/2/2017 4:01:37 PM: createControls Started
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:01:37 PM: createControls Finished
+2/2/2017 4:01:37 PM: GetTemplateDetails started
+2/2/2017 4:01:40 PM: generatecontrols Started
+2/2/2017 4:01:41 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:01:42 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:01:43 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:01:43 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:01:43 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:06:20 PM: BindDocumentType started
+2/2/2017 4:06:20 PM: BindDocumentType finished
+2/2/2017 4:08:48 PM: BindDocumentType started
+2/2/2017 4:08:48 PM: BindDocumentType finished
+2/2/2017 4:13:16 PM: BindDocumentType started
+2/2/2017 4:13:16 PM: BindDocumentType finished
+2/2/2017 4:16:23 PM: BindDocumentType started
+2/2/2017 4:16:23 PM: BindDocumentType finished
+2/2/2017 4:18:00 PM: BindDocumentType started
+2/2/2017 4:18:00 PM: BindDocumentType finished
+2/2/2017 4:18:13 PM: createControls Started
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:18:13 PM: createControls Finished
+2/2/2017 4:18:13 PM: GetTemplateDetails started
+2/2/2017 4:19:48 PM: generatecontrols Started
+2/2/2017 4:19:49 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:19:49 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:19:50 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:19:50 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:19:50 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:19:51 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:19:51 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:20:02 PM: createControls Started
+2/2/2017 4:20:02 PM: createControls Finished
+2/2/2017 4:20:11 PM: createControls Started
+2/2/2017 4:20:11 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:20:11 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:20:11 PM: createControls Finished
+2/2/2017 4:20:11 PM: GetTemplateDetails started
+2/2/2017 4:20:18 PM: generatecontrols Started
+2/2/2017 4:20:18 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:20:18 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:22:01 PM: BindDocumentType started
+2/2/2017 4:22:01 PM: BindDocumentType finished
+2/2/2017 4:22:09 PM: createControls Started
+2/2/2017 4:22:09 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:22:09 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:22:09 PM: createControls Finished
+2/2/2017 4:22:09 PM: GetTemplateDetails started
+2/2/2017 4:22:10 PM: generatecontrols Started
+2/2/2017 4:22:12 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:22:13 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:22:22 PM: createControls Started
+2/2/2017 4:22:22 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:22:22 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:22:22 PM: createControls Finished
+2/2/2017 4:22:34 PM: generatecontrols Started
+2/2/2017 4:24:22 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:30:50 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:30:51 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 4:47:23 PM: BindDocumentType started
+2/2/2017 4:47:23 PM: BindDocumentType finished
+2/2/2017 4:49:32 PM: BindDocumentType started
+2/2/2017 4:49:32 PM: BindDocumentType finished
+2/2/2017 4:53:01 PM: BindDocumentType started
+2/2/2017 4:53:01 PM: BindDocumentType finished
+2/2/2017 4:56:49 PM: BindDocumentType started
+2/2/2017 4:56:49 PM: BindDocumentType finished
+2/2/2017 4:57:11 PM: BindDocumentType started
+2/2/2017 4:57:11 PM: BindDocumentType finished
+2/2/2017 4:57:38 PM: BindDocumentType started
+2/2/2017 4:57:38 PM: BindDocumentType finished
+2/2/2017 4:57:46 PM: BindDocumentType started
+2/2/2017 4:57:46 PM: BindDocumentType finished
+2/2/2017 4:57:50 PM: BindDocumentType started
+2/2/2017 4:57:50 PM: BindDocumentType finished
+2/2/2017 4:57:51 PM: BindDocumentType started
+2/2/2017 4:57:51 PM: BindDocumentType finished
+2/2/2017 4:57:55 PM: BindDocumentType started
+2/2/2017 4:57:55 PM: BindDocumentType finished
+2/2/2017 4:58:39 PM: BindDocumentType started
+2/2/2017 4:58:39 PM: BindDocumentType finished
+2/2/2017 4:58:43 PM: createControls Started
+2/2/2017 4:58:43 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:58:43 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:58:43 PM: createControls Finished
+2/2/2017 4:58:43 PM: GetTemplateDetails started
+2/2/2017 4:58:43 PM: generatecontrols Started
+2/2/2017 4:58:47 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:58:47 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:58:55 PM: createControls Started
+2/2/2017 4:58:55 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:58:55 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:58:55 PM: createControls Finished
+2/2/2017 4:58:55 PM: generatecontrols Started
+2/2/2017 4:58:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:58:55 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 4:58:55 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 4:59:18 PM: createControls Started
+2/2/2017 4:59:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:59:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 4:59:18 PM: createControls Finished
+2/2/2017 5:00:18 PM: BindDocumentType started
+2/2/2017 5:00:18 PM: BindDocumentType finished
+2/2/2017 5:00:22 PM: createControls Started
+2/2/2017 5:00:22 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:00:22 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:00:22 PM: createControls Finished
+2/2/2017 5:00:22 PM: GetTemplateDetails started
+2/2/2017 5:00:22 PM: generatecontrols Started
+2/2/2017 5:00:22 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:00:22 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:00:28 PM: createControls Started
+2/2/2017 5:00:28 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:00:28 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:00:28 PM: createControls Finished
+2/2/2017 5:00:28 PM: generatecontrols Started
+2/2/2017 5:00:28 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:00:28 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:00:28 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:01:09 PM: createControls Started
+2/2/2017 5:01:09 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:01:09 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:01:09 PM: createControls Finished
+2/2/2017 5:04:13 PM: BindDocumentType started
+2/2/2017 5:04:13 PM: BindDocumentType finished
+2/2/2017 5:04:18 PM: createControls Started
+2/2/2017 5:04:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:04:18 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:04:18 PM: createControls Finished
+2/2/2017 5:04:18 PM: GetTemplateDetails started
+2/2/2017 5:04:18 PM: generatecontrols Started
+2/2/2017 5:04:18 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:04:18 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:04:23 PM: createControls Started
+2/2/2017 5:04:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:04:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:04:23 PM: createControls Finished
+2/2/2017 5:04:23 PM: generatecontrols Started
+2/2/2017 5:04:23 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:04:23 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:04:23 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:06:50 PM: BindDocumentType started
+2/2/2017 5:06:50 PM: BindDocumentType finished
+2/2/2017 5:06:54 PM: createControls Started
+2/2/2017 5:06:54 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:06:54 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:06:54 PM: createControls Finished
+2/2/2017 5:06:54 PM: GetTemplateDetails started
+2/2/2017 5:06:54 PM: generatecontrols Started
+2/2/2017 5:06:54 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:06:54 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:07:09 PM: createControls Started
+2/2/2017 5:07:09 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:07:09 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:07:09 PM: createControls Finished
+2/2/2017 5:07:27 PM: generatecontrols Started
+2/2/2017 5:07:27 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:07:27 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:07:27 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:09:01 PM: BindDocumentType started
+2/2/2017 5:09:01 PM: BindDocumentType finished
+2/2/2017 5:09:05 PM: createControls Started
+2/2/2017 5:09:05 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:09:05 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:09:05 PM: createControls Finished
+2/2/2017 5:09:05 PM: GetTemplateDetails started
+2/2/2017 5:09:05 PM: generatecontrols Started
+2/2/2017 5:09:05 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:09:05 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:09:12 PM: createControls Started
+2/2/2017 5:09:12 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:09:12 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:09:12 PM: createControls Finished
+2/2/2017 5:09:14 PM: generatecontrols Started
+2/2/2017 5:09:14 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:09:14 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:09:14 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:11:49 PM: BindDocumentType started
+2/2/2017 5:11:49 PM: BindDocumentType finished
+2/2/2017 5:11:53 PM: createControls Started
+2/2/2017 5:11:53 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:11:53 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:11:53 PM: createControls Finished
+2/2/2017 5:11:53 PM: GetTemplateDetails started
+2/2/2017 5:11:53 PM: generatecontrols Started
+2/2/2017 5:11:53 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:11:53 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:11:58 PM: createControls Started
+2/2/2017 5:11:58 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:11:58 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:11:58 PM: createControls Finished
+2/2/2017 5:12:01 PM: generatecontrols Started
+2/2/2017 5:12:01 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:12:01 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:12:01 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:17:16 PM: BindDocumentType started
+2/2/2017 5:17:16 PM: BindDocumentType finished
+2/2/2017 5:17:29 PM: BindDocumentType started
+2/2/2017 5:17:29 PM: BindDocumentType finished
+2/2/2017 5:17:38 PM: BindDocumentType started
+2/2/2017 5:17:38 PM: BindDocumentType finished
+2/2/2017 5:17:47 PM: BindDocumentType started
+2/2/2017 5:17:47 PM: BindDocumentType finished
+2/2/2017 5:17:56 PM: BindDocumentType started
+2/2/2017 5:17:56 PM: BindDocumentType finished
+2/2/2017 5:18:13 PM: createControls Started
+2/2/2017 5:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:18:13 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:18:13 PM: createControls Finished
+2/2/2017 5:18:13 PM: GetTemplateDetails started
+2/2/2017 5:18:13 PM: generatecontrols Started
+2/2/2017 5:18:13 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:18:13 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:18:23 PM: createControls Started
+2/2/2017 5:18:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:18:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:18:23 PM: createControls Finished
+2/2/2017 5:18:25 PM: generatecontrols Started
+2/2/2017 5:18:25 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:18:25 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:18:25 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:19:12 PM: BindDocumentType started
+2/2/2017 5:19:12 PM: BindDocumentType finished
+2/2/2017 5:19:16 PM: createControls Started
+2/2/2017 5:19:16 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:19:16 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:19:16 PM: createControls Finished
+2/2/2017 5:19:16 PM: GetTemplateDetails started
+2/2/2017 5:19:16 PM: generatecontrols Started
+2/2/2017 5:19:16 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:19:16 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:19:24 PM: createControls Started
+2/2/2017 5:19:24 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:19:24 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:19:24 PM: createControls Finished
+2/2/2017 5:19:28 PM: generatecontrols Started
+2/2/2017 5:19:28 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:19:28 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:19:28 PM: Exception:Multiple controls with the same ID 'lbl0' were found. FindControl requires that controls have unique IDs.
+2/2/2017 5:32:25 PM: BindDocumentType started
+2/2/2017 5:32:25 PM: BindDocumentType finished
+2/2/2017 5:32:30 PM: createControls Started
+2/2/2017 5:32:30 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:32:30 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:32:30 PM: createControls Finished
+2/2/2017 5:32:30 PM: GetTemplateDetails started
+2/2/2017 5:32:30 PM: generatecontrols Started
+2/2/2017 5:32:30 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:32:30 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:32:40 PM: createControls Started
+2/2/2017 5:32:40 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:32:40 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:32:40 PM: createControls Finished
+2/2/2017 5:48:40 PM: BindDocumentType started
+2/2/2017 5:48:40 PM: BindDocumentType finished
+2/2/2017 5:48:46 PM: createControls Started
+2/2/2017 5:48:46 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:48:46 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:48:46 PM: createControls Finished
+2/2/2017 5:48:46 PM: GetTemplateDetails started
+2/2/2017 5:48:46 PM: generatecontrols Started
+2/2/2017 5:48:46 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:48:46 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 5:49:00 PM: createControls Started
+2/2/2017 5:49:00 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:49:00 PM: createControls Loaded all Textbox dynamically
+2/2/2017 5:49:00 PM: createControls Finished
+2/2/2017 6:03:11 PM: BindDocumentType started
+2/2/2017 6:03:11 PM: BindDocumentType finished
+2/2/2017 6:03:17 PM: createControls Started
+2/2/2017 6:03:17 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:03:17 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:03:17 PM: createControls Finished
+2/2/2017 6:03:17 PM: GetTemplateDetails started
+2/2/2017 6:03:17 PM: generatecontrols Started
+2/2/2017 6:03:17 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:03:17 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:04:36 PM: BindDocumentType started
+2/2/2017 6:04:36 PM: BindDocumentType finished
+2/2/2017 6:04:40 PM: createControls Started
+2/2/2017 6:04:40 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:04:40 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:04:40 PM: createControls Finished
+2/2/2017 6:04:40 PM: GetTemplateDetails started
+2/2/2017 6:04:40 PM: generatecontrols Started
+2/2/2017 6:04:40 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:04:40 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:05:14 PM: BindDocumentType started
+2/2/2017 6:05:14 PM: BindDocumentType finished
+2/2/2017 6:05:17 PM: createControls Started
+2/2/2017 6:05:17 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:05:17 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:05:17 PM: createControls Finished
+2/2/2017 6:05:17 PM: GetTemplateDetails started
+2/2/2017 6:05:17 PM: generatecontrols Started
+2/2/2017 6:05:17 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:05:17 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:33:20 PM: BindDocumentType started
+2/2/2017 6:33:20 PM: BindDocumentType finished
+2/2/2017 6:33:23 PM: createControls Started
+2/2/2017 6:33:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:33:23 PM: createControls Loaded all Textbox dynamically
+2/2/2017 6:33:23 PM: createControls Finished
+2/2/2017 6:33:23 PM: GetTemplateDetails started
+2/2/2017 6:33:23 PM: generatecontrols Started
+2/2/2017 6:33:23 PM: GenerateControls:Loaded all Textbox dynamically
+2/2/2017 6:33:23 PM: GenerateControls:Loaded all Textbox dynamically

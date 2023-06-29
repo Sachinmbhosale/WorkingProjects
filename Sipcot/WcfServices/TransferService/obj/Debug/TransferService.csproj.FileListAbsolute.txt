@@ -1,0 +1,80 @@
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Projects\DMS\trunk\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+D:\Projects\DMS\trunk\SourceCode\WcfServices\TransferService\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\DMS\trunk\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\Projects\DMS\trunk\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+E:\_Projects\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+E:\Writer Development\Nokia\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+F:\Nokia\SourceCodeInfoDocs\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\TransferService\bin\TransferService.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\TransferService\bin\TransferService.pdb
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+E:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.pdb
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\MIDC EXE\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.dll.config
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.pdb
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+\\10.10.13.119\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\bin\TransferService.pdb
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+F:\AxisFinance\UpdateCode(06-09-2017) with tagging chages\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\TransferService\bin\TransferService.dll.config
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\TransferService\bin\TransferService.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\TransferService\bin\TransferService.pdb
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.csproj.CoreCompileInputs.cache
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\AxisFinance\ESK\ESK\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\bin\TransferService.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\bin\TransferService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\bin\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\bin\TransferService.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\bin\TransferService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\bin\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changescot_30112022\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\bin\TransferService.dll.config
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\bin\TransferService.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\bin\TransferService.pdb
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.csproj.CoreCompileInputs.cache
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\Sharefolder\New folder\TaggingCode_27_04_23\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\bin\TransferService.dll.config
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\bin\TransferService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\bin\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\obj\Debug\TransferService.csproj.CoreCompileInputs.cache
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\obj\Debug\TransferService.dll
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\obj\Debug\TransferService.pdb
+D:\Sachin\Sachin\DMS\Info Search\Projects\SipCot_Latest Changes\23May2023\TaggingCode_08-05-23\WcfServices\TransferService\obj\Debug\TransferService.csprojResolveAssemblyReference.cache

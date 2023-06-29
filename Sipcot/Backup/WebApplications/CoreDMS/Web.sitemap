@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode title="Home" url="~/Secure/Home.aspx">
+        <siteMapNode title="Billing Main Report" url="~/Secure/Reports/BillingMainReport.aspx"/>
+        <siteMapNode title="Customer - Document Wise Report" url="~/Secure/Reports/DocumentTypeReport.aspx"/>
+        <siteMapNode title="Expiry Report" url="~/Secure/Reports/ExpiryReport.aspx"/>
+        <siteMapNode title="Log Report" url="~/Secure/Reports/LogformReport.aspx"/>
+        <siteMapNode title="MIS Report" url="~/Secure/Reports/MISReport.aspx"/>
+        <siteMapNode title="Tag Change Report" url="~/Secure/Reports/TagChangeReport.aspx"/>
+        <siteMapNode title="Users Bulk Upload" url="~/Secure/Core/BulkUploadUsers.aspx"/>
+        <siteMapNode title="Create Batch" url="~/Secure/Core/CreateBatch.aspx"/>
+      <siteMapNode title="Audit Report" url="~/Secure/Reports/AuditReport.aspx"/>
+    </siteMapNode>
+</siteMap>

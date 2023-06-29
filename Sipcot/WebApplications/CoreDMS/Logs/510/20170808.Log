@@ -1,0 +1,35 @@
+8/8/2017 10:47:46 AM: BindDocumentType started
+8/8/2017 10:47:46 AM: BindDocumentType finished
+8/8/2017 10:47:50 AM: createControls Started
+8/8/2017 10:47:50 AM: createControls Loaded all Textbox dynamically
+8/8/2017 10:47:50 AM: createControls Loaded all Textbox dynamically
+8/8/2017 10:47:50 AM: createControls Finished
+8/8/2017 10:47:50 AM: GetTemplateDetails started
+8/8/2017 10:47:50 AM: generatecontrols Started
+8/8/2017 10:47:50 AM: GenerateControls:Loaded all Textbox dynamically
+8/8/2017 10:47:50 AM: GenerateControls:Loaded all Textbox dynamically
+8/8/2017 10:48:03 AM: GetSginatureDetails Started:-
+8/8/2017 10:48:03 AM: GetSginatureDetails Completed:-
+8/8/2017 10:48:03 AM: GetTemplateDetails Started
+8/8/2017 10:48:03 AM: GetTemplateDetails total record count:1
+8/8/2017 10:48:03 AM: Create controls,Load all Textbox dynamic
+8/8/2017 10:48:03 AM: Create controls,Load all Textbox dynamic
+8/8/2017 10:48:03 AM: GetTemplateDetails Finished
+8/8/2017 10:48:03 AM: InitializeDocumentView started
+8/8/2017 10:48:04 AM: InitializeDocumentView finished
+8/8/2017 10:48:04 AM: Calling database to get annotated images. DocumentId: 1359, Action: GetAnnotatedPages
+8/8/2017 10:48:04 AM: Calling database to get annotated images. DocumentId: 1359, Action: GetTaggedPages
+8/8/2017 10:48:05 AM: LoadImageToViewer started
+8/8/2017 10:48:05 AM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+8/8/2017 10:48:05 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDI1\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDI1 Page No: 1
+8/8/2017 10:48:05 AM: Converting PDF to JPEG without applying watermark.
+8/8/2017 10:48:06 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmdi1jpg//1.jpeg
+8/8/2017 10:48:06 AM: Invoke method to get annotations from databnase.
+8/8/2017 10:48:06 AM: Get annotations from database.
+8/8/2017 10:48:06 AM: Document Id: 1359 Page No: 1
+8/8/2017 10:48:06 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+8/8/2017 10:48:06 AM: MailPanelFill started
+8/8/2017 10:48:06 AM: MailPanelFill finished
+8/8/2017 10:48:06 AM: Unzipping file. Filepath: D:\WDMSDocument\TempWorkFolder\\Tk9fRVhfNTEwXzI1MF8xMDI1.zip
+8/8/2017 10:48:15 AM: BindDocumentType started
+8/8/2017 10:48:15 AM: BindDocumentType finished

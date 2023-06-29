@@ -1,0 +1,16 @@
+6/18/2022 12:12:54 PM: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "Infodocs_lite" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 214
+ClientConnectionId:36ebbadf-2465-4555-8dbb-873ce79ff877
+Error Number:4060,State:1,Class:11
+6/18/2022 12:12:54 PM: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "Infodocs_lite" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\AxisFinance\ESK\ESK\TaggingCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\AxisFinance\ESK\ESK\TaggingCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 214
+ClientConnectionId:36ebbadf-2465-4555-8dbb-873ce79ff877
+Error Number:4060,State:1,Class:11
+6/18/2022 12:12:58 PM: Login.aspx - btnSubmit_Click () :Cannot open database "Infodocs_lite" requested by the login. The login failed.
+Login failed for user 'sa'.

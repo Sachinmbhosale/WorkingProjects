@@ -1,0 +1,5 @@
+7/21/2016 4:35:56 PM: System.Data.SqlClient.SqlException (0x80131904): Subquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in d:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in d:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in d:\Sachin\DMS\Info Search\Projects\Lotex Source Code\WriterDMS_11_06_2015\SourceCodeInfoDocs\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+ClientConnectionId:c34839d1-ed58-4fef-9646-c43ba6896b74

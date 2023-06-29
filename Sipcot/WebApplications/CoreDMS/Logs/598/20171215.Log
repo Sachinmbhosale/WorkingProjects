@@ -1,0 +1,303 @@
+12/15/2017 10:46:38 AM: BindDocumentType started
+12/15/2017 10:46:38 AM: BindDocumentType finished
+12/15/2017 10:46:44 AM: createControls Started
+12/15/2017 10:46:44 AM: createControls Loaded all Dropdownlist dynamically
+12/15/2017 10:46:44 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: createControls Finished
+12/15/2017 10:46:44 AM: GetTemplateDetails started
+12/15/2017 10:46:44 AM: generatecontrols Started
+12/15/2017 10:46:44 AM: GenerateControls:Loaded all Dropdownlist dynamically
+12/15/2017 10:46:44 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:46:44 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:46:45 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:46:45 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:46:46 AM: createControls Started
+12/15/2017 10:46:46 AM: createControls Loaded all Dropdownlist dynamically
+12/15/2017 10:46:46 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:46 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:46 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:46 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:46 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:46:46 AM: createControls Finished
+12/15/2017 10:46:46 AM: Started Loading Entity Drop Down
+12/15/2017 10:46:46 AM: Finished Loading Entity Drop Down
+12/15/2017 10:46:56 AM: GetSginatureDetails Started:-
+12/15/2017 10:46:56 AM: GetSginatureDetails Completed:-
+12/15/2017 10:46:56 AM: GetTemplateDetails Started
+12/15/2017 10:46:57 AM: GetTemplateDetails total record count:1
+12/15/2017 10:46:57 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:46:57 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:46:57 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:46:57 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:46:57 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:46:57 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:46:57 AM: GetTemplateDetails Finished
+12/15/2017 10:46:57 AM: InitializeDocumentView started
+12/15/2017 10:46:57 AM: InitializeDocumentView finished
+12/15/2017 10:46:57 AM: Calling database to get annotated images. DocumentId: 338615, Action: GetAnnotatedPages
+12/15/2017 10:46:57 AM: Calling database to get annotated images. DocumentId: 338615, Action: GetTaggedPages
+12/15/2017 10:46:57 AM: LoadImageToViewer started
+12/15/2017 10:46:57 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 10:46:57 AM: MailPanelFill started
+12/15/2017 10:46:57 AM: MailPanelFill finished
+12/15/2017 10:47:06 AM: GetTemplateDetails Started
+12/15/2017 10:47:06 AM: GetTemplateDetails total record count:1
+12/15/2017 10:47:06 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: GetTemplateDetails Finished
+12/15/2017 10:47:06 AM: GetTemplateDetails Started
+12/15/2017 10:47:06 AM: GetTemplateDetails total record count:1
+12/15/2017 10:47:06 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:06 AM: GetTemplateDetails Finished
+12/15/2017 10:47:06 AM: LoadImageToViewer started
+12/15/2017 10:47:06 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 10:47:06 AM: btnLock_Click started
+12/15/2017 10:47:06 AM: LoadImageToViewer started
+12/15/2017 10:47:06 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 10:47:06 AM: btnLock_Click finished
+12/15/2017 10:47:26 AM: GetTemplateDetails Started
+12/15/2017 10:47:26 AM: GetTemplateDetails total record count:1
+12/15/2017 10:47:26 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:47:26 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:26 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:26 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:26 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:26 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:47:26 AM: GetTemplateDetails Finished
+12/15/2017 10:47:26 AM: GetDBFieldName the DBFld 
+12/15/2017 10:47:26 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/15/2017 10:47:26 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 10:47:26 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 10:47:26 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/15/2017 10:47:26 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/15/2017 10:49:05 AM: GetTemplateDetails Started
+12/15/2017 10:49:05 AM: GetTemplateDetails total record count:1
+12/15/2017 10:49:05 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:49:05 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:49:05 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:49:05 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:49:05 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:49:05 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:49:05 AM: GetTemplateDetails Finished
+12/15/2017 10:49:09 AM: GetDBFieldName the DBFld 
+12/15/2017 10:49:50 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/15/2017 10:51:04 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 10:51:05 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 10:51:06 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/15/2017 10:51:06 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/15/2017 10:51:12 AM: GetTemplateDetails Started
+12/15/2017 10:51:12 AM: GetTemplateDetails total record count:1
+12/15/2017 10:51:12 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:51:12 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:51:12 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:51:12 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:51:12 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:51:12 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:51:12 AM: GetTemplateDetails Finished
+12/15/2017 10:53:19 AM: GetDBFieldName the DBFld 
+12/15/2017 10:53:19 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/15/2017 10:53:19 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 10:53:19 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 10:53:19 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+12/15/2017 10:53:19 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+12/15/2017 10:55:10 AM: BindDocumentType started
+12/15/2017 10:55:11 AM: BindDocumentType finished
+12/15/2017 10:55:17 AM: createControls Started
+12/15/2017 10:55:17 AM: createControls Loaded all Dropdownlist dynamically
+12/15/2017 10:55:17 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: createControls Finished
+12/15/2017 10:55:17 AM: GetTemplateDetails started
+12/15/2017 10:55:17 AM: generatecontrols Started
+12/15/2017 10:55:17 AM: GenerateControls:Loaded all Dropdownlist dynamically
+12/15/2017 10:55:17 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:55:17 AM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 10:55:19 AM: createControls Started
+12/15/2017 10:55:19 AM: createControls Loaded all Dropdownlist dynamically
+12/15/2017 10:55:19 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:19 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:19 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:19 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:19 AM: createControls Loaded all Textbox dynamically
+12/15/2017 10:55:19 AM: createControls Finished
+12/15/2017 10:55:19 AM: Started Loading Entity Drop Down
+12/15/2017 10:55:19 AM: Finished Loading Entity Drop Down
+12/15/2017 10:55:22 AM: GetSginatureDetails Started:-
+12/15/2017 10:55:22 AM: GetSginatureDetails Completed:-
+12/15/2017 10:55:22 AM: GetTemplateDetails Started
+12/15/2017 10:55:22 AM: GetTemplateDetails total record count:1
+12/15/2017 10:55:22 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:55:22 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:22 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:22 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:22 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:22 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:22 AM: GetTemplateDetails Finished
+12/15/2017 10:55:22 AM: InitializeDocumentView started
+12/15/2017 10:55:22 AM: InitializeDocumentView finished
+12/15/2017 10:55:22 AM: Calling database to get annotated images. DocumentId: 338614, Action: GetAnnotatedPages
+12/15/2017 10:55:22 AM: Calling database to get annotated images. DocumentId: 338614, Action: GetTaggedPages
+12/15/2017 10:55:22 AM: LoadImageToViewer started
+12/15/2017 10:55:22 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 10:55:22 AM: MailPanelFill started
+12/15/2017 10:55:22 AM: MailPanelFill finished
+12/15/2017 10:55:29 AM: GetTemplateDetails Started
+12/15/2017 10:55:29 AM: GetTemplateDetails total record count:1
+12/15/2017 10:55:29 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: GetTemplateDetails Finished
+12/15/2017 10:55:29 AM: GetTemplateDetails Started
+12/15/2017 10:55:29 AM: GetTemplateDetails total record count:1
+12/15/2017 10:55:29 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:29 AM: GetTemplateDetails Finished
+12/15/2017 10:55:29 AM: LoadImageToViewer started
+12/15/2017 10:55:29 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 10:55:29 AM: btnLock_Click started
+12/15/2017 10:55:29 AM: LoadImageToViewer started
+12/15/2017 10:55:29 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 10:55:29 AM: btnLock_Click finished
+12/15/2017 10:55:44 AM: GetTemplateDetails Started
+12/15/2017 10:55:44 AM: GetTemplateDetails total record count:1
+12/15/2017 10:55:44 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:55:44 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:44 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:44 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:44 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:44 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:55:44 AM: GetTemplateDetails Finished
+12/15/2017 10:55:52 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/15/2017 10:55:59 AM: GetDBFieldName the DBFld 
+12/15/2017 10:56:05 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 10:56:07 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 10:56:13 AM: GetDBFieldName the DBFld 
+12/15/2017 10:56:14 AM: GetDBFieldName the DBFld 
+12/15/2017 10:57:00 AM: GetTemplateDetails Started
+12/15/2017 10:57:00 AM: GetTemplateDetails total record count:1
+12/15/2017 10:57:00 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:57:00 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:57:00 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:57:00 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:57:00 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:57:00 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:57:00 AM: GetTemplateDetails Finished
+12/15/2017 10:57:19 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/15/2017 10:57:48 AM: GetDBFieldName the DBFld 
+12/15/2017 10:57:51 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 10:57:53 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 10:57:54 AM: GetDBFieldName the DBFld 
+12/15/2017 10:57:54 AM: GetDBFieldName the DBFld 
+12/15/2017 10:58:06 AM: GetTemplateDetails Started
+12/15/2017 10:58:06 AM: GetTemplateDetails total record count:1
+12/15/2017 10:58:06 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 10:58:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:58:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:58:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:58:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:58:06 AM: Create controls,Load all Textbox dynamic
+12/15/2017 10:58:06 AM: GetTemplateDetails Finished
+12/15/2017 10:58:10 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/15/2017 10:58:10 AM: GetDBFieldName the DBFld 
+12/15/2017 10:58:10 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 10:58:10 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 10:58:10 AM: GetDBFieldName the DBFld 
+12/15/2017 10:58:10 AM: GetDBFieldName the DBFld 
+12/15/2017 11:06:40 AM: GetTemplateDetails Started
+12/15/2017 11:06:40 AM: GetTemplateDetails total record count:1
+12/15/2017 11:06:40 AM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 11:06:40 AM: Create controls,Load all Textbox dynamic
+12/15/2017 11:06:40 AM: Create controls,Load all Textbox dynamic
+12/15/2017 11:06:40 AM: Create controls,Load all Textbox dynamic
+12/15/2017 11:06:40 AM: Create controls,Load all Textbox dynamic
+12/15/2017 11:06:40 AM: Create controls,Load all Textbox dynamic
+12/15/2017 11:06:40 AM: GetTemplateDetails Finished
+12/15/2017 11:11:49 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/15/2017 11:13:24 AM: GetDBFieldName the DBFld 
+12/15/2017 11:16:16 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+12/15/2017 11:16:16 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+12/15/2017 11:16:16 AM: GetDBFieldName the DBFld 
+12/15/2017 11:16:16 AM: GetDBFieldName the DBFld 
+12/15/2017 5:01:38 PM: BindDocumentType started
+12/15/2017 5:01:38 PM: BindDocumentType finished
+12/15/2017 5:01:44 PM: createControls Started
+12/15/2017 5:01:44 PM: createControls Loaded all Dropdownlist dynamically
+12/15/2017 5:01:44 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: createControls Finished
+12/15/2017 5:01:44 PM: GetTemplateDetails started
+12/15/2017 5:01:44 PM: generatecontrols Started
+12/15/2017 5:01:44 PM: GenerateControls:Loaded all Dropdownlist dynamically
+12/15/2017 5:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 5:01:44 PM: GenerateControls:Loaded all Textbox dynamically
+12/15/2017 5:01:45 PM: createControls Started
+12/15/2017 5:01:45 PM: createControls Loaded all Dropdownlist dynamically
+12/15/2017 5:01:45 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:45 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:45 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:45 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:45 PM: createControls Loaded all Textbox dynamically
+12/15/2017 5:01:45 PM: createControls Finished
+12/15/2017 5:01:45 PM: Started Loading Entity Drop Down
+12/15/2017 5:01:46 PM: Finished Loading Entity Drop Down
+12/15/2017 5:01:48 PM: GetSginatureDetails Started:-
+12/15/2017 5:01:48 PM: GetSginatureDetails Completed:-
+12/15/2017 5:01:48 PM: GetTemplateDetails Started
+12/15/2017 5:01:48 PM: GetTemplateDetails total record count:1
+12/15/2017 5:01:48 PM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 5:01:48 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:01:48 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:01:48 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:01:48 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:01:48 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:01:48 PM: GetTemplateDetails Finished
+12/15/2017 5:01:48 PM: InitializeDocumentView started
+12/15/2017 5:01:48 PM: InitializeDocumentView finished
+12/15/2017 5:01:48 PM: Calling database to get annotated images. DocumentId: 338614, Action: GetAnnotatedPages
+12/15/2017 5:01:48 PM: Calling database to get annotated images. DocumentId: 338614, Action: GetTaggedPages
+12/15/2017 5:01:48 PM: LoadImageToViewer started
+12/15/2017 5:01:48 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+12/15/2017 5:01:48 PM: MailPanelFill started
+12/15/2017 5:01:48 PM: MailPanelFill finished
+12/15/2017 5:02:38 PM: GetTemplateDetails Started
+12/15/2017 5:02:38 PM: GetTemplateDetails total record count:1
+12/15/2017 5:02:38 PM: Createcontrols,Load all Dropdownlist dynamic
+12/15/2017 5:02:38 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:02:38 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:02:38 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:02:38 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:02:38 PM: Create controls,Load all Textbox dynamic
+12/15/2017 5:02:38 PM: GetTemplateDetails Finished

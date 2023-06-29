@@ -1,0 +1,435 @@
+6/22/2022 6:52:09 PM: createControls Started
+6/22/2022 6:52:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:10 PM: createControls Finished
+6/22/2022 6:52:10 PM: generatecontrols Started
+6/22/2022 6:52:10 PM: Calling database to get reference id and watermark.
+6/22/2022 6:52:13 PM: Database returned result: SI_LE_1896_304_1004|
+6/22/2022 6:52:13 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:52:13 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:52:13 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:52:13 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:52:21 PM: createControls Started
+6/22/2022 6:52:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:21 PM: createControls Finished
+6/22/2022 6:52:21 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 6:52:21 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 6:52:21 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 6:52:23 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+6/22/2022 6:52:23 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 6:52:23 PM: createControls Started
+6/22/2022 6:52:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:23 PM: createControls Finished
+6/22/2022 6:52:23 PM: btnSubmit_Click Started
+6/22/2022 6:52:23 PM: btnSubmit_Click Finished
+6/22/2022 6:52:55 PM: createControls Started
+6/22/2022 6:52:55 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:55 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:55 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:55 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:52:55 PM: createControls Finished
+6/22/2022 6:55:56 PM: createControls Started
+6/22/2022 6:55:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: createControls Finished
+6/22/2022 6:55:56 PM: generatecontrols Started
+6/22/2022 6:55:56 PM: Calling database to get reference id and watermark.
+6/22/2022 6:55:56 PM: Database returned result: SI_LE_1896_304_1004|
+6/22/2022 6:55:56 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:55:56 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 6:56:01 PM: createControls Started
+6/22/2022 6:56:01 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:01 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:01 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:01 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:01 PM: createControls Finished
+6/22/2022 6:56:01 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 6:56:01 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 6:56:01 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 6:56:02 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+6/22/2022 6:56:02 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 6:56:03 PM: createControls Started
+6/22/2022 6:56:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:03 PM: createControls Finished
+6/22/2022 6:56:03 PM: btnSubmit_Click Started
+6/22/2022 6:56:03 PM: btnSubmit_Click Finished
+6/22/2022 6:56:10 PM: createControls Started
+6/22/2022 6:56:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 6:56:10 PM: createControls Finished
+6/22/2022 6:56:22 PM: Started Saving Uploaded Document in Save Button Click
+6/22/2022 6:58:13 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 6:58:13 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 6:58:13 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+6/22/2022 6:58:13 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+6/22/2022 6:58:13 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+6/22/2022 6:58:13 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+6/22/2022 6:58:23 PM: CreateXML Started:-
+6/22/2022 6:58:23 PM: CreateXML Completed:-
+6/22/2022 6:58:24 PM: Save button click after saving or updating the ReturnCode= 0
+6/22/2022 6:58:24 PM: Finished Saving Uploaded Document in Save Button Click
+6/22/2022 6:58:24 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 6:58:24 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:03:51 PM: createControls Started
+6/22/2022 7:03:51 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: createControls Finished
+6/22/2022 7:03:51 PM: generatecontrols Started
+6/22/2022 7:03:51 PM: Calling database to get reference id and watermark.
+6/22/2022 7:03:51 PM: Database returned result: SI_LE_1896_304_1005|
+6/22/2022 7:03:51 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:03:51 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:04:02 PM: createControls Started
+6/22/2022 7:04:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:03 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:03 PM: createControls Finished
+6/22/2022 7:04:03 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:04:03 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:04:03 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:04:05 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 7
+6/22/2022 7:04:05 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:04:06 PM: createControls Started
+6/22/2022 7:04:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:06 PM: createControls Finished
+6/22/2022 7:04:06 PM: btnSubmit_Click Started
+6/22/2022 7:04:06 PM: btnSubmit_Click Finished
+6/22/2022 7:04:11 PM: createControls Started
+6/22/2022 7:04:11 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:11 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:11 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:11 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:04:11 PM: createControls Finished
+6/22/2022 7:05:08 PM: Started Saving Uploaded Document in Save Button Click
+6/22/2022 7:05:09 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:05:09 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:05:09 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+6/22/2022 7:05:09 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+6/22/2022 7:05:09 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+6/22/2022 7:05:09 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+6/22/2022 7:05:18 PM: CreateXML Started:-
+6/22/2022 7:05:18 PM: CreateXML Completed:-
+6/22/2022 7:05:18 PM: Save button click after saving or updating the ReturnCode= 0
+6/22/2022 7:05:18 PM: Finished Saving Uploaded Document in Save Button Click
+6/22/2022 7:05:18 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:05:18 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:15:52 PM: createControls Started
+6/22/2022 7:15:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: createControls Finished
+6/22/2022 7:15:52 PM: generatecontrols Started
+6/22/2022 7:15:52 PM: Calling database to get reference id and watermark.
+6/22/2022 7:15:52 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:15:52 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:15:52 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: createControls Started
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: createControls Finished
+6/22/2022 7:16:15 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:16:15 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:16:15 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:16:15 PM: createControls Started
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:15 PM: createControls Finished
+6/22/2022 7:16:15 PM: btnSubmit_Click Started
+6/22/2022 7:16:15 PM: btnSubmit_Click Finished
+6/22/2022 7:16:22 PM: createControls Started
+6/22/2022 7:16:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:22 PM: createControls Finished
+6/22/2022 7:16:39 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:16:39 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:16:39 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/22/2022 7:16:40 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/22/2022 7:16:58 PM: createControls Started
+6/22/2022 7:16:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: createControls Finished
+6/22/2022 7:16:58 PM: generatecontrols Started
+6/22/2022 7:16:58 PM: Calling database to get reference id and watermark.
+6/22/2022 7:16:58 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:16:58 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:16:58 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: createControls Started
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: createControls Finished
+6/22/2022 7:17:05 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:17:05 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:17:05 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/22/2022 7:17:05 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/22/2022 7:17:05 PM: createControls Started
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:05 PM: createControls Finished
+6/22/2022 7:17:05 PM: btnSubmit_Click Started
+6/22/2022 7:17:05 PM: btnSubmit_Click Finished
+6/22/2022 7:17:06 PM: createControls Started
+6/22/2022 7:17:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:06 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:17:06 PM: createControls Finished
+6/22/2022 7:17:06 PM: Started Previewing Uploaded Document in btnPreview_Click 
+6/22/2022 7:17:06 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf
+6/22/2022 7:17:06 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+6/22/2022 7:17:06 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/22/2022 7:17:06 PM: Converting PDF to JPEG without applying watermark.
+6/22/2022 7:17:07 PM: Exception: I/O error occurred.
+6/22/2022 7:17:07 PM: convertPDFToImage method returned file path as empty.
+6/22/2022 7:17:07 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+6/22/2022 7:19:22 PM: createControls Started
+6/22/2022 7:19:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: createControls Finished
+6/22/2022 7:19:22 PM: generatecontrols Started
+6/22/2022 7:19:22 PM: Calling database to get reference id and watermark.
+6/22/2022 7:19:22 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:19:22 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:19:22 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:19:52 PM: createControls Started
+6/22/2022 7:19:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:52 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:19:52 PM: createControls Finished
+6/22/2022 7:19:59 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:20:03 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:20:18 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:20:19 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 2
+6/22/2022 7:20:19 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:20:19 PM: createControls Started
+6/22/2022 7:20:19 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:19 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:19 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:19 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:19 PM: createControls Finished
+6/22/2022 7:20:19 PM: btnSubmit_Click Started
+6/22/2022 7:20:19 PM: btnSubmit_Click Finished
+6/22/2022 7:20:23 PM: createControls Started
+6/22/2022 7:20:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: createControls Finished
+6/22/2022 7:20:23 PM: generatecontrols Started
+6/22/2022 7:20:23 PM: Calling database to get reference id and watermark.
+6/22/2022 7:20:23 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:20:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:20:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:20:29 PM: createControls Started
+6/22/2022 7:20:29 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:29 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:29 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:29 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:20:29 PM: createControls Finished
+6/22/2022 7:20:42 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:20:44 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:21:38 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:21:41 PM: createControls Started
+6/22/2022 7:21:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:21:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:21:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:21:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:21:41 PM: createControls Finished
+6/22/2022 7:21:41 PM: btnSubmit_Click Started
+6/22/2022 7:21:41 PM: btnSubmit_Click Finished
+6/22/2022 7:23:20 PM: createControls Started
+6/22/2022 7:23:20 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: createControls Finished
+6/22/2022 7:23:20 PM: generatecontrols Started
+6/22/2022 7:23:20 PM: Calling database to get reference id and watermark.
+6/22/2022 7:23:20 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:23:20 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:23:20 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:23:26 PM: createControls Started
+6/22/2022 7:23:26 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:26 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:26 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:26 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:26 PM: createControls Finished
+6/22/2022 7:23:37 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:23:38 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:23:55 PM: AsyncFileUpload1_UploadedComplete Finished
+6/22/2022 7:23:56 PM: createControls Started
+6/22/2022 7:23:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:56 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:23:56 PM: createControls Finished
+6/22/2022 7:23:56 PM: btnSubmit_Click Started
+6/22/2022 7:23:56 PM: btnSubmit_Click Finished
+6/22/2022 7:25:23 PM: createControls Started
+6/22/2022 7:25:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: createControls Finished
+6/22/2022 7:25:23 PM: generatecontrols Started
+6/22/2022 7:25:23 PM: Calling database to get reference id and watermark.
+6/22/2022 7:25:23 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:25:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:25:23 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:25:41 PM: createControls Started
+6/22/2022 7:25:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:41 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:25:41 PM: createControls Finished
+6/22/2022 7:25:45 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:25:47 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:26:10 PM: createControls Started
+6/22/2022 7:26:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:26:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:26:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:26:10 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:26:10 PM: createControls Finished
+6/22/2022 7:26:10 PM: btnSubmit_Click Started
+6/22/2022 7:26:10 PM: btnSubmit_Click Finished
+6/22/2022 7:28:16 PM: createControls Started
+6/22/2022 7:28:16 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: createControls Finished
+6/22/2022 7:28:16 PM: generatecontrols Started
+6/22/2022 7:28:16 PM: Calling database to get reference id and watermark.
+6/22/2022 7:28:16 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:28:16 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:28:16 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:28:21 PM: createControls Started
+6/22/2022 7:28:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:21 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:21 PM: createControls Finished
+6/22/2022 7:28:24 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:28:24 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:28:28 PM: createControls Started
+6/22/2022 7:28:28 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:28 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:28 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:28 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:28:28 PM: createControls Finished
+6/22/2022 7:28:28 PM: btnSubmit_Click Started
+6/22/2022 7:28:28 PM: btnSubmit_Click Finished
+6/22/2022 7:34:50 PM: createControls Started
+6/22/2022 7:34:50 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: createControls Finished
+6/22/2022 7:34:50 PM: generatecontrols Started
+6/22/2022 7:34:50 PM: Calling database to get reference id and watermark.
+6/22/2022 7:34:50 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:34:50 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:34:50 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:34:58 PM: createControls Started
+6/22/2022 7:34:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:58 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:34:58 PM: createControls Finished
+6/22/2022 7:35:14 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:35:20 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:35:31 PM: Exception : Length cannot be less than zero.
+Parameter name: length
+6/22/2022 7:35:31 PM: createControls Started
+6/22/2022 7:35:31 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:35:31 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:35:31 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:35:31 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:35:31 PM: createControls Finished
+6/22/2022 7:35:31 PM: btnSubmit_Click Started
+6/22/2022 7:35:31 PM: btnSubmit_Click Finished
+6/22/2022 7:51:18 PM: createControls Started
+6/22/2022 7:51:18 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: createControls Finished
+6/22/2022 7:51:18 PM: generatecontrols Started
+6/22/2022 7:51:18 PM: Calling database to get reference id and watermark.
+6/22/2022 7:51:18 PM: Database returned result: SI_LE_1896_304_1006|
+6/22/2022 7:51:18 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:51:18 PM: Generatecontrols,Load all Textbox dynamic
+6/22/2022 7:51:37 PM: createControls Started
+6/22/2022 7:51:37 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:37 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:37 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:37 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:37 PM: createControls Finished
+6/22/2022 7:51:49 PM: AsyncFileUpload1_UploadedComplete Started
+6/22/2022 7:51:49 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/22/2022 7:51:53 PM: createControls Started
+6/22/2022 7:51:53 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:53 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:53 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:53 PM: Create controls,Load all Textbox dynamic
+6/22/2022 7:51:53 PM: createControls Finished
+6/22/2022 7:51:53 PM: btnSubmit_Click Started
+6/22/2022 7:51:53 PM: btnSubmit_Click Finished

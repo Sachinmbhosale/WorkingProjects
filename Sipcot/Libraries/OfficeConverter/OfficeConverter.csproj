@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5431A159-E6AB-4D6C-8BD5-A5CABB716E19}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OfficeConverter</RootNamespace>
+    <AssemblyName>OfficeConverter</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Excel, Version=2.1.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>OfficeReferences\Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>OfficeReferences\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>OfficeReferences\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.2.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>OfficeReferences\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>OfficeReferences\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.PowerPoint, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>OfficeReferences\Microsoft.Office.Interop.PowerPoint.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>OfficeReferences\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="MuPDF, Version=1.8.0.0, Culture=neutral, PublicKeyToken=cdf79546fc2bed09, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>OfficeReferences\MuPDF.dll</HintPath>
+    </Reference>
+    <Reference Include="OFFICE, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>OfficeReferences\OFFICE.DLL</HintPath>
+    </Reference>
+    <Reference Include="PDFLibNet">
+      <HintPath>OfficeReferences\PDFLibNet.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp, Version=1.32.2608.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>OfficeReferences\PdfSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OfficeReferences\Excel.dll" />
+    <Content Include="OfficeReferences\Excel.pdb" />
+    <Content Include="OfficeReferences\ICSharpCode.SharpZipLib.dll" />
+    <Content Include="OfficeReferences\Ionic.Zip.Reduced.dll" />
+    <Content Include="OfficeReferences\itextsharp.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="OfficeReferences\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="OfficeReferences\Microsoft.Office.Interop.PowerPoint.dll" />
+    <Content Include="OfficeReferences\Microsoft.Office.Interop.Word.dll" />
+    <Content Include="OfficeReferences\MuPDF.dll" />
+    <Content Include="OfficeReferences\MuPDFLib-x64.dll" />
+    <Content Include="OfficeReferences\MuPDFLib-x86.dll" />
+    <Content Include="OfficeReferences\Newtonsoft.Json.dll" />
+    <Content Include="OfficeReferences\OFFICE.DLL" />
+    <Content Include="OfficeReferences\PDFLibNet.dll" />
+    <Content Include="OfficeReferences\PdfSharp.dll" />
+    <Content Include="OfficeReferences\PdfSharp.resources.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConvertingBase64ToImage.cs" />
+    <Compile Include="ConvertPdf2Image.cs" />
+    <Compile Include="ExtractSoftData.cs" />
+    <Compile Include="GettingControlsFromPDF.cs" />
+    <Compile Include="Image2Pdf.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="ManageDirectory.cs" />
+    <Compile Include="ManageFiles.cs" />
+    <Compile Include="MSExcel.cs" />
+    <Compile Include="MSPowerPoint.cs" />
+    <Compile Include="MSWord.cs" />
+    <Compile Include="NumericComparer.cs" />
+    <Compile Include="PDFMerging.cs" />
+    <Compile Include="PdfPrinter.cs" />
+    <Compile Include="PDFsharpmerging.cs" />
+    <Compile Include="PDFSigner.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringLogicalComparer.cs" />
+    <Compile Include="TiffUtil.cs" />
+    <Compile Include="Watermark.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

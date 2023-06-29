@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:complexType name="Channel_Info">
+      <xs:sequence>
+        <xs:element name="Channels" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Edit" type="xs:string" msdata:Ordinal="1" />
+              <xs:element name="Channel" type="xs:string" msdata:Ordinal="2" />
+              <xs:element name="FileUploadPath" type="xs:string" msdata:Ordinal="3" />
+              <xs:element name="Description" type="xs:string" msdata:Ordinal="4" />
+              <xs:element name="Username" type="xs:string" msdata:Ordinal="5" />
+              <xs:element name="Password" type="xs:string" msdata:Ordinal="6" />
+              <xs:element name="EmailId" type="xs:string" msdata:Ordinal="7" />
+              <xs:element name="Active" type="xs:string" msdata:Ordinal="8" />
+            </xs:sequence>
+            <xs:attribute name="ChannelId" type="xs:int" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:element name="ChannelDetails" type="Channel_Info" />
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element ref="ChannelDetails" />
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</NewDataSet>

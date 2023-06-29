@@ -1,0 +1,21 @@
+7/31/2015 10:38:17 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\1.pdf
+7/31/2015 10:38:21 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\1.jpg
+7/31/2015 10:39:32 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\2.pdf
+7/31/2015 10:39:33 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\2.jpg
+7/31/2015 10:39:35 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\3.pdf
+7/31/2015 10:39:35 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\3.jpg
+7/31/2015 10:39:42 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\4.pdf
+7/31/2015 10:39:42 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\4.jpg
+7/31/2015 10:39:42 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\5.pdf
+7/31/2015 10:39:42 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\5.jpg
+7/31/2015 10:39:42 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\6.pdf
+7/31/2015 10:39:43 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\6.jpg
+7/31/2015 10:39:43 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\7.pdf
+7/31/2015 10:39:43 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\7.jpg
+7/31/2015 10:39:43 AM: D:\WDMSDocument\UploadedDocuments\global\1\2015-07-31\RE1fQURfMV8xXzExOTA=\8.pdf
+7/31/2015 10:39:43 AM: D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Images\DataEntry\42c906e4-f6ff-4cbc-a2b3-89436ca13dd7\35\36\470\8.jpg
+7/31/2015 4:53:55 PM: System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) ---> System.ComponentModel.Win32Exception (0x80004005): The network path was not found
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in D:\LotexProjects\DMSEnh5\DMS_Infosearch\trunk\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 215
+ClientConnectionId:00000000-0000-0000-0000-000000000000

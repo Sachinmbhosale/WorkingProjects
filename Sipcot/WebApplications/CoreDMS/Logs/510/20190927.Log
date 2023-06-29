@@ -1,0 +1,220 @@
+9/27/2019 12:53:00 PM: createControls Started
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: createControls Finished
+9/27/2019 12:53:00 PM: generatecontrols Started
+9/27/2019 12:53:00 PM: Calling database to get reference id and watermark.
+9/27/2019 12:53:00 PM: Database returned result: NO_HR_510_250_1017|
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: createControls Started
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:53:04 PM: createControls Finished
+9/27/2019 12:53:59 PM: createControls Started
+9/27/2019 12:53:59 PM: createControls Finished
+9/27/2019 12:54:00 PM: createControls Started
+9/27/2019 12:54:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:54:00 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:54:00 PM: createControls Finished
+9/27/2019 12:54:00 PM: generatecontrols Started
+9/27/2019 12:54:00 PM: Calling database to get reference id and watermark.
+9/27/2019 12:54:00 PM: Database returned result: NO_EX_510_250_1017|
+9/27/2019 12:54:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:54:00 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 12:54:02 PM: createControls Started
+9/27/2019 12:54:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:54:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:54:02 PM: createControls Finished
+9/27/2019 12:55:02 PM: createControls Started
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: Create controls,Load all Textbox dynamic
+9/27/2019 12:55:02 PM: createControls Finished
+9/27/2019 2:15:15 PM: createControls Started
+9/27/2019 2:15:15 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:15 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:15 PM: createControls Finished
+9/27/2019 2:15:15 PM: generatecontrols Started
+9/27/2019 2:15:15 PM: Calling database to get reference id and watermark.
+9/27/2019 2:15:15 PM: Database returned result: NO_EX_510_250_1017|
+9/27/2019 2:15:15 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 2:15:15 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 2:15:25 PM: createControls Started
+9/27/2019 2:15:25 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:25 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:25 PM: createControls Finished
+9/27/2019 2:15:25 PM: AsyncFileUpload1_UploadedComplete Started
+9/27/2019 2:15:25 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/27/2019 2:15:25 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/27/2019 2:15:26 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 4
+9/27/2019 2:15:26 PM: AsyncFileUpload1_UploadedComplete Finished
+9/27/2019 2:15:26 PM: createControls Started
+9/27/2019 2:15:26 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:26 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:26 PM: createControls Finished
+9/27/2019 2:15:26 PM: btnSubmit_Click Started
+9/27/2019 2:15:26 PM: btnSubmit_Click Finished
+9/27/2019 2:15:30 PM: createControls Started
+9/27/2019 2:15:30 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:30 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:30 PM: createControls Finished
+9/27/2019 2:15:30 PM: Started Saving Uploaded Document in Save Button Click
+9/27/2019 2:15:30 PM: AsyncFileUpload1_UploadedComplete Started
+9/27/2019 2:15:30 PM: AsyncFileUpload1_UploadedComplete Finished
+9/27/2019 2:15:30 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+9/27/2019 2:15:30 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+9/27/2019 2:15:34 PM: CreateXML Started:-
+9/27/2019 2:15:34 PM: CreateXML Completed:-
+9/27/2019 2:15:34 PM: Save button click after saving or updating the ReturnCode= 0
+9/27/2019 2:15:34 PM: Finished Saving Uploaded Document in Save Button Click
+9/27/2019 2:15:34 PM: AsyncFileUpload1_UploadedComplete Started
+9/27/2019 2:15:34 PM: AsyncFileUpload1_UploadedComplete Finished
+9/27/2019 2:15:41 PM: GetTemplateDetails started
+9/27/2019 2:15:41 PM: generatecontrols Started
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: BindDocumentType started
+9/27/2019 2:15:41 PM: BindDocumentType finished
+9/27/2019 2:15:41 PM: createControls Started
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:41 PM: createControls Finished
+9/27/2019 2:15:44 PM: createControls Started
+9/27/2019 2:15:44 PM: createControls Finished
+9/27/2019 2:15:44 PM: GetTemplateDetails started
+9/27/2019 2:15:44 PM: generatecontrols Started
+9/27/2019 2:15:44 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:44 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:15:46 PM: createControls Started
+9/27/2019 2:15:46 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:46 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:46 PM: createControls Finished
+9/27/2019 2:15:46 PM: Started Loading Entity Drop Down
+9/27/2019 2:15:46 PM: Finished Loading Entity Drop Down
+9/27/2019 2:15:50 PM: createControls Started
+9/27/2019 2:15:50 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:50 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:15:50 PM: createControls Finished
+9/27/2019 2:15:56 PM: GetSginatureDetails Started:-
+9/27/2019 2:15:56 PM: GetSginatureDetails Completed:-
+9/27/2019 2:15:56 PM: GetTemplateDetails Started
+9/27/2019 2:15:56 PM: GetTemplateDetails total record count:1
+9/27/2019 2:15:56 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:56 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:15:56 PM: GetTemplateDetails Finished
+9/27/2019 2:15:56 PM: InitializeDocumentView started
+9/27/2019 2:15:56 PM: InitializeDocumentView finished
+9/27/2019 2:15:56 PM: Calling database to get annotated images. DocumentId: 367298, Action: GetAnnotatedPages
+9/27/2019 2:15:57 PM: Calling database to get annotated images. DocumentId: 367298, Action: GetTaggedPages
+9/27/2019 2:15:57 PM: LoadImageToViewer started
+9/27/2019 2:15:57 PM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+9/27/2019 2:15:57 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xMDE3\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xMDE3 Page No: 1
+9/27/2019 2:15:57 PM: Converting PDF to JPEG without applying watermark.
+9/27/2019 2:15:57 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xmde3jpg//1.jpeg
+9/27/2019 2:15:57 PM: Invoke method to get annotations from databnase.
+9/27/2019 2:15:57 PM: Get annotations from database.
+9/27/2019 2:15:57 PM: Document Id: 367298 Page No: 1
+9/27/2019 2:15:57 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+9/27/2019 2:15:57 PM: MailPanelFill started
+9/27/2019 2:15:57 PM: MailPanelFill finished
+9/27/2019 2:16:05 PM: GetTemplateDetails started
+9/27/2019 2:16:05 PM: generatecontrols Started
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: GenerateControls:Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: BindDocumentType started
+9/27/2019 2:16:05 PM: BindDocumentType finished
+9/27/2019 2:16:05 PM: createControls Started
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:05 PM: createControls Finished
+9/27/2019 2:16:05 PM: Started Loading Entity Drop Down
+9/27/2019 2:16:05 PM: Finished Loading Entity Drop Down
+9/27/2019 2:16:08 PM: createControls Started
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Loaded all Textbox dynamically
+9/27/2019 2:16:08 PM: createControls Finished
+9/27/2019 2:16:08 PM: Started Loading Entity Drop Down
+9/27/2019 2:16:08 PM: Finished Loading Entity Drop Down
+9/27/2019 2:25:57 PM: createControls Started
+9/27/2019 2:25:57 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:25:57 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:25:57 PM: createControls Finished
+9/27/2019 2:25:57 PM: generatecontrols Started
+9/27/2019 2:25:57 PM: Calling database to get reference id and watermark.
+9/27/2019 2:25:57 PM: Database returned result: NO_EX_510_250_1018|
+9/27/2019 2:25:57 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 2:25:57 PM: Generatecontrols,Load all Textbox dynamic
+9/27/2019 2:26:11 PM: createControls Started
+9/27/2019 2:26:11 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:26:11 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:26:11 PM: createControls Finished
+9/27/2019 2:26:11 PM: Exception : 
+9/27/2019 2:26:13 PM: createControls Started
+9/27/2019 2:26:13 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:26:13 PM: Create controls,Load all Textbox dynamic
+9/27/2019 2:26:13 PM: createControls Finished
+9/27/2019 2:26:13 PM: btnSubmit_Click Started
+9/27/2019 2:26:13 PM: btnSubmit_Click Finished

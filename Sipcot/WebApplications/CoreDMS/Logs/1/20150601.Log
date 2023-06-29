@@ -1,0 +1,590 @@
+6/1/2015 5:34:19 PM: createControls Started
+6/1/2015 5:34:19 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:19 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:19 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: createControls Finished
+6/1/2015 5:34:19 PM: generatecontrols Started
+6/1/2015 5:34:19 PM: Calling database to get reference id and watermark.
+6/1/2015 5:34:19 PM: Database returned result: CU_AD_1_1_1124|
+6/1/2015 5:34:19 PM: Generatecontrols,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: generatecontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:19 PM: generatecontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:19 PM: Generatecontrols,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: Generatecontrols,Load all Textbox dynamic
+6/1/2015 5:34:19 PM: Generatecontrols,Load all Textbox dynamic
+6/1/2015 5:34:28 PM: createControls Started
+6/1/2015 5:34:28 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:28 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:28 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:28 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:28 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:28 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:28 PM: createControls Finished
+6/1/2015 5:34:28 PM: AsyncFileUpload1_UploadedComplete Started
+6/1/2015 5:34:28 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:34:28 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:34:29 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 1
+6/1/2015 5:34:29 PM: AsyncFileUpload1_UploadedComplete Finished
+6/1/2015 5:34:30 PM: createControls Started
+6/1/2015 5:34:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:30 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:30 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:30 PM: createControls Finished
+6/1/2015 5:34:30 PM: btnSubmit_Click Started
+6/1/2015 5:34:30 PM: btnSubmit_Click Finished
+6/1/2015 5:34:36 PM: createControls Started
+6/1/2015 5:34:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:36 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:36 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:36 PM: createControls Finished
+6/1/2015 5:34:43 PM: createControls Started
+6/1/2015 5:34:43 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:43 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:43 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:34:43 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:43 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:43 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:34:43 PM: createControls Finished
+6/1/2015 5:34:43 PM: Started Saving Uploaded Document in Save Button Click
+6/1/2015 5:34:47 PM: AsyncFileUpload1_UploadedComplete Started
+6/1/2015 5:34:47 PM: AsyncFileUpload1_UploadedComplete Finished
+6/1/2015 5:34:47 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+6/1/2015 5:34:47 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+6/1/2015 5:34:47 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+6/1/2015 5:34:47 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+6/1/2015 5:34:47 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+6/1/2015 5:34:47 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+6/1/2015 5:34:48 PM: CreateXML Started:-
+6/1/2015 5:34:48 PM: CreateXML Completed:-
+6/1/2015 5:34:48 PM: Save button click after saving or updating the ReturnCode= 0
+6/1/2015 5:34:49 PM: Exception : Thread was being aborted.
+6/1/2015 5:34:52 PM: BindDocumentType started
+6/1/2015 5:34:52 PM: BindDocumentType finished
+6/1/2015 5:34:56 PM: createControls Started
+6/1/2015 5:34:56 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:34:56 PM: createControls Loaded all Dropdownlist dynamically
+6/1/2015 5:34:56 PM: createControls Loaded all Dropdownlist dynamically
+6/1/2015 5:34:56 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:34:56 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:34:56 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:34:56 PM: createControls Finished
+6/1/2015 5:34:56 PM: GetTemplateDetails started
+6/1/2015 5:34:57 PM: generatecontrols Started
+6/1/2015 5:34:57 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:34:57 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/1/2015 5:34:57 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/1/2015 5:34:57 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:34:57 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:34:57 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:35:03 PM: GetSginatureDetails Started:-
+6/1/2015 5:35:03 PM: GetSginatureDetails Completed:-
+6/1/2015 5:35:03 PM: GetTemplateDetails Started
+6/1/2015 5:35:03 PM: GetTemplateDetails total record count:1
+6/1/2015 5:35:03 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:03 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:03 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:03 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:03 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:03 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:03 PM: GetTemplateDetails Finished
+6/1/2015 5:35:03 PM: InitializeDocumentView started
+6/1/2015 5:35:03 PM: InitializeDocumentView finished
+6/1/2015 5:35:03 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetAnnotatedPages
+6/1/2015 5:35:04 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetTaggedPages
+6/1/2015 5:35:04 PM: LoadImageToViewer started
+6/1/2015 5:35:04 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+6/1/2015 5:35:04 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:35:04 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:35:17 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:35:17 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:35:17 PM: Get annotations from database.
+6/1/2015 5:35:17 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:35:17 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:35:17 PM: MailPanelFill started
+6/1/2015 5:35:17 PM: MailPanelFill finished
+6/1/2015 5:35:23 PM: GetTemplateDetails Started
+6/1/2015 5:35:23 PM: GetTemplateDetails total record count:1
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:23 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: GetTemplateDetails Finished
+6/1/2015 5:35:23 PM: GetTemplateDetails Started
+6/1/2015 5:35:23 PM: GetTemplateDetails total record count:1
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:23 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:23 PM: GetTemplateDetails Finished
+6/1/2015 5:35:23 PM: LoadImageToViewer started
+6/1/2015 5:35:23 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+6/1/2015 5:35:23 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:35:23 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:35:23 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:35:23 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:35:23 PM: Get annotations from database.
+6/1/2015 5:35:23 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:35:23 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:35:23 PM: btnLock_Click started
+6/1/2015 5:35:23 PM: LoadImageToViewer started
+6/1/2015 5:35:23 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+6/1/2015 5:35:23 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:35:23 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:35:23 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:35:23 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:35:23 PM: Get annotations from database.
+6/1/2015 5:35:23 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:35:23 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:35:23 PM: btnLock_Click finished
+6/1/2015 5:35:37 PM: GetTemplateDetails Started
+6/1/2015 5:35:37 PM: GetTemplateDetails total record count:1
+6/1/2015 5:35:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:37 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:37 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:37 PM: GetTemplateDetails Finished
+6/1/2015 5:35:37 PM: Document Download Details aspx - Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:35:38 PM: Uploaded file saved to \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=.pdf
+6/1/2015 5:35:38 PM: Merging pdf file.
+6/1/2015 5:35:38 PM: Splitting pdf file.
+6/1/2015 5:35:38 PM: getAvailablePages Started
+6/1/2015 5:35:38 PM: getAvailablePages Finished
+6/1/2015 5:35:38 PM: Deleting temporary files.
+6/1/2015 5:35:38 PM: Document Download Details aspx Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:35:39 PM: GetTemplateDetails Started
+6/1/2015 5:35:39 PM: GetTemplateDetails total record count:1
+6/1/2015 5:35:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:39 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:39 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:39 PM: GetTemplateDetails Finished
+6/1/2015 5:35:39 PM: btnReloadiFrame_Click Started
+6/1/2015 5:35:39 PM: ReloadIframe Started
+6/1/2015 5:35:39 PM: LoadImageToViewer started
+6/1/2015 5:35:39 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+6/1/2015 5:35:39 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:35:39 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:35:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:35:39 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:35:39 PM: Get annotations from database.
+6/1/2015 5:35:39 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:35:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:35:39 PM: ReloadIframe Finished
+6/1/2015 5:35:39 PM: LoadImageToViewer started
+6/1/2015 5:35:39 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/1/2015 5:35:39 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:35:39 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:35:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:35:39 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:35:39 PM: Get annotations from database.
+6/1/2015 5:35:39 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:35:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:35:39 PM: btnReloadiFrame_Click finished
+6/1/2015 5:35:53 PM: GetTemplateDetails Started
+6/1/2015 5:35:53 PM: GetTemplateDetails total record count:1
+6/1/2015 5:35:53 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:53 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:53 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:35:53 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:53 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:53 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:35:53 PM: GetTemplateDetails Finished
+6/1/2015 5:35:55 PM: LoadImageToViewer started
+6/1/2015 5:35:55 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:1
+6/1/2015 5:35:55 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\2.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 2
+6/1/2015 5:35:55 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:35:55 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//2.jpeg
+6/1/2015 5:35:55 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:35:55 PM: Get annotations from database.
+6/1/2015 5:35:55 PM: Document Id: 1920 Page No: 2
+6/1/2015 5:35:55 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:42:05 PM: GetTemplateDetails Started
+6/1/2015 5:42:06 PM: GetTemplateDetails total record count:1
+6/1/2015 5:42:06 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:06 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:42:06 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:42:06 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:06 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:06 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:06 PM: GetTemplateDetails Finished
+6/1/2015 5:42:06 PM: btnCommitChanges_Click started
+6/1/2015 5:42:06 PM: btnCommitChanges_Click modified count:1
+6/1/2015 5:42:06 PM: Versionmanagement started 
+6/1/2015 5:42:06 PM: Versionmanagement finished 
+6/1/2015 5:42:06 PM: Started moving Uploaded Document in SaveDocumentChanges from commit changes
+6/1/2015 5:42:06 PM: Renaming document name to original file name
+6/1/2015 5:42:06 PM: Zipping documents before moving documents from tempfolder to original location
+6/1/2015 5:42:06 PM: moving the modified splitted file from tempfolder to original folder
+6/1/2015 5:42:06 PM: Exception : Could not find a part of the path '\\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ='.
+6/1/2015 5:42:06 PM: btnCommitChanges_Click finished
+6/1/2015 5:42:06 PM: Document Download Details aspx - Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:42:06 PM: Exception: Could not find a part of the path '\\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ='.
+6/1/2015 5:42:13 PM: GetTemplateDetails Started
+6/1/2015 5:42:13 PM: GetTemplateDetails total record count:1
+6/1/2015 5:42:14 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:15 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:42:16 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:42:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:42:16 PM: GetTemplateDetails Finished
+6/1/2015 5:42:16 PM: btnCommitChanges_Click started
+6/1/2015 5:42:16 PM: btnCommitChanges_Click modified count:2
+6/1/2015 5:42:16 PM: Versionmanagement started 
+6/1/2015 5:42:30 PM: Versionmanagement finished 
+6/1/2015 5:42:30 PM: Started moving Uploaded Document in SaveDocumentChanges from commit changes
+6/1/2015 5:42:32 PM: Renaming document name to original file name
+6/1/2015 5:42:32 PM: Zipping documents before moving documents from tempfolder to original location
+6/1/2015 5:42:33 PM: moving the modified splitted file from tempfolder to original folder
+6/1/2015 5:42:37 PM: Exception : Could not find a part of the path '\\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ='.
+6/1/2015 5:42:37 PM: btnCommitChanges_Click finished
+6/1/2015 5:56:28 PM: BindDocumentType started
+6/1/2015 5:56:28 PM: BindDocumentType finished
+6/1/2015 5:56:33 PM: createControls Started
+6/1/2015 5:56:33 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:56:33 PM: createControls Loaded all Dropdownlist dynamically
+6/1/2015 5:56:33 PM: createControls Loaded all Dropdownlist dynamically
+6/1/2015 5:56:33 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:56:33 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:56:33 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:56:33 PM: createControls Finished
+6/1/2015 5:56:33 PM: GetTemplateDetails started
+6/1/2015 5:56:33 PM: generatecontrols Started
+6/1/2015 5:56:33 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:56:33 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/1/2015 5:56:33 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/1/2015 5:56:34 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:56:34 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:56:34 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:56:35 PM: GetSginatureDetails Started:-
+6/1/2015 5:56:36 PM: GetSginatureDetails Completed:-
+6/1/2015 5:56:36 PM: GetTemplateDetails Started
+6/1/2015 5:56:36 PM: GetTemplateDetails total record count:1
+6/1/2015 5:56:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:36 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:56:36 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:56:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:36 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:36 PM: GetTemplateDetails Finished
+6/1/2015 5:56:36 PM: InitializeDocumentView started
+6/1/2015 5:56:36 PM: InitializeDocumentView finished
+6/1/2015 5:56:36 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetAnnotatedPages
+6/1/2015 5:56:36 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetTaggedPages
+6/1/2015 5:56:36 PM: LoadImageToViewer started
+6/1/2015 5:56:36 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+6/1/2015 5:56:36 PM: MailPanelFill started
+6/1/2015 5:56:36 PM: MailPanelFill finished
+6/1/2015 5:56:44 PM: GetTemplateDetails Started
+6/1/2015 5:56:44 PM: GetTemplateDetails total record count:1
+6/1/2015 5:56:44 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:44 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:56:44 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:56:44 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:44 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:44 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:56:44 PM: GetTemplateDetails Finished
+6/1/2015 5:56:44 PM: Deleteing original file; first copied.
+6/1/2015 5:56:44 PM: Exception: Access to the path '\\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=' is denied.
+6/1/2015 5:56:44 PM: btnUpdate_Click1 Started
+6/1/2015 5:56:45 PM: EditUploadedFile Started
+6/1/2015 5:56:45 PM: EditUploadedFile,Load all Textbox dynamic
+6/1/2015 5:56:45 PM: EditUploadedFile,Load all Dropdownlist dynamic
+6/1/2015 5:56:45 PM: EditUploadedFile,Load all Dropdownlist dynamic
+6/1/2015 5:56:45 PM: EditUploadedFile,Load all Textbox dynamic
+6/1/2015 5:56:45 PM: EditUploadedFile,Load all Textbox dynamic
+6/1/2015 5:56:45 PM: EditUploadedFile,Load all Textbox dynamic
+6/1/2015 5:56:45 PM: EditUploadedFile completed
+6/1/2015 5:57:13 PM: createControls Started
+6/1/2015 5:57:13 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:13 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:57:13 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:57:13 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:13 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:13 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:13 PM: createControls Finished
+6/1/2015 5:57:13 PM: Started Saving Uploaded Document in Save Button Click
+6/1/2015 5:57:13 PM: Versionmanagement started 
+6/1/2015 5:57:14 PM: Versionmanagement finished 
+6/1/2015 5:57:14 PM: Exception : Length cannot be less than zero.
+Parameter name: length
+6/1/2015 5:57:14 PM: AsyncFileUpload1_UploadedComplete Started
+6/1/2015 5:57:14 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:57:14 PM: Exception : Length cannot be less than zero.
+Parameter name: length
+6/1/2015 5:57:14 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 5:57:14 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 4
+6/1/2015 5:57:14 PM: AsyncFileUpload1_UploadedComplete Finished
+6/1/2015 5:57:20 PM: BindDocumentType started
+6/1/2015 5:57:20 PM: BindDocumentType finished
+6/1/2015 5:57:28 PM: createControls Started
+6/1/2015 5:57:28 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: createControls Loaded all Dropdownlist dynamically
+6/1/2015 5:57:28 PM: createControls Loaded all Dropdownlist dynamically
+6/1/2015 5:57:28 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: createControls Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: createControls Finished
+6/1/2015 5:57:28 PM: GetTemplateDetails started
+6/1/2015 5:57:28 PM: generatecontrols Started
+6/1/2015 5:57:28 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/1/2015 5:57:28 PM: GenerateControls:Loaded all Dropdownlist dynamically
+6/1/2015 5:57:28 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:57:28 PM: GenerateControls:Loaded all Textbox dynamically
+6/1/2015 5:57:30 PM: GetSginatureDetails Started:-
+6/1/2015 5:57:30 PM: GetSginatureDetails Completed:-
+6/1/2015 5:57:30 PM: GetTemplateDetails Started
+6/1/2015 5:57:30 PM: GetTemplateDetails total record count:1
+6/1/2015 5:57:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:30 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:57:30 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:57:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:30 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:30 PM: GetTemplateDetails Finished
+6/1/2015 5:57:30 PM: InitializeDocumentView started
+6/1/2015 5:57:30 PM: InitializeDocumentView finished
+6/1/2015 5:57:30 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetAnnotatedPages
+6/1/2015 5:57:30 PM: Calling database to get annotated images. DocumentId: 1920, Action: GetTaggedPages
+6/1/2015 5:57:30 PM: LoadImageToViewer started
+6/1/2015 5:57:30 PM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+6/1/2015 5:57:30 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:57:30 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:57:31 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:57:31 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:57:31 PM: Get annotations from database.
+6/1/2015 5:57:31 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:57:31 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:57:31 PM: MailPanelFill started
+6/1/2015 5:57:31 PM: MailPanelFill finished
+6/1/2015 5:57:39 PM: GetTemplateDetails Started
+6/1/2015 5:57:39 PM: GetTemplateDetails total record count:1
+6/1/2015 5:57:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:39 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:57:39 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:57:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:39 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:57:39 PM: GetTemplateDetails Finished
+6/1/2015 5:57:39 PM: LoadImageToViewer started
+6/1/2015 5:57:39 PM: Setting image to viewer. Action: GOTO Page count: 4 Current Page:1
+6/1/2015 5:57:39 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\4.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 4
+6/1/2015 5:57:39 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:57:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//4.jpeg
+6/1/2015 5:57:39 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:57:39 PM: Get annotations from database.
+6/1/2015 5:57:39 PM: Document Id: 1920 Page No: 4
+6/1/2015 5:57:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:59:06 PM: GetTemplateDetails Started
+6/1/2015 5:59:06 PM: GetTemplateDetails total record count:1
+6/1/2015 5:59:06 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:06 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:59:07 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: GetTemplateDetails Finished
+6/1/2015 5:59:07 PM: GetTemplateDetails Started
+6/1/2015 5:59:07 PM: GetTemplateDetails total record count:1
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:59:07 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: Create controls,Load all Textbox dynamic
+6/1/2015 5:59:07 PM: GetTemplateDetails Finished
+6/1/2015 5:59:07 PM: LoadImageToViewer started
+6/1/2015 5:59:07 PM: Setting image to viewer. Action: GOTO Page count: 4 Current Page:4
+6/1/2015 5:59:07 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:59:07 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:59:07 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:59:07 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:59:07 PM: Get annotations from database.
+6/1/2015 5:59:07 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:59:07 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:59:07 PM: btnLock_Click started
+6/1/2015 5:59:07 PM: LoadImageToViewer started
+6/1/2015 5:59:07 PM: Setting image to viewer. Action: GOTO Page count: 4 Current Page:1
+6/1/2015 5:59:07 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 5:59:07 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 5:59:07 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 5:59:07 PM: Invoke method to get annotations from databnase.
+6/1/2015 5:59:07 PM: Get annotations from database.
+6/1/2015 5:59:07 PM: Document Id: 1920 Page No: 1
+6/1/2015 5:59:07 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 5:59:07 PM: btnLock_Click finished
+6/1/2015 6:01:16 PM: GetTemplateDetails Started
+6/1/2015 6:01:16 PM: GetTemplateDetails total record count:1
+6/1/2015 6:01:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:16 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:16 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:16 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:16 PM: GetTemplateDetails Finished
+6/1/2015 6:01:16 PM: Document Download Details aspx - Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 6:01:17 PM: Uploaded file saved to \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=.pdf
+6/1/2015 6:01:17 PM: Merging pdf file.
+6/1/2015 6:01:17 PM: Splitting pdf file.
+6/1/2015 6:01:17 PM: getAvailablePages Started
+6/1/2015 6:01:17 PM: getAvailablePages Finished
+6/1/2015 6:01:17 PM: Deleting temporary files.
+6/1/2015 6:01:17 PM: Document Download Details aspx Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/1/2015 6:01:18 PM: GetTemplateDetails Started
+6/1/2015 6:01:18 PM: GetTemplateDetails total record count:1
+6/1/2015 6:01:18 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:18 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:18 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:18 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:18 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:18 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:18 PM: GetTemplateDetails Finished
+6/1/2015 6:01:18 PM: btnReloadiFrame_Click Started
+6/1/2015 6:01:18 PM: ReloadIframe Started
+6/1/2015 6:01:18 PM: LoadImageToViewer started
+6/1/2015 6:01:18 PM: Setting image to viewer. Action: GOTO Page count: 4 Current Page:1
+6/1/2015 6:01:18 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 6:01:18 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:01:18 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 6:01:18 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:01:18 PM: Get annotations from database.
+6/1/2015 6:01:18 PM: Document Id: 1920 Page No: 1
+6/1/2015 6:01:18 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:01:18 PM: ReloadIframe Finished
+6/1/2015 6:01:18 PM: LoadImageToViewer started
+6/1/2015 6:01:18 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:1
+6/1/2015 6:01:18 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 6:01:18 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:01:18 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 6:01:18 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:01:18 PM: Get annotations from database.
+6/1/2015 6:01:18 PM: Document Id: 1920 Page No: 1
+6/1/2015 6:01:18 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:01:18 PM: btnReloadiFrame_Click finished
+6/1/2015 6:01:35 PM: GetTemplateDetails Started
+6/1/2015 6:01:35 PM: GetTemplateDetails total record count:1
+6/1/2015 6:01:35 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:35 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:35 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:35 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:35 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:35 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:35 PM: GetTemplateDetails Finished
+6/1/2015 6:01:35 PM: LoadImageToViewer started
+6/1/2015 6:01:35 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:1
+6/1/2015 6:01:35 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\2.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 2
+6/1/2015 6:01:35 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:01:35 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//2.jpeg
+6/1/2015 6:01:35 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:01:35 PM: Get annotations from database.
+6/1/2015 6:01:35 PM: Document Id: 1920 Page No: 2
+6/1/2015 6:01:35 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:01:37 PM: GetTemplateDetails Started
+6/1/2015 6:01:37 PM: GetTemplateDetails total record count:1
+6/1/2015 6:01:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:37 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:37 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:01:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:37 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:01:37 PM: GetTemplateDetails Finished
+6/1/2015 6:01:37 PM: LoadImageToViewer started
+6/1/2015 6:01:37 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:2
+6/1/2015 6:01:37 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 6:01:37 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:01:37 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 6:01:37 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:01:37 PM: Get annotations from database.
+6/1/2015 6:01:37 PM: Document Id: 1920 Page No: 1
+6/1/2015 6:01:37 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:02:46 PM: GetTemplateDetails Started
+6/1/2015 6:02:46 PM: GetTemplateDetails total record count:1
+6/1/2015 6:02:46 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:46 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:46 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:46 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:46 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:46 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:46 PM: GetTemplateDetails Finished
+6/1/2015 6:02:46 PM: LoadImageToViewer started
+6/1/2015 6:02:46 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:1
+6/1/2015 6:02:46 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\2.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 2
+6/1/2015 6:02:46 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:02:46 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//2.jpeg
+6/1/2015 6:02:46 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:02:46 PM: Get annotations from database.
+6/1/2015 6:02:46 PM: Document Id: 1920 Page No: 2
+6/1/2015 6:02:46 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:02:48 PM: GetTemplateDetails Started
+6/1/2015 6:02:48 PM: GetTemplateDetails total record count:1
+6/1/2015 6:02:48 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:48 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:48 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:48 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:48 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:48 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:48 PM: GetTemplateDetails Finished
+6/1/2015 6:02:48 PM: LoadImageToViewer started
+6/1/2015 6:02:48 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:2
+6/1/2015 6:02:48 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 6:02:48 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:02:48 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 6:02:48 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:02:48 PM: Get annotations from database.
+6/1/2015 6:02:48 PM: Document Id: 1920 Page No: 1
+6/1/2015 6:02:48 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:02:51 PM: GetTemplateDetails Started
+6/1/2015 6:02:51 PM: GetTemplateDetails total record count:1
+6/1/2015 6:02:51 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:51 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:51 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:51 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:51 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:51 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:51 PM: GetTemplateDetails Finished
+6/1/2015 6:02:51 PM: LoadImageToViewer started
+6/1/2015 6:02:51 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:1
+6/1/2015 6:02:51 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\2.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 2
+6/1/2015 6:02:51 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:02:51 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//2.jpeg
+6/1/2015 6:02:51 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:02:51 PM: Get annotations from database.
+6/1/2015 6:02:51 PM: Document Id: 1920 Page No: 2
+6/1/2015 6:02:51 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/1/2015 6:02:52 PM: GetTemplateDetails Started
+6/1/2015 6:02:52 PM: GetTemplateDetails total record count:1
+6/1/2015 6:02:52 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:52 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:52 PM: Createcontrols,Load all Dropdownlist dynamic
+6/1/2015 6:02:52 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:52 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:52 PM: Create controls,Load all Textbox dynamic
+6/1/2015 6:02:52 PM: GetTemplateDetails Finished
+6/1/2015 6:02:52 PM: LoadImageToViewer started
+6/1/2015 6:02:52 PM: Setting image to viewer. Action: GOTO Page count: 2 Current Page:2
+6/1/2015 6:02:52 PM: Converting PDF to JPEG. PDF Path: \\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjQ=\1.pdf Image Name: Q1VfQURfMV8xXzExMjQ= Page No: 1
+6/1/2015 6:02:52 PM: Converting PDF to JPEG without applying watermark.
+6/1/2015 6:02:53 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=////172.16.1.11//wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexmjq=jpg//1.jpeg
+6/1/2015 6:02:53 PM: Invoke method to get annotations from databnase.
+6/1/2015 6:02:53 PM: Get annotations from database.
+6/1/2015 6:02:53 PM: Document Id: 1920 Page No: 1
+6/1/2015 6:02:53 PM: Invoking method to get annotation data from database. Action: GetAnnotations

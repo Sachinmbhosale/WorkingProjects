@@ -1,0 +1,27 @@
+8/23/2017 12:03:55 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/23/2017 12:03:55 PM: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnCancel_Click(Object sender, EventArgs e) in e:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 962
+8/23/2017 1:09:01 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/23/2017 1:09:01 PM: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnCancel_Click(Object sender, EventArgs e) in e:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 962
+8/23/2017 5:27:08 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/23/2017 5:27:08 PM: System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnCancel_Click(Object sender, EventArgs e) in e:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 962

@@ -1,0 +1,201 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WorkflowAdmin.Master.cs"
+    Inherits="Lotex.EnterpriseSolutions.WebUI.WorkflowAdmin" %>
+
+<%@ Register Src="../../UserControls/ApplicationTabs.ascx" TagName="ApplicationTabs"
+    TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>  
+    <meta http-equiv="Version" content="11.0.6" />
+    <style type="text/css">
+        #statusPopup
+        {
+            top: 50%;
+            left: 50%;
+        }
+    </style>
+       <script type="text/javascript" language="javascript">
+
+           //service url
+           var authority = getRootWebSitePath();
+           var coreServiceURL = authority + "/CoreService.svc";
+
+
+           function getRootWebSitePath() {
+               var _location = document.location.toString();
+               var applicationNameIndex = _location.indexOf('/', _location.indexOf('://') + 3);
+               var applicationName = _location.substring(0, applicationNameIndex) + '/';
+               var webFolderIndex = _location.indexOf('/', _location.indexOf(applicationName) + applicationName.length);
+               var webFolderFullPath = _location.substring(0, webFolderIndex);
+               //If develoment environement WEB folder won't be there
+               webFolderFullPath = webFolderFullPath.replace('/Accounts', '');
+               //DMS04-3777M -- used replace for "Secure" too (first letter upper case)
+               webFolderFullPath = webFolderFullPath.replace('/secure', '').replace('/Secure', '');
+               webFolderFullPath = webFolderFullPath.replace('/Workflow', '');
+               return webFolderFullPath;
+           }
+        </script>
+    <script type="text/javascript" src="../../Scripts/jquery-1.7-vsdoc.js"></script>
+    <script type="text/javascript" src="../../Scripts/jquery-1.7.min.js"></script>
+    <script type="text/javascript" src="../../Scripts/jquery-1.7.js"></script>
+    <script type="text/javascript" language="javascript" src="../../Scripts/AjaxPostScripts.js"></script>
+    <link href="../css/jquery.Jcrop.css" rel="stylesheet" type="text/css" />
+    <link href="~/Workflow/css/workflow_styles.css" rel="stylesheet" type="text/css" />
+    <link id="Link1" rel="shortcut icon" href="../../Images/favicon.ico" type="image/x-icon" />
+    <link id="Link2" rel="icon" href="../../Images/favicon.ico" type="image/ico" />
+    <script language="javascript" type="text/javascript">
+        window.history.forward();
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="sm1" runat="server" AsyncPostBackTimeout="1600" />
+    <div id="wrapper">
+        <div>
+            <table>
+                <tr>
+                    <td style="float: left; position: static; padding: 0; display: block;">
+                        <img runat="server" id="imgLogo" src="" alt="" height="70" width="235" />
+                    </td>
+                    <td style="float: left; position: static; display: block; padding-top: 28px; font-size: 20px;">
+                        <asp:Label ID="lblCompanyName" runat="server" Text=""></asp:Label>
+                    </td>
+                    <td>
+                        <uc1:ApplicationTabs ID="ApplicationTabs1" ActiveApplication="DMS" runat="server"
+                            Visible="false" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="MainStripBG">
+            <table width="100%">
+                <tr>
+                <td>
+                <asp:Menu ID="mnuMain" runat="server" Orientation="Horizontal" MaximumDynamicDisplayLevels="3"
+                            StaticEnableDefaultPopOutImage="False">
+                            <LevelMenuItemStyles>
+                                <asp:MenuItemStyle CssClass="MenuStripItem" Font-Underline="False" />
+                                <asp:MenuItemStyle CssClass="Level1Menu" Font-Underline="False" />
+                            </LevelMenuItemStyles>
+                            <LevelSelectedStyles>
+                                <asp:MenuItemStyle CssClass="MenuStriptemSelected" Font-Underline="False" />
+                                <asp:MenuItemStyle CssClass="Level1Menu" Font-Underline="False" />
+                            </LevelSelectedStyles>
+                            <DynamicMenuItemStyle CssClass="Level1Menu" />
+                            <StaticMenuItemStyle CssClass="MenuStripItem" />
+                            <StaticMenuStyle CssClass="MenuHeader" />
+                            <StaticSelectedStyle CssClass="MenuHeader" />
+                        </asp:Menu>
+                </td>
+                    <%--<td style="padding-top: 10px;">
+                        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" StaticSubMenuIndent=""
+                            StaticEnableDefaultPopOutImage="False">
+                            <Items>
+                                <asp:MenuItem ImageUrl="../images/definition.png" SeparatorImageUrl="../images/sep_03.png"
+                                    Text="Define&nbsp;&nbsp;" Value="WorkflowMasterValues" Enabled="true" Selectable="false">
+                                    <asp:MenuItem Text="Master Types" Value="Item1" NavigateUrl="../WorkflowAdmin/ManageMasterTypes.aspx">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem Text="Master Values" Value="Item2" NavigateUrl="../WorkflowAdmin/ManageMasterValues.aspx">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem Text="Workflow Options" Value="Item3" NavigateUrl="../WorkflowAdmin/ManageWorkflowOptions.aspx">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem Text="Status Master" Value="Item4" NavigateUrl="../WorkflowAdmin/ManageStatusMaster.aspx">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem ImageUrl="../images/tasks.png" SeparatorImageUrl="../images/sep_03.png"
+                                    Text="Tasks&nbsp;&nbsp;" Value="WorkflowTaskItmes" Enabled="true" Selectable="false">
+                                    <asp:MenuItem Text="Workflow Task Items" Value="Item6" NavigateUrl="../WorkflowAdmin/WorkflowPendingList.aspx">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem Text="Advanced Search" Value="Item7" NavigateUrl="../WorkflowAdmin/WorkflowAdavanceSearch.aspx">
+                                    </asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem ImageUrl="../images/configuration.png" SeparatorImageUrl="../images/sep_03.png"
+                                    Text="Configuration&nbsp;&nbsp;" Value="Configuration" NavigateUrl="../WorkflowAdmin/ManageProcess.aspx">
+                                </asp:MenuItem>
+                                <asp:MenuItem ImageUrl="../images/reports.png" SeparatorImageUrl="../images/sep_03.png"
+                                    Text="Reports&nbsp;&nbsp;" Value="Reports" Enabled="true" Selectable="false">
+                                    <asp:MenuItem Text="Task Status Report" Value="Item4" NavigateUrl="../WorkflowAdmin/WorkflowReport_TaskStatus.aspx">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem Text="TAT Report" Value="Item5" NavigateUrl="../WorkflowAdmin/WorkflowReport_TAT.aspx">
+                                    </asp:MenuItem>
+                                    <asp:MenuItem Text="Userwise Productivity Report" Value="ItemReportUserProductivity"
+                                        NavigateUrl="../WorkflowAdmin/WorkflowReport_UserProductivity.aspx"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem ImageUrl="../images/dms.png" SeparatorImageUrl="../images/sep_03.png"
+                                    Text="DMS&nbsp;&nbsp;" Value="DMS" NavigateUrl="~/Secure/Home.aspx"></asp:MenuItem>
+                            </Items>
+                            <LevelMenuItemStyles>
+                                <asp:MenuItemStyle CssClass="MenuStripItem" Font-Underline="False" />
+                                <asp:MenuItemStyle CssClass="Level1Menu" Font-Underline="False" />
+                            </LevelMenuItemStyles>
+                            <LevelSelectedStyles>
+                                <asp:MenuItemStyle CssClass="MenuStripItemSelected" Font-Underline="False" />
+                            </LevelSelectedStyles>
+                            <StaticMenuItemStyle CssClass="MenuStripItem" />
+                            <StaticMenuStyle CssClass="MenuHeader" />
+                            <StaticSelectedStyle CssClass="MenuHeader" />
+                        </asp:Menu>
+                    </td>--%>
+                    <td align="right" style="padding-top: 5px;">
+                        <div align="right">
+                            <nobr>
+            <asp:Label ID="lblUser" runat="server" Text="UserName"></asp:Label>&nbsp;&nbsp;
+            <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" Font-Names="Calibri"
+                Font-Size="medium" CausesValidation="False" TagName="Read">(Logout)</asp:LinkButton> &nbsp;&nbsp;&nbsp;&nbsp;
+
+                <asp:Label ID="lblLanguages" runat="server" Text="Preferred Language : "></asp:Label>
+                <asp:DropDownList ID="ddlLanguages" runat="server" AutoPostBack="true" OnSelectedIndexChanged="ddlLanguages_SelectedIndexChanged">
+                </asp:DropDownList>
+                </nobr>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="ContentPageBorder">
+            <div class="ContentPageBorderForSiteMapPath">
+                <asp:Label ID="SitePath" runat="server" ForeColor="Gray"></asp:Label>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <!-- To show loading / processing logo -->
+    <div id="statusPopup" style="display: none; z-index: 1000">
+        <div>
+            <img src="<%= Page.ResolveClientUrl("../../Images/loading.gif") %>" alt="Loading......" />
+        </div>
+    </div>
+    <!-- Note : Always keep this script at the bottom of page | To show loading / processing logo -->
+    <script type="text/javascript">
+        if (Sys != null) {
+            Sys.Application.add_load(AppLoad);
+        }
+
+        function AppLoad() {
+            Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest);
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest);
+
+            function beginRequest(sender, args) {
+                // show the popup
+                var sid = sender._postBackSettings.sourceElement.id
+                if (sid != 'ctl00_PH_Main_ImgBtnExport') {
+
+                    document.getElementById("statusPopup").style.position = "fixed";
+                    document.getElementById("statusPopup").style.display = "";
+                }
+            }
+
+            function endRequest(sender, args) {
+                document.getElementById("statusPopup").style.display = "none";
+                seconds = 60 * 18;
+            }
+        }
+       
+    </script>
+    </form>
+</body>
+</html>

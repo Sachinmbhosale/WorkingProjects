@@ -1,0 +1,2213 @@
+5/2/2023 12:09:23 AM: GetTemplateDetails started
+5/2/2023 12:09:23 AM: generatecontrols Started
+5/2/2023 12:09:23 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: Started Loading Entity Drop Down
+5/2/2023 12:09:23 AM: Finished Loading Entity Drop Down
+5/2/2023 12:09:23 AM: BindDocumentType started
+5/2/2023 12:09:23 AM: BindDocumentType finished
+5/2/2023 12:09:23 AM: BindQueries started
+5/2/2023 12:09:23 AM: BindQueries finished
+5/2/2023 12:09:23 AM: createControls Started
+5/2/2023 12:09:23 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:23 AM: createControls Finished
+5/2/2023 12:09:30 AM: createControls Started
+5/2/2023 12:09:30 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:30 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:30 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:30 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:09:30 AM: createControls Finished
+5/2/2023 12:13:58 AM: GetTemplateDetails started
+5/2/2023 12:13:58 AM: generatecontrols Started
+5/2/2023 12:13:58 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: Started Loading Entity Drop Down
+5/2/2023 12:13:58 AM: Finished Loading Entity Drop Down
+5/2/2023 12:13:58 AM: BindDocumentType started
+5/2/2023 12:13:58 AM: BindDocumentType finished
+5/2/2023 12:13:58 AM: BindQueries started
+5/2/2023 12:13:58 AM: BindQueries finished
+5/2/2023 12:13:58 AM: createControls Started
+5/2/2023 12:13:58 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:13:58 AM: createControls Finished
+5/2/2023 12:14:05 AM: createControls Started
+5/2/2023 12:14:05 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:14:05 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:14:05 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:14:05 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:14:05 AM: createControls Finished
+5/2/2023 12:14:10 AM: GetSginatureDetails Started:-
+5/2/2023 12:14:10 AM: GetSginatureDetails Completed:-
+5/2/2023 12:14:10 AM: GetTemplateDetails Started
+5/2/2023 12:14:10 AM: GetTemplateDetails total record count:1
+5/2/2023 12:14:10 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:10 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:10 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:10 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:10 AM: GetTemplateDetails Finished
+5/2/2023 12:14:10 AM: InitializeDocumentView started
+5/2/2023 12:14:10 AM: InitializeDocumentView finished
+5/2/2023 12:14:10 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 12:14:10 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 12:14:10 AM: LoadImageToViewer started
+5/2/2023 12:14:10 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 12:14:10 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 12:14:10 AM: Converting PDF to JPEG without applying watermark.
+5/2/2023 12:14:20 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 12:14:20 AM: Invoke method to get annotations from databnase.
+5/2/2023 12:14:20 AM: Get annotations from database.
+5/2/2023 12:14:20 AM: Document Id: 282139 Page No: 1
+5/2/2023 12:14:20 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 12:14:20 AM: MailPanelFill started
+5/2/2023 12:14:20 AM: MailPanelFill finished
+5/2/2023 12:14:26 AM: GetTemplateDetails Started
+5/2/2023 12:14:26 AM: GetTemplateDetails total record count:1
+5/2/2023 12:14:26 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:26 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:26 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:26 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:14:26 AM: GetTemplateDetails Finished
+5/2/2023 12:14:26 AM: Print Method
+5/2/2023 12:19:03 AM: GetTemplateDetails started
+5/2/2023 12:19:03 AM: generatecontrols Started
+5/2/2023 12:19:03 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:19:03 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:19:03 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:19:03 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:19:03 AM: Started Loading Entity Drop Down
+5/2/2023 12:19:04 AM: Finished Loading Entity Drop Down
+5/2/2023 12:19:04 AM: BindDocumentType started
+5/2/2023 12:19:04 AM: BindDocumentType finished
+5/2/2023 12:19:04 AM: BindQueries started
+5/2/2023 12:19:04 AM: BindQueries finished
+5/2/2023 12:19:04 AM: createControls Started
+5/2/2023 12:19:04 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:04 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:04 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:04 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:04 AM: createControls Finished
+5/2/2023 12:19:08 AM: createControls Started
+5/2/2023 12:19:08 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:08 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:08 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:08 AM: createControls Loaded all Textbox dynamically
+5/2/2023 12:19:08 AM: createControls Finished
+5/2/2023 12:19:14 AM: GetSginatureDetails Started:-
+5/2/2023 12:19:14 AM: GetSginatureDetails Completed:-
+5/2/2023 12:19:14 AM: GetTemplateDetails Started
+5/2/2023 12:19:14 AM: GetTemplateDetails total record count:1
+5/2/2023 12:19:14 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:14 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:14 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:14 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:14 AM: GetTemplateDetails Finished
+5/2/2023 12:19:14 AM: InitializeDocumentView started
+5/2/2023 12:19:14 AM: InitializeDocumentView finished
+5/2/2023 12:19:14 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 12:19:14 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 12:19:14 AM: LoadImageToViewer started
+5/2/2023 12:19:14 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 12:19:14 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 12:19:14 AM: Converting PDF to JPEG without applying watermark.
+5/2/2023 12:19:22 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 12:19:22 AM: Invoke method to get annotations from databnase.
+5/2/2023 12:19:22 AM: Get annotations from database.
+5/2/2023 12:19:22 AM: Document Id: 282139 Page No: 1
+5/2/2023 12:19:22 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 12:19:22 AM: MailPanelFill started
+5/2/2023 12:19:22 AM: MailPanelFill finished
+5/2/2023 12:19:27 AM: GetTemplateDetails Started
+5/2/2023 12:19:27 AM: GetTemplateDetails total record count:1
+5/2/2023 12:19:27 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:27 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:27 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:27 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:27 AM: GetTemplateDetails Finished
+5/2/2023 12:19:27 AM: Print Method
+5/2/2023 12:19:27 AM: http://localhost:55361/GenericHandler.ashx?f=D:/WDMSDocument/TempWorkFolder/U0lfTEVfMTg5Nl8zMDRfMTAwNA==/1.pdf#toolbar=1
+5/2/2023 12:19:42 AM: GetTemplateDetails Started
+5/2/2023 12:19:42 AM: GetTemplateDetails total record count:1
+5/2/2023 12:19:42 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:42 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:42 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:42 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:19:42 AM: GetTemplateDetails Finished
+5/2/2023 12:19:42 AM: Print Method
+5/2/2023 12:19:42 AM: http://localhost:55361/GenericHandler.ashx?f=D:/WDMSDocument/TempWorkFolder/U0lfTEVfMTg5Nl8zMDRfMTAwNA==/1.pdf#toolbar=1
+5/2/2023 12:23:34 AM: GetSginatureDetails Started:-
+5/2/2023 12:23:34 AM: GetSginatureDetails Completed:-
+5/2/2023 12:23:34 AM: GetTemplateDetails Started
+5/2/2023 12:23:34 AM: GetTemplateDetails total record count:1
+5/2/2023 12:23:34 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:34 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:34 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:34 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:34 AM: GetTemplateDetails Finished
+5/2/2023 12:23:34 AM: InitializeDocumentView started
+5/2/2023 12:23:34 AM: InitializeDocumentView finished
+5/2/2023 12:23:34 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 12:23:34 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 12:23:34 AM: LoadImageToViewer started
+5/2/2023 12:23:34 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 12:23:34 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 12:23:34 AM: Converting PDF to JPEG without applying watermark.
+5/2/2023 12:23:44 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 12:23:44 AM: Invoke method to get annotations from databnase.
+5/2/2023 12:23:44 AM: Get annotations from database.
+5/2/2023 12:23:44 AM: Document Id: 282139 Page No: 1
+5/2/2023 12:23:44 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 12:23:44 AM: MailPanelFill started
+5/2/2023 12:23:44 AM: MailPanelFill finished
+5/2/2023 12:23:45 AM: GetSginatureDetails Started:-
+5/2/2023 12:23:45 AM: GetSginatureDetails Completed:-
+5/2/2023 12:23:45 AM: GetTemplateDetails Started
+5/2/2023 12:23:45 AM: GetTemplateDetails total record count:1
+5/2/2023 12:23:45 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:45 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:45 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:45 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:45 AM: GetTemplateDetails Finished
+5/2/2023 12:23:45 AM: InitializeDocumentView started
+5/2/2023 12:23:45 AM: InitializeDocumentView finished
+5/2/2023 12:23:45 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 12:23:45 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 12:23:45 AM: LoadImageToViewer started
+5/2/2023 12:23:45 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 12:23:45 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 12:23:45 AM: Converting PDF to JPEG without applying watermark.
+5/2/2023 12:23:55 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 12:23:55 AM: Invoke method to get annotations from databnase.
+5/2/2023 12:23:55 AM: Get annotations from database.
+5/2/2023 12:23:55 AM: Document Id: 282139 Page No: 1
+5/2/2023 12:23:55 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 12:23:55 AM: MailPanelFill started
+5/2/2023 12:23:55 AM: MailPanelFill finished
+5/2/2023 12:23:56 AM: GetSginatureDetails Started:-
+5/2/2023 12:23:56 AM: GetSginatureDetails Completed:-
+5/2/2023 12:23:56 AM: GetTemplateDetails Started
+5/2/2023 12:23:56 AM: GetTemplateDetails total record count:1
+5/2/2023 12:23:56 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:56 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:56 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:56 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:23:56 AM: GetTemplateDetails Finished
+5/2/2023 12:23:56 AM: InitializeDocumentView started
+5/2/2023 12:23:56 AM: InitializeDocumentView finished
+5/2/2023 12:23:56 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 12:23:56 AM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 12:23:56 AM: LoadImageToViewer started
+5/2/2023 12:23:56 AM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 12:23:56 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 12:23:56 AM: Converting PDF to JPEG without applying watermark.
+5/2/2023 12:24:07 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 12:24:07 AM: Invoke method to get annotations from databnase.
+5/2/2023 12:24:07 AM: Get annotations from database.
+5/2/2023 12:24:07 AM: Document Id: 282139 Page No: 1
+5/2/2023 12:24:07 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 12:24:07 AM: MailPanelFill started
+5/2/2023 12:24:07 AM: MailPanelFill finished
+5/2/2023 12:24:07 AM: GetTemplateDetails Started
+5/2/2023 12:24:07 AM: GetTemplateDetails total record count:1
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: GetTemplateDetails Finished
+5/2/2023 12:24:07 AM: Print Method
+5/2/2023 12:24:07 AM: http://localhost:55361/GenericHandler.ashx?f=D:/WDMSDocument/TempWorkFolder/U0lfTEVfMTg5Nl8zMDRfMTAwNA==/1.pdf#toolbar=1
+5/2/2023 12:24:07 AM: GetTemplateDetails Started
+5/2/2023 12:24:07 AM: GetTemplateDetails total record count:1
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:07 AM: GetTemplateDetails Finished
+5/2/2023 12:24:07 AM: Print Method
+5/2/2023 12:24:07 AM: http://localhost:55361/GenericHandler.ashx?f=D:/WDMSDocument/TempWorkFolder/U0lfTEVfMTg5Nl8zMDRfMTAwNA==/1.pdf#toolbar=1
+5/2/2023 12:24:08 AM: GetTemplateDetails Started
+5/2/2023 12:24:08 AM: GetTemplateDetails total record count:1
+5/2/2023 12:24:08 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:08 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:08 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:08 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:08 AM: GetTemplateDetails Finished
+5/2/2023 12:24:08 AM: Print Method
+5/2/2023 12:24:08 AM: http://localhost:55361/GenericHandler.ashx?f=D:/WDMSDocument/TempWorkFolder/U0lfTEVfMTg5Nl8zMDRfMTAwNA==/1.pdf#toolbar=1
+5/2/2023 12:24:22 AM: GetTemplateDetails Started
+5/2/2023 12:24:22 AM: GetTemplateDetails total record count:1
+5/2/2023 12:24:22 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:22 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:22 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:22 AM: Create controls,Load all Textbox dynamic
+5/2/2023 12:24:22 AM: GetTemplateDetails Finished
+5/2/2023 12:24:22 AM: Print Method
+5/2/2023 12:24:22 AM: http://localhost:55361/GenericHandler.ashx?f=D:/WDMSDocument/TempWorkFolder/U0lfTEVfMTg5Nl8zMDRfMTAwNA==/1.pdf#toolbar=1
+5/2/2023 11:53:25 AM: GetTemplateDetails started
+5/2/2023 11:53:25 AM: generatecontrols Started
+5/2/2023 11:53:25 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: Started Loading Entity Drop Down
+5/2/2023 11:53:25 AM: Finished Loading Entity Drop Down
+5/2/2023 11:53:25 AM: BindDocumentType started
+5/2/2023 11:53:25 AM: BindDocumentType finished
+5/2/2023 11:53:25 AM: BindQueries started
+5/2/2023 11:53:25 AM: BindQueries finished
+5/2/2023 11:53:25 AM: createControls Started
+5/2/2023 11:53:25 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:25 AM: createControls Finished
+5/2/2023 11:53:33 AM: createControls Started
+5/2/2023 11:53:33 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:33 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:33 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:33 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:53:33 AM: createControls Finished
+5/2/2023 11:54:57 AM: createControls Started
+5/2/2023 11:54:57 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:57 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:57 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:57 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:57 AM: createControls Finished
+5/2/2023 11:54:57 AM: AddQuery started
+5/2/2023 11:54:57 AM: btnAddClauseClick started
+5/2/2023 11:54:57 AM: btnAddClauseClick finished
+5/2/2023 11:54:57 AM: AddQuery finished
+5/2/2023 11:54:59 AM: createControls Started
+5/2/2023 11:54:59 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:59 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:59 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:59 AM: createControls Loaded all Textbox dynamically
+5/2/2023 11:54:59 AM: createControls Finished
+5/2/2023 11:54:59 AM: btnPerformQueryClick started
+5/2/2023 11:54:59 AM: BuildQuery() executed properly 
+5/2/2023 11:54:59 AM: whereclause value 
+5/2/2023 11:54:59 AM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 11:54:59 AM: Before searching the details with whereclause : 
+5/2/2023 11:55:00 AM: btnPerformQueryClick search result record count 1
+5/2/2023 11:55:00 AM: btnPerformQueryClick finished
+5/2/2023 12:49:26 PM: GetTemplateDetails started
+5/2/2023 12:49:26 PM: generatecontrols Started
+5/2/2023 12:49:26 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:49:26 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:49:26 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:49:26 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:49:26 PM: Started Loading Entity Drop Down
+5/2/2023 12:49:26 PM: Finished Loading Entity Drop Down
+5/2/2023 12:49:27 PM: BindDocumentType started
+5/2/2023 12:49:27 PM: BindDocumentType finished
+5/2/2023 12:49:27 PM: BindQueries started
+5/2/2023 12:49:27 PM: BindQueries finished
+5/2/2023 12:49:27 PM: createControls Started
+5/2/2023 12:49:27 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:27 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:27 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:27 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:27 PM: createControls Finished
+5/2/2023 12:49:33 PM: createControls Started
+5/2/2023 12:49:33 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:33 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:33 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:33 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:33 PM: createControls Finished
+5/2/2023 12:49:33 PM: AddQuery started
+5/2/2023 12:49:33 PM: btnAddClauseClick started
+5/2/2023 12:49:33 PM: btnAddClauseClick finished
+5/2/2023 12:49:33 PM: AddQuery finished
+5/2/2023 12:49:42 PM: createControls Started
+5/2/2023 12:49:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:42 PM: createControls Finished
+5/2/2023 12:49:42 PM: btnPerformQueryClick started
+5/2/2023 12:49:42 PM: BuildQuery() executed properly 
+5/2/2023 12:49:42 PM: whereclause value 
+5/2/2023 12:49:42 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:49:42 PM: Before searching the details with whereclause : 
+5/2/2023 12:49:43 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 12:49:49 PM: createControls Started
+5/2/2023 12:49:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:49:49 PM: createControls Finished
+5/2/2023 12:49:49 PM: btnPerformQueryClick started
+5/2/2023 12:49:49 PM: BuildQuery() executed properly 
+5/2/2023 12:49:49 PM: whereclause value 
+5/2/2023 12:49:49 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:49:49 PM: Before searching the details with whereclause : 
+5/2/2023 12:49:50 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 12:51:51 PM: GetTemplateDetails started
+5/2/2023 12:51:51 PM: generatecontrols Started
+5/2/2023 12:51:51 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:51:51 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:51:51 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:51:51 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 12:51:51 PM: Started Loading Entity Drop Down
+5/2/2023 12:51:51 PM: Finished Loading Entity Drop Down
+5/2/2023 12:51:51 PM: BindDocumentType started
+5/2/2023 12:51:52 PM: BindDocumentType finished
+5/2/2023 12:51:52 PM: BindQueries started
+5/2/2023 12:51:52 PM: BindQueries finished
+5/2/2023 12:51:52 PM: createControls Started
+5/2/2023 12:51:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:52 PM: createControls Finished
+5/2/2023 12:51:55 PM: createControls Started
+5/2/2023 12:51:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:55 PM: createControls Finished
+5/2/2023 12:51:55 PM: AddQuery started
+5/2/2023 12:51:55 PM: btnAddClauseClick started
+5/2/2023 12:51:55 PM: btnAddClauseClick finished
+5/2/2023 12:51:55 PM: AddQuery finished
+5/2/2023 12:51:57 PM: createControls Started
+5/2/2023 12:51:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:51:57 PM: createControls Finished
+5/2/2023 12:52:11 PM: btnPerformQueryClick started
+5/2/2023 12:52:19 PM: BuildQuery() executed properly 
+5/2/2023 12:53:21 PM: whereclause value 
+5/2/2023 12:53:29 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:53:40 PM: Before searching the details with whereclause : 
+5/2/2023 12:53:56 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 12:54:18 PM: createControls Started
+5/2/2023 12:54:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:18 PM: createControls Finished
+5/2/2023 12:54:20 PM: btnPerformQueryClick started
+5/2/2023 12:54:20 PM: BuildQuery() executed properly 
+5/2/2023 12:54:20 PM: whereclause value 
+5/2/2023 12:54:20 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:54:20 PM: Before searching the details with whereclause : 
+5/2/2023 12:54:22 PM: btnPerformQueryClick search result record count 1
+5/2/2023 12:54:22 PM: btnPerformQueryClick finished
+5/2/2023 12:54:31 PM: createControls Started
+5/2/2023 12:54:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:31 PM: createControls Finished
+5/2/2023 12:54:32 PM: btnPerformQueryClick started
+5/2/2023 12:54:32 PM: BuildQuery() executed properly 
+5/2/2023 12:54:32 PM: whereclause value 
+5/2/2023 12:54:32 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:54:32 PM: Before searching the details with whereclause : 
+5/2/2023 12:54:34 PM: btnPerformQueryClick search result record count 1
+5/2/2023 12:54:34 PM: btnPerformQueryClick finished
+5/2/2023 12:54:50 PM: createControls Started
+5/2/2023 12:54:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:54:50 PM: createControls Finished
+5/2/2023 12:54:53 PM: btnPerformQueryClick started
+5/2/2023 12:54:53 PM: BuildQuery() executed properly 
+5/2/2023 12:54:53 PM: whereclause value 
+5/2/2023 12:54:53 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:54:53 PM: Before searching the details with whereclause : 
+5/2/2023 12:54:55 PM: btnPerformQueryClick search result record count 1
+5/2/2023 12:54:55 PM: btnPerformQueryClick finished
+5/2/2023 12:55:32 PM: createControls Started
+5/2/2023 12:55:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:32 PM: createControls Finished
+5/2/2023 12:55:34 PM: btnPerformQueryClick started
+5/2/2023 12:55:34 PM: BuildQuery() executed properly 
+5/2/2023 12:55:34 PM: whereclause value 
+5/2/2023 12:55:34 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:55:34 PM: Before searching the details with whereclause : 
+5/2/2023 12:55:35 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 12:55:59 PM: createControls Started
+5/2/2023 12:55:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 12:55:59 PM: createControls Finished
+5/2/2023 12:56:00 PM: btnPerformQueryClick started
+5/2/2023 12:56:00 PM: BuildQuery() executed properly 
+5/2/2023 12:56:00 PM: whereclause value 
+5/2/2023 12:56:00 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 12:56:00 PM: Before searching the details with whereclause : 
+5/2/2023 12:56:01 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 1:10:30 PM: GetTemplateDetails started
+5/2/2023 1:10:30 PM: generatecontrols Started
+5/2/2023 1:10:30 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:10:30 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:10:30 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:10:30 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:10:30 PM: Started Loading Entity Drop Down
+5/2/2023 1:10:32 PM: Finished Loading Entity Drop Down
+5/2/2023 1:10:32 PM: BindDocumentType started
+5/2/2023 1:10:32 PM: BindDocumentType finished
+5/2/2023 1:10:32 PM: BindQueries started
+5/2/2023 1:10:32 PM: BindQueries finished
+5/2/2023 1:10:32 PM: createControls Started
+5/2/2023 1:10:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:32 PM: createControls Finished
+5/2/2023 1:10:37 PM: createControls Started
+5/2/2023 1:10:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:37 PM: createControls Finished
+5/2/2023 1:10:37 PM: AddQuery started
+5/2/2023 1:10:37 PM: btnAddClauseClick started
+5/2/2023 1:10:37 PM: btnAddClauseClick finished
+5/2/2023 1:10:37 PM: AddQuery finished
+5/2/2023 1:10:39 PM: createControls Started
+5/2/2023 1:10:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:10:39 PM: createControls Finished
+5/2/2023 1:11:00 PM: btnPerformQueryClick started
+5/2/2023 1:11:12 PM: BuildQuery() executed properly 
+5/2/2023 1:14:10 PM: whereclause value 
+5/2/2023 1:14:10 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 1:14:10 PM: Before searching the details with whereclause : 
+5/2/2023 1:14:14 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 1:14:14 PM: GetTemplateDetails started
+5/2/2023 1:14:14 PM: generatecontrols Started
+5/2/2023 1:14:15 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:15 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:15 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:15 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:15 PM: Started Loading Entity Drop Down
+5/2/2023 1:14:17 PM: Finished Loading Entity Drop Down
+5/2/2023 1:14:17 PM: BindDocumentType started
+5/2/2023 1:14:17 PM: BindDocumentType finished
+5/2/2023 1:14:17 PM: BindQueries started
+5/2/2023 1:14:17 PM: BindQueries finished
+5/2/2023 1:14:17 PM: createControls Started
+5/2/2023 1:14:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:17 PM: createControls Finished
+5/2/2023 1:14:22 PM: GetTemplateDetails started
+5/2/2023 1:14:22 PM: generatecontrols Started
+5/2/2023 1:14:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:14:22 PM: Started Loading Entity Drop Down
+5/2/2023 1:14:43 PM: Finished Loading Entity Drop Down
+5/2/2023 1:14:43 PM: BindDocumentType started
+5/2/2023 1:14:43 PM: BindDocumentType finished
+5/2/2023 1:14:43 PM: BindQueries started
+5/2/2023 1:14:43 PM: BindQueries finished
+5/2/2023 1:14:43 PM: createControls Started
+5/2/2023 1:14:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:43 PM: createControls Finished
+5/2/2023 1:14:48 PM: createControls Started
+5/2/2023 1:14:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:14:48 PM: createControls Finished
+5/2/2023 1:14:48 PM: AddQuery started
+5/2/2023 1:14:48 PM: btnAddClauseClick started
+5/2/2023 1:15:13 PM: btnAddClauseClick finished
+5/2/2023 1:15:21 PM: AddQuery finished
+5/2/2023 1:15:28 PM: createControls Started
+5/2/2023 1:15:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:15:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:15:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:15:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:15:28 PM: createControls Finished
+5/2/2023 1:15:35 PM: btnPerformQueryClick started
+5/2/2023 1:15:43 PM: BuildQuery() executed properly 
+5/2/2023 1:17:07 PM: whereclause value 
+5/2/2023 1:17:07 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 1:17:07 PM: Before searching the details with whereclause : 
+5/2/2023 1:17:07 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 1:17:10 PM: GetTemplateDetails started
+5/2/2023 1:17:10 PM: generatecontrols Started
+5/2/2023 1:17:10 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:17:10 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:17:10 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:17:10 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:17:10 PM: Started Loading Entity Drop Down
+5/2/2023 1:17:10 PM: Finished Loading Entity Drop Down
+5/2/2023 1:17:10 PM: BindDocumentType started
+5/2/2023 1:17:10 PM: BindDocumentType finished
+5/2/2023 1:17:11 PM: BindQueries started
+5/2/2023 1:17:11 PM: BindQueries finished
+5/2/2023 1:17:11 PM: createControls Started
+5/2/2023 1:17:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:11 PM: createControls Finished
+5/2/2023 1:17:34 PM: createControls Started
+5/2/2023 1:17:34 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:34 PM: createControls Loaded all Dropdownlist dynamically
+5/2/2023 1:17:34 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:34 PM: createControls Loaded all Dropdownlist dynamically
+5/2/2023 1:17:34 PM: createControls Finished
+5/2/2023 1:17:34 PM: generatecontrols Started
+5/2/2023 1:17:34 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:17:34 PM: GenerateControls:Loaded all Dropdownlist dynamically
+5/2/2023 1:17:34 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:17:34 PM: GenerateControls:Loaded all Dropdownlist dynamically
+5/2/2023 1:17:34 PM: Started Loading Entity Drop Down
+5/2/2023 1:17:34 PM: Finished Loading Entity Drop Down
+5/2/2023 1:17:40 PM: createControls Started
+5/2/2023 1:17:40 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:40 PM: createControls Loaded all Dropdownlist dynamically
+5/2/2023 1:17:40 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:17:40 PM: createControls Loaded all Dropdownlist dynamically
+5/2/2023 1:17:40 PM: createControls Finished
+5/2/2023 1:17:50 PM: GetTemplatefieldDetails started
+5/2/2023 1:17:50 PM: GetTemplatefieldDetails finished
+5/2/2023 1:21:34 PM: Started Loading Entity Drop Down
+5/2/2023 1:21:34 PM: Finished Loading Entity Drop Down
+5/2/2023 1:26:07 PM: GetTemplateDetails started
+5/2/2023 1:26:17 PM: generatecontrols Started
+5/2/2023 1:26:17 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:26:17 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:26:17 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:26:17 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 1:26:21 PM: GetTemplatefieldDetails started
+5/2/2023 1:26:22 PM: GetTemplatefieldDetails finished
+5/2/2023 1:26:32 PM: Started Loading Entity Drop Down
+5/2/2023 1:26:32 PM: Finished Loading Entity Drop Down
+5/2/2023 1:26:32 PM: Started Loading Entity Drop Down
+5/2/2023 1:26:32 PM: Finished Loading Entity Drop Down
+5/2/2023 1:26:32 PM: BindDocumentType started
+5/2/2023 1:26:32 PM: BindDocumentType finished
+5/2/2023 1:26:32 PM: BindQueries started
+5/2/2023 1:26:32 PM: BindQueries finished
+5/2/2023 1:26:32 PM: createControls Started
+5/2/2023 1:26:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:32 PM: createControls Finished
+5/2/2023 1:26:37 PM: createControls Started
+5/2/2023 1:26:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:37 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:37 PM: createControls Finished
+5/2/2023 1:26:37 PM: AddQuery started
+5/2/2023 1:26:37 PM: btnAddClauseClick started
+5/2/2023 1:26:39 PM: btnAddClauseClick finished
+5/2/2023 1:26:39 PM: AddQuery finished
+5/2/2023 1:26:43 PM: createControls Started
+5/2/2023 1:26:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:43 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:43 PM: createControls Finished
+5/2/2023 1:26:45 PM: btnPerformQueryClick started
+5/2/2023 1:26:45 PM: BuildQuery() executed properly 
+5/2/2023 1:26:51 PM: whereclause value Family
+5/2/2023 1:26:51 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 1:26:51 PM: Before searching the details with whereclause : Family
+5/2/2023 1:26:51 PM: btnPerformQueryClick search result record count 1
+5/2/2023 1:26:51 PM: btnPerformQueryClick finished
+5/2/2023 1:26:55 PM: createControls Started
+5/2/2023 1:26:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 1:26:55 PM: createControls Finished
+5/2/2023 1:26:58 PM: btnPerformQueryClick started
+5/2/2023 1:26:58 PM: BuildQuery() executed properly 
+5/2/2023 1:27:20 PM: whereclause value Family
+5/2/2023 1:27:20 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 1:27:20 PM: Before searching the details with whereclause : Family
+5/2/2023 1:27:20 PM: btnPerformQueryClick search result record count 1
+5/2/2023 1:27:20 PM: btnPerformQueryClick finished
+5/2/2023 3:02:27 PM: GetTemplateDetails started
+5/2/2023 3:02:29 PM: generatecontrols Started
+5/2/2023 3:02:29 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:02:29 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:02:29 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:02:29 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:02:30 PM: GetTemplatefieldDetails started
+5/2/2023 3:02:30 PM: GetTemplatefieldDetails finished
+5/2/2023 3:02:30 PM: Started Loading Entity Drop Down
+5/2/2023 3:02:30 PM: Finished Loading Entity Drop Down
+5/2/2023 3:02:30 PM: Started Loading Entity Drop Down
+5/2/2023 3:02:30 PM: Finished Loading Entity Drop Down
+5/2/2023 3:02:31 PM: BindDocumentType started
+5/2/2023 3:02:31 PM: BindDocumentType finished
+5/2/2023 3:02:31 PM: BindQueries started
+5/2/2023 3:02:31 PM: BindQueries finished
+5/2/2023 3:02:31 PM: createControls Started
+5/2/2023 3:02:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:31 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:31 PM: createControls Finished
+5/2/2023 3:02:44 PM: createControls Started
+5/2/2023 3:02:44 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:44 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:44 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:44 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:44 PM: createControls Finished
+5/2/2023 3:02:44 PM: AddQuery started
+5/2/2023 3:02:44 PM: btnAddClauseClick started
+5/2/2023 3:02:48 PM: btnAddClauseClick finished
+5/2/2023 3:02:48 PM: AddQuery finished
+5/2/2023 3:02:51 PM: createControls Started
+5/2/2023 3:02:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:02:51 PM: createControls Finished
+5/2/2023 3:02:53 PM: btnPerformQueryClick started
+5/2/2023 3:02:53 PM: BuildQuery() executed properly 
+5/2/2023 3:02:53 PM: whereclause value Family
+5/2/2023 3:02:53 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 3:02:53 PM: Before searching the details with whereclause : Family
+5/2/2023 3:02:54 PM: btnPerformQueryClick search result record count 1
+5/2/2023 3:02:54 PM: btnPerformQueryClick finished
+5/2/2023 3:21:24 PM: GetTemplateDetails started
+5/2/2023 3:21:27 PM: generatecontrols Started
+5/2/2023 3:21:27 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:21:27 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:21:27 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:21:27 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:21:27 PM: GetTemplatefieldDetails started
+5/2/2023 3:21:27 PM: GetTemplatefieldDetails finished
+5/2/2023 3:21:27 PM: Started Loading Entity Drop Down
+5/2/2023 3:21:28 PM: Finished Loading Entity Drop Down
+5/2/2023 3:21:28 PM: Started Loading Entity Drop Down
+5/2/2023 3:21:28 PM: Finished Loading Entity Drop Down
+5/2/2023 3:21:28 PM: BindDocumentType started
+5/2/2023 3:21:28 PM: BindDocumentType finished
+5/2/2023 3:21:28 PM: BindQueries started
+5/2/2023 3:21:29 PM: BindQueries finished
+5/2/2023 3:21:29 PM: createControls Started
+5/2/2023 3:21:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:29 PM: createControls Finished
+5/2/2023 3:21:32 PM: createControls Started
+5/2/2023 3:21:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:21:32 PM: createControls Finished
+5/2/2023 3:21:44 PM: GetSginatureDetails Started:-
+5/2/2023 3:21:44 PM: GetSginatureDetails Completed:-
+5/2/2023 3:21:44 PM: GetTemplateDetails Started
+5/2/2023 3:21:45 PM: GetTemplateDetails total record count:1
+5/2/2023 3:21:45 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:21:45 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:21:45 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:21:45 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:21:45 PM: GetTemplateDetails Finished
+5/2/2023 3:21:45 PM: InitializeDocumentView started
+5/2/2023 3:21:45 PM: InitializeDocumentView finished
+5/2/2023 3:21:45 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:21:45 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:21:45 PM: LoadImageToViewer started
+5/2/2023 3:21:45 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:21:45 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:21:45 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:22:07 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:22:07 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:22:07 PM: Get annotations from database.
+5/2/2023 3:22:07 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:22:07 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:22:07 PM: MailPanelFill started
+5/2/2023 3:22:07 PM: MailPanelFill finished
+5/2/2023 3:22:31 PM: GetSginatureDetails Started:-
+5/2/2023 3:22:31 PM: GetSginatureDetails Completed:-
+5/2/2023 3:22:31 PM: GetTemplateDetails Started
+5/2/2023 3:22:31 PM: GetTemplateDetails total record count:1
+5/2/2023 3:22:31 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:22:31 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:22:31 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:22:31 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:22:31 PM: GetTemplateDetails Finished
+5/2/2023 3:22:32 PM: InitializeDocumentView started
+5/2/2023 3:22:32 PM: InitializeDocumentView finished
+5/2/2023 3:22:32 PM: Calling database to get annotated images. DocumentId: 254416, Action: GetAnnotatedPages
+5/2/2023 3:22:32 PM: Calling database to get annotated images. DocumentId: 254416, Action: GetTaggedPages
+5/2/2023 3:22:32 PM: LoadImageToViewer started
+5/2/2023 3:22:32 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+5/2/2023 3:22:32 PM: MailPanelFill started
+5/2/2023 3:22:32 PM: MailPanelFill finished
+5/2/2023 3:24:42 PM: GetSginatureDetails Started:-
+5/2/2023 3:24:42 PM: GetSginatureDetails Completed:-
+5/2/2023 3:24:42 PM: GetTemplateDetails Started
+5/2/2023 3:24:42 PM: GetTemplateDetails total record count:1
+5/2/2023 3:24:42 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:24:42 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:24:42 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:24:42 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:24:42 PM: GetTemplateDetails Finished
+5/2/2023 3:24:43 PM: InitializeDocumentView started
+5/2/2023 3:24:43 PM: InitializeDocumentView finished
+5/2/2023 3:24:43 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:24:43 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:24:43 PM: LoadImageToViewer started
+5/2/2023 3:24:43 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:24:43 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:24:43 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:25:00 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:25:00 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:25:00 PM: Get annotations from database.
+5/2/2023 3:25:00 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:25:00 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:25:00 PM: MailPanelFill started
+5/2/2023 3:25:00 PM: MailPanelFill finished
+5/2/2023 3:29:21 PM: GetSginatureDetails Started:-
+5/2/2023 3:29:21 PM: GetSginatureDetails Completed:-
+5/2/2023 3:29:21 PM: GetTemplateDetails Started
+5/2/2023 3:29:21 PM: GetTemplateDetails total record count:1
+5/2/2023 3:29:21 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:29:21 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:29:21 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:29:21 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:29:21 PM: GetTemplateDetails Finished
+5/2/2023 3:29:21 PM: InitializeDocumentView started
+5/2/2023 3:29:21 PM: InitializeDocumentView finished
+5/2/2023 3:29:21 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:29:21 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:29:21 PM: LoadImageToViewer started
+5/2/2023 3:29:21 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:29:21 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:29:21 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:29:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:29:39 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:29:39 PM: Get annotations from database.
+5/2/2023 3:29:39 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:29:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:29:39 PM: MailPanelFill started
+5/2/2023 3:29:39 PM: MailPanelFill finished
+5/2/2023 3:30:13 PM: GetSginatureDetails Started:-
+5/2/2023 3:30:13 PM: GetSginatureDetails Completed:-
+5/2/2023 3:30:13 PM: GetTemplateDetails Started
+5/2/2023 3:30:13 PM: GetTemplateDetails total record count:1
+5/2/2023 3:30:13 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:13 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:13 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:13 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:13 PM: GetTemplateDetails Finished
+5/2/2023 3:30:13 PM: InitializeDocumentView started
+5/2/2023 3:30:13 PM: InitializeDocumentView finished
+5/2/2023 3:30:13 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:30:13 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:30:14 PM: LoadImageToViewer started
+5/2/2023 3:30:14 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:30:14 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:30:14 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:30:32 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:30:32 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:30:32 PM: Get annotations from database.
+5/2/2023 3:30:32 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:30:32 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:30:32 PM: MailPanelFill started
+5/2/2023 3:30:32 PM: MailPanelFill finished
+5/2/2023 3:30:45 PM: GetSginatureDetails Started:-
+5/2/2023 3:30:46 PM: GetSginatureDetails Completed:-
+5/2/2023 3:30:46 PM: GetTemplateDetails Started
+5/2/2023 3:30:46 PM: GetTemplateDetails total record count:1
+5/2/2023 3:30:46 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:46 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:46 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:46 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:30:46 PM: GetTemplateDetails Finished
+5/2/2023 3:30:46 PM: InitializeDocumentView started
+5/2/2023 3:30:46 PM: InitializeDocumentView finished
+5/2/2023 3:30:46 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:30:46 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:30:46 PM: LoadImageToViewer started
+5/2/2023 3:30:46 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:30:46 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:30:46 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:31:04 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:31:04 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:31:04 PM: Get annotations from database.
+5/2/2023 3:31:04 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:31:04 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:31:04 PM: MailPanelFill started
+5/2/2023 3:31:04 PM: MailPanelFill finished
+5/2/2023 3:31:18 PM: GetTemplateDetails started
+5/2/2023 3:31:20 PM: generatecontrols Started
+5/2/2023 3:31:20 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:31:20 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:31:20 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:31:20 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:31:25 PM: GetTemplatefieldDetails started
+5/2/2023 3:31:25 PM: GetTemplatefieldDetails finished
+5/2/2023 3:31:25 PM: Started Loading Entity Drop Down
+5/2/2023 3:31:25 PM: Finished Loading Entity Drop Down
+5/2/2023 3:31:25 PM: Started Loading Entity Drop Down
+5/2/2023 3:31:25 PM: Finished Loading Entity Drop Down
+5/2/2023 3:31:25 PM: BindDocumentType started
+5/2/2023 3:31:25 PM: BindDocumentType finished
+5/2/2023 3:31:25 PM: BindQueries started
+5/2/2023 3:31:25 PM: BindQueries finished
+5/2/2023 3:31:25 PM: createControls Started
+5/2/2023 3:31:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:25 PM: createControls Finished
+5/2/2023 3:31:26 PM: GetSginatureDetails Started:-
+5/2/2023 3:31:26 PM: GetSginatureDetails Completed:-
+5/2/2023 3:31:26 PM: GetTemplateDetails Started
+5/2/2023 3:31:26 PM: GetTemplateDetails total record count:1
+5/2/2023 3:31:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:26 PM: GetTemplateDetails Finished
+5/2/2023 3:31:26 PM: InitializeDocumentView started
+5/2/2023 3:31:26 PM: InitializeDocumentView finished
+5/2/2023 3:31:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:31:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:31:26 PM: LoadImageToViewer started
+5/2/2023 3:31:26 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:31:26 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:31:26 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:31:38 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:31:38 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:31:38 PM: Get annotations from database.
+5/2/2023 3:31:38 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:31:38 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:31:38 PM: MailPanelFill started
+5/2/2023 3:31:38 PM: MailPanelFill finished
+5/2/2023 3:31:50 PM: createControls Started
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Finished
+5/2/2023 3:31:50 PM: createControls Started
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:50 PM: createControls Finished
+5/2/2023 3:31:51 PM: createControls Started
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Finished
+5/2/2023 3:31:51 PM: createControls Started
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Finished
+5/2/2023 3:31:51 PM: createControls Started
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Finished
+5/2/2023 3:31:51 PM: createControls Started
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:51 PM: createControls Finished
+5/2/2023 3:31:52 PM: createControls Started
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Finished
+5/2/2023 3:31:52 PM: createControls Started
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:52 PM: createControls Finished
+5/2/2023 3:31:52 PM: createControls Started
+5/2/2023 3:31:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:31:53 PM: createControls Finished
+5/2/2023 3:31:58 PM: GetSginatureDetails Started:-
+5/2/2023 3:31:58 PM: GetSginatureDetails Completed:-
+5/2/2023 3:31:58 PM: GetTemplateDetails Started
+5/2/2023 3:31:58 PM: GetTemplateDetails total record count:1
+5/2/2023 3:31:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:31:58 PM: GetTemplateDetails Finished
+5/2/2023 3:31:58 PM: InitializeDocumentView started
+5/2/2023 3:31:58 PM: InitializeDocumentView finished
+5/2/2023 3:31:58 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:31:59 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:31:59 PM: LoadImageToViewer started
+5/2/2023 3:31:59 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:31:59 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:31:59 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:32:11 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:32:11 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:32:11 PM: Get annotations from database.
+5/2/2023 3:32:11 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:32:11 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:32:11 PM: MailPanelFill started
+5/2/2023 3:32:11 PM: MailPanelFill finished
+5/2/2023 3:32:23 PM: GetTemplateDetails started
+5/2/2023 3:32:24 PM: generatecontrols Started
+5/2/2023 3:32:24 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: GetTemplatefieldDetails started
+5/2/2023 3:32:24 PM: GetTemplatefieldDetails finished
+5/2/2023 3:32:24 PM: Started Loading Entity Drop Down
+5/2/2023 3:32:24 PM: Finished Loading Entity Drop Down
+5/2/2023 3:32:24 PM: Started Loading Entity Drop Down
+5/2/2023 3:32:24 PM: Finished Loading Entity Drop Down
+5/2/2023 3:32:24 PM: BindDocumentType started
+5/2/2023 3:32:24 PM: BindDocumentType finished
+5/2/2023 3:32:24 PM: BindQueries started
+5/2/2023 3:32:24 PM: BindQueries finished
+5/2/2023 3:32:24 PM: createControls Started
+5/2/2023 3:32:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:24 PM: createControls Finished
+5/2/2023 3:32:25 PM: GetTemplateDetails started
+5/2/2023 3:32:25 PM: generatecontrols Started
+5/2/2023 3:32:25 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:25 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:25 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:25 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:32:25 PM: GetTemplatefieldDetails started
+5/2/2023 3:32:25 PM: GetTemplatefieldDetails finished
+5/2/2023 3:32:25 PM: Started Loading Entity Drop Down
+5/2/2023 3:32:25 PM: Finished Loading Entity Drop Down
+5/2/2023 3:32:25 PM: Started Loading Entity Drop Down
+5/2/2023 3:32:25 PM: Finished Loading Entity Drop Down
+5/2/2023 3:32:25 PM: BindDocumentType started
+5/2/2023 3:32:25 PM: BindDocumentType finished
+5/2/2023 3:32:25 PM: BindQueries started
+5/2/2023 3:32:26 PM: BindQueries finished
+5/2/2023 3:32:26 PM: createControls Started
+5/2/2023 3:32:26 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:26 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:26 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:26 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:32:26 PM: createControls Finished
+5/2/2023 3:32:26 PM: GetSginatureDetails Started:-
+5/2/2023 3:32:26 PM: GetSginatureDetails Completed:-
+5/2/2023 3:32:26 PM: GetTemplateDetails Started
+5/2/2023 3:32:26 PM: GetTemplateDetails total record count:1
+5/2/2023 3:32:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:32:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:32:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:32:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:32:26 PM: GetTemplateDetails Finished
+5/2/2023 3:32:26 PM: InitializeDocumentView started
+5/2/2023 3:32:26 PM: InitializeDocumentView finished
+5/2/2023 3:32:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:32:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:32:27 PM: LoadImageToViewer started
+5/2/2023 3:32:27 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:32:27 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:32:27 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:32:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:32:39 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:32:39 PM: Get annotations from database.
+5/2/2023 3:32:39 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:32:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:32:39 PM: MailPanelFill started
+5/2/2023 3:32:39 PM: MailPanelFill finished
+5/2/2023 3:33:03 PM: GetSginatureDetails Started:-
+5/2/2023 3:33:03 PM: GetSginatureDetails Completed:-
+5/2/2023 3:33:03 PM: GetTemplateDetails Started
+5/2/2023 3:33:03 PM: GetTemplateDetails total record count:1
+5/2/2023 3:33:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:03 PM: GetTemplateDetails Finished
+5/2/2023 3:33:03 PM: InitializeDocumentView started
+5/2/2023 3:33:03 PM: InitializeDocumentView finished
+5/2/2023 3:33:03 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:33:03 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:33:03 PM: LoadImageToViewer started
+5/2/2023 3:33:03 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:33:03 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:33:03 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:33:13 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:33:13 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:33:13 PM: Get annotations from database.
+5/2/2023 3:33:13 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:33:13 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:33:13 PM: MailPanelFill started
+5/2/2023 3:33:13 PM: MailPanelFill finished
+5/2/2023 3:33:35 PM: createControls Started
+5/2/2023 3:33:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:33:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:33:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:33:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:33:35 PM: createControls Finished
+5/2/2023 3:33:36 PM: GetSginatureDetails Started:-
+5/2/2023 3:33:36 PM: GetSginatureDetails Completed:-
+5/2/2023 3:33:36 PM: GetTemplateDetails Started
+5/2/2023 3:33:36 PM: GetTemplateDetails total record count:1
+5/2/2023 3:33:36 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:36 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:36 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:36 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:33:36 PM: GetTemplateDetails Finished
+5/2/2023 3:33:36 PM: InitializeDocumentView started
+5/2/2023 3:33:36 PM: InitializeDocumentView finished
+5/2/2023 3:33:36 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:33:36 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:33:36 PM: LoadImageToViewer started
+5/2/2023 3:33:36 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:33:36 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:33:36 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:33:47 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:33:47 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:33:47 PM: Get annotations from database.
+5/2/2023 3:33:47 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:33:47 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:33:47 PM: MailPanelFill started
+5/2/2023 3:33:47 PM: MailPanelFill finished
+5/2/2023 3:34:14 PM: GetSginatureDetails Started:-
+5/2/2023 3:34:14 PM: GetSginatureDetails Completed:-
+5/2/2023 3:34:14 PM: GetTemplateDetails Started
+5/2/2023 3:34:14 PM: GetTemplateDetails total record count:1
+5/2/2023 3:34:14 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:34:14 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:34:14 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:34:14 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:34:15 PM: GetTemplateDetails Finished
+5/2/2023 3:34:15 PM: InitializeDocumentView started
+5/2/2023 3:34:15 PM: InitializeDocumentView finished
+5/2/2023 3:34:15 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:34:15 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:34:15 PM: LoadImageToViewer started
+5/2/2023 3:34:15 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:34:15 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:34:15 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:34:35 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:34:35 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:34:35 PM: Get annotations from database.
+5/2/2023 3:34:35 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:34:35 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:34:35 PM: MailPanelFill started
+5/2/2023 3:34:35 PM: MailPanelFill finished
+5/2/2023 3:35:03 PM: GetSginatureDetails Started:-
+5/2/2023 3:35:03 PM: GetSginatureDetails Completed:-
+5/2/2023 3:35:03 PM: GetTemplateDetails Started
+5/2/2023 3:35:03 PM: GetTemplateDetails total record count:1
+5/2/2023 3:35:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:03 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:03 PM: GetTemplateDetails Finished
+5/2/2023 3:35:03 PM: InitializeDocumentView started
+5/2/2023 3:35:03 PM: InitializeDocumentView finished
+5/2/2023 3:35:03 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:35:03 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:35:03 PM: LoadImageToViewer started
+5/2/2023 3:35:03 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:35:03 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:35:03 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:35:13 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:35:13 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:35:13 PM: Get annotations from database.
+5/2/2023 3:35:13 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:35:13 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:35:13 PM: MailPanelFill started
+5/2/2023 3:35:13 PM: MailPanelFill finished
+5/2/2023 3:35:41 PM: createControls Started
+5/2/2023 3:35:41 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:35:41 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:35:41 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:35:41 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:35:41 PM: createControls Finished
+5/2/2023 3:35:41 PM: GetSginatureDetails Started:-
+5/2/2023 3:35:41 PM: GetSginatureDetails Completed:-
+5/2/2023 3:35:41 PM: GetTemplateDetails Started
+5/2/2023 3:35:41 PM: GetTemplateDetails total record count:1
+5/2/2023 3:35:41 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:41 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:41 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:41 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:35:41 PM: GetTemplateDetails Finished
+5/2/2023 3:35:41 PM: InitializeDocumentView started
+5/2/2023 3:35:41 PM: InitializeDocumentView finished
+5/2/2023 3:35:41 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:35:41 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:35:41 PM: LoadImageToViewer started
+5/2/2023 3:35:41 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:35:41 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:35:41 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:35:58 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:35:58 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:35:58 PM: Get annotations from database.
+5/2/2023 3:35:58 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:35:58 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:35:58 PM: MailPanelFill started
+5/2/2023 3:35:58 PM: MailPanelFill finished
+5/2/2023 3:37:09 PM: Exception:Input string was not in a correct format.
+5/2/2023 3:37:09 PM: BindDocumentType started
+5/2/2023 3:37:09 PM: BindDocumentType finished
+5/2/2023 3:37:10 PM: GetSginatureDetails Started:-
+5/2/2023 3:37:10 PM: Exception : Column 'DigitalSignatureDetails_vAuthor' does not belong to table Table.
+5/2/2023 3:37:10 PM: GetTemplateDetails Started
+5/2/2023 3:37:10 PM: GetTemplateDetails total record count:1
+5/2/2023 3:37:10 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:37:10 PM: InitializeDocumentView started
+5/2/2023 3:37:15 PM: Exception:Input string was not in a correct format.
+5/2/2023 3:37:15 PM: BindDocumentType started
+5/2/2023 3:37:15 PM: BindDocumentType finished
+5/2/2023 3:37:16 PM: GetSginatureDetails Started:-
+5/2/2023 3:37:16 PM: Exception : Column 'DigitalSignatureDetails_vAuthor' does not belong to table Table.
+5/2/2023 3:37:16 PM: GetTemplateDetails Started
+5/2/2023 3:37:16 PM: GetTemplateDetails total record count:1
+5/2/2023 3:37:16 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:37:16 PM: InitializeDocumentView started
+5/2/2023 3:37:19 PM: GetSginatureDetails Started:-
+5/2/2023 3:37:20 PM: Exception : Column 'DigitalSignatureDetails_vAuthor' does not belong to table Table.
+5/2/2023 3:37:20 PM: GetTemplateDetails Started
+5/2/2023 3:37:20 PM: GetTemplateDetails total record count:1
+5/2/2023 3:37:20 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:37:20 PM: InitializeDocumentView started
+5/2/2023 3:37:22 PM: GetSginatureDetails Started:-
+5/2/2023 3:37:22 PM: Exception : Column 'DigitalSignatureDetails_vAuthor' does not belong to table Table.
+5/2/2023 3:37:22 PM: GetTemplateDetails Started
+5/2/2023 3:37:22 PM: GetTemplateDetails total record count:1
+5/2/2023 3:37:22 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:37:23 PM: InitializeDocumentView started
+5/2/2023 3:37:23 PM: GetSginatureDetails Started:-
+5/2/2023 3:37:23 PM: Exception : Column 'DigitalSignatureDetails_vAuthor' does not belong to table Table.
+5/2/2023 3:37:23 PM: GetTemplateDetails Started
+5/2/2023 3:37:23 PM: GetTemplateDetails total record count:1
+5/2/2023 3:37:23 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:37:23 PM: InitializeDocumentView started
+5/2/2023 3:38:31 PM: GetTemplateDetails started
+5/2/2023 3:38:31 PM: generatecontrols Started
+5/2/2023 3:38:31 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:38:31 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:38:31 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:38:31 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:38:31 PM: GetTemplatefieldDetails started
+5/2/2023 3:38:31 PM: GetTemplatefieldDetails finished
+5/2/2023 3:38:31 PM: Started Loading Entity Drop Down
+5/2/2023 3:38:32 PM: Finished Loading Entity Drop Down
+5/2/2023 3:38:32 PM: Started Loading Entity Drop Down
+5/2/2023 3:38:32 PM: Finished Loading Entity Drop Down
+5/2/2023 3:38:32 PM: BindDocumentType started
+5/2/2023 3:38:32 PM: BindDocumentType finished
+5/2/2023 3:38:32 PM: BindQueries started
+5/2/2023 3:38:32 PM: BindQueries finished
+5/2/2023 3:38:32 PM: createControls Started
+5/2/2023 3:38:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:32 PM: createControls Finished
+5/2/2023 3:38:36 PM: createControls Started
+5/2/2023 3:38:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:36 PM: createControls Finished
+5/2/2023 3:38:53 PM: createControls Started
+5/2/2023 3:38:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:38:53 PM: createControls Finished
+5/2/2023 3:39:06 PM: createControls Started
+5/2/2023 3:39:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:07 PM: createControls Finished
+5/2/2023 3:39:18 PM: createControls Started
+5/2/2023 3:39:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:39:18 PM: createControls Finished
+5/2/2023 3:39:25 PM: GetSginatureDetails Started:-
+5/2/2023 3:39:25 PM: GetSginatureDetails Completed:-
+5/2/2023 3:39:25 PM: GetTemplateDetails Started
+5/2/2023 3:39:25 PM: GetTemplateDetails total record count:1
+5/2/2023 3:39:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:39:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:39:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:39:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:39:25 PM: GetTemplateDetails Finished
+5/2/2023 3:39:26 PM: InitializeDocumentView started
+5/2/2023 3:39:26 PM: InitializeDocumentView finished
+5/2/2023 3:39:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:39:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:39:26 PM: LoadImageToViewer started
+5/2/2023 3:39:26 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:39:26 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:39:26 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:39:37 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:39:37 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:39:37 PM: Get annotations from database.
+5/2/2023 3:39:37 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:39:37 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:39:37 PM: MailPanelFill started
+5/2/2023 3:39:37 PM: MailPanelFill finished
+5/2/2023 3:40:58 PM: GetSginatureDetails Started:-
+5/2/2023 3:40:58 PM: GetSginatureDetails Completed:-
+5/2/2023 3:40:58 PM: GetTemplateDetails Started
+5/2/2023 3:40:58 PM: GetTemplateDetails total record count:1
+5/2/2023 3:40:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:40:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:40:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:40:58 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:40:58 PM: GetTemplateDetails Finished
+5/2/2023 3:40:58 PM: InitializeDocumentView started
+5/2/2023 3:40:58 PM: InitializeDocumentView finished
+5/2/2023 3:40:58 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:40:58 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:40:58 PM: LoadImageToViewer started
+5/2/2023 3:40:58 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:40:58 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:40:58 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:41:09 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:41:09 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:41:09 PM: Get annotations from database.
+5/2/2023 3:41:09 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:41:09 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:41:09 PM: MailPanelFill started
+5/2/2023 3:41:09 PM: MailPanelFill finished
+5/2/2023 3:41:26 PM: GetSginatureDetails Started:-
+5/2/2023 3:41:26 PM: GetSginatureDetails Completed:-
+5/2/2023 3:41:26 PM: GetTemplateDetails Started
+5/2/2023 3:41:26 PM: GetTemplateDetails total record count:1
+5/2/2023 3:41:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:41:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:41:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:41:26 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:41:26 PM: GetTemplateDetails Finished
+5/2/2023 3:41:26 PM: InitializeDocumentView started
+5/2/2023 3:41:26 PM: InitializeDocumentView finished
+5/2/2023 3:41:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:41:26 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:41:26 PM: LoadImageToViewer started
+5/2/2023 3:41:26 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:41:26 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:41:26 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:41:35 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:41:35 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:41:35 PM: Get annotations from database.
+5/2/2023 3:41:35 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:41:35 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:41:35 PM: MailPanelFill started
+5/2/2023 3:41:35 PM: MailPanelFill finished
+5/2/2023 3:42:16 PM: GetSginatureDetails Started:-
+5/2/2023 3:42:16 PM: GetSginatureDetails Completed:-
+5/2/2023 3:42:16 PM: GetTemplateDetails Started
+5/2/2023 3:42:16 PM: GetTemplateDetails total record count:1
+5/2/2023 3:42:16 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:42:16 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:42:16 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:42:16 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:42:16 PM: GetTemplateDetails Finished
+5/2/2023 3:42:16 PM: InitializeDocumentView started
+5/2/2023 3:42:16 PM: InitializeDocumentView finished
+5/2/2023 3:42:16 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:42:16 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:42:17 PM: LoadImageToViewer started
+5/2/2023 3:42:17 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:42:17 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:42:17 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:42:26 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:42:26 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:42:26 PM: Get annotations from database.
+5/2/2023 3:42:26 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:42:26 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:42:26 PM: MailPanelFill started
+5/2/2023 3:42:26 PM: MailPanelFill finished
+5/2/2023 3:43:05 PM: GetSginatureDetails Started:-
+5/2/2023 3:43:05 PM: GetSginatureDetails Completed:-
+5/2/2023 3:43:05 PM: GetTemplateDetails Started
+5/2/2023 3:43:05 PM: GetTemplateDetails total record count:1
+5/2/2023 3:43:05 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:43:05 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:43:05 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:43:05 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:43:05 PM: GetTemplateDetails Finished
+5/2/2023 3:43:05 PM: InitializeDocumentView started
+5/2/2023 3:43:05 PM: InitializeDocumentView finished
+5/2/2023 3:43:05 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:43:05 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:43:05 PM: LoadImageToViewer started
+5/2/2023 3:43:05 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:43:05 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:43:05 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:43:14 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:43:14 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:43:14 PM: Get annotations from database.
+5/2/2023 3:43:14 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:43:14 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:43:14 PM: MailPanelFill started
+5/2/2023 3:43:14 PM: MailPanelFill finished
+5/2/2023 3:45:25 PM: GetTemplateDetails Started
+5/2/2023 3:45:25 PM: GetTemplateDetails total record count:1
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: GetTemplateDetails Finished
+5/2/2023 3:45:25 PM: GetTemplateDetails Started
+5/2/2023 3:45:25 PM: GetTemplateDetails total record count:1
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:45:25 PM: GetTemplateDetails Finished
+5/2/2023 3:45:25 PM: LoadImageToViewer started
+5/2/2023 3:45:25 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:45:25 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:45:25 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:45:34 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:45:34 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:45:34 PM: Get annotations from database.
+5/2/2023 3:45:34 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:45:34 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:45:34 PM: btnLock_Click started
+5/2/2023 3:45:41 PM: LoadImageToViewer started
+5/2/2023 3:45:41 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:45:41 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:45:41 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:45:51 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:45:51 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:45:51 PM: Get annotations from database.
+5/2/2023 3:45:51 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:45:51 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:45:51 PM: btnLock_Click finished
+5/2/2023 3:46:11 PM: GetTemplateDetails Started
+5/2/2023 3:46:11 PM: GetTemplateDetails total record count:1
+5/2/2023 3:46:11 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:46:11 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:46:11 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:46:11 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:46:11 PM: GetTemplateDetails Finished
+5/2/2023 3:46:11 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+5/2/2023 3:46:11 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+5/2/2023 3:46:11 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+5/2/2023 3:46:11 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+5/2/2023 3:46:11 PM: Index fields values saved succesfully
+5/2/2023 3:46:54 PM: GetTemplateDetails Started
+5/2/2023 3:46:54 PM: GetTemplateDetails total record count:1
+5/2/2023 3:46:54 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:47:04 PM: GetTemplateDetails Started
+5/2/2023 3:47:04 PM: GetTemplateDetails total record count:1
+5/2/2023 3:47:04 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:47:04 PM: GetTemplateDetails Started
+5/2/2023 3:47:04 PM: GetTemplateDetails total record count:1
+5/2/2023 3:47:04 PM: GetTemplateDetails Exception: Column 'DocName' does not belong to table Table.
+5/2/2023 3:47:04 PM: LoadImageToViewer started
+5/2/2023 3:47:04 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:47:04 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:47:04 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:47:14 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:47:14 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:47:14 PM: Get annotations from database.
+5/2/2023 3:47:14 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:47:14 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:47:14 PM: Database returned dataset which has 1 rows.
+5/2/2023 3:47:14 PM: btnLock_Click started
+5/2/2023 3:47:14 PM: Exception : Object cannot be cast from DBNull to other types.
+5/2/2023 3:47:23 PM: Exception:Input string was not in a correct format.
+5/2/2023 3:47:23 PM: BindDocumentType started
+5/2/2023 3:47:23 PM: BindDocumentType finished
+5/2/2023 3:47:25 PM: Exception:Input string was not in a correct format.
+5/2/2023 3:47:25 PM: BindDocumentType started
+5/2/2023 3:47:25 PM: BindDocumentType finished
+5/2/2023 3:47:27 PM: Exception:Input string was not in a correct format.
+5/2/2023 3:47:27 PM: BindDocumentType started
+5/2/2023 3:47:27 PM: BindDocumentType finished
+5/2/2023 3:47:30 PM: Exception:Input string was not in a correct format.
+5/2/2023 3:47:30 PM: BindDocumentType started
+5/2/2023 3:47:30 PM: BindDocumentType finished
+5/2/2023 3:48:05 PM: GetTemplateDetails started
+5/2/2023 3:48:05 PM: generatecontrols Started
+5/2/2023 3:48:05 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:48:05 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:48:05 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:48:05 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 3:48:06 PM: GetTemplatefieldDetails started
+5/2/2023 3:48:06 PM: GetTemplatefieldDetails finished
+5/2/2023 3:48:06 PM: Started Loading Entity Drop Down
+5/2/2023 3:48:06 PM: Finished Loading Entity Drop Down
+5/2/2023 3:48:06 PM: Started Loading Entity Drop Down
+5/2/2023 3:48:06 PM: Finished Loading Entity Drop Down
+5/2/2023 3:48:06 PM: BindDocumentType started
+5/2/2023 3:48:06 PM: BindDocumentType finished
+5/2/2023 3:48:06 PM: BindQueries started
+5/2/2023 3:48:06 PM: BindQueries finished
+5/2/2023 3:48:06 PM: createControls Started
+5/2/2023 3:48:06 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:06 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:06 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:06 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:06 PM: createControls Finished
+5/2/2023 3:48:11 PM: createControls Started
+5/2/2023 3:48:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 3:48:12 PM: createControls Finished
+5/2/2023 3:48:18 PM: GetSginatureDetails Started:-
+5/2/2023 3:48:18 PM: GetSginatureDetails Completed:-
+5/2/2023 3:48:18 PM: GetTemplateDetails Started
+5/2/2023 3:48:18 PM: GetTemplateDetails total record count:1
+5/2/2023 3:48:18 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:48:18 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:48:18 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:48:18 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:48:18 PM: GetTemplateDetails Finished
+5/2/2023 3:48:18 PM: InitializeDocumentView started
+5/2/2023 3:48:18 PM: InitializeDocumentView finished
+5/2/2023 3:48:18 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:48:18 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:48:18 PM: LoadImageToViewer started
+5/2/2023 3:48:18 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:48:18 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:48:18 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:48:27 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:48:27 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:48:27 PM: Get annotations from database.
+5/2/2023 3:48:27 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:48:27 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:48:27 PM: MailPanelFill started
+5/2/2023 3:48:27 PM: MailPanelFill finished
+5/2/2023 3:49:30 PM: GetSginatureDetails Started:-
+5/2/2023 3:49:30 PM: GetSginatureDetails Completed:-
+5/2/2023 3:49:30 PM: GetTemplateDetails Started
+5/2/2023 3:49:30 PM: GetTemplateDetails total record count:1
+5/2/2023 3:49:30 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:49:30 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:49:30 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:49:30 PM: Create controls,Load all Textbox dynamic
+5/2/2023 3:49:30 PM: GetTemplateDetails Finished
+5/2/2023 3:49:30 PM: InitializeDocumentView started
+5/2/2023 3:49:30 PM: InitializeDocumentView finished
+5/2/2023 3:49:30 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetAnnotatedPages
+5/2/2023 3:49:30 PM: Calling database to get annotated images. DocumentId: 282139, Action: GetTaggedPages
+5/2/2023 3:49:30 PM: LoadImageToViewer started
+5/2/2023 3:49:30 PM: Setting image to viewer. Action:  Page count: 11 Current Page:1
+5/2/2023 3:49:30 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNA==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNA== Page No: 1
+5/2/2023 3:49:30 PM: Converting PDF to JPEG without applying watermark.
+5/2/2023 3:49:39 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawna==jpg//1.jpeg
+5/2/2023 3:49:39 PM: Invoke method to get annotations from databnase.
+5/2/2023 3:49:39 PM: Get annotations from database.
+5/2/2023 3:49:39 PM: Document Id: 282139 Page No: 1
+5/2/2023 3:49:39 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+5/2/2023 3:49:39 PM: MailPanelFill started
+5/2/2023 3:49:39 PM: MailPanelFill finished
+5/2/2023 4:02:50 PM: GetTemplateDetails started
+5/2/2023 4:02:50 PM: generatecontrols Started
+5/2/2023 4:02:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: GetTemplatefieldDetails started
+5/2/2023 4:02:50 PM: GetTemplatefieldDetails finished
+5/2/2023 4:02:50 PM: Started Loading Entity Drop Down
+5/2/2023 4:02:50 PM: Finished Loading Entity Drop Down
+5/2/2023 4:02:50 PM: Started Loading Entity Drop Down
+5/2/2023 4:02:50 PM: Finished Loading Entity Drop Down
+5/2/2023 4:02:50 PM: BindDocumentType started
+5/2/2023 4:02:50 PM: BindDocumentType finished
+5/2/2023 4:02:50 PM: BindQueries started
+5/2/2023 4:02:50 PM: BindQueries finished
+5/2/2023 4:02:50 PM: createControls Started
+5/2/2023 4:02:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:50 PM: createControls Finished
+5/2/2023 4:02:53 PM: createControls Started
+5/2/2023 4:02:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:53 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:02:53 PM: createControls Finished
+5/2/2023 4:02:53 PM: AddQuery started
+5/2/2023 4:02:53 PM: btnAddClauseClick started
+5/2/2023 4:02:53 PM: btnAddClauseClick finished
+5/2/2023 4:02:53 PM: AddQuery finished
+5/2/2023 4:03:10 PM: createControls Started
+5/2/2023 4:03:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:10 PM: createControls Finished
+5/2/2023 4:03:10 PM: btnPerformQueryClick started
+5/2/2023 4:03:10 PM: BuildQuery() executed properly 
+5/2/2023 4:03:10 PM: whereclause value Family&If
+5/2/2023 4:03:10 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:03:10 PM: Before searching the details with whereclause : Family&If
+5/2/2023 4:03:11 PM: btnPerformQueryClick search result record count 1
+5/2/2023 4:03:11 PM: btnPerformQueryClick finished
+5/2/2023 4:03:21 PM: createControls Started
+5/2/2023 4:03:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:03:21 PM: createControls Finished
+5/2/2023 4:03:21 PM: btnPerformQueryClick started
+5/2/2023 4:03:21 PM: BuildQuery() executed properly 
+5/2/2023 4:03:21 PM: whereclause value Family&If
+5/2/2023 4:03:21 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:03:21 PM: Before searching the details with whereclause : Family&If
+5/2/2023 4:03:21 PM: btnPerformQueryClick search result record count 1
+5/2/2023 4:03:21 PM: btnPerformQueryClick finished
+5/2/2023 4:10:12 PM: createControls Started
+5/2/2023 4:10:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:10:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:10:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:10:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:10:12 PM: createControls Finished
+5/2/2023 4:10:12 PM: btnPerformQueryClick started
+5/2/2023 4:10:12 PM: BuildQuery() executed properly 
+5/2/2023 4:10:12 PM: whereclause value Family&If
+5/2/2023 4:10:12 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:10:12 PM: Before searching the details with whereclause : Family&If
+5/2/2023 4:10:12 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 4:42:04 PM: GetTemplateDetails started
+5/2/2023 4:42:04 PM: generatecontrols Started
+5/2/2023 4:42:04 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: GetTemplatefieldDetails started
+5/2/2023 4:42:04 PM: GetTemplatefieldDetails finished
+5/2/2023 4:42:04 PM: Started Loading Entity Drop Down
+5/2/2023 4:42:04 PM: Finished Loading Entity Drop Down
+5/2/2023 4:42:04 PM: Started Loading Entity Drop Down
+5/2/2023 4:42:04 PM: Finished Loading Entity Drop Down
+5/2/2023 4:42:04 PM: BindDocumentType started
+5/2/2023 4:42:04 PM: BindDocumentType finished
+5/2/2023 4:42:04 PM: BindQueries started
+5/2/2023 4:42:04 PM: BindQueries finished
+5/2/2023 4:42:04 PM: createControls Started
+5/2/2023 4:42:04 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:04 PM: createControls Finished
+5/2/2023 4:42:10 PM: createControls Started
+5/2/2023 4:42:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:10 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:10 PM: createControls Finished
+5/2/2023 4:42:10 PM: AddQuery started
+5/2/2023 4:42:10 PM: btnAddClauseClick started
+5/2/2023 4:42:10 PM: btnAddClauseClick finished
+5/2/2023 4:42:10 PM: AddQuery finished
+5/2/2023 4:42:12 PM: createControls Started
+5/2/2023 4:42:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:12 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:42:12 PM: createControls Finished
+5/2/2023 4:42:13 PM: btnPerformQueryClick started
+5/2/2023 4:42:13 PM: BuildQuery() executed properly 
+5/2/2023 4:42:13 PM: whereclause value Family
+5/2/2023 4:42:13 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:42:13 PM: Before searching the details with whereclause : Family
+5/2/2023 4:42:13 PM: btnPerformQueryClick search result record count 1
+5/2/2023 4:42:13 PM: btnPerformQueryClick finished
+5/2/2023 4:44:33 PM: GetTemplateDetails started
+5/2/2023 4:44:33 PM: generatecontrols Started
+5/2/2023 4:44:33 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:44:33 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:44:33 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:44:33 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:44:33 PM: GetTemplatefieldDetails started
+5/2/2023 4:44:33 PM: GetTemplatefieldDetails finished
+5/2/2023 4:44:33 PM: Started Loading Entity Drop Down
+5/2/2023 4:44:33 PM: Finished Loading Entity Drop Down
+5/2/2023 4:44:33 PM: Started Loading Entity Drop Down
+5/2/2023 4:44:34 PM: Finished Loading Entity Drop Down
+5/2/2023 4:44:34 PM: BindDocumentType started
+5/2/2023 4:44:34 PM: BindDocumentType finished
+5/2/2023 4:44:34 PM: BindQueries started
+5/2/2023 4:44:34 PM: BindQueries finished
+5/2/2023 4:44:34 PM: createControls Started
+5/2/2023 4:44:34 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:34 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:34 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:34 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:34 PM: createControls Finished
+5/2/2023 4:44:38 PM: createControls Started
+5/2/2023 4:44:38 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:38 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:38 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:38 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:38 PM: createControls Finished
+5/2/2023 4:44:38 PM: AddQuery started
+5/2/2023 4:44:38 PM: btnAddClauseClick started
+5/2/2023 4:44:38 PM: btnAddClauseClick finished
+5/2/2023 4:44:38 PM: AddQuery finished
+5/2/2023 4:44:42 PM: createControls Started
+5/2/2023 4:44:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:42 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:44:42 PM: createControls Finished
+5/2/2023 4:44:42 PM: btnPerformQueryClick started
+5/2/2023 4:44:42 PM: BuildQuery() executed properly 
+5/2/2023 4:44:42 PM: whereclause value Family
+5/2/2023 4:44:42 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:44:42 PM: Before searching the details with whereclause : Family
+5/2/2023 4:44:42 PM: btnPerformQueryClick search result record count 1
+5/2/2023 4:44:42 PM: btnPerformQueryClick finished
+5/2/2023 4:46:56 PM: GetTemplateDetails started
+5/2/2023 4:46:56 PM: generatecontrols Started
+5/2/2023 4:46:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: GetTemplatefieldDetails started
+5/2/2023 4:46:56 PM: GetTemplatefieldDetails finished
+5/2/2023 4:46:56 PM: Started Loading Entity Drop Down
+5/2/2023 4:46:56 PM: Finished Loading Entity Drop Down
+5/2/2023 4:46:56 PM: Started Loading Entity Drop Down
+5/2/2023 4:46:56 PM: Finished Loading Entity Drop Down
+5/2/2023 4:46:56 PM: BindDocumentType started
+5/2/2023 4:46:56 PM: BindDocumentType finished
+5/2/2023 4:46:56 PM: BindQueries started
+5/2/2023 4:46:56 PM: BindQueries finished
+5/2/2023 4:46:56 PM: createControls Started
+5/2/2023 4:46:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:56 PM: createControls Finished
+5/2/2023 4:46:59 PM: createControls Started
+5/2/2023 4:46:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:59 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:46:59 PM: createControls Finished
+5/2/2023 4:46:59 PM: AddQuery started
+5/2/2023 4:46:59 PM: btnAddClauseClick started
+5/2/2023 4:46:59 PM: btnAddClauseClick finished
+5/2/2023 4:46:59 PM: AddQuery finished
+5/2/2023 4:47:02 PM: createControls Started
+5/2/2023 4:47:02 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:47:02 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:47:02 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:47:02 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:47:02 PM: createControls Finished
+5/2/2023 4:47:02 PM: btnPerformQueryClick started
+5/2/2023 4:47:02 PM: BuildQuery() executed properly 
+5/2/2023 4:47:02 PM: whereclause value Family
+5/2/2023 4:47:02 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:47:02 PM: Before searching the details with whereclause : Family
+5/2/2023 4:47:03 PM: btnPerformQueryClick search result record count 1
+5/2/2023 4:47:03 PM: btnPerformQueryClick finished
+5/2/2023 4:52:50 PM: GetTemplateDetails started
+5/2/2023 4:52:50 PM: generatecontrols Started
+5/2/2023 4:52:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: GetTemplatefieldDetails started
+5/2/2023 4:52:50 PM: GetTemplatefieldDetails finished
+5/2/2023 4:52:50 PM: Started Loading Entity Drop Down
+5/2/2023 4:52:50 PM: Finished Loading Entity Drop Down
+5/2/2023 4:52:50 PM: Started Loading Entity Drop Down
+5/2/2023 4:52:50 PM: Finished Loading Entity Drop Down
+5/2/2023 4:52:50 PM: BindDocumentType started
+5/2/2023 4:52:50 PM: BindDocumentType finished
+5/2/2023 4:52:50 PM: BindQueries started
+5/2/2023 4:52:50 PM: BindQueries finished
+5/2/2023 4:52:50 PM: createControls Started
+5/2/2023 4:52:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:50 PM: createControls Finished
+5/2/2023 4:52:55 PM: createControls Started
+5/2/2023 4:52:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:55 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:55 PM: createControls Finished
+5/2/2023 4:52:55 PM: AddQuery started
+5/2/2023 4:52:55 PM: btnAddClauseClick started
+5/2/2023 4:52:55 PM: btnAddClauseClick finished
+5/2/2023 4:52:55 PM: AddQuery finished
+5/2/2023 4:52:58 PM: createControls Started
+5/2/2023 4:52:58 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:58 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:58 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:58 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:52:58 PM: createControls Finished
+5/2/2023 4:52:58 PM: btnPerformQueryClick started
+5/2/2023 4:52:58 PM: BuildQuery() executed properly 
+5/2/2023 4:52:58 PM: whereclause value Family
+5/2/2023 4:52:58 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 4:52:58 PM: Before searching the details with whereclause : Family
+5/2/2023 4:52:59 PM: btnPerformQueryClick search result record count 1
+5/2/2023 4:52:59 PM: btnPerformQueryClick finished
+5/2/2023 4:53:01 PM: GetTemplateDetails started
+5/2/2023 4:53:01 PM: generatecontrols Started
+5/2/2023 4:53:01 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: GetTemplatefieldDetails started
+5/2/2023 4:53:01 PM: GetTemplatefieldDetails finished
+5/2/2023 4:53:01 PM: Started Loading Entity Drop Down
+5/2/2023 4:53:01 PM: Finished Loading Entity Drop Down
+5/2/2023 4:53:01 PM: Started Loading Entity Drop Down
+5/2/2023 4:53:01 PM: Finished Loading Entity Drop Down
+5/2/2023 4:53:01 PM: BindDocumentType started
+5/2/2023 4:53:01 PM: BindDocumentType finished
+5/2/2023 4:53:01 PM: BindQueries started
+5/2/2023 4:53:01 PM: BindQueries finished
+5/2/2023 4:53:01 PM: createControls Started
+5/2/2023 4:53:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 4:53:01 PM: createControls Finished
+5/2/2023 5:03:55 PM: GetTemplateDetails started
+5/2/2023 5:03:56 PM: generatecontrols Started
+5/2/2023 5:03:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: GetTemplatefieldDetails started
+5/2/2023 5:03:56 PM: GetTemplatefieldDetails finished
+5/2/2023 5:03:56 PM: Started Loading Entity Drop Down
+5/2/2023 5:03:56 PM: Finished Loading Entity Drop Down
+5/2/2023 5:03:56 PM: Started Loading Entity Drop Down
+5/2/2023 5:03:56 PM: Finished Loading Entity Drop Down
+5/2/2023 5:03:56 PM: BindDocumentType started
+5/2/2023 5:03:56 PM: BindDocumentType finished
+5/2/2023 5:03:56 PM: BindQueries started
+5/2/2023 5:03:56 PM: BindQueries finished
+5/2/2023 5:03:56 PM: createControls Started
+5/2/2023 5:03:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: createControls Loaded all Textbox dynamically
+5/2/2023 5:03:56 PM: createControls Finished
+5/2/2023 6:06:21 PM: GetTemplateDetails started
+5/2/2023 6:06:21 PM: generatecontrols Started
+5/2/2023 6:06:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: GetTemplatefieldDetails started
+5/2/2023 6:06:22 PM: GetTemplatefieldDetails finished
+5/2/2023 6:06:22 PM: Started Loading Entity Drop Down
+5/2/2023 6:06:22 PM: Finished Loading Entity Drop Down
+5/2/2023 6:06:22 PM: Started Loading Entity Drop Down
+5/2/2023 6:06:22 PM: Finished Loading Entity Drop Down
+5/2/2023 6:06:22 PM: BindDocumentType started
+5/2/2023 6:06:22 PM: BindDocumentType finished
+5/2/2023 6:06:22 PM: BindQueries started
+5/2/2023 6:06:22 PM: BindQueries finished
+5/2/2023 6:06:22 PM: createControls Started
+5/2/2023 6:06:22 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:22 PM: createControls Finished
+5/2/2023 6:06:32 PM: createControls Started
+5/2/2023 6:06:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:32 PM: createControls Finished
+5/2/2023 6:06:32 PM: AddQuery started
+5/2/2023 6:06:32 PM: btnAddClauseClick started
+5/2/2023 6:06:32 PM: btnAddClauseClick finished
+5/2/2023 6:06:32 PM: AddQuery finished
+5/2/2023 6:06:40 PM: createControls Started
+5/2/2023 6:06:40 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:40 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:40 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:40 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:06:40 PM: createControls Finished
+5/2/2023 6:06:40 PM: btnPerformQueryClick started
+5/2/2023 6:06:40 PM: BuildQuery() executed properly 
+5/2/2023 6:06:40 PM: whereclause value Family
+5/2/2023 6:06:40 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:06:40 PM: Before searching the details with whereclause : Family
+5/2/2023 6:06:41 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:08:17 PM: createControls Started
+5/2/2023 6:08:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:17 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:17 PM: createControls Finished
+5/2/2023 6:08:17 PM: btnPerformQueryClick started
+5/2/2023 6:08:17 PM: BuildQuery() executed properly 
+5/2/2023 6:08:17 PM: whereclause value Family
+5/2/2023 6:08:17 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:08:17 PM: Before searching the details with whereclause : Family
+5/2/2023 6:08:19 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:08:21 PM: GetTemplateDetails started
+5/2/2023 6:08:21 PM: generatecontrols Started
+5/2/2023 6:08:21 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: GetTemplatefieldDetails started
+5/2/2023 6:08:21 PM: GetTemplatefieldDetails finished
+5/2/2023 6:08:21 PM: Started Loading Entity Drop Down
+5/2/2023 6:08:21 PM: Finished Loading Entity Drop Down
+5/2/2023 6:08:21 PM: Started Loading Entity Drop Down
+5/2/2023 6:08:21 PM: Finished Loading Entity Drop Down
+5/2/2023 6:08:21 PM: BindDocumentType started
+5/2/2023 6:08:21 PM: BindDocumentType finished
+5/2/2023 6:08:21 PM: BindQueries started
+5/2/2023 6:08:21 PM: BindQueries finished
+5/2/2023 6:08:21 PM: createControls Started
+5/2/2023 6:08:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:21 PM: createControls Finished
+5/2/2023 6:08:25 PM: createControls Started
+5/2/2023 6:08:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:25 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:25 PM: createControls Finished
+5/2/2023 6:08:25 PM: AddQuery started
+5/2/2023 6:08:25 PM: btnAddClauseClick started
+5/2/2023 6:08:25 PM: btnAddClauseClick finished
+5/2/2023 6:08:25 PM: AddQuery finished
+5/2/2023 6:08:28 PM: createControls Started
+5/2/2023 6:08:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:28 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:08:28 PM: createControls Finished
+5/2/2023 6:08:28 PM: btnPerformQueryClick started
+5/2/2023 6:08:28 PM: BuildQuery() executed properly 
+5/2/2023 6:08:28 PM: whereclause value Family
+5/2/2023 6:08:28 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:08:28 PM: Before searching the details with whereclause : Family
+5/2/2023 6:08:28 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:10:48 PM: createControls Started
+5/2/2023 6:10:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:10:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:10:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:10:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:10:48 PM: createControls Finished
+5/2/2023 6:10:51 PM: btnPerformQueryClick started
+5/2/2023 6:10:52 PM: BuildQuery() executed properly 
+5/2/2023 6:10:52 PM: whereclause value Family
+5/2/2023 6:10:53 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:10:56 PM: Before searching the details with whereclause : Family
+5/2/2023 6:16:34 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:16:35 PM: createControls Started
+5/2/2023 6:16:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:16:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:16:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:16:35 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:16:35 PM: createControls Finished
+5/2/2023 6:16:50 PM: btnPerformQueryClick started
+5/2/2023 6:16:53 PM: BuildQuery() executed properly 
+5/2/2023 6:16:53 PM: whereclause value Family
+5/2/2023 6:16:53 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:16:53 PM: Before searching the details with whereclause : Family
+5/2/2023 6:17:36 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:17:39 PM: createControls Started
+5/2/2023 6:17:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:17:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:17:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:17:39 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:17:39 PM: createControls Finished
+5/2/2023 6:17:42 PM: btnPerformQueryClick started
+5/2/2023 6:17:42 PM: BuildQuery() executed properly 
+5/2/2023 6:17:42 PM: whereclause value Family
+5/2/2023 6:17:42 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:17:42 PM: Before searching the details with whereclause : Family
+5/2/2023 6:19:39 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:19:41 PM: btnPerformQueryClick finished
+5/2/2023 6:19:48 PM: createControls Started
+5/2/2023 6:19:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:19:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:19:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:19:48 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:19:48 PM: createControls Finished
+5/2/2023 6:20:20 PM: btnPerformQueryClick started
+5/2/2023 6:20:21 PM: BuildQuery() executed properly 
+5/2/2023 6:20:21 PM: whereclause value Family
+5/2/2023 6:20:21 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:20:21 PM: Before searching the details with whereclause : Family
+5/2/2023 6:21:12 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:22:58 PM: btnPerformQueryClick finished
+5/2/2023 6:23:01 PM: createControls Started
+5/2/2023 6:23:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:23:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:23:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:23:01 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:23:01 PM: createControls Finished
+5/2/2023 6:23:04 PM: btnPerformQueryClick started
+5/2/2023 6:23:37 PM: BuildQuery() executed properly 
+5/2/2023 6:23:37 PM: whereclause value Family
+5/2/2023 6:23:37 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:23:37 PM: Before searching the details with whereclause : Family
+5/2/2023 6:23:50 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:24:46 PM: btnPerformQueryClick finished
+5/2/2023 6:24:49 PM: createControls Started
+5/2/2023 6:24:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:24:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:24:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:24:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:24:49 PM: createControls Finished
+5/2/2023 6:24:53 PM: btnPerformQueryClick started
+5/2/2023 6:24:54 PM: BuildQuery() executed properly 
+5/2/2023 6:24:54 PM: whereclause value Family
+5/2/2023 6:24:54 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:24:54 PM: Before searching the details with whereclause : Family
+5/2/2023 6:25:19 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:25:48 PM: btnPerformQueryClick finished
+5/2/2023 6:26:49 PM: createControls Started
+5/2/2023 6:26:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:26:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:26:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:26:49 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:26:49 PM: createControls Finished
+5/2/2023 6:26:50 PM: btnPerformQueryClick started
+5/2/2023 6:26:51 PM: BuildQuery() executed properly 
+5/2/2023 6:26:51 PM: whereclause value Family
+5/2/2023 6:26:51 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:26:51 PM: Before searching the details with whereclause : Family
+5/2/2023 6:26:57 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:26:57 PM: btnPerformQueryClick finished
+5/2/2023 6:27:03 PM: createControls Started
+5/2/2023 6:27:03 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:27:03 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:27:03 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:27:03 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:27:03 PM: createControls Finished
+5/2/2023 6:27:05 PM: btnPerformQueryClick started
+5/2/2023 6:27:05 PM: BuildQuery() executed properly 
+5/2/2023 6:27:05 PM: whereclause value Family
+5/2/2023 6:27:05 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:27:05 PM: Before searching the details with whereclause : Family
+5/2/2023 6:27:30 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:27:30 PM: btnPerformQueryClick finished
+5/2/2023 6:33:11 PM: createControls Started
+5/2/2023 6:33:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:33:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:33:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:33:11 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:33:11 PM: createControls Finished
+5/2/2023 6:33:12 PM: btnPerformQueryClick started
+5/2/2023 6:33:13 PM: BuildQuery() executed properly 
+5/2/2023 6:33:13 PM: whereclause value Family
+5/2/2023 6:33:13 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:33:13 PM: Before searching the details with whereclause : Family
+5/2/2023 6:33:18 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:35:07 PM: GetTemplateDetails started
+5/2/2023 6:35:07 PM: generatecontrols Started
+5/2/2023 6:35:07 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: GetTemplatefieldDetails started
+5/2/2023 6:35:07 PM: GetTemplatefieldDetails finished
+5/2/2023 6:35:07 PM: Started Loading Entity Drop Down
+5/2/2023 6:35:07 PM: Finished Loading Entity Drop Down
+5/2/2023 6:35:07 PM: Started Loading Entity Drop Down
+5/2/2023 6:35:07 PM: Finished Loading Entity Drop Down
+5/2/2023 6:35:07 PM: BindDocumentType started
+5/2/2023 6:35:07 PM: BindDocumentType finished
+5/2/2023 6:35:07 PM: BindQueries started
+5/2/2023 6:35:07 PM: BindQueries finished
+5/2/2023 6:35:07 PM: createControls Started
+5/2/2023 6:35:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:07 PM: createControls Finished
+5/2/2023 6:35:13 PM: createControls Started
+5/2/2023 6:35:13 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:13 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:13 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:13 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:14 PM: createControls Finished
+5/2/2023 6:35:14 PM: AddQuery started
+5/2/2023 6:35:14 PM: btnAddClauseClick started
+5/2/2023 6:35:14 PM: btnAddClauseClick finished
+5/2/2023 6:35:14 PM: AddQuery finished
+5/2/2023 6:35:18 PM: createControls Started
+5/2/2023 6:35:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:18 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:18 PM: createControls Finished
+5/2/2023 6:35:18 PM: btnPerformQueryClick started
+5/2/2023 6:35:18 PM: BuildQuery() executed properly 
+5/2/2023 6:35:18 PM: whereclause value Bed
+5/2/2023 6:35:18 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:35:18 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:35:22 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:35:32 PM: createControls Started
+5/2/2023 6:35:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:32 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:35:32 PM: createControls Finished
+5/2/2023 6:35:32 PM: btnPerformQueryClick started
+5/2/2023 6:35:32 PM: BuildQuery() executed properly 
+5/2/2023 6:35:32 PM: whereclause value Bed
+5/2/2023 6:35:32 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:35:32 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:35:37 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:36:20 PM: createControls Started
+5/2/2023 6:36:20 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:20 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:20 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:20 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:20 PM: createControls Finished
+5/2/2023 6:36:20 PM: btnPerformQueryClick started
+5/2/2023 6:36:20 PM: BuildQuery() executed properly 
+5/2/2023 6:36:20 PM: whereclause value Bed
+5/2/2023 6:36:20 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:36:20 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:36:24 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:36:24 PM: createControls Started
+5/2/2023 6:36:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:24 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:24 PM: createControls Finished
+5/2/2023 6:36:25 PM: btnPerformQueryClick started
+5/2/2023 6:36:25 PM: BuildQuery() executed properly 
+5/2/2023 6:36:25 PM: whereclause value Bed
+5/2/2023 6:36:25 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:36:25 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:36:29 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:36:29 PM: createControls Started
+5/2/2023 6:36:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:29 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:29 PM: createControls Finished
+5/2/2023 6:36:29 PM: btnPerformQueryClick started
+5/2/2023 6:36:29 PM: BuildQuery() executed properly 
+5/2/2023 6:36:29 PM: whereclause value Bed
+5/2/2023 6:36:29 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:36:29 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:36:34 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:36:36 PM: createControls Started
+5/2/2023 6:36:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:36 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:36:36 PM: createControls Finished
+5/2/2023 6:36:43 PM: btnPerformQueryClick started
+5/2/2023 6:36:49 PM: BuildQuery() executed properly 
+5/2/2023 6:36:51 PM: whereclause value Bed
+5/2/2023 6:36:51 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:36:51 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:40:26 PM: Exception : Object reference not set to an instance of an object.
+5/2/2023 6:40:30 PM: createControls Started
+5/2/2023 6:40:30 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:40:30 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:40:30 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:40:30 PM: createControls Loaded all Textbox dynamically
+5/2/2023 6:40:30 PM: createControls Finished
+5/2/2023 6:40:32 PM: btnPerformQueryClick started
+5/2/2023 6:40:33 PM: BuildQuery() executed properly 
+5/2/2023 6:40:35 PM: whereclause value Bed
+5/2/2023 6:40:35 PM: From Search click,QueryWhereClause() is executed properly 
+5/2/2023 6:40:35 PM: Before searching the details with whereclause : Bed
+5/2/2023 6:40:41 PM: btnPerformQueryClick search result record count 1
+5/2/2023 6:40:41 PM: btnPerformQueryClick finished
+5/2/2023 7:22:47 PM: GetTemplateDetails started
+5/2/2023 7:22:49 PM: generatecontrols Started
+5/2/2023 7:22:49 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:22:49 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:22:49 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:22:49 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:22:49 PM: GetTemplatefieldDetails started
+5/2/2023 7:22:50 PM: GetTemplatefieldDetails finished
+5/2/2023 7:22:50 PM: Started Loading Entity Drop Down
+5/2/2023 7:22:55 PM: Finished Loading Entity Drop Down
+5/2/2023 7:22:55 PM: Started Loading Entity Drop Down
+5/2/2023 7:22:56 PM: Finished Loading Entity Drop Down
+5/2/2023 7:22:56 PM: BindDocumentType started
+5/2/2023 7:22:56 PM: BindDocumentType finished
+5/2/2023 7:22:56 PM: BindQueries started
+5/2/2023 7:22:56 PM: BindQueries finished
+5/2/2023 7:22:56 PM: createControls Started
+5/2/2023 7:22:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:22:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:22:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:22:57 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:22:57 PM: createControls Finished
+5/2/2023 7:33:50 PM: GetTemplateDetails started
+5/2/2023 7:33:52 PM: generatecontrols Started
+5/2/2023 7:33:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:33:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:33:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:33:52 PM: GenerateControls:Loaded all Textbox dynamically
+5/2/2023 7:33:53 PM: GetTemplatefieldDetails started
+5/2/2023 7:33:53 PM: GetTemplatefieldDetails finished
+5/2/2023 7:33:53 PM: Started Loading Entity Drop Down
+5/2/2023 7:33:54 PM: Finished Loading Entity Drop Down
+5/2/2023 7:33:54 PM: Started Loading Entity Drop Down
+5/2/2023 7:33:54 PM: Finished Loading Entity Drop Down
+5/2/2023 7:33:54 PM: BindDocumentType started
+5/2/2023 7:33:54 PM: BindDocumentType finished
+5/2/2023 7:33:54 PM: BindQueries started
+5/2/2023 7:33:54 PM: BindQueries finished
+5/2/2023 7:33:54 PM: createControls Started
+5/2/2023 7:33:54 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:33:54 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:33:54 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:33:54 PM: createControls Loaded all Textbox dynamically
+5/2/2023 7:33:54 PM: createControls Finished

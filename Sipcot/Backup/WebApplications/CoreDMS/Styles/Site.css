@@ -1,0 +1,1115 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{
+    background: #FFF8E1;
+    font-size: .85em;
+    font-family: "Calibri", "CG Omega","Helvetica Neue", "Lucida Grande", "Segoe UI", "Arial", "Helvetica", "Verdana", "sans-serif";
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}
+
+
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #FFB300;
+    
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+h3
+{
+    font-size: 1.4em;
+    font-weight: 300;
+}
+
+h4
+{
+    font-size: 1.1em;
+}
+
+h5, h6
+{
+    font-size: 1em;
+}
+
+/* this rule styles <h1> and <h2> tags that are the 
+first child of the left and right table columns */
+.rightColumn > h1, .rightColumn > h2, .leftColumn > h1, .leftColumn > h2
+{
+    margin-top: 0px;
+}
+
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.page
+{
+    width: 100%;
+    background-color: #FFF8E1;
+    margin: 0px;
+    /*margin: 0px auto 0px auto;
+    border: 1px solid #496077;*/   
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    /*background: #4b6c9e;
+     background: #FFB300;*/
+    width: 100%;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 10px;
+    /*color: #f9f9f9;*/
+    color: #FFB300;
+    border: none;
+    line-height: 1.8em;
+    font-size: 1.8em;
+}
+
+.main
+{
+    padding: 0px;
+    margin: 0px;
+    min-height: 480px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* TAB MENU   
+----------------------------------------------------------*/
+
+.menu
+{
+    background-color: Black; 
+    width:98%;
+    vertical-align:top;
+    padding:  0px 0px 12px 0px;
+    margin: 0px 0px 0px 0px;
+    font-family:Arial;
+    color:black;
+}
+
+div.hideSkiplink
+{
+    /*background-color:#3a4f63;*/
+    background-color:#FFB300;
+    width:100%;
+}
+
+
+table.Level1Menu {
+     /*background:url('/Images/menu-header.png') repeat-x ;*/
+    background-color:#fcc952;
+    color: black;
+    /*display: block;*/
+    line-height: 1.6em;
+    padding: 3px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size:14px;
+}
+
+
+table.Level1Menu a {
+  color:black;
+}
+
+    table.Level1Menu:hover {
+         background-color:#FFB300;
+    }
+
+
+
+
+table.menu
+{
+    padding:  0px 0px 0px 10px;
+    margin: 0px 0px 0px 0px;
+    width: 98%;
+    height:auto;
+    vertical-align:central;
+    background-color:#FFB300;
+    
+    /*background:url('/Images/menu-header.png') repeat-x ;*/
+}
+
+
+table.menu a
+{
+   color:black;
+    /*background:url('/Images/menu-header.png') repeat-x ;*/
+}
+
+table.menu div
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+    width: auto;
+}
+    
+table.menu div table tbody tr td table tbody tr td a
+{
+   /*background-color: #465c71;
+     border: 1px #FFFFFF solid;
+    background-color: #FFB300; */
+   background-color:#FFB300;
+    /*background:url('/Images/menu-header.png') repeat-x ;*/
+    color: Black;
+    display: block;
+    line-height: 1.6em;
+    padding: 3px 20px;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size:14px;
+}
+
+div.menu ul li a:hover 
+{
+     /*background-color: #FFFFFF;
+   color: #465c71;
+   background-color: #FFB300;*/
+    color: #FFF;
+    text-decoration: none;
+}
+
+div.menu ul li a:active
+{
+    background-color: #FFB300;
+    /*color: #cfdbe6;*/
+    color: #FFF;
+    text-decoration:none;
+    border: 1px #FFFFFF solid;
+}
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+fieldset
+{
+    margin: 1em 0px;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+fieldset p 
+{
+    margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline 
+{
+    display: inline;
+}
+
+legend 
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    padding: 2px 4px 8px 4px;
+
+}
+input.textEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+    margin-top: 0px;
+    padding-left:4px;
+}
+
+
+input.passwordEntry 
+{
+    width: 320px;
+    border: 1px solid #ccc;
+}
+
+div.accountInfo
+{
+    width: 42%;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: 100%;
+}
+
+.loginDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 10px;
+    color: Black;
+}
+
+.loginDisplay a:link
+{
+    /*color: white;*/
+    color: #6D8CFF;
+}
+
+.loginDisplay a:visited
+{
+    /*color: white;*/
+    color: #6D8CFF;
+}
+
+.loginDisplay a:hover
+{
+    /*color: white;*/
+    color: #6D8CFF;
+}
+
+.failureNotification
+{
+    font-size: 1.2em;
+    color: Red;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.submitButton
+{
+   
+      padding: 5px 5px 5px 5px;
+      color:#000;
+      border: 0px solid #666;
+      display: block;
+      text-decoration:none;
+      text-align:center;
+      width: 56px;
+      background-color:transparent;
+     
+}
+
+/*.button {
+  padding: 5px 5px 5px 5px;
+  border: 1px solid #C0C0C0;
+  color:#333333;
+  /*background-color:#FFB300;
+  background:url(../Images/menu-header.png) repeat-x ;*/
+  /*background-image:url(../Images/button_bg.png);
+  display: block;
+  text-decoration:none;
+  text-align:center;
+  width: 56px;
+    
+}*/
+
+.btnlogin {
+      display: inline-block;
+    padding: 4px 10px 4px 25px;
+    margin-bottom: 0;
+    font-size: 12px;
+    line-height: 18px;
+    /*width: 80px;*/
+    color: Black;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    vertical-align: middle;
+    cursor: pointer;
+    background: #C0C0C0 url("/Images/UI_login.png") 4px 4px no-repeat;
+    border: 1px solid #C0C0C0;
+    border-bottom-color: Black;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    outline: none;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.button, .btnsearch, .btnadd, .btnsave,.btnclear, .btnresetpassword,.btnclose,.btnemail,.btncancel,.addbutton,.removebutton,.DigitalSign, .clearbutton,.savebutton,.btnfirst,.btnlast,.btnleftarrow,.btnrightarrow,.btncommit,.btnDocclear{
+  /*background: #ffb300;
+  background-image: -webkit-linear-gradient(top, #ffb300, #ffb300);
+  background-image: -moz-linear-gradient(top, #ffb300, #ffb300);
+  background-image: -ms-linear-gradient(top, #ffb300, #ffb300);
+  background-image: -o-linear-gradient(top, #ffb300, #ffb300);
+  background-image: linear-gradient(to bottom, #ffb300, #ffb300);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 2px 3px #595459;
+  font-family: "Calibri","Arial";
+  color: #ffffff;
+  font-size: 14px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;*/
+  /*width:80px;*/
+  display: inline-block;
+    padding: 4px 10px 4px 25px;
+    margin-bottom: 0;
+    font-size: 12px;
+    line-height: 18px;
+    /*width: 80px;*/
+    color: #333333;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    vertical-align: middle;
+    cursor: pointer;
+    background: #ffb300 url("Images/UI_login.png") 4px 4px no-repeat;
+    border: 1px solid #888888;
+    border-bottom-color: #ffb300;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    outline: none;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.btnsearch {  
+    background-image: url("/Images/UI_search.png");
+}
+
+.btnadd
+{  
+    background-image: url("/Images/UI_addbutton.png");
+}
+
+.btnsave
+{
+   
+    background-image: url("/Images/UI_save.png");
+}
+
+.btnclear
+{   
+    background-image: url("/Images/UI_clear.png");
+}
+.btnclose
+{
+  
+    background-image: url("/Images/UI_close.png");
+}
+
+.btnresetpassword
+{
+    
+    background-image: url("/Images/UI_resetpassword.png");
+}
+
+.btnemail
+{   
+    background-image: url("/Images/UI_email.png");   
+}
+.btncancel
+{
+   
+    background-image: url("/Images/UI_cancel.png");
+}
+
+.addbutton
+{
+    padding: 4px 5px 4px 20px;
+    width: 20px;
+    background-image: url("/Images/UI_addbutton.png");
+}
+
+.removebutton
+{
+    width: 20px;
+    padding: 4px 5px 4px 20px;
+    background-image: url("/Images/UI_remove.png");
+}
+
+.DigitalSign
+{
+    width: 130px;
+    background-image: url("/Images/signature-icon.png");
+    padding: 4px 10px 4px 15px;
+}
+
+.HiddenButton
+{
+    visibility: hidden;
+    text-align: center;
+}
+
+.clearbutton
+{
+    background-image: url("/Images/UI_deleteicon.png");
+}
+
+.savebutton
+{
+    background-image: url("/Images/UI_save.png");
+}
+
+.btnfirst
+{
+    width: 20px;
+    background-image: url("/Images/UI_arrow_first.png");
+    padding: 4px 10px 4px 15px;
+}
+
+.btnlast
+{
+    width: 20px;
+    background-image: url("/Images/UI_arrow_last.png");
+    padding: 4px 10px 4px 15px;
+}
+
+.btnleftarrow
+{
+    width: 20px;
+    background-image: url("/Images/UI_arrow_left.png");
+    padding: 4px 10px 4px 15px;
+}
+
+.btnrightarrow
+{
+    width: 20px;
+    background-image: url("/Images/UI_arrow_right.png");
+    padding: 4px 10px 4px 15px;
+}
+
+.btncommit
+{
+    width: 130px;
+    background-image: url("/Images/UI_commit.png");
+    padding: 4px 10px 4px 15px;
+}
+
+
+.btnDocclear
+{
+    width: 130px;
+    background-image: url("/Images/UI_clear.png");
+}
+
+
+
+
+
+.button:hover {
+  background: #fabf34;
+  background-image: -webkit-linear-gradient(top, #fabf34, #fabf34);
+  background-image: -moz-linear-gradient(top, #fabf34, #fabf34);
+  background-image: -ms-linear-gradient(top, #fabf34, #fabf34);
+  background-image: -o-linear-gradient(top, #fabf34, #fabf34);
+  background-image: linear-gradient(to bottom, #fabf34, #fabf34);
+  text-decoration: none;
+}
+
+.Star
+{
+    font-weight: bold;
+    font-size: 11px;
+    color: Red;
+}
+.ValidationMessage
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: Red;
+}
+.DivMdiPage
+{
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.EntryForm
+{
+    /*border: 1px solid #303030;*/
+    margin: auto;
+    border-left:2px solid #C0C0C0;
+
+}
+
+.EntryFormRow
+{
+    border: 1px solid #C0C0C0;
+}
+
+.EntryFormRowField
+{
+   /* background-color: #FFF8BC;*/
+    font-weight: normal;
+    font-size: 15px;
+    padding: 2px;
+    text-align: left;
+    color:#7E7E7E;
+    /*border-bottom: 1px solid #C0C0C0;*/
+}
+.EntryFormRowValue
+{
+    /*background-color: White;*/
+    font-size: 12px;
+    padding: 2px;
+    text-align: left;
+    margin-left: 80px;
+}
+
+
+.EntryFormFooterRow
+{
+    border: 1px solid #C0C0C0;
+}
+
+.EntryFormFooterRowCell
+{
+    background-color: #C0C0C0;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+    text-align: left;
+}
+
+/* Grid CSS */
+
+.Grid {background-color: #fff; margin: 5px 0 10px 0; border: solid 1px #FFFFFF; border-collapse:collapse; font-family:Calibri; color: #474747;}
+.Grid td {
+      padding: 2px;
+      border: solid 1px #c1c1c1;
+      white-space:normal;
+      }
+.Grid th  {
+      padding : 4px 2px;
+      color: #333333;
+      /*background: #363670 url(Images/grid-header.png) repeat-x top;*/
+      background: url(../Images/menu-header.png) repeat-x top;
+      border-left: solid 1px #525252;
+      font-size: 1em; 
+      white-space:nowrap;
+      text-align:center;
+      }
+.Grid .alt {
+      background: #fcfcfc url(Images/grid-alt.png) repeat-x top; }
+/*.Grid .pgr {background: #363670 url(Images/grid-pgr.png) repeat-x top; }*/
+.Grid .pgr {background: #FFB300 url(Images/grid-pgr.png) repeat-x top; }
+.Grid .pgr table { margin: 3px 0;}
+.Grid .pgr td { border-width: 0; padding: 0 6px; border-left: solid 1px #666; font-weight: bold; color: #fff; line-height: 12px; }  
+.Grid .pgr a { color: Gray; text-decoration: none; }
+.Grid .pgr a:hover { color: #000; text-decoration: none; }
+
+
+/*table grid*/
+
+
+
+
+
+
+
+/* CSS Style of the Ajax TabContainer */
+.ajax__myTab .ajax__tab_header
+{
+    color: #4682b4;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 15px;
+    /* border-bottom: solid 2px #aaaaaa; */
+}
+
+.ajax__myTab .ajax__tab_body
+{
+   
+    border: 1px solid #999999;
+    padding: 6px;
+}
+
+.ajax__myTab .ajax__tab_outer
+{
+    background-color: #C0C0C0;
+    margin-right: 1px;
+    border-right: solid 2px #666666;
+    border-top: solid 1px #999999;
+}
+
+.ajax__myTab .ajax__tab_inner
+{
+    padding-left: 3px;
+   
+   /* color: #666666; */
+    padding-left: 10px;
+}
+.ajax__myTab .ajax__tab_tab
+{
+  
+    padding: 4px;
+    margin: 0;
+    color: rgb(14, 13, 13);
+    outline: none;
+}
+.ajax__myTab .ajax__tab_hover .ajax__tab_outer
+{
+    color: White;
+    background-color: #666666;
+    border-right: solid 2px #666666;
+    border-top: solid 1px #999999;
+}
+.ajax__myTab .ajax__tab_hover .ajax__tab_inner
+{
+   
+    color: White;
+    padding-left: 10px;
+}
+.ajax__myTab .ajax__tab_hover .ajax__tab_tab
+{
+    background-color: #666666;
+    color: White;
+}
+.ajax__myTab .ajax__tab_active .ajax__tab_outer
+{
+   
+    border-left: solid 1px #999999;
+}
+.ajax__myTab .ajax__tab_active .ajax__tab_inner
+{
+    background-color: #666666;
+}
+.ajax__myTab .ajax__tab_active .ajax__tab_tab
+{
+     color: White;
+}
+
+
+/*Page Headings*/
+.PageHeadings
+{
+    font-family: Calibri;
+    color: Black;
+    font-size: 13pt;
+    line-height: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+}
+
+.PageHeadingsAllign
+{
+    left: 0px;
+    font-family: Calibri;
+    color: Black;
+    font-size: 13pt;
+    line-height: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    width: auto;
+}
+
+.SubHeadings
+{
+    font-family: Calibri;
+    font-size: 10pt;
+    color: Black;
+    font-weight: bold;
+}
+
+
+/*Label Style*/
+
+.LabelStyle
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    font-weight: bold;
+}
+.LabelStyleAlert
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Red;
+    font-weight: bold;
+}
+.TodayDateLabelStyle
+{
+    font-family: Calibri;
+    font-size: 10pt;
+    color: White;
+}
+
+/*Text box Style*/
+.TextBoxStyle
+{
+    border-radius: 5px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    text-align: left;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    /*width: 133px;*/
+    background: white;
+    background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(51%,rgba(199, 195, 195, 1)), color-stop(52%,rgba(226,226,226,1)), color-stop(100%,rgba(199, 195, 195, 1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+.TextBoxStyleSmall
+{
+    padding: 2px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    line-height: 10pt;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-left: 2px;
+    width: 154px;
+}
+
+.TextBoxMediumStyle
+{
+    padding: 2px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 11pt;
+    color: Black;
+    line-height: 13pt;
+    vertical-align: middle;
+    text-align: left;
+
+}
+
+
+
+.ImageButtonStyle
+{
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.RadioButtonStlye
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    padding: 3px;
+}
+
+
+.CurrentPath
+{
+    font-family: Calibri;
+    font-size: 8pt;
+    color: #CCCCCC;
+    width: 100%;
+}
+
+
+
+/*List Box Style*/
+
+.ListBoxStyle
+{
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 0px;
+}
+
+.MessageMediumStyle
+{
+    height: 35px;
+    color: Red;
+}
+
+
+/*TreeView*/
+
+.TreeviewNodeHover, .TreeviewNode:hover, .TreeviewNode:hover, .TreeviewNodeParent:hover
+{
+    color: Silver;
+}
+
+.TreeviewNodeParent
+{
+    color: #666666;
+}
+
+/*DMS and Workflow div*/
+
+.DivInlineBlock
+{
+    display: block;
+    float: left;
+   /* height: 335px;*/
+        
+}
+
+.GVDiv
+{
+
+    padding: 15px 15px 30px 15px;
+    border: 1px solid #87a93e;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+
+/*Avoid block display*/
+
+.mdNone
+{
+    display: none;
+}
+
+
+
+.image-button
+{
+    width: 24px !important;
+    height: 24px !important;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    padding: 0px;
+    border: 0px !important;
+    background-color: transparent;
+    cursor: auto;
+}
+
+.document-edit
+{
+    background-image: url('/Images/edit-icon.png');
+}
+.document-download
+{
+    background-image: url('/Images/Download.png');
+}
+.document-download-with-annotation
+{
+    background-image: url('/Images/Downloadwithann.png');
+}
+.document-upload
+{
+    background-image: url('/Images/Upload.png');
+}
+.document-delete
+{
+    background-image: url('/Images/Delete-icon.png');
+}
+.document-print
+{
+    background-image: url('/Images/Print.png');
+}
+.document-email
+{
+    background-image: url('/Images/UI_sendemail.png');
+}
+.document-History
+{
+    background-image: url('/Images/UI_history.png');
+}
+.CloseButton
+{
+    background: url('/Images/DeleteIcon.png');
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    
+}
+
+
+/*DropDown*/
+
+select
+{
+    border: 1px solid #b3b3b3;
+    /*-webkit-appearance: none;--DMS5-3903D*/
+    -moz-appearance: none;
+    background: white url('Images/dropDownArrow.png') no-repeat 90% center;
+    width: 200px; /*Width of select dropdown to give space for arrow image*/
+    text-indent: 0.01px;
+    text-overflow: "";
+    color: black;
+    padding: 5px;
+    background: white;
+    background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(51%,rgba(199, 195, 195, 1)), color-stop(52%,rgba(226,226,226,1)), color-stop(100%,rgba(199, 195, 195, 1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(247, 247, 247, 1) 90%,rgba(221, 217, 217, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+}
+
+
+/*Table Grid View*/
+
+.mGrid
+{
+    width: 100%;
+    background-color:  #FFF;
+    margin: 5px 0 10px 0;
+    border: solid 1px  Black;
+    border-collapse: collapse;
+    
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfee7', endColorstr='#dbdfc4',GradientType=0 ); /* IE6-9 */
+    font-size: 9pt;
+}
+.mGrid td
+{
+    border-style: solid none solid none;
+    border-width: 2px;
+    border-color: #c1c1c1;
+    padding: 2px;
+    color: black;
+    padding: 3px 5px 3px 5px;
+}
+
+.mGrid tr:hover
+{
+    color: White;
+    background-color: rgba(0, 0, 0, 0.05);
+}
+.mGrid th
+{
+    padding: 4px 2px;
+    color: Black;
+    border: solid 2px Black;
+    font-size: 0.9em;
+    background:#FFB300;
+   
+}
+.mGrid .alt
+{
+    background-color: #ececec;
+}
+.mGrid .pgr
+{
+    background-color: White;
+}
+.mGrid .pgr table
+{
+    float: right;
+}
+
+
+.mGrid .pgr td:hover
+{
+    background-color: White;
+}
+
+.mGrid .pgr td
+{
+    min-width: 20px;
+    text-align: center;
+    min-height: 20px;
+    border-width: 0;
+    font-weight: bold;
+    color: #000000;
+    line-height: 12px;
+    border: 1px solid #b1b1b1;
+    background-color: #FFFFFF;
+}
+.mGrid .pgr a
+{
+    color: Black;
+    text-decoration: none;
+    padding: 3px 8px 3px 8px;
+}
+.mGrid .pgr a:hover
+{
+    color: #000;
+    text-decoration: none;
+}

@@ -1,0 +1,16 @@
+6/8/2015 2:21:53 PM: GetDocumentTypeWithId Started
+6/8/2015 2:21:53 PM: SetDepartmentTemplate Started
+6/8/2015 2:21:53 PM: SetDepartmentTemplate Finished
+6/8/2015 2:21:53 PM: GetDocumentTypeWithId Finished
+6/8/2015 2:22:00 PM: btnExport_Click Started
+6/8/2015 2:22:00 PM: ExportToExcel started
+6/8/2015 2:22:00 PM: Exception:Thread was being aborted.
+6/8/2015 2:23:07 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/8/2015 2:23:08 PM: Started Extracting Soft Data
+6/8/2015 2:23:11 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/8/2015 2:45:31 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/8/2015 2:45:31 PM: Started Extracting Soft Data
+6/8/2015 2:45:32 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/8/2015 2:46:46 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/8/2015 2:46:47 PM: Started Extracting Soft Data
+6/8/2015 2:46:47 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 

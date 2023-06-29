@@ -1,0 +1,6 @@
+5/10/2017 10:28:21 AM: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   at Lotex.EnterpriseSolutions.CoreDAL.UserDAL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreDAL\UserDAL.cs:line 205
+   at Lotex.EnterpriseSolutions.CoreBL.UserBL.GetDomains(Int32 orgid, String action, String loginOrgId, String loginToken, String OrgCode) in f:\Nokia\SourceCodeInfoDocs\SourceCode\Libraries\Core\CoreBL\UserBL.cs:line 76
+   at Lotex.EnterpriseSolutions.WebUI.Login.LoadDomain() in f:\Nokia\SourceCodeInfoDocs\SourceCode\WebApplications\CoreDMS\Accounts\Login.aspx.cs:line 216
+ClientConnectionId:ec24dd48-5e0b-4084-83f6-ed3ddb4af876
+Error Number:18456,State:1,Class:14

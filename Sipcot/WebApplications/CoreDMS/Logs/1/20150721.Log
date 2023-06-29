@@ -1,0 +1,2718 @@
+7/21/2015 10:35:15 AM: createControls Started
+7/21/2015 10:35:15 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:15 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:15 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: createControls Finished
+7/21/2015 10:35:15 AM: generatecontrols Started
+7/21/2015 10:35:15 AM: Calling database to get reference id and watermark.
+7/21/2015 10:35:15 AM: Database returned result: CU_AD_1_1_1144|
+7/21/2015 10:35:15 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:15 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:15 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:35:15 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:35:23 AM: createControls Started
+7/21/2015 10:35:23 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:23 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:23 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:23 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:23 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:23 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:23 AM: createControls Finished
+7/21/2015 10:35:23 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:35:23 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:35:24 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:35:24 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:35:25 AM: createControls Started
+7/21/2015 10:35:25 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:25 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:25 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:25 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:25 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:25 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:25 AM: createControls Finished
+7/21/2015 10:35:25 AM: btnSubmit_Click Started
+7/21/2015 10:35:25 AM: btnSubmit_Click Finished
+7/21/2015 10:35:32 AM: createControls Started
+7/21/2015 10:35:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:32 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:32 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:32 AM: createControls Finished
+7/21/2015 10:35:33 AM: createControls Started
+7/21/2015 10:35:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:33 AM: createControls Finished
+7/21/2015 10:35:39 AM: createControls Started
+7/21/2015 10:35:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:35:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:35:39 AM: createControls Finished
+7/21/2015 10:35:42 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:35:42 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:35:42 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:35:42 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 10:35:42 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 10:35:42 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 10:35:42 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 10:35:42 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 10:35:42 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 10:35:43 AM: CreateXML Started:-
+7/21/2015 10:35:43 AM: CreateXML Completed:-
+7/21/2015 10:35:44 AM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 10:35:44 AM: Finished Saving Uploaded Document in Save Button Click
+7/21/2015 10:35:44 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:35:44 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:35:44 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:35:44 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:36:02 AM: createControls Started
+7/21/2015 10:36:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:02 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:36:02 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:36:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:02 AM: createControls Finished
+7/21/2015 10:36:02 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:36:02 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:36:02 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:36:02 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:36:03 AM: createControls Started
+7/21/2015 10:36:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:03 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:36:03 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:36:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:03 AM: createControls Finished
+7/21/2015 10:36:03 AM: btnSubmit_Click Started
+7/21/2015 10:36:03 AM: btnSubmit_Click Finished
+7/21/2015 10:36:06 AM: createControls Started
+7/21/2015 10:36:06 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:06 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:36:06 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:36:06 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:06 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:06 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:36:06 AM: createControls Finished
+7/21/2015 10:36:08 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:36:08 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:36:08 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:36:08 AM: Exception : The file 'D:\WDMSDocument\UploadedDocuments\global\1\2015-07-21\Q1VfQURfMV8xXzExNDQ=.pdf' already exists.
+7/21/2015 10:36:08 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:36:08 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:36:08 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:36:08 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:37:17 AM: createControls Started
+7/21/2015 10:37:17 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:17 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:17 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: createControls Finished
+7/21/2015 10:37:17 AM: generatecontrols Started
+7/21/2015 10:37:17 AM: Calling database to get reference id and watermark.
+7/21/2015 10:37:17 AM: Database returned result: CU_AD_1_1_1145|
+7/21/2015 10:37:17 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:17 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:17 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:37:17 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:37:26 AM: createControls Started
+7/21/2015 10:37:26 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:26 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:26 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:26 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:26 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:26 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:26 AM: createControls Finished
+7/21/2015 10:37:26 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:37:26 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:37:26 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:37:26 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:37:27 AM: createControls Started
+7/21/2015 10:37:27 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:27 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:27 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:27 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:27 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:27 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:27 AM: createControls Finished
+7/21/2015 10:37:27 AM: btnSubmit_Click Started
+7/21/2015 10:37:27 AM: btnSubmit_Click Finished
+7/21/2015 10:37:29 AM: createControls Started
+7/21/2015 10:37:29 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:29 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:29 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:29 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:29 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:29 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:29 AM: createControls Finished
+7/21/2015 10:37:29 AM: Started Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 10:37:29 AM: Src Details : http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNDU=.pdf
+7/21/2015 10:37:29 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+7/21/2015 10:37:29 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNDU=\1.pdf Image Name: Q1VfQURfMV8xXzExNDU= Page No: 1
+7/21/2015 10:37:29 AM: Converting PDF to JPEG without applying watermark.
+7/21/2015 10:37:29 AM: Exception: I/O error occurred.
+7/21/2015 10:37:29 AM: convertPDFToImage method returned file path as empty.
+7/21/2015 10:37:29 AM: Finished Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 10:37:33 AM: createControls Started
+7/21/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:33 AM: createControls Finished
+7/21/2015 10:37:34 AM: createControls Started
+7/21/2015 10:37:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:34 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:34 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:34 AM: createControls Finished
+7/21/2015 10:37:39 AM: createControls Started
+7/21/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:37:39 AM: createControls Finished
+7/21/2015 10:37:45 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:37:50 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:37:50 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:38:06 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 10:38:06 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 10:38:06 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 10:38:06 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 10:38:06 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 10:38:06 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 10:38:57 AM: CreateXML Started:-
+7/21/2015 10:38:57 AM: CreateXML Completed:-
+7/21/2015 10:39:08 AM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 10:39:31 AM: Finished Saving Uploaded Document in Save Button Click
+7/21/2015 10:39:31 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:39:31 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:39:31 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:39:31 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:39:39 AM: createControls Started
+7/21/2015 10:39:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: createControls Finished
+7/21/2015 10:39:39 AM: generatecontrols Started
+7/21/2015 10:39:39 AM: Calling database to get reference id and watermark.
+7/21/2015 10:39:39 AM: Database returned result: CU_AD_1_1_1146|
+7/21/2015 10:39:39 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:39 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:39 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:39:39 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:39:51 AM: createControls Started
+7/21/2015 10:39:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:51 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:51 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:51 AM: createControls Finished
+7/21/2015 10:39:51 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:39:51 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:39:51 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:39:51 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:39:52 AM: createControls Started
+7/21/2015 10:39:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:52 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:52 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:52 AM: createControls Finished
+7/21/2015 10:39:52 AM: btnSubmit_Click Started
+7/21/2015 10:39:52 AM: btnSubmit_Click Finished
+7/21/2015 10:39:58 AM: createControls Started
+7/21/2015 10:39:58 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:58 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:58 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:58 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:58 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:58 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:58 AM: createControls Finished
+7/21/2015 10:39:59 AM: createControls Started
+7/21/2015 10:39:59 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:59 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:59 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:39:59 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:59 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:59 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:39:59 AM: createControls Finished
+7/21/2015 10:40:09 AM: createControls Started
+7/21/2015 10:40:09 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:40:09 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:40:09 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:40:09 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:40:09 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:40:09 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:40:09 AM: createControls Finished
+7/21/2015 10:40:14 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:40:14 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:40:14 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:40:14 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 10:40:14 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 10:40:14 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 10:40:14 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 10:40:14 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 10:40:14 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 10:41:02 AM: CreateXML Started:-
+7/21/2015 10:41:02 AM: CreateXML Completed:-
+7/21/2015 10:41:02 AM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 10:41:02 AM: Finished Saving Uploaded Document in Save Button Click
+7/21/2015 10:41:02 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:41:02 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:41:02 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:41:02 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:44:24 AM: createControls Started
+7/21/2015 10:44:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:24 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: createControls Finished
+7/21/2015 10:44:24 AM: generatecontrols Started
+7/21/2015 10:44:24 AM: Calling database to get reference id and watermark.
+7/21/2015 10:44:24 AM: Database returned result: CU_AD_1_1_1147|
+7/21/2015 10:44:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:24 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:44:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:44:34 AM: createControls Started
+7/21/2015 10:44:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:34 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:34 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:34 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:34 AM: createControls Finished
+7/21/2015 10:44:34 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:44:34 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:44:34 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:44:34 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:44:35 AM: createControls Started
+7/21/2015 10:44:35 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:35 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:35 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:35 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:35 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:35 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:35 AM: createControls Finished
+7/21/2015 10:44:35 AM: btnSubmit_Click Started
+7/21/2015 10:44:35 AM: btnSubmit_Click Finished
+7/21/2015 10:44:39 AM: createControls Started
+7/21/2015 10:44:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:39 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:39 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:39 AM: createControls Finished
+7/21/2015 10:44:40 AM: createControls Started
+7/21/2015 10:44:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:40 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:40 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:40 AM: createControls Finished
+7/21/2015 10:44:46 AM: createControls Started
+7/21/2015 10:44:46 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:46 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:46 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:44:46 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:46 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:46 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:44:46 AM: createControls Finished
+7/21/2015 10:44:47 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:44:47 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:44:47 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:44:47 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 10:44:47 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 10:44:47 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 10:44:47 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 10:44:47 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 10:44:47 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 10:44:51 AM: CreateXML Started:-
+7/21/2015 10:44:51 AM: CreateXML Completed:-
+7/21/2015 10:44:51 AM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 10:44:51 AM: Finished Saving Uploaded Document in Save Button Click
+7/21/2015 10:44:51 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:44:51 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:44:51 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:44:51 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:53:31 AM: createControls Started
+7/21/2015 10:53:31 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:31 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:31 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: createControls Finished
+7/21/2015 10:53:31 AM: generatecontrols Started
+7/21/2015 10:53:31 AM: Calling database to get reference id and watermark.
+7/21/2015 10:53:31 AM: Database returned result: CU_AD_1_1_1148|
+7/21/2015 10:53:31 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:31 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:31 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:53:31 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:53:37 AM: createControls Started
+7/21/2015 10:53:37 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:37 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:37 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:37 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:37 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:37 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:37 AM: createControls Finished
+7/21/2015 10:53:37 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:53:37 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:53:37 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:53:37 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:53:38 AM: createControls Started
+7/21/2015 10:53:38 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:38 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:38 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:38 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:38 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:38 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:38 AM: createControls Finished
+7/21/2015 10:53:38 AM: btnSubmit_Click Started
+7/21/2015 10:53:38 AM: btnSubmit_Click Finished
+7/21/2015 10:53:51 AM: createControls Started
+7/21/2015 10:53:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:51 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:51 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:51 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:51 AM: createControls Finished
+7/21/2015 10:53:52 AM: createControls Started
+7/21/2015 10:53:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:52 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:52 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:52 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:52 AM: createControls Finished
+7/21/2015 10:53:53 AM: createControls Started
+7/21/2015 10:53:53 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:53 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:53 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 10:53:53 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:53 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:53 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:53:53 AM: createControls Finished
+7/21/2015 10:53:55 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:53:55 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:53:55 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:53:55 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 10:53:55 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 10:53:55 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 10:53:55 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 10:53:55 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 10:53:55 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 10:53:56 AM: CreateXML Started:-
+7/21/2015 10:53:56 AM: CreateXML Completed:-
+7/21/2015 10:53:56 AM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 10:53:56 AM: Exception : Thread was being aborted.
+7/21/2015 10:56:53 AM: createControls Started
+7/21/2015 10:56:53 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:56:53 AM: createControls Finished
+7/21/2015 10:56:53 AM: generatecontrols Started
+7/21/2015 10:56:53 AM: Calling database to get reference id and watermark.
+7/21/2015 10:56:53 AM: Database returned result: AR_AD_1_1_1149|lotex
+7/21/2015 10:56:53 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 10:57:01 AM: createControls Started
+7/21/2015 10:57:01 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:57:01 AM: createControls Finished
+7/21/2015 10:57:01 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:57:01 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:57:01 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 10:57:01 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:57:02 AM: createControls Started
+7/21/2015 10:57:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:57:02 AM: createControls Finished
+7/21/2015 10:57:02 AM: btnSubmit_Click Started
+7/21/2015 10:57:02 AM: btnSubmit_Click Finished
+7/21/2015 10:57:06 AM: createControls Started
+7/21/2015 10:57:06 AM: Create controls,Load all Textbox dynamic
+7/21/2015 10:57:06 AM: createControls Finished
+7/21/2015 10:57:07 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 10:57:07 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 10:57:07 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 10:57:07 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 10:57:08 AM: CreateXML Started:-
+7/21/2015 10:57:08 AM: CreateXML Completed:-
+7/21/2015 10:57:09 AM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 10:57:09 AM: Exception : Thread was being aborted.
+7/21/2015 11:11:32 AM: createControls Started
+7/21/2015 11:11:32 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:11:32 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:11:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: createControls Finished
+7/21/2015 11:11:32 AM: generatecontrols Started
+7/21/2015 11:11:32 AM: Calling database to get reference id and watermark.
+7/21/2015 11:11:32 AM: Database returned result: DM_AD_1_1_1150|Lotex Business Solutions
+7/21/2015 11:11:32 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 11:11:32 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 11:11:32 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:11:32 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:11:35 AM: BindDocumentType started
+7/21/2015 11:11:35 AM: BindDocumentType finished
+7/21/2015 11:11:44 AM: createControls Started
+7/21/2015 11:11:44 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:11:44 AM: createControls Finished
+7/21/2015 11:11:44 AM: GetTemplateDetails started
+7/21/2015 11:11:44 AM: generatecontrols Started
+7/21/2015 11:11:44 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:12:03 AM: BindDocumentType started
+7/21/2015 11:12:03 AM: BindDocumentType finished
+7/21/2015 11:14:01 AM: BindDocumentType started
+7/21/2015 11:14:01 AM: BindDocumentType finished
+7/21/2015 11:14:07 AM: createControls Started
+7/21/2015 11:14:07 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:14:07 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:14:07 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: createControls Finished
+7/21/2015 11:14:07 AM: GetTemplateDetails started
+7/21/2015 11:14:07 AM: generatecontrols Started
+7/21/2015 11:14:07 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:14:07 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:14:07 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:14:07 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:15:54 AM: BindDocumentType started
+7/21/2015 11:15:54 AM: BindDocumentType finished
+7/21/2015 11:16:01 AM: createControls Started
+7/21/2015 11:16:01 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:01 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:01 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:01 AM: createControls Finished
+7/21/2015 11:16:01 AM: GetTemplateDetails started
+7/21/2015 11:16:01 AM: generatecontrols Started
+7/21/2015 11:16:01 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:01 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:16:01 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:16:09 AM: createControls Started
+7/21/2015 11:16:09 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:09 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:09 AM: createControls Finished
+7/21/2015 11:16:10 AM: createControls Started
+7/21/2015 11:16:10 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:10 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:10 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: createControls Finished
+7/21/2015 11:16:11 AM: GetTemplateDetails started
+7/21/2015 11:16:11 AM: generatecontrols Started
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:11 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:14 AM: createControls Started
+7/21/2015 11:16:14 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:14 AM: createControls Finished
+7/21/2015 11:16:16 AM: createControls Started
+7/21/2015 11:16:16 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:16 AM: createControls Finished
+7/21/2015 11:16:16 AM: GetTemplateDetails started
+7/21/2015 11:16:16 AM: generatecontrols Started
+7/21/2015 11:16:16 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:57 AM: createControls Started
+7/21/2015 11:16:57 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:57 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:57 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:57 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:57 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:57 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:57 AM: createControls Finished
+7/21/2015 11:16:59 AM: createControls Started
+7/21/2015 11:16:59 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:59 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:16:59 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: createControls Finished
+7/21/2015 11:16:59 AM: GetTemplateDetails started
+7/21/2015 11:16:59 AM: generatecontrols Started
+7/21/2015 11:16:59 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:16:59 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:16:59 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:16:59 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:14 AM: createControls Started
+7/21/2015 11:17:14 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:14 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:14 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:14 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:14 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:14 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:14 AM: createControls Finished
+7/21/2015 11:17:16 AM: createControls Started
+7/21/2015 11:17:16 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:16 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:16 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: createControls Finished
+7/21/2015 11:17:16 AM: GetTemplateDetails started
+7/21/2015 11:17:16 AM: generatecontrols Started
+7/21/2015 11:17:16 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:16 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:16 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:16 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:21 AM: createControls Started
+7/21/2015 11:17:21 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:21 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:21 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:21 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:21 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:21 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:21 AM: createControls Finished
+7/21/2015 11:17:22 AM: createControls Started
+7/21/2015 11:17:22 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:22 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:22 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: createControls Finished
+7/21/2015 11:17:22 AM: GetTemplateDetails started
+7/21/2015 11:17:22 AM: generatecontrols Started
+7/21/2015 11:17:22 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:22 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:22 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:22 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Started
+7/21/2015 11:17:32 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:32 AM: createControls Finished
+7/21/2015 11:17:33 AM: createControls Started
+7/21/2015 11:17:33 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: createControls Finished
+7/21/2015 11:17:33 AM: GetTemplateDetails started
+7/21/2015 11:17:33 AM: generatecontrols Started
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:33 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Started
+7/21/2015 11:17:37 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:37 AM: createControls Finished
+7/21/2015 11:17:43 AM: BindDocumentType started
+7/21/2015 11:17:43 AM: BindDocumentType finished
+7/21/2015 11:17:47 AM: createControls Started
+7/21/2015 11:17:47 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:47 AM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 11:17:47 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: createControls Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: createControls Finished
+7/21/2015 11:17:47 AM: GetTemplateDetails started
+7/21/2015 11:17:47 AM: generatecontrols Started
+7/21/2015 11:17:47 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:47 AM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 11:17:47 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:17:47 AM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 11:18:03 AM: GetSginatureDetails Started:-
+7/21/2015 11:18:03 AM: GetSginatureDetails Completed:-
+7/21/2015 11:18:03 AM: GetTemplateDetails Started
+7/21/2015 11:18:03 AM: GetTemplateDetails total record count:1
+7/21/2015 11:18:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:03 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:18:03 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:18:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:03 AM: GetTemplateDetails Finished
+7/21/2015 11:18:03 AM: InitializeDocumentView started
+7/21/2015 11:18:03 AM: InitializeDocumentView finished
+7/21/2015 11:18:03 AM: Calling database to get annotated images. DocumentId: 1965, Action: GetAnnotatedPages
+7/21/2015 11:18:03 AM: Calling database to get annotated images. DocumentId: 1965, Action: GetTaggedPages
+7/21/2015 11:18:04 AM: LoadImageToViewer started
+7/21/2015 11:18:04 AM: Setting image to viewer. Action:  Page count: 7 Current Page:1
+7/21/2015 11:18:04 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNDg=\1.pdf Image Name: Q1VfQURfMV8xXzExNDg= Page No: 1
+7/21/2015 11:18:04 AM: Converting PDF to JPEG without applying watermark.
+7/21/2015 11:18:04 AM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexndg=jpg//1.jpeg
+7/21/2015 11:18:04 AM: Invoke method to get annotations from databnase.
+7/21/2015 11:18:04 AM: Get annotations from database.
+7/21/2015 11:18:04 AM: Document Id: 1965 Page No: 1
+7/21/2015 11:18:04 AM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 11:18:04 AM: MailPanelFill started
+7/21/2015 11:18:04 AM: MailPanelFill finished
+7/21/2015 11:18:14 AM: GetTemplateDetails Started
+7/21/2015 11:18:14 AM: GetTemplateDetails total record count:1
+7/21/2015 11:18:14 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:14 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:18:14 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:18:14 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:14 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:14 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:18:14 AM: GetTemplateDetails Finished
+7/21/2015 11:27:08 AM: createControls Started
+7/21/2015 11:27:08 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:08 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:08 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:08 AM: createControls Finished
+7/21/2015 11:27:08 AM: generatecontrols Started
+7/21/2015 11:27:08 AM: Calling database to get reference id and watermark.
+7/21/2015 11:27:08 AM: Database returned result: GA_AD_1_1_1150|
+7/21/2015 11:27:08 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:08 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:08 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:27:14 AM: createControls Started
+7/21/2015 11:27:14 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:14 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:14 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:14 AM: createControls Finished
+7/21/2015 11:27:14 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:27:14 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:27:14 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:27:14 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:27:15 AM: createControls Started
+7/21/2015 11:27:15 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:15 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:15 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:15 AM: createControls Finished
+7/21/2015 11:27:15 AM: btnSubmit_Click Started
+7/21/2015 11:27:15 AM: btnSubmit_Click Finished
+7/21/2015 11:27:19 AM: createControls Started
+7/21/2015 11:27:19 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:19 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:19 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:19 AM: createControls Finished
+7/21/2015 11:27:19 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:27:19 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:27:19 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:27:19 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:27:20 AM: createControls Started
+7/21/2015 11:27:20 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:20 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:20 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:20 AM: createControls Finished
+7/21/2015 11:27:20 AM: btnSubmit_Click Started
+7/21/2015 11:27:20 AM: Exception : no filter defined for D:\WDMSDocument\TempWorkFolder\R0FfQURfMV8xXzExNTA=.docx
+7/21/2015 11:27:23 AM: createControls Started
+7/21/2015 11:27:23 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:23 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:23 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:23 AM: createControls Finished
+7/21/2015 11:27:26 AM: createControls Started
+7/21/2015 11:27:26 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:26 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:26 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:26 AM: createControls Finished
+7/21/2015 11:27:29 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 11:27:29 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:27:29 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:27:29 AM: Exception : Could not find file 'D:\WDMSDocument\TempWorkFolder\16 ,july, 2015.docx'.
+7/21/2015 11:27:29 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:27:29 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:27:29 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:27:29 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:27:37 AM: createControls Started
+7/21/2015 11:27:37 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:37 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:27:37 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:27:37 AM: createControls Finished
+7/21/2015 11:28:24 AM: createControls Started
+7/21/2015 11:28:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:24 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: createControls Finished
+7/21/2015 11:28:24 AM: generatecontrols Started
+7/21/2015 11:28:24 AM: Calling database to get reference id and watermark.
+7/21/2015 11:28:24 AM: Database returned result: CU_AD_1_1_1150|
+7/21/2015 11:28:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:24 AM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:28:24 AM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 11:28:32 AM: createControls Started
+7/21/2015 11:28:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:32 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:32 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:32 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:32 AM: createControls Finished
+7/21/2015 11:28:32 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:28:32 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:28:32 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:28:32 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:28:33 AM: createControls Started
+7/21/2015 11:28:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:33 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:33 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:33 AM: createControls Finished
+7/21/2015 11:28:33 AM: btnSubmit_Click Started
+7/21/2015 11:28:33 AM: btnSubmit_Click Finished
+7/21/2015 11:28:36 AM: createControls Started
+7/21/2015 11:28:36 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:36 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:36 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:36 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:36 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:36 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:36 AM: createControls Finished
+7/21/2015 11:28:36 AM: Started Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 11:28:36 AM: Src Details : http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTA=.pdf
+7/21/2015 11:28:36 AM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+7/21/2015 11:28:36 AM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTA=\1.pdf Image Name: Q1VfQURfMV8xXzExNTA= Page No: 1
+7/21/2015 11:28:36 AM: Converting PDF to JPEG without applying watermark.
+7/21/2015 11:28:36 AM: Exception: I/O error occurred.
+7/21/2015 11:28:36 AM: convertPDFToImage method returned file path as empty.
+7/21/2015 11:28:36 AM: Finished Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 11:28:40 AM: createControls Started
+7/21/2015 11:28:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:40 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:40 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:40 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:40 AM: createControls Finished
+7/21/2015 11:28:41 AM: createControls Started
+7/21/2015 11:28:41 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:41 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:41 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:41 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:41 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:41 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:41 AM: createControls Finished
+7/21/2015 11:28:47 AM: createControls Started
+7/21/2015 11:28:47 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:47 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:47 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:28:47 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:47 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:47 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:28:47 AM: createControls Finished
+7/21/2015 11:28:47 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 11:28:47 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:28:47 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:28:47 AM: Exception : Could not find file 'D:\WDMSDocument\TempWorkFolder\ExercisesAndSolutions.pdf'.
+7/21/2015 11:28:47 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:28:47 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:28:47 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:28:47 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:29:02 AM: createControls Started
+7/21/2015 11:29:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:02 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:29:02 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:29:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:02 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:02 AM: createControls Finished
+7/21/2015 11:29:02 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:29:02 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:29:02 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:29:02 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:29:03 AM: createControls Started
+7/21/2015 11:29:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:03 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:29:03 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:29:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:03 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:03 AM: createControls Finished
+7/21/2015 11:29:03 AM: btnSubmit_Click Started
+7/21/2015 11:29:03 AM: btnSubmit_Click Finished
+7/21/2015 11:29:05 AM: createControls Started
+7/21/2015 11:29:05 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:05 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:29:05 AM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 11:29:05 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:05 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:05 AM: Create controls,Load all Textbox dynamic
+7/21/2015 11:29:05 AM: createControls Finished
+7/21/2015 11:29:05 AM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 11:29:05 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:29:05 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 11:29:05 AM: Exception : Could not find file 'D:\WDMSDocument\TempWorkFolder\leave_summary.pdf'.
+7/21/2015 11:29:05 AM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 11:29:05 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:29:05 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 11:29:05 AM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:06:21 PM: createControls Started
+7/21/2015 12:06:22 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:22 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:22 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: createControls Finished
+7/21/2015 12:06:22 PM: generatecontrols Started
+7/21/2015 12:06:22 PM: Calling database to get reference id and watermark.
+7/21/2015 12:06:22 PM: Database returned result: CU_AD_1_1_1150|
+7/21/2015 12:06:22 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:22 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:22 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:22 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:29 PM: createControls Started
+7/21/2015 12:06:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:29 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:29 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:29 PM: createControls Finished
+7/21/2015 12:06:29 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:06:29 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:06:29 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:06:30 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 1
+7/21/2015 12:06:30 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:06:31 PM: createControls Started
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: createControls Finished
+7/21/2015 12:06:31 PM: btnSubmit_Click Started
+7/21/2015 12:06:31 PM: btnSubmit_Click Finished
+7/21/2015 12:06:31 PM: createControls Started
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:31 PM: createControls Finished
+7/21/2015 12:06:31 PM: Started Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 12:06:31 PM: Src Details : http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTA=.pdf
+7/21/2015 12:06:31 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 12:06:31 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTA=\1.pdf Image Name: Q1VfQURfMV8xXzExNTA= Page No: 1
+7/21/2015 12:06:31 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 12:06:32 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexnta=jpg//1.jpeg
+7/21/2015 12:06:32 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 12:06:36 PM: createControls Started
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:36 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:36 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:36 PM: createControls Finished
+7/21/2015 12:06:36 PM: createControls Started
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:36 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:36 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:37 PM: createControls Finished
+7/21/2015 12:06:42 PM: createControls Started
+7/21/2015 12:06:42 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:42 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:42 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:42 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:42 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:42 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:42 PM: createControls Finished
+7/21/2015 12:06:42 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:06:43 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:06:43 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:06:43 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 12:06:43 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 12:06:43 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 12:06:43 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 12:06:43 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 12:06:43 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 12:06:45 PM: CreateXML Started:-
+7/21/2015 12:06:45 PM: CreateXML Completed:-
+7/21/2015 12:06:45 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 12:06:45 PM: Exception : Thread was being aborted.
+7/21/2015 12:06:57 PM: createControls Started
+7/21/2015 12:06:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: createControls Finished
+7/21/2015 12:06:57 PM: generatecontrols Started
+7/21/2015 12:06:57 PM: Calling database to get reference id and watermark.
+7/21/2015 12:06:57 PM: Database returned result: CU_AD_1_1_1151|
+7/21/2015 12:06:57 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:57 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:06:57 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:06:57 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:07:04 PM: createControls Started
+7/21/2015 12:07:04 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:04 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:04 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:04 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:04 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:04 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:04 PM: createControls Finished
+7/21/2015 12:07:04 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:07:04 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:07:04 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:07:04 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:07:05 PM: createControls Started
+7/21/2015 12:07:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:05 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:05 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:05 PM: createControls Finished
+7/21/2015 12:07:05 PM: btnSubmit_Click Started
+7/21/2015 12:07:05 PM: btnSubmit_Click Finished
+7/21/2015 12:07:09 PM: createControls Started
+7/21/2015 12:07:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:09 PM: createControls Finished
+7/21/2015 12:07:10 PM: createControls Started
+7/21/2015 12:07:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:10 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:10 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:10 PM: createControls Finished
+7/21/2015 12:07:16 PM: createControls Started
+7/21/2015 12:07:16 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:16 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:16 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:16 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:16 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:16 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:16 PM: createControls Finished
+7/21/2015 12:07:16 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:07:16 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:07:16 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:07:16 PM: Exception : Could not find file 'D:\WDMSDocument\TempWorkFolder\redBus_Ticket_46421323.pdf'.
+7/21/2015 12:07:16 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:07:16 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:07:16 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:07:16 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:07:39 PM: createControls Started
+7/21/2015 12:07:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:39 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:39 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:39 PM: createControls Finished
+7/21/2015 12:07:39 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:07:39 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:07:39 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:07:39 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:07:41 PM: createControls Started
+7/21/2015 12:07:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:07:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:07:41 PM: createControls Finished
+7/21/2015 12:07:41 PM: btnSubmit_Click Started
+7/21/2015 12:07:41 PM: btnSubmit_Click Finished
+7/21/2015 12:08:02 PM: createControls Started
+7/21/2015 12:08:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:08:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:08:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:08:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:08:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:08:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:08:02 PM: createControls Finished
+7/21/2015 12:08:05 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:08:13 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:08:13 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:09:26 PM: Finished Saving Uploaded Document in Save Button Click
+7/21/2015 12:09:26 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:09:26 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:11:43 PM: createControls Started
+7/21/2015 12:11:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:43 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: createControls Finished
+7/21/2015 12:11:43 PM: generatecontrols Started
+7/21/2015 12:11:43 PM: Calling database to get reference id and watermark.
+7/21/2015 12:11:43 PM: Database returned result: CU_AD_1_1_1151|
+7/21/2015 12:11:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:43 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:11:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:11:48 PM: createControls Started
+7/21/2015 12:11:48 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:48 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:48 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:48 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:48 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:48 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:48 PM: createControls Finished
+7/21/2015 12:11:48 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:11:48 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:11:48 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:11:48 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:11:49 PM: createControls Started
+7/21/2015 12:11:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:49 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:49 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:49 PM: createControls Finished
+7/21/2015 12:11:49 PM: btnSubmit_Click Started
+7/21/2015 12:11:49 PM: btnSubmit_Click Finished
+7/21/2015 12:11:53 PM: createControls Started
+7/21/2015 12:11:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:53 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:53 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:53 PM: createControls Finished
+7/21/2015 12:11:54 PM: createControls Started
+7/21/2015 12:11:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:54 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:54 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:54 PM: createControls Finished
+7/21/2015 12:11:58 PM: createControls Started
+7/21/2015 12:11:58 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:58 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:58 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:11:58 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:58 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:58 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:11:58 PM: createControls Finished
+7/21/2015 12:11:59 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:11:59 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:11:59 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:12:00 PM: Exception : Could not find a part of the path 'D:\WDMSTempDocument\TempImageLocation\global\1\2015-07-21\leave_summary.pdf'.
+7/21/2015 12:12:00 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:12:00 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:12:00 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:12:00 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:12:08 PM: createControls Started
+7/21/2015 12:12:08 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:08 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:12:08 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:12:08 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:08 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:08 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:08 PM: createControls Finished
+7/21/2015 12:12:08 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:12:08 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:12:08 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:12:08 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:12:09 PM: createControls Started
+7/21/2015 12:12:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:12:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:12:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:10 PM: createControls Finished
+7/21/2015 12:12:10 PM: btnSubmit_Click Started
+7/21/2015 12:12:10 PM: btnSubmit_Click Finished
+7/21/2015 12:12:11 PM: createControls Started
+7/21/2015 12:12:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:12:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:12:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:12:11 PM: createControls Finished
+7/21/2015 12:12:14 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:12:18 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:12:18 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:13:30 PM: Exception : Could not find a part of the path 'D:\WDMSTempDocument\TempImageLocation\global\1\2015-07-21\285.GIF'.
+7/21/2015 12:13:30 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:13:30 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:13:31 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:13:31 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:15:21 PM: createControls Started
+7/21/2015 12:15:21 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:21 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:21 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: createControls Finished
+7/21/2015 12:15:21 PM: generatecontrols Started
+7/21/2015 12:15:21 PM: Calling database to get reference id and watermark.
+7/21/2015 12:15:21 PM: Database returned result: CU_AD_1_1_1151|
+7/21/2015 12:15:21 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:21 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:21 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:15:21 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:15:31 PM: createControls Started
+7/21/2015 12:15:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:31 PM: createControls Finished
+7/21/2015 12:15:31 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:15:31 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:15:31 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:15:31 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:15:32 PM: createControls Started
+7/21/2015 12:15:32 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:32 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:32 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:32 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:32 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:32 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:32 PM: createControls Finished
+7/21/2015 12:15:32 PM: btnSubmit_Click Started
+7/21/2015 12:15:32 PM: btnSubmit_Click Finished
+7/21/2015 12:15:38 PM: createControls Started
+7/21/2015 12:15:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:38 PM: createControls Finished
+7/21/2015 12:15:39 PM: createControls Started
+7/21/2015 12:15:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:39 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:39 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:39 PM: createControls Finished
+7/21/2015 12:15:44 PM: createControls Started
+7/21/2015 12:15:44 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:44 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:44 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:15:44 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:44 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:44 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:15:44 PM: createControls Finished
+7/21/2015 12:15:45 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:15:45 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:15:45 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:15:45 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 12:15:45 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 12:15:45 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 12:15:45 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 12:15:45 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 12:15:45 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 12:15:47 PM: CreateXML Started:-
+7/21/2015 12:15:47 PM: CreateXML Completed:-
+7/21/2015 12:15:47 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 12:15:47 PM: Exception : Thread was being aborted.
+7/21/2015 12:16:27 PM: BindDocumentType started
+7/21/2015 12:16:27 PM: BindDocumentType finished
+7/21/2015 12:16:32 PM: createControls Started
+7/21/2015 12:16:32 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 12:16:32 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 12:16:32 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: createControls Finished
+7/21/2015 12:16:32 PM: GetTemplateDetails started
+7/21/2015 12:16:32 PM: generatecontrols Started
+7/21/2015 12:16:32 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 12:16:32 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 12:16:32 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:16:32 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:16:37 PM: GetSginatureDetails Started:-
+7/21/2015 12:16:37 PM: GetSginatureDetails Completed:-
+7/21/2015 12:16:37 PM: GetTemplateDetails Started
+7/21/2015 12:16:37 PM: GetTemplateDetails total record count:1
+7/21/2015 12:16:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:16:37 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:16:37 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:16:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:16:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:16:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:16:37 PM: GetTemplateDetails Finished
+7/21/2015 12:16:37 PM: InitializeDocumentView started
+7/21/2015 12:16:37 PM: InitializeDocumentView finished
+7/21/2015 12:16:37 PM: Calling database to get annotated images. DocumentId: 1968, Action: GetAnnotatedPages
+7/21/2015 12:16:37 PM: Calling database to get annotated images. DocumentId: 1968, Action: GetTaggedPages
+7/21/2015 12:16:37 PM: LoadImageToViewer started
+7/21/2015 12:16:37 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 12:16:37 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTE=\1.pdf Image Name: Q1VfQURfMV8xXzExNTE= Page No: 1
+7/21/2015 12:16:37 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 12:17:10 PM: BindDocumentType started
+7/21/2015 12:17:10 PM: BindDocumentType finished
+7/21/2015 12:17:14 PM: BindDocumentType started
+7/21/2015 12:17:14 PM: BindDocumentType finished
+7/21/2015 12:17:19 PM: createControls Started
+7/21/2015 12:17:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 12:17:19 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 12:17:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: createControls Finished
+7/21/2015 12:17:19 PM: GetTemplateDetails started
+7/21/2015 12:17:19 PM: generatecontrols Started
+7/21/2015 12:17:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 12:17:19 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 12:17:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:17:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:17:25 PM: GetSginatureDetails Started:-
+7/21/2015 12:17:25 PM: GetSginatureDetails Completed:-
+7/21/2015 12:17:25 PM: GetTemplateDetails Started
+7/21/2015 12:17:25 PM: GetTemplateDetails total record count:1
+7/21/2015 12:17:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:25 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:17:25 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:17:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:25 PM: GetTemplateDetails Finished
+7/21/2015 12:17:25 PM: InitializeDocumentView started
+7/21/2015 12:17:25 PM: InitializeDocumentView finished
+7/21/2015 12:17:25 PM: Calling database to get annotated images. DocumentId: 1968, Action: GetAnnotatedPages
+7/21/2015 12:17:26 PM: Calling database to get annotated images. DocumentId: 1968, Action: GetTaggedPages
+7/21/2015 12:17:26 PM: LoadImageToViewer started
+7/21/2015 12:17:26 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 12:17:26 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTE=\1.pdf Image Name: Q1VfQURfMV8xXzExNTE= Page No: 1
+7/21/2015 12:17:26 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 12:17:26 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexnte=jpg//1.jpeg
+7/21/2015 12:17:26 PM: Invoke method to get annotations from databnase.
+7/21/2015 12:17:26 PM: Get annotations from database.
+7/21/2015 12:17:26 PM: Document Id: 1968 Page No: 1
+7/21/2015 12:17:26 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 12:17:26 PM: MailPanelFill started
+7/21/2015 12:17:26 PM: MailPanelFill finished
+7/21/2015 12:17:56 PM: GetTemplateDetails Started
+7/21/2015 12:17:57 PM: GetTemplateDetails total record count:1
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:17:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: GetTemplateDetails Finished
+7/21/2015 12:17:57 PM: GetTemplateDetails Started
+7/21/2015 12:17:57 PM: GetTemplateDetails total record count:1
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:17:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:17:57 PM: GetTemplateDetails Finished
+7/21/2015 12:17:57 PM: LoadImageToViewer started
+7/21/2015 12:17:57 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 12:17:57 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTE=\1.pdf Image Name: Q1VfQURfMV8xXzExNTE= Page No: 1
+7/21/2015 12:17:57 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 12:17:57 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexnte=jpg//1.jpeg
+7/21/2015 12:17:57 PM: Invoke method to get annotations from databnase.
+7/21/2015 12:17:57 PM: Get annotations from database.
+7/21/2015 12:17:57 PM: Document Id: 1968 Page No: 1
+7/21/2015 12:17:57 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 12:17:57 PM: btnLock_Click started
+7/21/2015 12:17:57 PM: LoadImageToViewer started
+7/21/2015 12:17:57 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 12:17:57 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTE=\1.pdf Image Name: Q1VfQURfMV8xXzExNTE= Page No: 1
+7/21/2015 12:17:57 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 12:17:58 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexnte=jpg//1.jpeg
+7/21/2015 12:17:58 PM: Invoke method to get annotations from databnase.
+7/21/2015 12:17:58 PM: Get annotations from database.
+7/21/2015 12:17:58 PM: Document Id: 1968 Page No: 1
+7/21/2015 12:17:58 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 12:17:58 PM: btnLock_Click finished
+7/21/2015 12:18:11 PM: GetTemplateDetails Started
+7/21/2015 12:18:11 PM: GetTemplateDetails total record count:1
+7/21/2015 12:18:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:18:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:18:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:18:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:18:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:18:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:18:11 PM: GetTemplateDetails Finished
+7/21/2015 12:18:11 PM: GetDBFieldName the DBFld 
+7/21/2015 12:18:11 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 12:18:11 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 12:18:11 PM: GetDBFieldName the DBFld 
+7/21/2015 12:18:11 PM: GetDBFieldName the DBFld 
+7/21/2015 12:18:11 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 12:54:41 PM: createControls Started
+7/21/2015 12:54:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: createControls Finished
+7/21/2015 12:54:41 PM: generatecontrols Started
+7/21/2015 12:54:41 PM: Calling database to get reference id and watermark.
+7/21/2015 12:54:41 PM: Database returned result: CU_AD_1_1_1152|
+7/21/2015 12:54:41 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:41 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:41 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:54:41 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:54:49 PM: createControls Started
+7/21/2015 12:54:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:49 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:49 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:49 PM: createControls Finished
+7/21/2015 12:54:49 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:54:49 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:54:49 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:54:49 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:54:50 PM: createControls Started
+7/21/2015 12:54:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:50 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:50 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:50 PM: createControls Finished
+7/21/2015 12:54:50 PM: btnSubmit_Click Started
+7/21/2015 12:54:50 PM: btnSubmit_Click Finished
+7/21/2015 12:54:54 PM: createControls Started
+7/21/2015 12:54:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:54 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:54 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:54 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:54 PM: createControls Finished
+7/21/2015 12:54:55 PM: createControls Started
+7/21/2015 12:54:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:55 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:55 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:55 PM: createControls Finished
+7/21/2015 12:54:59 PM: createControls Started
+7/21/2015 12:54:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:54:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:54:59 PM: createControls Finished
+7/21/2015 12:55:01 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:55:01 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:55:01 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:55:01 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 12:55:01 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 12:55:01 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 12:55:01 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 12:55:01 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 12:55:01 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 12:55:04 PM: CreateXML Started:-
+7/21/2015 12:55:04 PM: CreateXML Completed:-
+7/21/2015 12:55:04 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 12:55:04 PM: Exception : Thread was being aborted.
+7/21/2015 12:57:11 PM: BindDocumentType started
+7/21/2015 12:57:11 PM: BindDocumentType finished
+7/21/2015 12:57:16 PM: createControls Started
+7/21/2015 12:57:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 12:57:16 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 12:57:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: createControls Finished
+7/21/2015 12:57:16 PM: GetTemplateDetails started
+7/21/2015 12:57:16 PM: generatecontrols Started
+7/21/2015 12:57:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 12:57:16 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 12:57:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:57:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 12:57:23 PM: GetSginatureDetails Started:-
+7/21/2015 12:57:23 PM: GetSginatureDetails Completed:-
+7/21/2015 12:57:23 PM: GetTemplateDetails Started
+7/21/2015 12:57:23 PM: GetTemplateDetails total record count:1
+7/21/2015 12:57:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:23 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:23 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:23 PM: GetTemplateDetails Finished
+7/21/2015 12:57:23 PM: InitializeDocumentView started
+7/21/2015 12:57:23 PM: InitializeDocumentView finished
+7/21/2015 12:57:23 PM: Calling database to get annotated images. DocumentId: 1969, Action: GetAnnotatedPages
+7/21/2015 12:57:23 PM: Calling database to get annotated images. DocumentId: 1969, Action: GetTaggedPages
+7/21/2015 12:57:23 PM: LoadImageToViewer started
+7/21/2015 12:57:23 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 12:57:23 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTI=\1.pdf Image Name: Q1VfQURfMV8xXzExNTI= Page No: 1
+7/21/2015 12:57:23 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 12:57:23 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexnti=jpg//1.jpeg
+7/21/2015 12:57:23 PM: Invoke method to get annotations from databnase.
+7/21/2015 12:57:23 PM: Get annotations from database.
+7/21/2015 12:57:23 PM: Document Id: 1969 Page No: 1
+7/21/2015 12:57:23 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 12:57:23 PM: MailPanelFill started
+7/21/2015 12:57:23 PM: MailPanelFill finished
+7/21/2015 12:57:43 PM: createControls Started
+7/21/2015 12:57:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:43 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: createControls Finished
+7/21/2015 12:57:43 PM: generatecontrols Started
+7/21/2015 12:57:43 PM: Calling database to get reference id and watermark.
+7/21/2015 12:57:43 PM: Database returned result: CU_AD_1_1_1153|
+7/21/2015 12:57:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:43 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:57:43 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 12:57:52 PM: createControls Started
+7/21/2015 12:57:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:52 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:52 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:52 PM: createControls Finished
+7/21/2015 12:57:52 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:57:52 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:57:52 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 12:57:52 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:57:53 PM: createControls Started
+7/21/2015 12:57:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:53 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:53 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:53 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:53 PM: createControls Finished
+7/21/2015 12:57:53 PM: btnSubmit_Click Started
+7/21/2015 12:57:53 PM: btnSubmit_Click Finished
+7/21/2015 12:57:56 PM: createControls Started
+7/21/2015 12:57:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:56 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:56 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:56 PM: createControls Finished
+7/21/2015 12:57:57 PM: createControls Started
+7/21/2015 12:57:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:57 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:57:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:57 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:57:57 PM: createControls Finished
+7/21/2015 12:58:03 PM: createControls Started
+7/21/2015 12:58:03 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:58:03 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:58:03 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 12:58:03 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:58:03 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:58:03 PM: Create controls,Load all Textbox dynamic
+7/21/2015 12:58:03 PM: createControls Finished
+7/21/2015 12:58:04 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 12:58:04 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 12:58:04 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 12:58:04 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 12:58:04 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 12:58:04 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 12:58:04 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 12:58:04 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 12:58:04 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 12:58:06 PM: CreateXML Started:-
+7/21/2015 12:58:06 PM: CreateXML Completed:-
+7/21/2015 12:58:06 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 12:58:07 PM: Exception : Thread was being aborted.
+7/21/2015 1:02:54 PM: createControls Started
+7/21/2015 1:02:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 1:02:55 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 1:02:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: createControls Finished
+7/21/2015 1:02:55 PM: generatecontrols Started
+7/21/2015 1:02:55 PM: Calling database to get reference id and watermark.
+7/21/2015 1:02:55 PM: Database returned result: CU_AD_1_1_1154|
+7/21/2015 1:02:55 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 1:02:55 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 1:02:55 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 1:02:55 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: createControls Started
+7/21/2015 3:37:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:37:52 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:37:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: createControls Finished
+7/21/2015 3:37:52 PM: generatecontrols Started
+7/21/2015 3:37:52 PM: Calling database to get reference id and watermark.
+7/21/2015 3:37:52 PM: Database returned result: CU_AD_1_1_1154|
+7/21/2015 3:37:52 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:37:52 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:37:52 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:37:52 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:37:59 PM: createControls Started
+7/21/2015 3:37:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:37:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:37:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:37:59 PM: createControls Finished
+7/21/2015 3:37:59 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:37:59 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:37:59 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:37:59 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:38:00 PM: createControls Started
+7/21/2015 3:38:00 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:00 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:00 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:00 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:00 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:00 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:00 PM: createControls Finished
+7/21/2015 3:38:00 PM: btnSubmit_Click Started
+7/21/2015 3:38:00 PM: btnSubmit_Click Finished
+7/21/2015 3:38:05 PM: createControls Started
+7/21/2015 3:38:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:05 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:05 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:05 PM: createControls Finished
+7/21/2015 3:38:06 PM: createControls Started
+7/21/2015 3:38:06 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:06 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:06 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:06 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:06 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:06 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:06 PM: createControls Finished
+7/21/2015 3:38:10 PM: createControls Started
+7/21/2015 3:38:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:10 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:10 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:10 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:10 PM: createControls Finished
+7/21/2015 3:38:16 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 3:38:16 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:38:16 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:38:16 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 3:38:16 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 3:38:16 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 3:38:16 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 3:38:16 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 3:38:16 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 3:38:19 PM: CreateXML Started:-
+7/21/2015 3:38:19 PM: CreateXML Completed:-
+7/21/2015 3:38:20 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 3:38:20 PM: Exception : Thread was being aborted.
+7/21/2015 3:38:28 PM: createControls Started
+7/21/2015 3:38:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:28 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: createControls Finished
+7/21/2015 3:38:28 PM: generatecontrols Started
+7/21/2015 3:38:28 PM: Calling database to get reference id and watermark.
+7/21/2015 3:38:28 PM: Database returned result: CU_AD_1_1_1155|
+7/21/2015 3:38:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:28 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:39 PM: createControls Started
+7/21/2015 3:38:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:39 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:39 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:39 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:39 PM: createControls Finished
+7/21/2015 3:38:39 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:38:39 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:38:39 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:38:39 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:38:39 PM: createControls Started
+7/21/2015 3:38:40 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:40 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:40 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:40 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:40 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:40 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:40 PM: createControls Finished
+7/21/2015 3:38:40 PM: btnSubmit_Click Started
+7/21/2015 3:38:40 PM: btnSubmit_Click Finished
+7/21/2015 3:38:49 PM: createControls Started
+7/21/2015 3:38:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:49 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:49 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:49 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:49 PM: createControls Finished
+7/21/2015 3:38:50 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 3:38:50 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:38:50 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:38:50 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 3:38:50 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 3:38:50 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 3:38:50 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 3:38:50 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 3:38:50 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 3:38:52 PM: CreateXML Started:-
+7/21/2015 3:38:52 PM: CreateXML Completed:-
+7/21/2015 3:38:52 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 3:38:52 PM: Exception : Thread was being aborted.
+7/21/2015 3:38:59 PM: createControls Started
+7/21/2015 3:38:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: createControls Finished
+7/21/2015 3:38:59 PM: generatecontrols Started
+7/21/2015 3:38:59 PM: Calling database to get reference id and watermark.
+7/21/2015 3:38:59 PM: Database returned result: CU_AD_1_1_1156|
+7/21/2015 3:38:59 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:59 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:38:59 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:38:59 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:39:05 PM: createControls Started
+7/21/2015 3:39:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:05 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:39:05 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:39:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:05 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:05 PM: createControls Finished
+7/21/2015 3:39:05 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:39:05 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:39:05 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:39:10 PM: AsyncFileUpload1_UploadedComplete Pagecount of MSWord 4
+7/21/2015 3:39:10 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:39:11 PM: createControls Started
+7/21/2015 3:39:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:39:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:39:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:11 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:11 PM: createControls Finished
+7/21/2015 3:39:11 PM: btnSubmit_Click Started
+7/21/2015 3:39:11 PM: Exception : no filter defined for D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTY=.docx
+7/21/2015 3:39:12 PM: createControls Started
+7/21/2015 3:39:12 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:12 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:39:12 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:39:12 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:12 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:12 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:39:12 PM: createControls Finished
+7/21/2015 3:39:12 PM: Started Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 3:39:12 PM: Src Details : http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTY=.pdf
+7/21/2015 3:39:12 PM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+7/21/2015 3:39:12 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTY=\1.pdf Image Name: Q1VfQURfMV8xXzExNTY= Page No: 1
+7/21/2015 3:39:12 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 3:39:12 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexnty=jpg//1.jpeg
+7/21/2015 3:39:12 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+7/21/2015 3:39:21 PM: BindDocumentType started
+7/21/2015 3:39:21 PM: BindDocumentType finished
+7/21/2015 3:58:28 PM: createControls Started
+7/21/2015 3:58:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:28 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: createControls Finished
+7/21/2015 3:58:28 PM: generatecontrols Started
+7/21/2015 3:58:28 PM: Calling database to get reference id and watermark.
+7/21/2015 3:58:28 PM: Database returned result: CU_AD_1_1_1156|
+7/21/2015 3:58:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:28 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:58:28 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 3:58:35 PM: createControls Started
+7/21/2015 3:58:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:35 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:35 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:35 PM: createControls Finished
+7/21/2015 3:58:35 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:58:35 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:58:35 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 3:58:35 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:58:36 PM: createControls Started
+7/21/2015 3:58:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:36 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:36 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:36 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:36 PM: createControls Finished
+7/21/2015 3:58:36 PM: btnSubmit_Click Started
+7/21/2015 3:58:36 PM: btnSubmit_Click Finished
+7/21/2015 3:58:40 PM: createControls Started
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: createControls Finished
+7/21/2015 3:58:41 PM: createControls Started
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:41 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:41 PM: createControls Finished
+7/21/2015 3:58:46 PM: createControls Started
+7/21/2015 3:58:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:46 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:46 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 3:58:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 3:58:46 PM: createControls Finished
+7/21/2015 3:58:52 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 3:58:52 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 3:58:52 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 3:58:52 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 3:58:52 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 3:58:52 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 3:58:52 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 3:58:52 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 3:58:52 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 3:58:56 PM: CreateXML Started:-
+7/21/2015 3:58:56 PM: CreateXML Completed:-
+7/21/2015 3:58:56 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 3:58:56 PM: Exception : Thread was being aborted.
+7/21/2015 4:04:19 PM: createControls Started
+7/21/2015 4:04:19 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:19 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:19 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: createControls Finished
+7/21/2015 4:04:19 PM: generatecontrols Started
+7/21/2015 4:04:19 PM: Calling database to get reference id and watermark.
+7/21/2015 4:04:19 PM: Database returned result: CU_AD_1_1_1157|
+7/21/2015 4:04:19 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:19 PM: generatecontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:19 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 4:04:19 PM: Generatecontrols,Load all Textbox dynamic
+7/21/2015 4:04:23 PM: createControls Started
+7/21/2015 4:04:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:23 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:23 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:23 PM: createControls Finished
+7/21/2015 4:04:23 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 4:04:23 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 4:04:23 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/21/2015 4:04:23 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 4:04:24 PM: createControls Started
+7/21/2015 4:04:24 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:24 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:24 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:24 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:24 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:24 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:24 PM: createControls Finished
+7/21/2015 4:04:24 PM: btnSubmit_Click Started
+7/21/2015 4:04:24 PM: btnSubmit_Click Finished
+7/21/2015 4:04:28 PM: createControls Started
+7/21/2015 4:04:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:28 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:28 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:28 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:28 PM: createControls Finished
+7/21/2015 4:04:29 PM: createControls Started
+7/21/2015 4:04:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:29 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:29 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:29 PM: createControls Finished
+7/21/2015 4:04:34 PM: createControls Started
+7/21/2015 4:04:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:34 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:34 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:04:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:04:34 PM: createControls Finished
+7/21/2015 4:04:40 PM: Started Saving Uploaded Document in Save Button Click
+7/21/2015 4:04:40 PM: AsyncFileUpload1_UploadedComplete Started
+7/21/2015 4:04:40 PM: AsyncFileUpload1_UploadedComplete Finished
+7/21/2015 4:04:40 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 4:04:40 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 4:04:40 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 4:04:40 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 4:04:40 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 4:04:40 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 4:04:40 PM: CreateXML Started:-
+7/21/2015 4:04:40 PM: CreateXML Completed:-
+7/21/2015 4:04:40 PM: Save button click after saving or updating the ReturnCode= 0
+7/21/2015 4:04:40 PM: Exception : Thread was being aborted.
+7/21/2015 4:05:34 PM: BindDocumentType started
+7/21/2015 4:05:34 PM: BindDocumentType finished
+7/21/2015 4:05:38 PM: createControls Started
+7/21/2015 4:05:38 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:05:38 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:05:38 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: createControls Finished
+7/21/2015 4:05:38 PM: GetTemplateDetails started
+7/21/2015 4:05:38 PM: generatecontrols Started
+7/21/2015 4:05:38 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:05:38 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:05:38 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:05:38 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:05:46 PM: GetSginatureDetails Started:-
+7/21/2015 4:05:46 PM: GetSginatureDetails Completed:-
+7/21/2015 4:05:46 PM: GetTemplateDetails Started
+7/21/2015 4:05:46 PM: GetTemplateDetails total record count:1
+7/21/2015 4:05:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:46 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:05:46 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:05:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:46 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:46 PM: GetTemplateDetails Finished
+7/21/2015 4:05:46 PM: InitializeDocumentView started
+7/21/2015 4:05:46 PM: InitializeDocumentView finished
+7/21/2015 4:05:46 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 4:05:46 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 4:05:46 PM: LoadImageToViewer started
+7/21/2015 4:05:46 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:05:46 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:05:46 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:05:47 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:05:47 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:05:47 PM: Get annotations from database.
+7/21/2015 4:05:47 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:05:47 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:05:47 PM: MailPanelFill started
+7/21/2015 4:05:47 PM: MailPanelFill finished
+7/21/2015 4:05:59 PM: GetTemplateDetails Started
+7/21/2015 4:05:59 PM: GetTemplateDetails total record count:1
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:05:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: GetTemplateDetails Finished
+7/21/2015 4:05:59 PM: GetTemplateDetails Started
+7/21/2015 4:05:59 PM: GetTemplateDetails total record count:1
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:05:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:05:59 PM: GetTemplateDetails Finished
+7/21/2015 4:05:59 PM: LoadImageToViewer started
+7/21/2015 4:05:59 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:05:59 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:05:59 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:06:00 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:06:00 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:06:00 PM: Get annotations from database.
+7/21/2015 4:06:00 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:06:00 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:06:00 PM: btnLock_Click started
+7/21/2015 4:06:00 PM: LoadImageToViewer started
+7/21/2015 4:06:00 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:06:00 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:06:00 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:06:01 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:06:01 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:06:01 PM: Get annotations from database.
+7/21/2015 4:06:01 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:06:01 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:06:01 PM: btnLock_Click finished
+7/21/2015 4:26:45 PM: BindDocumentType started
+7/21/2015 4:26:45 PM: BindDocumentType finished
+7/21/2015 4:26:49 PM: createControls Started
+7/21/2015 4:26:49 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:26:49 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:26:49 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:26:50 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:26:50 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:26:50 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:26:50 PM: createControls Finished
+7/21/2015 4:26:50 PM: GetTemplateDetails started
+7/21/2015 4:26:50 PM: generatecontrols Started
+7/21/2015 4:26:50 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:26:50 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:26:50 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:26:50 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:26:50 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:26:50 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:26:55 PM: GetSginatureDetails Started:-
+7/21/2015 4:26:55 PM: GetSginatureDetails Completed:-
+7/21/2015 4:26:55 PM: GetTemplateDetails Started
+7/21/2015 4:26:55 PM: GetTemplateDetails total record count:1
+7/21/2015 4:26:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:26:55 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:26:55 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:26:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:26:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:26:55 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:26:55 PM: GetTemplateDetails Finished
+7/21/2015 4:26:55 PM: InitializeDocumentView started
+7/21/2015 4:26:55 PM: InitializeDocumentView finished
+7/21/2015 4:26:55 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 4:26:55 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 4:26:55 PM: LoadImageToViewer started
+7/21/2015 4:26:55 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:26:55 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:26:55 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:26:56 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:26:56 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:26:56 PM: Get annotations from database.
+7/21/2015 4:26:56 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:26:56 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:26:56 PM: MailPanelFill started
+7/21/2015 4:26:56 PM: MailPanelFill finished
+7/21/2015 4:27:02 PM: GetTemplateDetails Started
+7/21/2015 4:27:02 PM: GetTemplateDetails total record count:1
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:27:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: GetTemplateDetails Finished
+7/21/2015 4:27:02 PM: GetTemplateDetails Started
+7/21/2015 4:27:02 PM: GetTemplateDetails total record count:1
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:27:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:27:02 PM: GetTemplateDetails Finished
+7/21/2015 4:27:02 PM: LoadImageToViewer started
+7/21/2015 4:27:02 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:27:02 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:27:02 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:27:03 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:27:03 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:27:03 PM: Get annotations from database.
+7/21/2015 4:27:03 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:27:03 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:27:03 PM: btnLock_Click started
+7/21/2015 4:27:03 PM: LoadImageToViewer started
+7/21/2015 4:27:03 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:27:03 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:27:03 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:27:04 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:27:04 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:27:04 PM: Get annotations from database.
+7/21/2015 4:27:04 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:27:04 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:27:04 PM: btnLock_Click finished
+7/21/2015 4:30:40 PM: BindDocumentType started
+7/21/2015 4:30:40 PM: BindDocumentType finished
+7/21/2015 4:30:45 PM: createControls Started
+7/21/2015 4:30:45 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:30:45 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:30:45 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: createControls Finished
+7/21/2015 4:30:45 PM: GetTemplateDetails started
+7/21/2015 4:30:45 PM: generatecontrols Started
+7/21/2015 4:30:45 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:30:45 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:30:45 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:30:45 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:30:51 PM: GetSginatureDetails Started:-
+7/21/2015 4:30:51 PM: GetSginatureDetails Completed:-
+7/21/2015 4:30:51 PM: GetTemplateDetails Started
+7/21/2015 4:30:51 PM: GetTemplateDetails total record count:1
+7/21/2015 4:30:51 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:51 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:30:51 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:30:51 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:51 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:51 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:51 PM: GetTemplateDetails Finished
+7/21/2015 4:30:51 PM: InitializeDocumentView started
+7/21/2015 4:30:51 PM: InitializeDocumentView finished
+7/21/2015 4:30:51 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 4:30:51 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 4:30:51 PM: LoadImageToViewer started
+7/21/2015 4:30:51 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:30:51 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:30:51 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:30:52 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:30:52 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:30:52 PM: Get annotations from database.
+7/21/2015 4:30:52 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:30:52 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:30:52 PM: MailPanelFill started
+7/21/2015 4:30:52 PM: MailPanelFill finished
+7/21/2015 4:30:59 PM: GetTemplateDetails Started
+7/21/2015 4:30:59 PM: GetTemplateDetails total record count:1
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:30:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: GetTemplateDetails Finished
+7/21/2015 4:30:59 PM: GetTemplateDetails Started
+7/21/2015 4:30:59 PM: GetTemplateDetails total record count:1
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:30:59 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:30:59 PM: GetTemplateDetails Finished
+7/21/2015 4:30:59 PM: LoadImageToViewer started
+7/21/2015 4:30:59 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:30:59 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:30:59 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:30:59 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:30:59 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:30:59 PM: Get annotations from database.
+7/21/2015 4:30:59 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:30:59 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:31:00 PM: btnLock_Click started
+7/21/2015 4:31:00 PM: LoadImageToViewer started
+7/21/2015 4:31:00 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:31:00 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:31:00 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:31:00 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:31:00 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:31:00 PM: Get annotations from database.
+7/21/2015 4:31:00 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:31:00 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:31:00 PM: btnLock_Click finished
+7/21/2015 4:31:09 PM: GetTemplateDetails Started
+7/21/2015 4:31:09 PM: GetTemplateDetails total record count:1
+7/21/2015 4:31:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:31:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:31:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:31:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:31:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:31:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:31:09 PM: GetTemplateDetails Finished
+7/21/2015 4:31:09 PM: GetDBFieldName the DBFld 
+7/21/2015 4:31:09 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 4:31:09 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 4:31:09 PM: GetDBFieldName the DBFld 
+7/21/2015 4:31:09 PM: GetDBFieldName the DBFld 
+7/21/2015 4:31:09 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 4:33:12 PM: BindDocumentType started
+7/21/2015 4:33:12 PM: BindDocumentType finished
+7/21/2015 4:33:16 PM: createControls Started
+7/21/2015 4:33:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:33:16 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 4:33:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: createControls Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: createControls Finished
+7/21/2015 4:33:16 PM: GetTemplateDetails started
+7/21/2015 4:33:16 PM: generatecontrols Started
+7/21/2015 4:33:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:33:16 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 4:33:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:33:16 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 4:33:37 PM: GetSginatureDetails Started:-
+7/21/2015 4:33:37 PM: GetSginatureDetails Completed:-
+7/21/2015 4:33:37 PM: GetTemplateDetails Started
+7/21/2015 4:33:37 PM: GetTemplateDetails total record count:1
+7/21/2015 4:33:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:33:37 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:33:37 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:33:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:33:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:33:37 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:33:37 PM: GetTemplateDetails Finished
+7/21/2015 4:33:37 PM: InitializeDocumentView started
+7/21/2015 4:33:37 PM: InitializeDocumentView finished
+7/21/2015 4:33:37 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 4:33:37 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 4:33:38 PM: LoadImageToViewer started
+7/21/2015 4:33:38 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:33:38 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:33:38 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:33:38 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:33:38 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:33:38 PM: Get annotations from database.
+7/21/2015 4:33:38 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:33:38 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:33:38 PM: MailPanelFill started
+7/21/2015 4:33:38 PM: MailPanelFill finished
+7/21/2015 4:38:31 PM: GetTemplateDetails Started
+7/21/2015 4:38:31 PM: GetTemplateDetails total record count:1
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:38:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: GetTemplateDetails Finished
+7/21/2015 4:38:31 PM: GetTemplateDetails Started
+7/21/2015 4:38:31 PM: GetTemplateDetails total record count:1
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:38:31 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:31 PM: GetTemplateDetails Finished
+7/21/2015 4:38:31 PM: LoadImageToViewer started
+7/21/2015 4:38:31 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:38:31 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:38:31 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:38:31 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:38:31 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:38:31 PM: Get annotations from database.
+7/21/2015 4:38:31 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:38:31 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:38:31 PM: btnLock_Click started
+7/21/2015 4:38:31 PM: LoadImageToViewer started
+7/21/2015 4:38:31 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 4:38:31 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 4:38:31 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 4:38:32 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 4:38:32 PM: Invoke method to get annotations from databnase.
+7/21/2015 4:38:32 PM: Get annotations from database.
+7/21/2015 4:38:32 PM: Document Id: 1974 Page No: 1
+7/21/2015 4:38:32 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 4:38:32 PM: btnLock_Click finished
+7/21/2015 4:38:38 PM: GetTemplateDetails Started
+7/21/2015 4:38:38 PM: GetTemplateDetails total record count:1
+7/21/2015 4:38:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:38:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:38:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:38:38 PM: GetTemplateDetails Finished
+7/21/2015 4:38:38 PM: GetDBFieldName the DBFld 
+7/21/2015 4:38:38 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 4:38:38 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 4:38:38 PM: GetDBFieldName the DBFld 
+7/21/2015 4:38:38 PM: GetDBFieldName the DBFld 
+7/21/2015 4:38:38 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 4:40:25 PM: GetTemplateDetails Started
+7/21/2015 4:40:25 PM: GetTemplateDetails total record count:1
+7/21/2015 4:40:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:40:25 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:40:25 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:40:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:40:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:40:25 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:40:25 PM: GetTemplateDetails Finished
+7/21/2015 4:40:25 PM: GetDBFieldName the DBFld 
+7/21/2015 4:40:25 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 4:40:25 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 4:40:25 PM: GetDBFieldName the DBFld 
+7/21/2015 4:40:25 PM: GetDBFieldName the DBFld 
+7/21/2015 4:40:25 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 4:41:35 PM: GetTemplateDetails Started
+7/21/2015 4:41:35 PM: GetTemplateDetails total record count:1
+7/21/2015 4:41:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:41:35 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:41:35 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:41:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:41:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:41:35 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:41:35 PM: GetTemplateDetails Finished
+7/21/2015 4:41:35 PM: GetDBFieldName the DBFld 
+7/21/2015 4:41:35 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 4:41:35 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 4:41:35 PM: GetDBFieldName the DBFld 
+7/21/2015 4:41:35 PM: GetDBFieldName the DBFld 
+7/21/2015 4:41:35 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 4:44:15 PM: GetTemplateDetails Started
+7/21/2015 4:44:15 PM: GetTemplateDetails total record count:1
+7/21/2015 4:44:15 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:44:15 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:44:15 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 4:44:15 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:44:15 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:44:15 PM: Create controls,Load all Textbox dynamic
+7/21/2015 4:44:15 PM: GetTemplateDetails Finished
+7/21/2015 4:44:16 PM: GetDBFieldName the DBFld 
+7/21/2015 4:44:16 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 4:44:16 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 4:44:16 PM: GetDBFieldName the DBFld 
+7/21/2015 4:44:16 PM: GetDBFieldName the DBFld 
+7/21/2015 4:44:16 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 4:56:36 PM: BindDocumentType started
+7/21/2015 4:56:36 PM: BindDocumentType finished
+7/21/2015 5:00:33 PM: createControls Started
+7/21/2015 5:00:33 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: createControls Finished
+7/21/2015 5:00:33 PM: GetTemplateDetails started
+7/21/2015 5:00:33 PM: generatecontrols Started
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:33 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:42 PM: createControls Started
+7/21/2015 5:00:42 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:42 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:00:42 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:00:42 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:42 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:42 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:42 PM: createControls Finished
+7/21/2015 5:00:43 PM: createControls Started
+7/21/2015 5:00:43 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:00:44 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:00:44 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: createControls Finished
+7/21/2015 5:00:44 PM: GetTemplateDetails started
+7/21/2015 5:00:44 PM: generatecontrols Started
+7/21/2015 5:00:44 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 5:00:44 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 5:00:44 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:00:44 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:07:50 PM: GetSginatureDetails Started:-
+7/21/2015 5:07:50 PM: GetSginatureDetails Completed:-
+7/21/2015 5:07:50 PM: GetTemplateDetails Started
+7/21/2015 5:07:50 PM: GetTemplateDetails total record count:1
+7/21/2015 5:07:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:50 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:07:50 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:07:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:50 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:50 PM: GetTemplateDetails Finished
+7/21/2015 5:07:50 PM: InitializeDocumentView started
+7/21/2015 5:07:50 PM: InitializeDocumentView finished
+7/21/2015 5:07:50 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 5:07:50 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 5:07:50 PM: LoadImageToViewer started
+7/21/2015 5:07:50 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:07:50 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:07:50 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:07:51 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:07:51 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:07:51 PM: Get annotations from database.
+7/21/2015 5:07:51 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:07:51 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:07:51 PM: MailPanelFill started
+7/21/2015 5:07:51 PM: MailPanelFill finished
+7/21/2015 5:07:56 PM: GetTemplateDetails Started
+7/21/2015 5:07:56 PM: GetTemplateDetails total record count:1
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:07:56 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: GetTemplateDetails Finished
+7/21/2015 5:07:56 PM: GetTemplateDetails Started
+7/21/2015 5:07:56 PM: GetTemplateDetails total record count:1
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:07:56 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:07:56 PM: GetTemplateDetails Finished
+7/21/2015 5:07:56 PM: LoadImageToViewer started
+7/21/2015 5:07:56 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:07:56 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:07:56 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:07:57 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:07:57 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:07:57 PM: Get annotations from database.
+7/21/2015 5:07:57 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:07:57 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:07:57 PM: btnLock_Click started
+7/21/2015 5:07:57 PM: LoadImageToViewer started
+7/21/2015 5:07:57 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:07:57 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:07:57 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:07:58 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:07:58 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:07:58 PM: Get annotations from database.
+7/21/2015 5:07:58 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:07:58 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:07:58 PM: btnLock_Click finished
+7/21/2015 5:08:30 PM: GetTemplateDetails Started
+7/21/2015 5:08:30 PM: GetTemplateDetails total record count:1
+7/21/2015 5:08:30 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:08:30 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:08:30 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:08:30 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:08:30 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:08:30 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:08:30 PM: GetTemplateDetails Finished
+7/21/2015 5:08:30 PM: GetDBFieldName the DBFld 
+7/21/2015 5:08:30 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 5:08:30 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 5:08:30 PM: GetDBFieldName the DBFld 
+7/21/2015 5:08:30 PM: GetDBFieldName the DBFld 
+7/21/2015 5:08:30 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 5:10:16 PM: GetDBFieldName the DBFld 
+7/21/2015 5:10:16 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 5:10:16 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 5:10:16 PM: GetDBFieldName the DBFld 
+7/21/2015 5:10:16 PM: GetDBFieldName the DBFld 
+7/21/2015 5:10:16 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 5:21:12 PM: BindDocumentType started
+7/21/2015 5:21:12 PM: BindDocumentType finished
+7/21/2015 5:21:19 PM: createControls Started
+7/21/2015 5:21:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:21:19 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:21:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: createControls Finished
+7/21/2015 5:21:19 PM: GetTemplateDetails started
+7/21/2015 5:21:19 PM: generatecontrols Started
+7/21/2015 5:21:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 5:21:19 PM: GenerateControls:Loaded all Dropdownlist dynamically
+7/21/2015 5:21:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:21:19 PM: GenerateControls:Loaded all Textbox dynamically
+7/21/2015 5:21:29 PM: GetSginatureDetails Started:-
+7/21/2015 5:21:29 PM: GetSginatureDetails Completed:-
+7/21/2015 5:21:29 PM: GetTemplateDetails Started
+7/21/2015 5:21:29 PM: GetTemplateDetails total record count:1
+7/21/2015 5:21:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:29 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:29 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:29 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:29 PM: GetTemplateDetails Finished
+7/21/2015 5:21:29 PM: InitializeDocumentView started
+7/21/2015 5:21:29 PM: InitializeDocumentView finished
+7/21/2015 5:21:29 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 5:21:29 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 5:21:29 PM: LoadImageToViewer started
+7/21/2015 5:21:29 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:21:29 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:21:29 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:21:30 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:21:30 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:21:30 PM: Get annotations from database.
+7/21/2015 5:21:30 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:21:30 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:21:30 PM: MailPanelFill started
+7/21/2015 5:21:30 PM: MailPanelFill finished
+7/21/2015 5:21:33 PM: GetTemplateDetails Started
+7/21/2015 5:21:33 PM: GetTemplateDetails total record count:1
+7/21/2015 5:21:33 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:33 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:33 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:33 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:33 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:33 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:33 PM: GetTemplateDetails Finished
+7/21/2015 5:21:33 PM: GetTemplateDetails Started
+7/21/2015 5:21:34 PM: GetTemplateDetails total record count:1
+7/21/2015 5:21:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:34 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:34 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:34 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:34 PM: GetTemplateDetails Finished
+7/21/2015 5:21:34 PM: LoadImageToViewer started
+7/21/2015 5:21:34 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:21:34 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:21:34 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:21:34 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:21:34 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:21:34 PM: Get annotations from database.
+7/21/2015 5:21:34 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:21:34 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:21:34 PM: btnLock_Click started
+7/21/2015 5:21:34 PM: LoadImageToViewer started
+7/21/2015 5:21:34 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:21:34 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:21:34 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:21:35 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:21:35 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:21:35 PM: Get annotations from database.
+7/21/2015 5:21:35 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:21:35 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:21:35 PM: btnLock_Click finished
+7/21/2015 5:21:38 PM: GetTemplateDetails Started
+7/21/2015 5:21:38 PM: GetTemplateDetails total record count:1
+7/21/2015 5:21:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:21:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:38 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:21:38 PM: GetTemplateDetails Finished
+7/21/2015 5:21:41 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 5:21:48 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 5:21:48 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 5:21:48 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 5:21:48 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 5:21:48 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 5:21:51 PM: Index fields values saved succesfully
+7/21/2015 5:22:02 PM: GetTemplateDetails Started
+7/21/2015 5:22:02 PM: GetTemplateDetails total record count:1
+7/21/2015 5:22:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:02 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:02 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:02 PM: GetTemplateDetails Finished
+7/21/2015 5:22:02 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/21/2015 5:22:02 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/21/2015 5:22:02 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/21/2015 5:22:02 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/21/2015 5:22:02 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/21/2015 5:22:02 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/21/2015 5:22:02 PM: Index fields values saved succesfully
+7/21/2015 5:22:09 PM: GetTemplateDetails Started
+7/21/2015 5:22:09 PM: GetTemplateDetails total record count:1
+7/21/2015 5:22:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:09 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:09 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:09 PM: GetTemplateDetails Finished
+7/21/2015 5:22:09 PM: BindDocumentType started
+7/21/2015 5:22:09 PM: BindDocumentType finished
+7/21/2015 5:22:09 PM: GetTemplateDetails started
+7/21/2015 5:22:09 PM: GetTemplateDetails started
+7/21/2015 5:22:09 PM: createControls Started
+7/21/2015 5:22:09 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:22:09 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:22:09 PM: createControls Loaded all Dropdownlist dynamically
+7/21/2015 5:22:09 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:22:09 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:22:09 PM: createControls Loaded all Textbox dynamically
+7/21/2015 5:22:09 PM: createControls Finished
+7/21/2015 5:22:17 PM: GetSginatureDetails Started:-
+7/21/2015 5:22:17 PM: GetSginatureDetails Completed:-
+7/21/2015 5:22:17 PM: GetTemplateDetails Started
+7/21/2015 5:22:17 PM: GetTemplateDetails total record count:1
+7/21/2015 5:22:17 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:17 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:17 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:17 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:17 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:17 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:17 PM: GetTemplateDetails Finished
+7/21/2015 5:22:17 PM: InitializeDocumentView started
+7/21/2015 5:22:17 PM: InitializeDocumentView finished
+7/21/2015 5:22:17 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetAnnotatedPages
+7/21/2015 5:22:17 PM: Calling database to get annotated images. DocumentId: 1974, Action: GetTaggedPages
+7/21/2015 5:22:17 PM: LoadImageToViewer started
+7/21/2015 5:22:17 PM: Setting image to viewer. Action:  Page count: 1 Current Page:1
+7/21/2015 5:22:17 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExNTc=\1.pdf Image Name: Q1VfQURfMV8xXzExNTc= Page No: 1
+7/21/2015 5:22:17 PM: Converting PDF to JPEG without applying watermark.
+7/21/2015 5:22:18 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55359/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//q1vfqurfmv8xxzexntc=jpg//1.jpeg
+7/21/2015 5:22:18 PM: Invoke method to get annotations from databnase.
+7/21/2015 5:22:18 PM: Get annotations from database.
+7/21/2015 5:22:18 PM: Document Id: 1974 Page No: 1
+7/21/2015 5:22:18 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+7/21/2015 5:22:18 PM: MailPanelFill started
+7/21/2015 5:22:18 PM: MailPanelFill finished
+7/21/2015 5:22:23 PM: GetTemplateDetails Started
+7/21/2015 5:22:23 PM: GetTemplateDetails total record count:1
+7/21/2015 5:22:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:23 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:23 PM: Createcontrols,Load all Dropdownlist dynamic
+7/21/2015 5:22:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:23 PM: Create controls,Load all Textbox dynamic
+7/21/2015 5:22:23 PM: GetTemplateDetails Finished

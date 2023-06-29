@@ -1,0 +1,711 @@
+7/28/2015 10:41:57 AM: createControls Started
+7/28/2015 10:41:57 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:41:57 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:41:57 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: createControls Finished
+7/28/2015 10:41:57 AM: generatecontrols Started
+7/28/2015 10:41:57 AM: Calling database to get reference id and watermark.
+7/28/2015 10:41:57 AM: Database returned result: TES_ADM_1_1_1108|
+7/28/2015 10:41:57 AM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 10:41:57 AM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 10:41:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 10:41:57 AM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: createControls Started
+7/28/2015 10:42:04 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:04 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:04 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:04 AM: createControls Finished
+7/28/2015 10:42:04 AM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 10:42:04 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 10:42:05 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 10:42:05 AM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 10:42:07 AM: createControls Started
+7/28/2015 10:42:07 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:07 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:07 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:07 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:07 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:07 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:07 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:07 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:07 AM: createControls Finished
+7/28/2015 10:42:07 AM: btnSubmit_Click Started
+7/28/2015 10:42:07 AM: Exception : no filter defined for D:\WDMSDocument\TempWorkFolder\VEVTX0FETV8xXzFfMTEwOA==.docx
+7/28/2015 10:42:16 AM: createControls Started
+7/28/2015 10:42:16 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:16 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:16 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:16 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:16 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:16 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:16 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:16 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:16 AM: createControls Finished
+7/28/2015 10:42:16 AM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 10:42:16 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 10:42:16 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 10:42:16 AM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 10:42:18 AM: createControls Started
+7/28/2015 10:42:18 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:18 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:18 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:18 AM: createControls Finished
+7/28/2015 10:42:18 AM: btnSubmit_Click Started
+7/28/2015 10:42:18 AM: btnSubmit_Click Finished
+7/28/2015 10:42:22 AM: createControls Started
+7/28/2015 10:42:22 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:22 AM: Create controls,Load all Textbox dynamic
+7/28/2015 10:42:22 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:22 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:22 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:22 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:22 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:22 AM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 10:42:22 AM: createControls Finished
+7/28/2015 10:42:22 AM: Started Saving Uploaded Document in Save Button Click
+7/28/2015 10:42:22 AM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 10:42:22 AM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld7
+7/28/2015 10:42:22 AM: GetDBFieldName the DBFld UPLOAD_vFld8
+7/28/2015 10:42:23 AM: CreateXML Started:-
+7/28/2015 10:42:24 AM: CreateXML Completed:-
+7/28/2015 10:42:24 AM: Save button click after saving or updating the ReturnCode= 0
+7/28/2015 10:42:24 AM: Exception : Thread was being aborted.
+7/28/2015 11:12:08 AM: IntitialLoadGrid Started:-
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: CreateLinKs started
+7/28/2015 11:12:08 AM: IntitialLoadGrid Completed:-
+7/28/2015 11:14:01 AM: Rendering controls. Object Type: TextBox, Control Id: Control_146
+7/28/2015 11:14:01 AM: Rendering controls completed.
+7/28/2015 11:14:01 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+7/28/2015 11:14:01 AM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+7/28/2015 11:14:01 AM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+7/28/2015 11:14:01 AM: Rendering controls completed.
+7/28/2015 11:14:01 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_146
+7/28/2015 11:14:01 AM: Completed initialization of controls.
+7/28/2015 11:14:01 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+7/28/2015 11:14:01 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+7/28/2015 11:14:01 AM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+7/28/2015 11:14:01 AM: Completed initialization of controls.
+7/28/2015 11:14:01 AM: controls binded successfully
+7/28/2015 11:14:01 AM: going to bind image with path:D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjc=.pdf
+7/28/2015 11:14:01 AM: Binding image and converting to jpg started:
+7/28/2015 11:14:12 AM: Rendering controls. Object Type: TextBox, Control Id: Control_146
+7/28/2015 11:14:12 AM: Rendering controls completed.
+7/28/2015 11:14:12 AM: Rendering controls. Object Type: TextBox, Control Id: Control_144
+7/28/2015 11:14:12 AM: Rendering controls. Object Type: TextBox, Control Id: Control_145
+7/28/2015 11:14:12 AM: Rendering controls. Object Type: DropDown, Control Id: Control_147
+7/28/2015 11:14:12 AM: Rendering controls completed.
+7/28/2015 11:14:12 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_146
+7/28/2015 11:14:12 AM: Completed initialization of controls.
+7/28/2015 11:14:12 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_144
+7/28/2015 11:14:12 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_145
+7/28/2015 11:14:12 AM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_147
+7/28/2015 11:14:12 AM: Completed initialization of controls.
+7/28/2015 11:14:12 AM: controls binded successfully
+7/28/2015 11:14:12 AM: going to bind image with path:D:\WDMSDocument\UploadedDocuments\global\1\2015-06-02\Q1VfQURfMV8xXzExMjc=.pdf
+7/28/2015 11:14:12 AM: Binding image and converting to jpg started:
+7/28/2015 11:18:18 AM: DataEntryTypes count : 3
+7/28/2015 11:18:24 AM: DataEntryTypes count : 3
+7/28/2015 11:19:00 AM: DataEntryTypes count : 3
+7/28/2015 11:19:38 AM: DataEntryTypes count : 3
+7/28/2015 11:19:57 AM: DataEntryTypes count : 3
+7/28/2015 11:20:05 AM: Dataentry Type of the stage : Normal
+7/28/2015 11:20:40 AM: Dataentry Type of the stage : Normal
+7/28/2015 11:20:40 AM: retrive the data from textbox to save the values
+7/28/2015 11:20:40 AM: Save completed successfully: 
+7/28/2015 11:20:43 AM: DataEntryTypes count : 3
+7/28/2015 11:20:49 AM: User clicked save to save stage details.
+7/28/2015 11:20:49 AM: Selected data entry type: Guided
+7/28/2015 11:20:49 AM: Selected data entry type Id: 1027
+7/28/2015 11:21:06 AM: User browsed template for stage.
+7/28/2015 11:21:06 AM: File upload control contains file. File path: leave_report.pdf
+7/28/2015 11:21:06 AM: Deleting temporary folder path to clear old files if exists. Path: D:\WDMSDocument\TempWorkFolder\/35/36/470
+7/28/2015 11:21:06 AM: Creating temporary folder path to store uploaded file/template. Path: D:\WDMSDocument\TempWorkFolder\/35/36/470
+7/28/2015 11:21:06 AM: Multiple page file, Renaming as temp_470..pdf
+7/28/2015 11:21:06 AM: deleting the old pdf files in folder:D:\WDMSDocument\TempWorkFolder\35\36\470
+7/28/2015 11:21:06 AM: deleting the old jpg files in folder:D:\WDMSDocument\TempWorkFolder\35\36\470
+7/28/2015 11:21:06 AM: Saving uploaded file/template to temporary location: D:\WDMSDocument\TempWorkFolder\/35/36/470/temp_470.pdf
+7/28/2015 11:21:06 AM: Calling method to split files and return splitted pages count.
+7/28/2015 11:21:07 AM: Splitting of file is successfully completed. Pages count: 1
+7/28/2015 11:21:07 AM: Converting splitted files into jpg. Source: D:\WDMSDocument\TempWorkFolder\35\36\470\1.pdf Destination: D:\WDMSDocument\TempWorkFolder\35\36\470\1.jpg
+7/28/2015 11:21:07 AM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: D:\WDMSDocument\TempWorkFolder\35\36\470
+7/28/2015 11:21:07 AM: Deleting original file after completion of file splitting: D:\WDMSDocument\TempWorkFolder\/35/36/470/temp_470.pdf
+7/28/2015 11:21:07 AM: User browsed file/template uploaded successfully.
+7/28/2015 11:21:11 AM: User clicked save to save stage details.
+7/28/2015 11:21:11 AM: Selected data entry type: Guided
+7/28/2015 11:21:11 AM: Selected data entry type Id: 1027
+7/28/2015 11:21:11 AM: Actual data entry type before editing the data entry type: Normal
+7/28/2015 11:21:11 AM: Template path: \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/470/temp_470.pdf
+7/28/2015 11:21:11 AM: Data Entry Id : 1028
+7/28/2015 11:21:11 AM: Action for saving the stage : EditStage
+7/28/2015 11:21:11 AM: Deleting original file folder for clearing the olde files in that location : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/470
+7/28/2015 11:21:11 AM: copying files from temporary location to original 
+7/28/2015 11:21:11 AM: Deleting temporay folder: D:\WDMSDocument\TempWorkFolder\/35/36/470
+7/28/2015 11:21:12 AM: Exception : Thread was being aborted.
+7/28/2015 11:21:16 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:21:16 AM: Retrived the data to bind the controls
+7/28/2015 11:21:16 AM: All controls values binded properly
+7/28/2015 11:21:16 AM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/470/temp_470.pdf
+7/28/2015 11:21:16 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:21:16 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\35\36\470\/1.jpg
+7/28/2015 11:21:19 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:21:29 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:21:33 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:21:33 AM: retrive the data from textbox to save the values
+7/28/2015 11:21:33 AM: Dataentry Type of the stage before saving : Guided
+7/28/2015 11:21:33 AM: Save completed successfully: 
+7/28/2015 11:21:37 AM: DataEntryTypes count : 3
+7/28/2015 11:21:45 AM: User clicked save to save stage details.
+7/28/2015 11:21:45 AM: Selected data entry type: Guided
+7/28/2015 11:21:45 AM: Selected data entry type Id: 1027
+7/28/2015 11:21:58 AM: User browsed template for stage.
+7/28/2015 11:21:58 AM: File upload control contains file. File path: leave_summary.pdf
+7/28/2015 11:21:58 AM: Deleting temporary folder path to clear old files if exists. Path: D:\WDMSDocument\TempWorkFolder\/35/36/471
+7/28/2015 11:21:58 AM: Creating temporary folder path to store uploaded file/template. Path: D:\WDMSDocument\TempWorkFolder\/35/36/471
+7/28/2015 11:21:58 AM: Multiple page file, Renaming as temp_471..pdf
+7/28/2015 11:21:58 AM: deleting the old pdf files in folder:D:\WDMSDocument\TempWorkFolder\35\36\471
+7/28/2015 11:21:58 AM: deleting the old jpg files in folder:D:\WDMSDocument\TempWorkFolder\35\36\471
+7/28/2015 11:21:58 AM: Saving uploaded file/template to temporary location: D:\WDMSDocument\TempWorkFolder\/35/36/471/temp_471.pdf
+7/28/2015 11:21:58 AM: Calling method to split files and return splitted pages count.
+7/28/2015 11:21:58 AM: Splitting of file is successfully completed. Pages count: 1
+7/28/2015 11:21:58 AM: Converting splitted files into jpg. Source: D:\WDMSDocument\TempWorkFolder\35\36\471\1.pdf Destination: D:\WDMSDocument\TempWorkFolder\35\36\471\1.jpg
+7/28/2015 11:21:58 AM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: D:\WDMSDocument\TempWorkFolder\35\36\471
+7/28/2015 11:21:58 AM: Deleting original file after completion of file splitting: D:\WDMSDocument\TempWorkFolder\/35/36/471/temp_471.pdf
+7/28/2015 11:21:58 AM: User browsed file/template uploaded successfully.
+7/28/2015 11:22:00 AM: User clicked save to save stage details.
+7/28/2015 11:22:00 AM: Selected data entry type: Guided
+7/28/2015 11:22:00 AM: Selected data entry type Id: 1027
+7/28/2015 11:22:00 AM: Actual data entry type before editing the data entry type: Normal
+7/28/2015 11:22:00 AM: Template path: \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/471/temp_471.pdf
+7/28/2015 11:22:00 AM: Data Entry Id : 1028
+7/28/2015 11:22:00 AM: Action for saving the stage : EditStage
+7/28/2015 11:22:00 AM: Deleting original file folder for clearing the olde files in that location : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/471
+7/28/2015 11:22:00 AM: copying files from temporary location to original 
+7/28/2015 11:22:00 AM: Deleting temporay folder: D:\WDMSDocument\TempWorkFolder\/35/36/471
+7/28/2015 11:22:00 AM: Exception : Thread was being aborted.
+7/28/2015 11:22:04 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:22:04 AM: Retrived the data to bind the controls
+7/28/2015 11:22:04 AM: All controls values binded properly
+7/28/2015 11:22:04 AM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/471/temp_471.pdf
+7/28/2015 11:22:04 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:22:04 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\35\36\471\/1.jpg
+7/28/2015 11:22:10 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:22:12 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:22:12 AM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/471/temp_471.pdf
+7/28/2015 11:22:12 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:22:12 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\35\36\471\/1.jpg
+7/28/2015 11:22:32 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:22:40 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:22:50 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:22:50 AM: retrive the data from textbox to save the values
+7/28/2015 11:22:50 AM: Dataentry Type of the stage before saving : Guided
+7/28/2015 11:22:50 AM: Save completed successfully: 
+7/28/2015 11:22:54 AM: DataEntryTypes count : 3
+7/28/2015 11:23:09 AM: User browsed template for stage.
+7/28/2015 11:23:09 AM: File upload control contains file. File path: leave_report.pdf
+7/28/2015 11:23:09 AM: Deleting temporary folder path to clear old files if exists. Path: D:\WDMSDocument\TempWorkFolder\/35/36/472
+7/28/2015 11:23:09 AM: Creating temporary folder path to store uploaded file/template. Path: D:\WDMSDocument\TempWorkFolder\/35/36/472
+7/28/2015 11:23:09 AM: Multiple page file, Renaming as temp_472..pdf
+7/28/2015 11:23:09 AM: deleting the old pdf files in folder:D:\WDMSDocument\TempWorkFolder\35\36\472
+7/28/2015 11:23:09 AM: deleting the old jpg files in folder:D:\WDMSDocument\TempWorkFolder\35\36\472
+7/28/2015 11:23:09 AM: Saving uploaded file/template to temporary location: D:\WDMSDocument\TempWorkFolder\/35/36/472/temp_472.pdf
+7/28/2015 11:23:09 AM: Calling method to split files and return splitted pages count.
+7/28/2015 11:23:10 AM: Splitting of file is successfully completed. Pages count: 1
+7/28/2015 11:23:10 AM: Converting splitted files into jpg. Source: D:\WDMSDocument\TempWorkFolder\35\36\472\1.pdf Destination: D:\WDMSDocument\TempWorkFolder\35\36\472\1.jpg
+7/28/2015 11:23:10 AM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: D:\WDMSDocument\TempWorkFolder\35\36\472
+7/28/2015 11:23:10 AM: Deleting original file after completion of file splitting: D:\WDMSDocument\TempWorkFolder\/35/36/472/temp_472.pdf
+7/28/2015 11:23:10 AM: User browsed file/template uploaded successfully.
+7/28/2015 11:23:11 AM: User clicked save to save stage details.
+7/28/2015 11:23:11 AM: Selected data entry type: Guided
+7/28/2015 11:23:11 AM: Selected data entry type Id: 1027
+7/28/2015 11:23:11 AM: Actual data entry type before editing the data entry type: Normal
+7/28/2015 11:23:11 AM: Template path: \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/472/temp_472.pdf
+7/28/2015 11:23:11 AM: Data Entry Id : 1028
+7/28/2015 11:23:12 AM: Action for saving the stage : EditStage
+7/28/2015 11:23:12 AM: Deleting original file folder for clearing the olde files in that location : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/472
+7/28/2015 11:23:12 AM: copying files from temporary location to original 
+7/28/2015 11:23:12 AM: Deleting temporay folder: D:\WDMSDocument\TempWorkFolder\/35/36/472
+7/28/2015 11:23:12 AM: Exception : Thread was being aborted.
+7/28/2015 11:23:15 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:23:15 AM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/472/temp_472.pdf
+7/28/2015 11:23:15 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:23:15 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\35\36\472\/1.jpg
+7/28/2015 11:23:26 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:23:32 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:23:38 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:23:38 AM: retrive the data from textbox to save the values
+7/28/2015 11:23:38 AM: Dataentry Type of the stage before saving : Guided
+7/28/2015 11:23:38 AM: Save completed successfully: 
+7/28/2015 11:23:42 AM: DataEntryTypes count : 3
+7/28/2015 11:24:29 AM: Rendering controls. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:24:29 AM: Rendering controls completed.
+7/28/2015 11:24:29 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:24:29 AM: Completed initialization of controls.
+7/28/2015 11:24:29 AM: controls binded successfully
+7/28/2015 11:26:39 AM: DataEntryTypes count : 3
+7/28/2015 11:28:31 AM: IntitialLoadGrid Started:-
+7/28/2015 11:28:31 AM: CreateLinKs started
+7/28/2015 11:28:31 AM: CreateLinKs started
+7/28/2015 11:28:31 AM: CreateLinKs started
+7/28/2015 11:28:32 AM: CreateLinKs started
+7/28/2015 11:28:32 AM: CreateLinKs started
+7/28/2015 11:28:32 AM: CreateLinKs started
+7/28/2015 11:28:32 AM: CreateLinKs started
+7/28/2015 11:28:32 AM: CreateLinKs started
+7/28/2015 11:28:32 AM: IntitialLoadGrid Completed:-
+7/28/2015 11:28:49 AM: DataEntryTypes count : 3
+7/28/2015 11:29:03 AM: User browsed template for stage.
+7/28/2015 11:29:03 AM: File upload control contains file. File path: leave_report.pdf
+7/28/2015 11:29:03 AM: Deleting temporary folder path to clear old files if exists. Path: D:\WDMSDocument\TempWorkFolder\/35/36/470
+7/28/2015 11:29:03 AM: Creating temporary folder path to store uploaded file/template. Path: D:\WDMSDocument\TempWorkFolder\/35/36/470
+7/28/2015 11:29:03 AM: Multiple page file, Renaming as temp_470..pdf
+7/28/2015 11:29:03 AM: deleting the old pdf files in folder:D:\WDMSDocument\TempWorkFolder\35\36\470
+7/28/2015 11:29:03 AM: deleting the old jpg files in folder:D:\WDMSDocument\TempWorkFolder\35\36\470
+7/28/2015 11:29:03 AM: Saving uploaded file/template to temporary location: D:\WDMSDocument\TempWorkFolder\/35/36/470/temp_470.pdf
+7/28/2015 11:29:03 AM: Calling method to split files and return splitted pages count.
+7/28/2015 11:29:03 AM: Splitting of file is successfully completed. Pages count: 1
+7/28/2015 11:29:03 AM: Converting splitted files into jpg. Source: D:\WDMSDocument\TempWorkFolder\35\36\470\1.pdf Destination: D:\WDMSDocument\TempWorkFolder\35\36\470\1.jpg
+7/28/2015 11:29:03 AM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: D:\WDMSDocument\TempWorkFolder\35\36\470
+7/28/2015 11:29:03 AM: Deleting original file after completion of file splitting: D:\WDMSDocument\TempWorkFolder\/35/36/470/temp_470.pdf
+7/28/2015 11:29:03 AM: User browsed file/template uploaded successfully.
+7/28/2015 11:29:05 AM: User clicked save to save stage details.
+7/28/2015 11:29:05 AM: Selected data entry type: Guided
+7/28/2015 11:29:05 AM: Selected data entry type Id: 1028
+7/28/2015 11:29:05 AM: Template path: D:\WDMSDocument\StageFileUpload/35/36/470/temp_470.pdf
+7/28/2015 11:29:05 AM: Data Entry Id : 1028
+7/28/2015 11:29:05 AM: Action for saving the stage : EditStage
+7/28/2015 11:29:05 AM: Deleting original file folder for clearing the olde files in that location : D:\WDMSDocument\StageFileUpload/35/36/470
+7/28/2015 11:29:05 AM: copying files from temporary location to original 
+7/28/2015 11:29:05 AM: Deleting temporay folder: D:\WDMSDocument\TempWorkFolder\/35/36/470
+7/28/2015 11:29:47 AM: IntitialLoadGrid Started:-
+7/28/2015 11:29:47 AM: CreateLinKs started
+7/28/2015 11:29:47 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: CreateLinKs started
+7/28/2015 11:29:48 AM: IntitialLoadGrid Completed:-
+7/28/2015 11:29:58 AM: DataEntryTypes count : 3
+7/28/2015 11:30:13 AM: User browsed template for stage.
+7/28/2015 11:30:13 AM: File upload control contains file. File path: leave_report.pdf
+7/28/2015 11:30:13 AM: Deleting temporary folder path to clear old files if exists. Path: D:\WDMSDocument\TempWorkFolder\/35/36/471
+7/28/2015 11:30:13 AM: Creating temporary folder path to store uploaded file/template. Path: D:\WDMSDocument\TempWorkFolder\/35/36/471
+7/28/2015 11:30:13 AM: Multiple page file, Renaming as temp_471..pdf
+7/28/2015 11:30:13 AM: deleting the old pdf files in folder:D:\WDMSDocument\TempWorkFolder\35\36\471
+7/28/2015 11:30:13 AM: deleting the old jpg files in folder:D:\WDMSDocument\TempWorkFolder\35\36\471
+7/28/2015 11:30:13 AM: Saving uploaded file/template to temporary location: D:\WDMSDocument\TempWorkFolder\/35/36/471/temp_471.pdf
+7/28/2015 11:30:13 AM: Calling method to split files and return splitted pages count.
+7/28/2015 11:30:13 AM: Splitting of file is successfully completed. Pages count: 1
+7/28/2015 11:30:13 AM: Converting splitted files into jpg. Source: D:\WDMSDocument\TempWorkFolder\35\36\471\1.pdf Destination: D:\WDMSDocument\TempWorkFolder\35\36\471\1.jpg
+7/28/2015 11:30:13 AM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: D:\WDMSDocument\TempWorkFolder\35\36\471
+7/28/2015 11:30:13 AM: Deleting original file after completion of file splitting: D:\WDMSDocument\TempWorkFolder\/35/36/471/temp_471.pdf
+7/28/2015 11:30:13 AM: User browsed file/template uploaded successfully.
+7/28/2015 11:30:16 AM: User clicked save to save stage details.
+7/28/2015 11:30:16 AM: Selected data entry type: Guided
+7/28/2015 11:30:16 AM: Selected data entry type Id: 1028
+7/28/2015 11:30:16 AM: Template path: D:\WDMSDocument\StageFileUpload/35/36/471/temp_471.pdf
+7/28/2015 11:30:16 AM: Data Entry Id : 1028
+7/28/2015 11:30:16 AM: Action for saving the stage : EditStage
+7/28/2015 11:30:16 AM: Deleting original file folder for clearing the olde files in that location : D:\WDMSDocument\StageFileUpload/35/36/471
+7/28/2015 11:30:16 AM: copying files from temporary location to original 
+7/28/2015 11:30:16 AM: Deleting temporay folder: D:\WDMSDocument\TempWorkFolder\/35/36/471
+7/28/2015 11:30:25 AM: User browsed template for stage.
+7/28/2015 11:30:25 AM: File upload control contains file. File path: leave_report.pdf
+7/28/2015 11:30:25 AM: Deleting temporary folder path to clear old files if exists. Path: D:\WDMSDocument\TempWorkFolder\/35/36/472
+7/28/2015 11:30:25 AM: Creating temporary folder path to store uploaded file/template. Path: D:\WDMSDocument\TempWorkFolder\/35/36/472
+7/28/2015 11:30:25 AM: Multiple page file, Renaming as temp_472..pdf
+7/28/2015 11:30:25 AM: deleting the old pdf files in folder:D:\WDMSDocument\TempWorkFolder\35\36\472
+7/28/2015 11:30:25 AM: deleting the old jpg files in folder:D:\WDMSDocument\TempWorkFolder\35\36\472
+7/28/2015 11:30:25 AM: Saving uploaded file/template to temporary location: D:\WDMSDocument\TempWorkFolder\/35/36/472/temp_472.pdf
+7/28/2015 11:30:25 AM: Calling method to split files and return splitted pages count.
+7/28/2015 11:30:25 AM: Splitting of file is successfully completed. Pages count: 1
+7/28/2015 11:30:25 AM: Converting splitted files into jpg. Source: D:\WDMSDocument\TempWorkFolder\35\36\472\1.pdf Destination: D:\WDMSDocument\TempWorkFolder\35\36\472\1.jpg
+7/28/2015 11:30:26 AM: Deleting splitted files(pdf) after completion of converting to jpg. Directory: D:\WDMSDocument\TempWorkFolder\35\36\472
+7/28/2015 11:30:26 AM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\35\36\472\1.pdf' because it is being used by another process.
+7/28/2015 11:30:27 AM: User clicked save to save stage details.
+7/28/2015 11:30:27 AM: Selected data entry type: Guided
+7/28/2015 11:30:27 AM: Selected data entry type Id: 1028
+7/28/2015 11:30:28 AM: Template path: \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/472/temp_472.pdf
+7/28/2015 11:30:28 AM: Data Entry Id : 1028
+7/28/2015 11:30:28 AM: Action for saving the stage : EditStage
+7/28/2015 11:30:38 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:30:38 AM: Retrived the data to bind the controls
+7/28/2015 11:30:38 AM: All controls values binded properly
+7/28/2015 11:30:38 AM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/35/36/470/temp_470.pdf
+7/28/2015 11:30:38 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:30:38 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\35\36\470\/1.jpg
+7/28/2015 11:30:41 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:30:46 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:30:50 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:30:50 AM: retrive the data from textbox to save the values
+7/28/2015 11:30:50 AM: Dataentry Type of the stage before saving : Guided
+7/28/2015 11:30:50 AM: Save completed successfully: 
+7/28/2015 11:30:54 AM: DataEntryTypes count : 3
+7/28/2015 11:31:02 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:02 AM: Retrived the data to bind the controls
+7/28/2015 11:31:02 AM: All controls values binded properly
+7/28/2015 11:31:02 AM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/472/temp_472.pdf
+7/28/2015 11:31:02 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:31:02 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\35\36\472\/1.jpg
+7/28/2015 11:31:05 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:12 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:16 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:21 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:21 AM: Retrived the data to bind the controls
+7/28/2015 11:31:21 AM: All controls values binded properly
+7/28/2015 11:31:21 AM: TemplatefilePath from database : \\172.16.1.11\WDMSDocument\StageFileUpload/35/36/472/temp_472.pdf
+7/28/2015 11:31:21 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:31:21 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=\\172.16.1.11\WDMSDocument\StageFileUpload\35\36\472\/1.jpg
+7/28/2015 11:31:23 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:30 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:33 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:33 AM: retrive the data from textbox to save the values
+7/28/2015 11:31:33 AM: Dataentry Type of the stage before saving : Guided
+7/28/2015 11:31:33 AM: Save completed successfully: 
+7/28/2015 11:31:38 AM: DataEntryTypes count : 3
+7/28/2015 11:31:46 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:46 AM: Retrived the data to bind the controls
+7/28/2015 11:31:46 AM: All controls values binded properly
+7/28/2015 11:31:46 AM: TemplatefilePath from database : D:\WDMSDocument\StageFileUpload/35/36/471/temp_471.pdf
+7/28/2015 11:31:46 AM: Loading image based on page number for coordinate capturing
+7/28/2015 11:31:46 AM: imageUrl for binding the viewer: http://localhost:55359/GenericHandler.ashx?f=D:\WDMSDocument\StageFileUpload\35\36\471\/1.jpg
+7/28/2015 11:31:50 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:55 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:58 AM: Dataentry Type of the stage : Guided
+7/28/2015 11:31:59 AM: retrive the data from textbox to save the values
+7/28/2015 11:31:59 AM: Dataentry Type of the stage before saving : Guided
+7/28/2015 11:31:59 AM: Save completed successfully: 
+7/28/2015 11:32:13 AM: Rendering controls. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:32:13 AM: Rendering controls completed.
+7/28/2015 11:32:13 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:32:13 AM: Completed initialization of controls.
+7/28/2015 11:32:13 AM: controls binded successfully
+7/28/2015 11:32:29 AM: Rendering controls. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:32:29 AM: Rendering controls completed.
+7/28/2015 11:32:29 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:32:29 AM: Completed initialization of controls.
+7/28/2015 11:32:29 AM: controls binded successfully
+7/28/2015 11:32:35 AM: Rendering controls. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:32:35 AM: Rendering controls completed.
+7/28/2015 11:32:35 AM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_164
+7/28/2015 11:32:35 AM: Completed initialization of controls.
+7/28/2015 11:32:35 AM: controls binded successfully
+7/28/2015 11:32:35 AM: history_Click started WorkFlowDataEnrtry.cs 
+7/28/2015 12:06:14 PM: IntitialLoadGrid Started:-
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: CreateLinKs started
+7/28/2015 12:06:14 PM: IntitialLoadGrid Completed:-
+7/28/2015 12:06:27 PM: Rendering controls. Object Type: TextBox, Control Id: Control_164
+7/28/2015 12:06:28 PM: Rendering controls completed.
+7/28/2015 12:06:28 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_164
+7/28/2015 12:06:28 PM: Completed initialization of controls.
+7/28/2015 12:06:28 PM: controls binded successfully
+7/28/2015 1:16:50 PM: IntitialLoadGrid Started:-
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: CreateLinKs started
+7/28/2015 1:16:50 PM: IntitialLoadGrid Completed:-
+7/28/2015 1:18:07 PM: BindDocumentType started
+7/28/2015 1:18:07 PM: BindDocumentType finished
+7/28/2015 1:18:43 PM: GetDocumentTypeWithId Started
+7/28/2015 1:18:43 PM: SetDepartmentTemplate Started
+7/28/2015 1:18:43 PM: SetDepartmentTemplate Finished
+7/28/2015 1:18:43 PM: GetDocumentTypeWithId Finished
+7/28/2015 1:19:25 PM: IntitialLoadGrid Started:-
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: CreateLinKs started
+7/28/2015 1:19:25 PM: IntitialLoadGrid Completed:-
+7/28/2015 1:20:15 PM: IntitialLoadGrid Started:-
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:15 PM: CreateLinKs started
+7/28/2015 1:20:16 PM: IntitialLoadGrid Completed:-
+7/28/2015 1:20:40 PM: createControls Started
+7/28/2015 1:20:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:20:40 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:20:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: createControls Finished
+7/28/2015 1:20:40 PM: generatecontrols Started
+7/28/2015 1:20:40 PM: Calling database to get reference id and watermark.
+7/28/2015 1:20:40 PM: Database returned result: DM_IT_1_1_1174|Lotex Business Solutions
+7/28/2015 1:20:40 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 1:20:40 PM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 1:20:40 PM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 1:20:40 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 1:21:11 PM: createControls Started
+7/28/2015 1:21:11 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:11 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:11 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:11 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:11 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:11 PM: createControls Finished
+7/28/2015 1:21:11 PM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 1:21:11 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 1:21:11 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 1:21:12 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 1
+7/28/2015 1:21:12 PM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 1:21:13 PM: createControls Started
+7/28/2015 1:21:13 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:13 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:13 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:13 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:13 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:13 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:13 PM: createControls Finished
+7/28/2015 1:21:14 PM: btnSubmit_Click Started
+7/28/2015 1:21:14 PM: btnSubmit_Click Finished
+7/28/2015 1:21:32 PM: createControls Started
+7/28/2015 1:21:32 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:32 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:32 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:32 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:32 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:32 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:32 PM: createControls Finished
+7/28/2015 1:21:33 PM: createControls Started
+7/28/2015 1:21:33 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:33 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:33 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:33 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:33 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:33 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:33 PM: createControls Finished
+7/28/2015 1:21:37 PM: createControls Started
+7/28/2015 1:21:37 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:37 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:37 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:37 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:37 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 1:21:37 PM: Create controls,Load all Textbox dynamic
+7/28/2015 1:21:37 PM: createControls Finished
+7/28/2015 1:21:37 PM: Started Saving Uploaded Document in Save Button Click
+7/28/2015 1:21:37 PM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 1:21:37 PM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 1:21:37 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/28/2015 1:21:37 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/28/2015 1:21:37 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+7/28/2015 1:21:37 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+7/28/2015 1:21:37 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/28/2015 1:21:37 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/28/2015 1:21:38 PM: CreateXML Started:-
+7/28/2015 1:21:38 PM: CreateXML Completed:-
+7/28/2015 1:21:38 PM: Save button click after saving or updating the ReturnCode= 0
+7/28/2015 1:21:38 PM: Exception : Thread was being aborted.
+7/28/2015 2:31:50 PM: IntitialLoadGrid Started:-
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: CreateLinKs started
+7/28/2015 2:31:51 PM: IntitialLoadGrid Completed:-
+7/28/2015 2:34:21 PM: BindDocumentType started
+7/28/2015 2:34:21 PM: BindDocumentType finished
+7/28/2015 2:55:27 PM: createControls Started
+7/28/2015 2:55:27 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:27 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:27 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: createControls Finished
+7/28/2015 2:55:27 PM: generatecontrols Started
+7/28/2015 2:55:27 PM: Calling database to get reference id and watermark.
+7/28/2015 2:55:27 PM: Database returned result: DM_AD_1_1_1175|Lotex Business Solutions
+7/28/2015 2:55:27 PM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:27 PM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:27 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 2:55:27 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: createControls Started
+7/28/2015 2:55:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:38 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:38 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:38 PM: createControls Finished
+7/28/2015 2:55:38 PM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 2:55:38 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 2:55:39 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 2:55:39 PM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 2:55:40 PM: createControls Started
+7/28/2015 2:55:40 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:40 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:40 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:40 PM: createControls Finished
+7/28/2015 2:55:40 PM: btnSubmit_Click Started
+7/28/2015 2:55:40 PM: btnSubmit_Click Finished
+7/28/2015 2:55:44 PM: createControls Started
+7/28/2015 2:55:44 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:44 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 2:55:44 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:44 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:44 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:44 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:44 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:44 PM: Create controls,Load all Textbox dynamic
+7/28/2015 2:55:44 PM: createControls Finished
+7/28/2015 2:55:44 PM: Started Saving Uploaded Document in Save Button Click
+7/28/2015 2:55:44 PM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 2:55:44 PM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld9
+7/28/2015 2:55:44 PM: GetDBFieldName the DBFld UPLOAD_vFld10
+7/28/2015 2:55:45 PM: CreateXML Started:-
+7/28/2015 2:55:45 PM: CreateXML Completed:-
+7/28/2015 2:55:46 PM: Save button click after saving or updating the ReturnCode= 0
+7/28/2015 2:55:46 PM: Exception : Thread was being aborted.
+7/28/2015 3:00:04 PM: createControls Started
+7/28/2015 3:00:04 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:04 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:04 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:04 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:04 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:04 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:04 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:04 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:04 PM: createControls Finished
+7/28/2015 3:00:05 PM: generatecontrols Started
+7/28/2015 3:00:05 PM: Calling database to get reference id and watermark.
+7/28/2015 3:00:05 PM: Database returned result: DM_AD_1_1_1176|Lotex Business Solutions
+7/28/2015 3:00:05 PM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:05 PM: generatecontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:05 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 3:00:05 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 3:00:05 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 3:00:05 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 3:00:05 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 3:00:05 PM: Generatecontrols,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: createControls Started
+7/28/2015 3:00:12 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:12 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:12 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:12 PM: createControls Finished
+7/28/2015 3:00:12 PM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 3:00:12 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 3:00:13 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+7/28/2015 3:00:13 PM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 3:00:14 PM: createControls Started
+7/28/2015 3:00:14 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:14 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:14 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:14 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:14 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:14 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:14 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:14 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:14 PM: createControls Finished
+7/28/2015 3:00:14 PM: btnSubmit_Click Started
+7/28/2015 3:00:14 PM: btnSubmit_Click Finished
+7/28/2015 3:00:15 PM: createControls Started
+7/28/2015 3:00:15 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:15 PM: Createcontrols,Load all Dropdownlist dynamic
+7/28/2015 3:00:15 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:15 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:15 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:15 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:15 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:15 PM: Create controls,Load all Textbox dynamic
+7/28/2015 3:00:15 PM: createControls Finished
+7/28/2015 3:00:15 PM: Started Saving Uploaded Document in Save Button Click
+7/28/2015 3:00:15 PM: AsyncFileUpload1_UploadedComplete Started
+7/28/2015 3:00:15 PM: AsyncFileUpload1_UploadedComplete Finished
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld9
+7/28/2015 3:00:15 PM: GetDBFieldName the DBFld UPLOAD_vFld10
+7/28/2015 3:00:15 PM: CreateXML Started:-
+7/28/2015 3:00:15 PM: CreateXML Completed:-
+7/28/2015 3:00:15 PM: Save button click after saving or updating the ReturnCode= 0
+7/28/2015 3:00:15 PM: Exception : Thread was being aborted.

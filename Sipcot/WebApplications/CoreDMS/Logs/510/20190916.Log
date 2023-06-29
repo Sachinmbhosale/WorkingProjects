@@ -1,0 +1,116 @@
+9/16/2019 6:22:46 PM: GetTemplateDetails started
+9/16/2019 6:22:46 PM: generatecontrols Started
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: GenerateControls:Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: BindDocumentType started
+9/16/2019 6:22:46 PM: BindDocumentType finished
+9/16/2019 6:22:46 PM: createControls Started
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Loaded all Textbox dynamically
+9/16/2019 6:22:46 PM: createControls Finished
+9/16/2019 6:22:55 PM: createControls Started
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: createControls Finished
+9/16/2019 6:22:55 PM: generatecontrols Started
+9/16/2019 6:22:55 PM: Calling database to get reference id and watermark.
+9/16/2019 6:22:55 PM: Database returned result: NO_HR_510_250_1015|
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:55 PM: Generatecontrols,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: createControls Started
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:22:57 PM: createControls Finished
+9/16/2019 6:23:01 PM: createControls Started
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:01 PM: createControls Finished
+9/16/2019 6:23:01 PM: AsyncFileUpload1_UploadedComplete Started
+9/16/2019 6:23:01 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/16/2019 6:23:02 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+9/16/2019 6:23:04 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 190
+9/16/2019 6:23:04 PM: AsyncFileUpload1_UploadedComplete Finished
+9/16/2019 6:23:04 PM: createControls Started
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:04 PM: createControls Finished
+9/16/2019 6:23:04 PM: btnSubmit_Click Started
+9/16/2019 6:23:04 PM: btnSubmit_Click Finished
+9/16/2019 6:23:13 PM: createControls Started
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: Create controls,Load all Textbox dynamic
+9/16/2019 6:23:13 PM: createControls Finished
+9/16/2019 6:23:13 PM: Started Saving Uploaded Document in Save Button Click
+9/16/2019 6:23:15 PM: AsyncFileUpload1_UploadedComplete Started
+9/16/2019 6:23:15 PM: AsyncFileUpload1_UploadedComplete Finished
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld5
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld6
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld7
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld8
+9/16/2019 6:23:15 PM: GetDBFieldName the DBFld UPLOAD_vFld9
+9/16/2019 6:23:17 PM: CreateXML Started:-
+9/16/2019 6:23:17 PM: CreateXML Completed:-
+9/16/2019 6:23:18 PM: Save button click after saving or updating the ReturnCode= 0
+9/16/2019 6:23:18 PM: Finished Saving Uploaded Document in Save Button Click
+9/16/2019 6:23:18 PM: AsyncFileUpload1_UploadedComplete Started
+9/16/2019 6:23:18 PM: AsyncFileUpload1_UploadedComplete Finished

@@ -1,0 +1,134 @@
+11/16/2017 5:16:30 PM: btnManageList_Click Started
+11/16/2017 5:16:30 PM: ManageTagListbox Started
+11/16/2017 5:16:30 PM: btnManageList_Click finished
+11/16/2017 5:16:30 PM: btnManageList_Click Started
+11/16/2017 5:16:30 PM: ManageTagListbox Started
+11/16/2017 5:16:30 PM: btnManageList_Click finished
+11/16/2017 5:16:34 PM: btnManageList_Click Started
+11/16/2017 5:16:34 PM: ManageTagListbox Started
+11/16/2017 5:16:34 PM: btnManageList_Click finished
+11/16/2017 5:16:35 PM: btnClearAll_Click Started
+11/16/2017 5:16:35 PM: btnClearAll_Click Finished
+11/16/2017 5:17:13 PM: GetDocumentTypeWithId Started
+11/16/2017 5:17:13 PM: SetDepartmentTemplate Started
+11/16/2017 5:17:13 PM: SetDepartmentTemplate Finished
+11/16/2017 5:17:13 PM: GetDocumentTypeWithId Finished
+11/16/2017 5:18:01 PM: BindDocumentType started
+11/16/2017 5:18:01 PM: BindDocumentType finished
+11/16/2017 5:18:03 PM: createControls Started
+11/16/2017 5:18:03 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: createControls Finished
+11/16/2017 5:18:03 PM: GetTemplateDetails started
+11/16/2017 5:18:03 PM: generatecontrols Started
+11/16/2017 5:18:03 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:03 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:05 PM: createControls Started
+11/16/2017 5:18:05 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:05 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:05 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:05 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:05 PM: createControls Finished
+11/16/2017 5:18:05 PM: Started Loading Entity Drop Down
+11/16/2017 5:18:12 PM: createControls Started
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: createControls Finished
+11/16/2017 5:18:12 PM: GetTemplateDetails started
+11/16/2017 5:18:12 PM: generatecontrols Started
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:12 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Started
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:14 PM: createControls Finished
+11/16/2017 5:18:14 PM: Started Loading Entity Drop Down
+11/16/2017 5:18:18 PM: createControls Started
+11/16/2017 5:18:18 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: createControls Finished
+11/16/2017 5:18:18 PM: GetTemplateDetails started
+11/16/2017 5:18:18 PM: generatecontrols Started
+11/16/2017 5:18:18 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:18 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:21 PM: createControls Started
+11/16/2017 5:18:21 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:21 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:21 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:21 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:21 PM: createControls Finished
+11/16/2017 5:18:21 PM: Started Loading Entity Drop Down
+11/16/2017 5:18:28 PM: BindDocumentType started
+11/16/2017 5:18:28 PM: BindDocumentType finished
+11/16/2017 5:18:39 PM: createControls Started
+11/16/2017 5:18:39 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: createControls Finished
+11/16/2017 5:18:39 PM: GetTemplateDetails started
+11/16/2017 5:18:39 PM: generatecontrols Started
+11/16/2017 5:18:39 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:39 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:41 PM: createControls Started
+11/16/2017 5:18:41 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:41 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:41 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:41 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:41 PM: createControls Finished
+11/16/2017 5:18:54 PM: BindDocumentType started
+11/16/2017 5:18:54 PM: BindDocumentType finished
+11/16/2017 5:18:57 PM: createControls Started
+11/16/2017 5:18:57 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: createControls Finished
+11/16/2017 5:18:57 PM: GetTemplateDetails started
+11/16/2017 5:18:57 PM: generatecontrols Started
+11/16/2017 5:18:57 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:57 PM: GenerateControls:Loaded all Textbox dynamically
+11/16/2017 5:18:59 PM: createControls Started
+11/16/2017 5:18:59 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:59 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:59 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:59 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:18:59 PM: createControls Finished
+11/16/2017 5:18:59 PM: Started Loading Entity Drop Down
+11/16/2017 5:19:07 PM: createControls Started
+11/16/2017 5:19:07 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:19:07 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:19:07 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:19:07 PM: createControls Loaded all Textbox dynamically
+11/16/2017 5:19:07 PM: createControls Finished
+11/16/2017 5:32:46 PM: GetIndexFieldsByTemplateId Started
+11/16/2017 5:32:46 PM: GetIndexFieldsByTemplateId Finished
+11/16/2017 5:33:36 PM: GetIndexFieldsByTemplateId Started
+11/16/2017 5:33:36 PM: GetIndexFieldsByTemplateId Finished

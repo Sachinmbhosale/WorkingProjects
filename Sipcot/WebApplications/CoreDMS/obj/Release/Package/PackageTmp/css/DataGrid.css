@@ -1,0 +1,1162 @@
+﻿
+
+.DivPageHeader
+{
+    font-family: Calibri;
+}
+
+.PageHeadings
+{
+    font-family: Calibri;
+    color: Black;
+    font-size: 13pt;
+    line-height: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    padding-left: 4px;
+}
+
+.PageHeadingsAllign
+{
+    left: 0px;
+    font-family: Calibri;
+    color: Black;
+    font-size: 13pt;
+    line-height: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    width: auto;
+}
+
+.CurrentPath
+{
+    font-family: Calibri;
+    font-size: 8pt;
+    color: #CCCCCC;
+    width: 100%;
+}
+
+
+
+.alternatedatagrid
+{
+    font-family: Calibri;
+    display: block;
+    line-height: 13pt;
+    padding: 10px;
+    display: block;
+    width: 100%;
+}
+
+.SearchFilterDiv
+{
+    width: 2.60in;
+    line-height: 16px;
+    padding: 5px;
+    line-height: 13pt;
+    display: block;
+    position: relative;
+    float: left;
+    top: 0px;
+    left: 0px;
+}
+.SubHeadings
+{
+    font-family: Calibri;
+    font-size: 10pt;
+    color: Black;
+    font-weight: bold;
+}
+ .LabelStyle
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #000;
+    font-weight: bold;
+}
+.MainStripBG .LabelStyle
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #fff;
+    font-weight: bold;
+}
+nobr {
+    text-align: right;
+}
+a.btn-logout{
+    border-radius: 4px;
+    background: #fdb813;
+    color: #000;
+    padding: 6px 10px;
+        text-decoration: none;
+}
+a.btn-logout:hover {
+    background: #fd9f13;
+    color: #000;
+}
+.TodayDateLabelStyle
+{
+    font-family: Calibri;
+    font-size: 10pt;
+    color: White;
+}
+
+.AstrickStyle
+{
+    color: red;
+    font-size: 12px;
+    font-family: Arial;
+}
+.LabelStyleGray
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #666666;
+}
+.LabelMediumStyle
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+}
+/*.TextBoxStyle
+{
+    padding: 2px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    line-height: 10pt;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-left: 2px;
+}*/
+
+.TextBoxStyleSmall
+{
+    padding: 2px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    line-height: 10pt;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-left: 2px;
+    width: 154px;
+}
+
+.TextBoxMediumStyle
+{
+    padding: 2px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 11pt;
+    color: Black;
+    line-height: 13pt;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.ImageButtonStyle
+{
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.RadioButtonStlye
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    padding: 3px;
+}
+.ButtonStyle
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px;
+    background-color: #8B4726;
+    border: thin solid #8B4726;
+    cursor: pointer;
+    border-radius: 1px 1px 1px 1px;
+}
+
+.ButtonStyleTemplate
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px;
+    background-color: #8B4726;
+    border: thin solid #8B4726;
+    cursor: pointer;
+    border-radius: 1px 1px 1px 1px;
+}
+
+.MenuButtonStyle
+{
+    font-family: Calibri;
+    font-size: 9pt;
+    color: Black;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px;
+    padding-top: 30px;
+    background-color: #CCCCCC;
+    border: thin solid #C0C0C0;
+    cursor: pointer;
+}
+
+.MasterFooter
+{
+    vertical-align: middle;
+    padding-left: 10px;
+    font-family: Calibri;
+    font-size: 9pt;
+    font-weight: bold;
+    color: Black;
+    background-color: #E2E2E2;
+    border: thin solid #999999;
+    height: 20px;
+    text-align: right;
+}
+
+.DivInlineBlock
+{
+    display: block;
+    float: left;
+   /* height: 335px;
+    width: 510px;*/
+}
+
+.DivInlineBlockPage
+{
+    display: block;
+    float: left;
+    height: 335px;
+    /*width: 530px;*/
+}
+
+.DivInlineBlockFullWidth
+{
+    position: absolute;
+    display: inline;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+.GridAlternativeColumnsStyle
+{
+    background-color: #FFFFFF;
+}
+
+.GridCSS
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    width: 190px;
+}
+
+.GridRowsStyle
+{
+    background-color: #CCCCCC;
+}
+
+.GridHeaderStyle
+{
+    background-color: #333333;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.GridMainFieldStyle
+{
+    color: #0099FF;
+}
+
+
+.GridOtherFieldStyle
+{
+    font-size: 12pt;
+    color: Black;
+}
+
+
+/*.ComboStyle
+{
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    vertical-align: middle;
+    text-align: left;
+    height: 25px;
+    margin-left: 0px;
+}*/
+
+/*To fix focus of server side control [firefox / chrome]*/
+.ServerControl
+{
+   position: absolute; 
+   z-index: 2; 
+   margin-top:-15px;
+}
+
+.ServerControl2
+{
+   position: relative; 
+   z-index: 2; 
+   margin-top:-15px;
+}
+
+.ServerControl3
+{
+   position: absolute; 
+   z-index: 0; 
+}
+
+.ServerControl4
+{
+   position: relative; 
+   z-index: 2; 
+}
+/*------------------------*/
+.ListBoxStyle
+{
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 0px;
+}
+
+
+.MandratoryFieldMarkStyle
+{
+    color: Red;
+    font-size: 12pt;
+}
+
+.LinkStyle
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Blue;
+    cursor: pointer;
+}
+
+.OutlinePanel
+{
+    padding: 3px;
+    line-height: 35px;
+    overflow: auto;
+}
+
+.OutlinePanelPopUp1
+{
+    padding: 3px;
+    line-height: 35px;
+    overflow: auto;
+    width: 367px;
+    height: 200px;
+}
+
+.OutlinePanelPopUp2
+{
+    padding-left: 159px;
+    line-height: 35px;
+    overflow: auto;
+    width: 442px;
+    height: 200px;
+}
+
+.OutlinePanelPopUp3
+{
+    line-height: 35px;
+   /* overflow: auto;*/
+    width: 442px;
+    height: 200px;
+}
+
+
+.UploadFileDiv
+{
+    padding-left: 163px;
+    line-height: 35px;
+    overflow: auto;
+    width: 442px;
+    height: 200px;
+}
+
+
+.LoginPanel
+{
+    position: absolute;
+    top: 30%;
+    left: 33%;
+    height: 243px;
+    width: 444px;
+    margin: 3px;
+    background-color: #8B4726;
+    font-family: Calibri;
+    font-size: 12pt;
+    vertical-align: middle;
+    text-align: center;
+    border: thin solid #8B4726;
+}
+
+.CenterBaseDiv
+{
+    vertical-align: middle;
+    position: static;
+    width: 100%;
+    height: 100%;
+}
+
+
+.Tablestyle
+{
+    line-height: 30px;
+    width: 468px;
+    height: 120px;
+    margin-right: 0px;
+}
+
+.DivRelative
+{
+    position: relative;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    left: 0px;
+    height: 25px;
+}
+
+
+.LabelDiv
+{
+    width: 160px;
+    height: 20px;
+    float: left;
+}
+
+.LabelDiv2
+{
+    display: none;
+}
+
+
+
+.MenuHide
+{
+    width: 132px;
+    display: none;
+}
+
+
+.SubDivHeader
+{
+    height: .25in;
+    width: 2.25in;
+    background-color: #F3F3F3;
+    border-bottom-color: Gray;
+    border-bottom-style: solid;
+    border-top: medium;
+    border-top-color: Gray;
+    border-top-style: solid;
+    border-top-width: medium;
+    text-align: left;
+    vertical-align: text-bottom;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-left-color: Gray;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-right-color: Gray;
+    border-right-style: solid;
+    border-right-width: thin;
+}
+
+.SubDivItem
+{
+    width: 2.25in;
+    background-color: #F3F3F3;
+    border-top: medium;
+    border-bottom-color: Gray;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    text-align: left;
+    vertical-align: bottom;
+    padding: 8px;
+    border-left-color: Gray;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-right-color: Gray;
+    border-right-style: solid;
+    border-right-width: thin;
+}
+
+.SubDivHeaderItemText
+{
+    text-align: center;
+    width: 2.25in;
+    font-family: Calibri;
+    font-size: 12pt;
+    font-weight: bold;
+    font-style: normal;
+    color: #000000;
+}
+
+.DivBlockLeft
+{
+    float: left;
+    position: relative;
+    height: 19px;
+    top: 0px;
+    left: 0px;
+    width: 139px;
+}
+
+
+.DivBlockLeftForMenu
+{
+    float: left;
+    position: static;
+    height: 100%;
+    width: 97px;
+    background-color: #C0C0C0;
+}
+
+.DivBlockLeftNoBounds
+{
+    float: left;
+    position: relative;
+    display: block;
+    top: 0px;
+    left: 0px;
+}
+.DivMenuStripForSUb
+{
+    position: absolute;
+    height: 800px;
+    overflow: hidden;
+    background-color: #C0C0C0;
+}
+
+.DivBlockRight
+{
+    float: right;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+
+.LabelDescription
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #333333;
+    float: none;
+}
+
+
+.DivDescriptionTopPadding
+{
+    padding-top: 4px;
+    width: 220px;
+}
+
+
+.SubDivItem
+{
+    width: 2.25in;
+    background-color: #F3F3F3;
+    border-top: medium;
+    border-bottom-color: Gray;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    text-align: left;
+    vertical-align: bottom;
+    padding: 8px;
+    border-left-color: Gray;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-right-color: Gray;
+    border-right-style: solid;
+    border-right-width: thin;
+}
+
+
+.DivPieDiagram
+{
+    height: 1.42in;
+    width: 2.25in;
+    background-color: #F3F3F3;
+    text-align: left;
+    vertical-align: top;
+    padding: 8px;
+    background-color: #F3F3F3;
+}
+
+.LinkLikeLabel
+{
+    color: Blue;
+    font-family: Calibri;
+    font-size: 12pt;
+}
+
+
+.PieHead
+{
+    font-family: Calibri;
+    font-size: 13pt;
+    font-weight: bold;
+    color: #666666;
+    overflow: visible;
+    line-height: 13pt;
+    text-align: left;
+    vertical-align: top;
+    background-color: #F3F3F3;
+}
+
+.TDTopLeft
+{
+    font-family: Calibri;
+    text-align: left;
+    vertical-align: top;
+    padding: 8px;
+}
+
+.TopSolidLine
+{
+    border-top: thin solid Gray;
+    padding-top: 5px;
+    font-family: Calibri;
+    color: White;
+    line-height: 5px;
+    width: 311px;
+    height: 5px;
+}
+
+
+.TopSolidLine100
+{
+    border-top: thin solid Gray;
+    padding-top: 5px;
+    font-family: Calibri;
+    color: White;
+    line-height: 5px;
+    width: 100%;
+    height: 5px;
+}
+
+
+.ChkBoxStlye
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+}
+
+.LstBoxStlye
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+}
+
+
+
+
+.ContentDIV
+{
+    background-color: White;
+}
+
+
+
+ul#menu
+{
+    padding: 1px;
+    position: relative;
+    float: left;
+    margin: 0;
+    top: 0px;
+    left: 0px;
+    height: auto;
+    background-color: #CCCCCC;
+    width: 100px;
+}
+
+
+ul#menu li
+{
+    display: block;
+    background-color: Transparent;
+    padding-top: 10px;
+    margin: 0;
+    width: 100px;
+    text-align: center;
+}
+
+ul#menu li a
+{
+    font-family: Calibri;
+    font-size: 9pt;
+    color: Black;
+    background-color: Transparent;
+    text-decoration: none;
+    line-height: 2.8em;
+    color: Black;
+    border-radius: 4px 4px 0 0;
+    width: 100px;
+}
+
+ul#menu li div:hover
+{
+    cursor: pointer;
+    background-color: #D8D8D8;
+    text-decoration: none;
+}
+
+
+
+.MenudivSelected
+{
+    background-color: White;
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+
+.MenuPic
+{
+    padding: 0;
+    padding-top: 10px;
+    text-decoration: none;
+    text-align: center;
+    background-color: Transparent;
+}
+
+.MasterHeadBG
+{
+    vertical-align: middle; /* padding-left: 10px; */
+    font-family: Calibri;
+    font-size: 12pt;
+    font-weight: bold;
+    color: Black;
+    background-color: #8B4726;
+    border: thin solid #8B4726; /* height: 35px; */
+}
+
+
+.DivFull
+{
+    padding: 5px;
+    width: 600px;
+    height: 100%;
+}
+
+
+
+
+
+.SubMenuBase
+{
+    width: 132px;
+    background-color: #DDDDDD;
+}
+
+
+.SubMenuBaseSelected
+{
+    width: 125px;
+    background-color: #808080;
+}
+
+
+.SubMenuLink
+{
+    padding-left: 5px;
+    width: 125px;
+    background-color: #DDDDDD;
+    height: 30px;
+    border: solid thin silver;
+    vertical-align: middle;
+}
+
+.SubMenuLinkSelected
+{
+    padding-left: 5px;
+    width: 125px;
+    background-color: #999999;
+    height: 30px;
+    border: solid thin silver;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+.MenuLInkStyle
+{
+    font-family: calibri;
+    font-size: 10pt;
+    color: Black;
+}
+
+
+.MenuLInkStyleSelected
+{
+    font-family: calibri;
+    font-size: 10pt;
+    font-weight: bold;
+    color: Black;
+}
+
+.SubMenuItemLink
+{
+    border: .027cm solid #C9C9CD;
+    vertical-align: middle;
+    padding-left: 15px;
+    width: 115px;
+    background-color: #DDDDDD;
+    height: 30px;
+    text-decoration: none;
+    font-style: normal;
+}
+
+
+.SubMenuItemLinkSelected
+{
+    border: .027cm solid #C9C9CD;
+    vertical-align: middle;
+    padding-left: 15px;
+    width: 115px;
+    background-color: #EBEBEB;
+    height: 30px;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.SubMenu
+{
+    width: 150px;
+    height: 60px;
+    vertical-align: middle;
+}
+/*Added by jovar*/
+.HiddenButton
+{
+    visibility: hidden;
+    text-align: center;
+}
+
+.MessageMediumStyle
+{
+    height: 50px;
+    color: Red;
+}
+.StyleforMenu
+{
+    width: 100%;
+    height: 100%;
+}
+.StyleMenuTD
+{
+    position: relative;
+    float: left;
+    min-height: 570px;
+    z-index: 5000 !important;
+    background: #8B4726 !important;
+}
+.menuHeader
+{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+    height: 30px;
+    background-image: url(../../img/Menu/MenuTabStrip.gif);
+    z-index: 5000 !important;
+}
+.menuHeaderItem
+{
+    color: #BDEDFF;
+    font-weight: bold;
+    font-size: 12px;
+    height: 30px;
+    padding: 1px 4px 1px 4px;
+    z-index: 5000 !important;
+}
+.menuHeaderSelItem
+{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+    height: 30px;
+    padding: 1px 4px 1px 4px;
+    z-index: 5000 !important;
+}
+
+
+
+/*Menu*/
+.menu
+{
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 0px;
+    color: black;
+    z-index: 5000 !important;
+}
+
+/* Top Menu Bar*/
+/*.menuItem td .level0
+{
+    background-color: #CCCCCC;
+    text-align: center;
+    padding: 0px;
+    border-right: solid 0px white;
+    cursor: hand;
+    width: 100%;
+    height: 100px;
+    z-index: 5000 !important;
+}*/
+.menuItem td #level1
+{
+    background-color: #BBBBBB;
+    text-align: center;
+    padding: 0px;
+    border-right: solid 0px white;
+    cursor: hand;
+    width: 100%;
+    z-index: 5000 !important;
+}
+.menuItem td #level2
+{
+    background-color: #EEEEEE;
+    text-align: center;
+    padding: 0px;
+    border-right: solid 0px white;
+    cursor: hand;
+    width: 100%;
+    z-index: 5000 !important;
+}
+
+
+.menuItem td :hover
+{
+    text-align: center;
+    padding: 0px;
+    border-right: solid 0px white;
+    cursor: hand;
+    background-color: #ffffff;
+    z-index: 5000 !important;
+}
+
+
+/* make current tab gray,set the background-color also in case images are not on*/
+.menuSelectedItem td
+{
+    background-color: #ffffff;
+    z-index: 5000 !important;
+}
+
+.menuItemHover td
+{
+    background-color: #ffffff;
+    z-index: 5000 !important;
+}
+
+/* make link and visited the same look,set the background-color also in case images are not on*/
+.menuItem a:link, .menuItem a:visited
+{
+    color: black;
+    cursor: hand;
+    z-index: 5000 !important;
+}
+.menuPopupItem
+{
+    border-color: #C04F16;
+    border-bottom-color: #C04F16;
+    border-width: 1px;
+    border-style: solid solid solid solid;
+    padding: 1px 5px 1px 5px;
+    color: black;
+    background-color: #8E4F2F;
+    height: 26px;
+    color: #000000;
+    padding-left: 10px;
+    width: 167px;
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 0px;
+    color: black;
+    z-index: 5000 !important;
+}
+.menuPopupItem a:link, .menuPopupItem a:visited, .menuItemHover a:link
+{
+    color: black;
+    cursor: hand;
+    z-index: 5000 !important;
+    width: 90%;
+    display: block;
+    font-size: 15px !important;
+}
+.menuPopupItem a:hover, .menuItemHover a:hover
+{
+    background-color: #ffffff;
+    cursor: hand;
+    z-index: 5000 !important;
+}
+
+/* make hover by changing vertical position of background to -22px (the tab_dim2.gif is 44px high) */
+.menuItem a:hover
+{
+    background-color: #ffffff;
+    cursor: hand;
+    z-index: 5000 !important;
+}
+
+/* make drop down menu container style */
+.menuPopup
+{
+    border: 0;
+    padding: 0px;
+    color: black;
+    z-index: 5000 !important;
+}
+
+/*html grid*/
+.box-table-a
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+.box-table-a th
+{
+    background-color:#63AF39;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 3px;
+}
+.box-table-a td
+{
+    padding: 8px;
+    background-color: #F5DEB3;
+    border-bottom: 1px solid #fff;
+    color: #000000;
+    border-top: 1px solid transparent;
+    background-color:#F5F2B3;
+}
+.box-table-a tr:hover td
+{
+    background: #FFFFFF;
+}
+
+.outlinebox
+{
+    width: 1216px; /*border-width: 1px;        /* sets border width on all sides */ /*border-style: solid;*/ /*border-color: #666666;*/
+    overflow: auto;
+    height: 597px;
+    background-color: #FDF4F7;
+}
+.outlineboxtemp
+{
+    width: 1216px;
+    border-width: 1px; /* sets border width on all sides */
+    border-style: solid;
+    border-color: #666666;
+    overflow: auto;
+    height: 597px;
+    background-color: #FDF4F7;
+}
+
+/*---Added newly for Enchancment4----*/
+.outlineboxNew
+{
+    width: 460px;
+    border-width: 1px; /* sets border width on all sides */
+    border-style: solid;
+    border-color: #666666;
+    overflow: auto;
+    height: 300px;
+   
+}
+
+.outlineboxFree
+{
+    width: 460px;
+    border-width: 1px; /* sets border width on all sides */
+    border-style: solid;
+    border-color: #666666;
+    overflow: auto;   
+}
+
+.GridSortOrder
+{
+    position: absolute;
+    top: 370px;
+    /*left: 1150px;*/
+}
+
+
+
+.ComboStylehidden
+{
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    vertical-align: middle;
+    text-align: left;
+    height: 25px;
+    margin-left: 0px; /*visibility:hidden;*/
+    display: none;
+}
+.TextBoxStylehidden
+{
+    padding: 2px;
+    border: thin solid #999999;
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    line-height: 10pt;
+    text-align: left;
+    margin-bottom: 5px;
+    margin-left: 2px; /*visibility:hidden;*/
+    display: none;
+}
+.LabelStylehidden
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    color: Black;
+    font-weight: bold; /* visibility:hidden;*/
+    display: none;
+}
+
+

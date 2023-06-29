@@ -1,0 +1,36 @@
+6/11/2015 11:55:36 AM: GetIndexFieldsByTemplateId Started
+6/11/2015 11:55:36 AM: GetIndexFieldsByTemplateId Finished
+6/11/2015 11:56:59 AM: btnExport_Click Started
+6/11/2015 11:57:00 AM: ExportToExcel started
+6/11/2015 11:57:00 AM: Exception:Thread was being aborted.
+6/11/2015 11:58:16 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 11:58:16 AM: Started Extracting Soft Data
+6/11/2015 11:58:19 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:02:21 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:02:22 PM: Started Extracting Soft Data
+6/11/2015 12:02:23 PM: Exception:Selected file is not matching to test_FileName.
+6/11/2015 12:02:23 PM: Exception:Selected file is not matching to test_FileName.
+6/11/2015 12:02:35 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:02:35 PM: Started Extracting Soft Data
+6/11/2015 12:02:38 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:07:08 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:07:08 PM: Started Extracting Soft Data
+6/11/2015 12:11:23 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:11:39 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:11:39 PM: Started Extracting Soft Data
+6/11/2015 12:11:43 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:12:06 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:12:06 PM: Started Extracting Soft Data
+6/11/2015 12:25:10 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:25:32 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:25:32 PM: Started Extracting Soft Data
+6/11/2015 12:26:36 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:26:57 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 12:26:57 PM: Started Extracting Soft Data
+6/11/2015 3:26:30 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 3:33:15 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 3:33:28 PM: Exception:There are currently no log-on servers available to service the log-on request.
+
+6/11/2015 3:34:14 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/11/2015 3:34:33 PM: Exception:There are currently no log-on servers available to service the log-on request.
+

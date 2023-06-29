@@ -1,0 +1,40 @@
+8/19/2017 10:40:39 AM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 10:45:20 AM: function GetTemplateDetails caught ex;Cannot find column 18.
+8/19/2017 11:11:39 AM: function GetTemplateDetails caught ex;Cannot find column 18.
+8/19/2017 11:30:58 AM: function GetTemplateDetails caught ex;Cannot find column 18.
+8/19/2017 11:53:48 AM: function GetTemplateDetails caught ex;Cannot find column 18.
+8/19/2017 12:01:55 PM: function GetTemplateDetails caught ex;Index was outside the bounds of the array.
+8/19/2017 12:20:44 PM: function GetTemplateDetails caught ex;Index was outside the bounds of the array.
+8/19/2017 12:32:13 PM: function GetTemplateDetails caught ex;Length cannot be less than zero.
+Parameter name: length
+8/19/2017 12:46:49 PM: function GetTemplateDetails caught ex;Length cannot be less than zero.
+Parameter name: length
+8/19/2017 2:20:34 PM: function GetTemplateDetails caught ex;Length cannot be less than zero.
+Parameter name: length
+8/19/2017 2:37:00 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:37:13 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:39:20 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:49:33 PM: System.ArgumentOutOfRangeException: Length cannot be less than zero.
+Parameter name: length
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Lotex.EnterpriseSolutions.WebUI.PageBase.beforedot(String s) in e:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WebApplications\CoreDMS\Base\PageBase.cs:line 561
+   at Lotex.EnterpriseSolutions.WebUI.Secure.Core.DocumentTag.btnSubmit_Click(Object sender, EventArgs e) in e:\Sheetal\Working info doc\SourceCodeInfoDocs_new\SourceCode\WebApplications\CoreDMS\Secure\Core\DocumentTag.aspx.cs:line 629
+8/19/2017 2:52:13 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:21 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:24 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:28 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:42 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:46 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:48 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:51 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:53 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:52:55 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:53:17 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:53:20 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 2:53:53 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 3:01:05 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 3:01:11 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 3:02:28 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 3:03:43 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.
+8/19/2017 3:05:42 PM: function GetTemplateDetails caught ex;String was not recognized as a valid Boolean.

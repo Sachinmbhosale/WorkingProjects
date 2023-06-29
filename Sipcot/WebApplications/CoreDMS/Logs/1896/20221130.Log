@@ -1,0 +1,96 @@
+11/30/2022 3:47:01 PM: createControls Started
+11/30/2022 3:47:01 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: createControls Finished
+11/30/2022 3:47:01 PM: generatecontrols Started
+11/30/2022 3:47:01 PM: Calling database to get reference id and watermark.
+11/30/2022 3:47:01 PM: Database returned result: SI_LE_1896_304_1016|
+11/30/2022 3:47:01 PM: Generatecontrols,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: Generatecontrols,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: Generatecontrols,Load all Textbox dynamic
+11/30/2022 3:47:01 PM: Generatecontrols,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: createControls Started
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: createControls Finished
+11/30/2022 3:47:26 PM: AsyncFileUpload1_UploadedComplete Started
+11/30/2022 3:47:26 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+11/30/2022 3:47:26 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+11/30/2022 3:47:26 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 2
+11/30/2022 3:47:26 PM: AsyncFileUpload1_UploadedComplete Finished
+11/30/2022 3:47:26 PM: createControls Started
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:26 PM: createControls Finished
+11/30/2022 3:47:26 PM: btnSubmit_Click Started
+11/30/2022 3:47:26 PM: btnSubmit_Click Finished
+11/30/2022 3:47:28 PM: createControls Started
+11/30/2022 3:47:28 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:28 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:28 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:28 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:28 PM: createControls Finished
+11/30/2022 3:47:28 PM: Started Saving Uploaded Document in Save Button Click
+11/30/2022 3:47:28 PM: AsyncFileUpload1_UploadedComplete Started
+11/30/2022 3:47:28 PM: AsyncFileUpload1_UploadedComplete Finished
+11/30/2022 3:47:28 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+11/30/2022 3:47:28 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+11/30/2022 3:47:28 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+11/30/2022 3:47:28 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+11/30/2022 3:47:30 PM: CreateXML Started:-
+11/30/2022 3:47:30 PM: CreateXML Completed:-
+11/30/2022 3:47:31 PM: Save button click after saving or updating the ReturnCode= 0
+11/30/2022 3:47:31 PM: Finished Saving Uploaded Document in Save Button Click
+11/30/2022 3:47:31 PM: AsyncFileUpload1_UploadedComplete Started
+11/30/2022 3:47:31 PM: AsyncFileUpload1_UploadedComplete Finished
+11/30/2022 3:47:36 PM: BindDocumentType started
+11/30/2022 3:47:36 PM: BindDocumentType finished
+11/30/2022 3:47:40 PM: createControls Started
+11/30/2022 3:47:40 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: createControls Finished
+11/30/2022 3:47:40 PM: GetTemplateDetails started
+11/30/2022 3:47:40 PM: generatecontrols Started
+11/30/2022 3:47:40 PM: GenerateControls:Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: GenerateControls:Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: GenerateControls:Loaded all Textbox dynamically
+11/30/2022 3:47:40 PM: GenerateControls:Loaded all Textbox dynamically
+11/30/2022 3:47:44 PM: createControls Started
+11/30/2022 3:47:44 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:44 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:44 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:44 PM: createControls Loaded all Textbox dynamically
+11/30/2022 3:47:44 PM: createControls Finished
+11/30/2022 3:47:44 PM: Started Loading Entity Drop Down
+11/30/2022 3:47:45 PM: Finished Loading Entity Drop Down
+11/30/2022 3:47:49 PM: GetSginatureDetails Started:-
+11/30/2022 3:47:49 PM: GetSginatureDetails Completed:-
+11/30/2022 3:47:49 PM: GetTemplateDetails Started
+11/30/2022 3:47:49 PM: GetTemplateDetails total record count:1
+11/30/2022 3:47:49 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:49 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:49 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:49 PM: Create controls,Load all Textbox dynamic
+11/30/2022 3:47:49 PM: GetTemplateDetails Finished
+11/30/2022 3:47:49 PM: InitializeDocumentView started
+11/30/2022 3:47:49 PM: InitializeDocumentView finished
+11/30/2022 3:47:49 PM: Calling database to get annotated images. DocumentId: 302145, Action: GetAnnotatedPages
+11/30/2022 3:47:49 PM: Calling database to get annotated images. DocumentId: 302145, Action: GetTaggedPages
+11/30/2022 3:47:49 PM: LoadImageToViewer started
+11/30/2022 3:47:49 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+11/30/2022 3:47:49 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAxNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAxNg== Page No: 1
+11/30/2022 3:47:49 PM: Converting PDF to JPEG without applying watermark.
+11/30/2022 3:47:50 PM: Invoke method to get annotations from databnase.
+11/30/2022 3:47:50 PM: Get annotations from database.
+11/30/2022 3:47:50 PM: Document Id: 302145 Page No: 1
+11/30/2022 3:47:50 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+11/30/2022 3:47:50 PM: MailPanelFill started
+11/30/2022 3:47:50 PM: MailPanelFill finished

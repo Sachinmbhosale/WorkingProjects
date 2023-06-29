@@ -1,0 +1,49 @@
+12/29/2017 5:02:02 PM: GetIndexFieldsByTemplateId Started
+12/29/2017 5:02:02 PM: GetIndexFieldsByTemplateId Finished
+12/29/2017 5:02:21 PM: createControls Started
+12/29/2017 5:02:21 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:21 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:21 PM: createControls Finished
+12/29/2017 5:02:21 PM: generatecontrols Started
+12/29/2017 5:02:21 PM: Calling database to get reference id and watermark.
+12/29/2017 5:02:21 PM: Database returned result: NO_EX_510_250_1406|
+12/29/2017 5:02:21 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 5:02:21 PM: Generatecontrols,Load all Textbox dynamic
+12/29/2017 5:02:22 PM: createControls Started
+12/29/2017 5:02:22 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:22 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:22 PM: createControls Finished
+12/29/2017 5:02:25 PM: createControls Started
+12/29/2017 5:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:25 PM: createControls Finished
+12/29/2017 5:02:25 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 5:02:25 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 5:02:25 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+12/29/2017 5:02:25 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 6
+12/29/2017 5:02:25 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 5:02:25 PM: createControls Started
+12/29/2017 5:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:25 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:25 PM: createControls Finished
+12/29/2017 5:02:25 PM: btnSubmit_Click Started
+12/29/2017 5:02:25 PM: btnSubmit_Click Finished
+12/29/2017 5:02:27 PM: createControls Started
+12/29/2017 5:02:27 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:27 PM: Create controls,Load all Textbox dynamic
+12/29/2017 5:02:27 PM: createControls Finished
+12/29/2017 5:02:27 PM: Started Saving Uploaded Document in Save Button Click
+12/29/2017 5:02:27 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 5:02:27 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 5:02:27 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+12/29/2017 5:02:27 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+12/29/2017 5:02:28 PM: CreateXML Started:-
+12/29/2017 5:02:28 PM: CreateXML Completed:-
+12/29/2017 5:02:28 PM: Save button click after saving or updating the ReturnCode= 0
+12/29/2017 5:02:28 PM: Finished Saving Uploaded Document in Save Button Click
+12/29/2017 5:02:28 PM: AsyncFileUpload1_UploadedComplete Started
+12/29/2017 5:02:28 PM: AsyncFileUpload1_UploadedComplete Finished
+12/29/2017 5:02:43 PM: GetIndexFieldsByTemplateId Started
+12/29/2017 5:02:43 PM: GetIndexFieldsByTemplateId Finished
+12/29/2017 5:03:07 PM: GetIndexFieldsByTemplateId Started
+12/29/2017 5:03:07 PM: GetIndexFieldsByTemplateId Finished

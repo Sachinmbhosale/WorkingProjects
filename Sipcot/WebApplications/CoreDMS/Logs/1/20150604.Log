@@ -1,0 +1,84 @@
+6/4/2015 10:59:15 AM: createControls Started
+6/4/2015 10:59:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:15 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: createControls Finished
+6/4/2015 10:59:15 AM: generatecontrols Started
+6/4/2015 10:59:15 AM: Calling database to get reference id and watermark.
+6/4/2015 10:59:15 AM: Database returned result: CU_AD_1_1_1128|
+6/4/2015 10:59:15 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: generatecontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:15 AM: generatecontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:15 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 10:59:15 AM: Generatecontrols,Load all Textbox dynamic
+6/4/2015 10:59:28 AM: createControls Started
+6/4/2015 10:59:28 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:28 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:28 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:28 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:28 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:28 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:28 AM: createControls Finished
+6/4/2015 10:59:32 AM: AsyncFileUpload1_UploadedComplete Started
+6/4/2015 10:59:32 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 10:59:32 AM: Exception : The process cannot access the file '\\172.16.1.11\WDMSDocument\TempWorkFolder\Q1VfQURfMV8xXzExMjg=.pdf' because it is being used by another process.
+6/4/2015 10:59:33 AM: createControls Started
+6/4/2015 10:59:33 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:33 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:33 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:33 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:33 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:33 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:33 AM: createControls Finished
+6/4/2015 10:59:34 AM: btnSubmit_Click Started
+6/4/2015 10:59:34 AM: btnSubmit_Click Finished
+6/4/2015 10:59:35 AM: createControls Started
+6/4/2015 10:59:35 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:35 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:35 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:35 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:35 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:35 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:35 AM: createControls Finished
+6/4/2015 10:59:35 AM: Started Previewing Uploaded Document in btnPreview_Click 
+6/4/2015 10:59:35 AM: Finished Previewing Uploaded Document in btnPreview_Click 
+6/4/2015 10:59:46 AM: createControls Started
+6/4/2015 10:59:46 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:46 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:46 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:46 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:46 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:46 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:46 AM: createControls Finished
+6/4/2015 10:59:46 AM: AsyncFileUpload1_UploadedComplete Started
+6/4/2015 10:59:46 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 10:59:46 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 10:59:47 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 1
+6/4/2015 10:59:47 AM: AsyncFileUpload1_UploadedComplete Finished
+6/4/2015 10:59:48 AM: createControls Started
+6/4/2015 10:59:48 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:48 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:48 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:48 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:48 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:48 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:48 AM: createControls Finished
+6/4/2015 10:59:48 AM: btnSubmit_Click Started
+6/4/2015 10:59:48 AM: btnSubmit_Click Finished
+6/4/2015 10:59:50 AM: createControls Started
+6/4/2015 10:59:50 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:50 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:50 AM: Createcontrols,Load all Dropdownlist dynamic
+6/4/2015 10:59:50 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:50 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:50 AM: Create controls,Load all Textbox dynamic
+6/4/2015 10:59:50 AM: createControls Finished
+6/4/2015 10:59:50 AM: AsyncFileUpload1_UploadedComplete Started
+6/4/2015 10:59:50 AM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 10:59:50 AM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/4/2015 10:59:50 AM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 1
+6/4/2015 10:59:51 AM: AsyncFileUpload1_UploadedComplete Finished

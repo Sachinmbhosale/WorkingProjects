@@ -1,0 +1,69 @@
+6/27/2015 4:46:53 PM: BindDocumentType started
+6/27/2015 4:46:53 PM: BindDocumentType finished
+6/27/2015 5:32:19 PM: Started Loading Domain Name Drop Down
+6/27/2015 5:32:19 PM: Finished Loading Domain Name Drop Down
+6/27/2015 7:57:39 PM: Rendering controls. Object Type: TextBox, Control Id: Control_151
+6/27/2015 7:57:39 PM: Rendering controls completed.
+6/27/2015 7:57:39 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_151
+6/27/2015 7:57:39 PM: Completed initialization of controls.
+6/27/2015 7:57:39 PM: Before binding image to viewer 
+6/27/2015 7:57:58 PM: Dataentry Type of the stage : Form
+6/27/2015 7:58:42 PM: Dataentry Type of the stage : Form
+6/27/2015 8:01:06 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/27/2015 8:01:06 PM: Rendering controls. Object Type: TextBox, Control Id: Control_132
+6/27/2015 8:01:06 PM: Rendering controls. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/27/2015 8:01:06 PM: Rendering controls. Object Type: TextBox, Control Id: Control_148
+6/27/2015 8:01:06 PM: Rendering controls. Object Type: DropDown, Control Id: Control_150
+6/27/2015 8:01:06 PM: Rendering controls completed.
+6/27/2015 8:01:06 PM: Rendering controls. Object Type: TextBox, Control Id: Control_149
+6/27/2015 8:01:06 PM: Rendering controls completed.
+6/27/2015 8:01:06 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_149
+6/27/2015 8:01:06 PM: Completed initialization of controls.
+6/27/2015 8:01:06 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/27/2015 8:01:06 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_132
+6/27/2015 8:01:06 PM: Initializing controls after rendering. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/27/2015 8:01:06 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_148
+6/27/2015 8:01:06 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_150
+6/27/2015 8:01:06 PM: Completed initialization of controls.
+6/27/2015 8:01:06 PM: Before binding image to viewer 
+6/27/2015 8:01:11 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/27/2015 8:01:11 PM: Rendering controls. Object Type: TextBox, Control Id: Control_132
+6/27/2015 8:01:11 PM: Rendering controls. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/27/2015 8:01:11 PM: Rendering controls. Object Type: TextBox, Control Id: Control_148
+6/27/2015 8:01:11 PM: Rendering controls. Object Type: DropDown, Control Id: Control_150
+6/27/2015 8:01:11 PM: Rendering controls completed.
+6/27/2015 8:01:11 PM: Rendering controls. Object Type: TextBox, Control Id: Control_149
+6/27/2015 8:01:11 PM: Rendering controls completed.
+6/27/2015 8:01:11 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_149
+6/27/2015 8:01:11 PM: Completed initialization of controls.
+6/27/2015 8:01:11 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/27/2015 8:01:11 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_132
+6/27/2015 8:01:11 PM: Initializing controls after rendering. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/27/2015 8:01:11 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_148
+6/27/2015 8:01:11 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_150
+6/27/2015 8:01:11 PM: Completed initialization of controls.
+6/27/2015 8:01:11 PM: Before binding image to viewer 
+6/27/2015 8:27:09 PM: Dataentry Type of the stage : Form
+6/27/2015 8:27:09 PM: Get all stage related data from database
+6/27/2015 8:27:09 PM: Virtual folder path of data entry images/Images/DataEntry/df1df860-cdb9-496e-9a4c-6f4df7b69290/12/16/209
+6/27/2015 8:27:09 PM: controls binded successfully
+6/27/2015 8:27:31 PM: Dataentry Type of the stage : Form
+6/27/2015 8:27:31 PM: Get all stage related data from database
+6/27/2015 8:27:31 PM: controls binded successfully
+6/27/2015 8:32:44 PM: Rendering controls. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/27/2015 8:32:44 PM: Rendering controls. Object Type: TextBox, Control Id: Control_132
+6/27/2015 8:32:44 PM: Rendering controls. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/27/2015 8:32:44 PM: Rendering controls. Object Type: TextBox, Control Id: Control_148
+6/27/2015 8:32:44 PM: Rendering controls. Object Type: DropDown, Control Id: Control_150
+6/27/2015 8:32:44 PM: Rendering controls completed.
+6/27/2015 8:32:44 PM: Rendering controls. Object Type: TextBox, Control Id: Control_149
+6/27/2015 8:32:44 PM: Rendering controls completed.
+6/27/2015 8:32:44 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_149
+6/27/2015 8:32:44 PM: Completed initialization of controls.
+6/27/2015 8:32:44 PM: Initializing controls after rendering. Object Type: DateCalculation_CurrentDate, Control Id: Control_131
+6/27/2015 8:32:44 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_132
+6/27/2015 8:32:44 PM: Initializing controls after rendering. Object Type: DateCalculation_ReferDate, Control Id: Control_133
+6/27/2015 8:32:44 PM: Initializing controls after rendering. Object Type: TextBox, Control Id: Control_148
+6/27/2015 8:32:44 PM: Initializing controls after rendering. Object Type: DropDown, Control Id: Control_150
+6/27/2015 8:32:44 PM: Completed initialization of controls.
+6/27/2015 8:32:44 PM: Before binding image to viewer 

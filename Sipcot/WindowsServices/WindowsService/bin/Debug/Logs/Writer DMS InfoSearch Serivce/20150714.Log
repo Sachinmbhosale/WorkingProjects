@@ -1,0 +1,164 @@
+7/14/2015 10:47:26 AM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 10:47:26 AM: Writer DMS InfoSearch Serivce Started
+7/14/2015 10:47:26 AM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 10:47:56 AM: Calling service to get data for splitting.
+7/14/2015 10:48:00 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:48:26 AM: Calling service to get data for splitting.
+7/14/2015 10:48:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:48:56 AM: Calling service to get data for splitting.
+7/14/2015 10:48:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:49:26 AM: Calling service to get data for splitting.
+7/14/2015 10:49:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:49:56 AM: Calling service to get data for splitting.
+7/14/2015 10:49:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:50:26 AM: Calling service to get data for splitting.
+7/14/2015 10:50:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:50:56 AM: Calling service to get data for splitting.
+7/14/2015 10:50:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:51:26 AM: Calling service to get data for splitting.
+7/14/2015 10:51:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:51:56 AM: Calling service to get data for splitting.
+7/14/2015 10:51:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:52:26 AM: Calling service to get data for splitting.
+7/14/2015 10:52:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:52:56 AM: Calling service to get data for splitting.
+7/14/2015 10:52:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:53:26 AM: Calling service to get data for splitting.
+7/14/2015 10:53:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:53:56 AM: Calling service to get data for splitting.
+7/14/2015 10:53:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:54:26 AM: Calling service to get data for splitting.
+7/14/2015 10:54:28 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:54:56 AM: Calling service to get data for splitting.
+7/14/2015 10:54:58 AM: Exception : There was no endpoint listening at http://localhost:55362/Service.svc/REST that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.
+7/14/2015 10:55:15 AM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 10:55:18 AM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 10:55:18 AM: Writer DMS InfoSearch Serivce Started
+7/14/2015 10:55:18 AM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 10:56:04 AM: Calling service to get data for splitting.
+7/14/2015 10:56:11 AM: Received data from database. Count : 1
+7/14/2015 10:56:11 AM: Invoking threads for each record/document.
+7/14/2015 10:56:16 AM: Processing document. Row number: 0
+7/14/2015 10:56:16 AM: Timer Stopped.
+7/14/2015 10:56:18 AM: Fresh upload.
+7/14/2015 10:56:18 AM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 10:56:18 AM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 11:37:52 AM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 11:38:31 AM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 11:38:31 AM: Writer DMS InfoSearch Serivce Started
+7/14/2015 11:38:31 AM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 11:39:25 AM: Calling service to get data for splitting.
+7/14/2015 11:39:26 AM: Received data from database. Count : 1
+7/14/2015 11:39:26 AM: Invoking threads for each record/document.
+7/14/2015 11:39:28 AM: Processing document. Row number: 0
+7/14/2015 11:39:28 AM: Timer Stopped.
+7/14/2015 11:39:33 AM: Fresh upload.
+7/14/2015 11:39:33 AM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 11:39:33 AM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 11:39:33 AM: Exception : The process cannot access the file 'D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx' because it is being used by another process.
+7/14/2015 11:39:33 AM: Timer started agan.
+7/14/2015 11:40:07 AM: Calling service to get data for splitting.
+7/14/2015 11:40:07 AM: Received data from database. Count : 1
+7/14/2015 11:40:07 AM: Invoking threads for each record/document.
+7/14/2015 11:40:08 AM: Processing document. Row number: 0
+7/14/2015 11:40:08 AM: Timer Stopped.
+7/14/2015 11:40:11 AM: Fresh upload.
+7/14/2015 11:40:12 AM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 11:40:13 AM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 11:40:23 AM: Exception : The process cannot access the file 'D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx' because it is being used by another process.
+7/14/2015 11:40:23 AM: Timer started agan.
+7/14/2015 11:40:35 AM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 11:40:38 AM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 11:40:38 AM: Writer DMS InfoSearch Serivce Started
+7/14/2015 11:40:38 AM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 11:41:17 AM: Calling service to get data for splitting.
+7/14/2015 11:41:19 AM: Received data from database. Count : 1
+7/14/2015 11:41:19 AM: Invoking threads for each record/document.
+7/14/2015 11:41:20 AM: Processing document. Row number: 0
+7/14/2015 11:41:20 AM: Timer Stopped.
+7/14/2015 11:41:22 AM: Fresh upload.
+7/14/2015 11:41:22 AM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 11:41:22 AM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 11:41:22 AM: Exception : The process cannot access the file 'D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx' because it is being used by another process.
+7/14/2015 11:41:22 AM: Timer started agan.
+7/14/2015 11:42:38 AM: Calling service to get data for splitting.
+7/14/2015 11:42:39 AM: Calling service to get data for splitting.
+7/14/2015 11:42:40 AM: Received data from database. Count : 1
+7/14/2015 11:42:40 AM: Invoking threads for each record/document.
+7/14/2015 11:42:43 AM: Processing document. Row number: 0
+7/14/2015 11:42:43 AM: Timer Stopped.
+7/14/2015 11:42:49 AM: Fresh upload.
+7/14/2015 11:42:50 AM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 12:03:15 PM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 12:03:17 PM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 12:03:17 PM: Writer DMS InfoSearch Serivce Started
+7/14/2015 12:03:17 PM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 12:03:51 PM: Calling service to get data for splitting.
+7/14/2015 12:03:52 PM: Received data from database. Count : 1
+7/14/2015 12:03:52 PM: Invoking threads for each record/document.
+7/14/2015 12:03:57 PM: Processing document. Row number: 0
+7/14/2015 12:03:57 PM: Timer Stopped.
+7/14/2015 12:04:01 PM: Fresh upload.
+7/14/2015 12:04:01 PM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 12:04:01 PM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 12:04:02 PM: Exception : The process cannot access the file 'D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx' because it is being used by another process.
+7/14/2015 12:04:02 PM: Timer started agan.
+7/14/2015 12:04:12 PM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 12:04:14 PM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 12:04:14 PM: Writer DMS InfoSearch Serivce Started
+7/14/2015 12:04:14 PM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 12:04:49 PM: Calling service to get data for splitting.
+7/14/2015 12:04:49 PM: Received data from database. Count : 1
+7/14/2015 12:04:50 PM: Invoking threads for each record/document.
+7/14/2015 12:04:53 PM: Processing document. Row number: 0
+7/14/2015 12:04:53 PM: Timer Stopped.
+7/14/2015 12:04:56 PM: Fresh upload.
+7/14/2015 12:04:57 PM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 12:09:31 PM: Exception : The RPC server is unavailable. (Exception from HRESULT: 0x800706BA)
+7/14/2015 12:09:31 PM: Timer started agan.
+7/14/2015 12:10:22 PM: Calling service to get data for splitting.
+7/14/2015 12:10:22 PM: Received data from database. Count : 1
+7/14/2015 12:10:22 PM: Invoking threads for each record/document.
+7/14/2015 12:10:37 PM: Processing document. Row number: 0
+7/14/2015 12:10:39 PM: Timer Stopped.
+7/14/2015 12:10:43 PM: Fresh upload.
+7/14/2015 12:10:43 PM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 12:10:43 PM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 12:10:44 PM: Received data from database. Count : 1
+7/14/2015 12:10:44 PM: Invoking threads for each record/document.
+7/14/2015 12:35:43 PM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 12:36:21 PM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 12:36:21 PM: Writer DMS InfoSearch Serivce Started
+7/14/2015 12:36:21 PM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 12:37:11 PM: Calling service to get data for splitting.
+7/14/2015 12:37:12 PM: Received data from database. Count : 1
+7/14/2015 12:37:12 PM: Invoking threads for each record/document.
+7/14/2015 12:37:13 PM: Processing document. Row number: 0
+7/14/2015 12:37:13 PM: Timer Stopped.
+7/14/2015 12:37:17 PM: Fresh upload.
+7/14/2015 12:37:17 PM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 12:37:17 PM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 12:40:33 PM: Writer DMS InfoSearch Serivce Stopped
+7/14/2015 12:40:36 PM: Writer DMS InfoSearch Serivce Intializing
+7/14/2015 12:40:36 PM: Writer DMS InfoSearch Serivce Started
+7/14/2015 12:40:36 PM: Initializing BackgroundWorker. Thread(s) Count : 1
+7/14/2015 12:41:08 PM: Calling service to get data for splitting.
+7/14/2015 12:41:09 PM: Received data from database. Count : 1
+7/14/2015 12:41:09 PM: Invoking threads for each record/document.
+7/14/2015 12:41:09 PM: Processing document. Row number: 0
+7/14/2015 12:41:09 PM: Timer Stopped.
+7/14/2015 12:41:10 PM: Fresh upload.
+7/14/2015 12:41:10 PM: File Gokul CURRICULUM VITAE.docx is processing.
+7/14/2015 12:41:10 PM: Copy file. Source : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx Destination  : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 12:41:40 PM: Invalid file extension : docx
+7/14/2015 12:41:40 PM: Zipping document. File path : D:\\Writer\UploadedDocuments\GLOBAL\332\2015-07-14\R09fQURfMzI1XzFfMTAyMQ==.docx
+7/14/2015 12:41:40 PM: Call service to update database.
+7/14/2015 12:41:41 PM: Database update success.
+7/14/2015 12:41:41 PM: Deleting file. Path : D:\WDMSDocument\Testing\Gokul CURRICULUM VITAE.docx
+7/14/2015 12:41:41 PM: Deleting directory. Path : d:\wdmsdocument\testing
+7/14/2015 12:41:41 PM: Timer started agan.
+7/14/2015 12:42:14 PM: Calling service to get data for splitting.
+7/14/2015 12:42:14 PM: No data received from database.
+7/14/2015 12:43:02 PM: Calling service to get data for splitting.
+7/14/2015 12:43:02 PM: No data received from database.
+7/14/2015 12:43:05 PM: Writer DMS InfoSearch Serivce Stopped

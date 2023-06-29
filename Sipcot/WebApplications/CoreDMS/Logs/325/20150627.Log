@@ -1,0 +1,6 @@
+6/27/2015 8:38:15 PM: Before binding image to viewer \\172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-02\RE1fQURfMjg3XzFfMTAxOA==.pdf
+6/27/2015 8:38:17 PM: Setting image to viewer. Action:  Page count: 4 Current Page:1
+6/27/2015 8:38:17 PM: source file path \172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-02\RE1fQURfMjg3XzFfMTAxOA==\1.pdf
+6/27/2015 8:38:17 PM: source file path \172.16.1.11\WDMSDocument\UploadedDocuments\global\287\2015-06-02\RE1fQURfMjg3XzFfMTAxOA==
+6/27/2015 8:38:17 PM: Converting PDF to JPEG.
+6/27/2015 8:38:17 PM: convertPDFToImage method returned file path as empty.

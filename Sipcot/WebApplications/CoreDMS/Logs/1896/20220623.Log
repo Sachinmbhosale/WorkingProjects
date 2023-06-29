@@ -1,0 +1,613 @@
+6/23/2022 3:23:28 PM: createControls Started
+6/23/2022 3:23:28 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:28 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:28 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:28 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:28 PM: createControls Finished
+6/23/2022 3:23:28 PM: generatecontrols Started
+6/23/2022 3:23:28 PM: Calling database to get reference id and watermark.
+6/23/2022 3:23:29 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 3:23:29 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:23:29 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:23:29 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:23:29 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:23:47 PM: createControls Started
+6/23/2022 3:23:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:23:47 PM: createControls Finished
+6/23/2022 3:24:20 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 3:24:20 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 3:24:20 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 3:24:21 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 2
+6/23/2022 3:24:21 PM: AsyncFileUpload1_UploadedComplete Finished
+6/23/2022 3:24:22 PM: createControls Started
+6/23/2022 3:24:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:24:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:24:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:24:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:24:22 PM: createControls Finished
+6/23/2022 3:24:22 PM: btnSubmit_Click Started
+6/23/2022 3:24:22 PM: btnSubmit_Click Finished
+6/23/2022 3:27:32 PM: createControls Started
+6/23/2022 3:27:32 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: createControls Finished
+6/23/2022 3:27:32 PM: generatecontrols Started
+6/23/2022 3:27:32 PM: Calling database to get reference id and watermark.
+6/23/2022 3:27:32 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:27:32 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:27:43 PM: createControls Started
+6/23/2022 3:27:43 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:43 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:43 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:43 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:27:43 PM: createControls Finished
+6/23/2022 3:28:01 PM: Exception : Could not find file 'C:\Program Files (x86)\IIS Express\26.pdf'.
+6/23/2022 3:28:02 PM: createControls Started
+6/23/2022 3:28:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:28:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:28:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:28:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:28:02 PM: createControls Finished
+6/23/2022 3:28:02 PM: btnSubmit_Click Started
+6/23/2022 3:28:02 PM: btnSubmit_Click Finished
+6/23/2022 3:40:49 PM: createControls Started
+6/23/2022 3:40:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:40:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:40:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:40:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:40:50 PM: createControls Finished
+6/23/2022 3:40:50 PM: generatecontrols Started
+6/23/2022 3:40:50 PM: Calling database to get reference id and watermark.
+6/23/2022 3:40:51 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 3:40:51 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:40:51 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:40:51 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:40:51 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 3:41:12 PM: createControls Started
+6/23/2022 3:41:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:41:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:41:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:41:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:41:12 PM: createControls Finished
+6/23/2022 3:42:01 PM: Exception : Could not find file 'C:\Program Files (x86)\IIS Express\26.pdf'.
+6/23/2022 3:42:02 PM: createControls Started
+6/23/2022 3:42:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:42:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:42:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:42:02 PM: Create controls,Load all Textbox dynamic
+6/23/2022 3:42:02 PM: createControls Finished
+6/23/2022 3:42:02 PM: btnSubmit_Click Started
+6/23/2022 3:42:02 PM: btnSubmit_Click Finished
+6/23/2022 4:00:54 PM: createControls Started
+6/23/2022 4:00:54 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:00:54 PM: Createcontrols,Load all Dropdownlist dynamic
+6/23/2022 4:00:54 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:00:54 PM: Createcontrols,Load all Dropdownlist dynamic
+6/23/2022 4:00:54 PM: createControls Finished
+6/23/2022 4:00:54 PM: generatecontrols Started
+6/23/2022 4:00:54 PM: Calling database to get reference id and watermark.
+6/23/2022 4:00:54 PM: Database returned result: SI_FI_1896_304_1006|
+6/23/2022 4:00:54 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:00:54 PM: generatecontrols,Load all Dropdownlist dynamic
+6/23/2022 4:00:54 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:00:54 PM: generatecontrols,Load all Dropdownlist dynamic
+6/23/2022 4:00:57 PM: createControls Started
+6/23/2022 4:00:57 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:00:57 PM: Createcontrols,Load all Dropdownlist dynamic
+6/23/2022 4:00:57 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:00:57 PM: Createcontrols,Load all Dropdownlist dynamic
+6/23/2022 4:00:57 PM: createControls Finished
+6/23/2022 4:01:23 PM: Exception : Could not find file 'C:\Program Files (x86)\IIS Express\26.pdf'.
+6/23/2022 4:01:23 PM: createControls Started
+6/23/2022 4:01:23 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:01:23 PM: Createcontrols,Load all Dropdownlist dynamic
+6/23/2022 4:01:23 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:01:23 PM: Createcontrols,Load all Dropdownlist dynamic
+6/23/2022 4:01:23 PM: createControls Finished
+6/23/2022 4:01:23 PM: btnSubmit_Click Started
+6/23/2022 4:01:23 PM: btnSubmit_Click Finished
+6/23/2022 4:06:21 PM: createControls Started
+6/23/2022 4:06:21 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: createControls Finished
+6/23/2022 4:06:21 PM: generatecontrols Started
+6/23/2022 4:06:21 PM: Calling database to get reference id and watermark.
+6/23/2022 4:06:21 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 4:06:21 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:06:21 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:06:31 PM: createControls Started
+6/23/2022 4:06:31 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:31 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:31 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:31 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:31 PM: createControls Finished
+6/23/2022 4:06:45 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:06:45 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:06:50 PM: createControls Started
+6/23/2022 4:06:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:50 PM: createControls Finished
+6/23/2022 4:06:50 PM: btnSubmit_Click Started
+6/23/2022 4:06:50 PM: btnSubmit_Click Finished
+6/23/2022 4:06:51 PM: createControls Started
+6/23/2022 4:06:51 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:51 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:51 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:51 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:06:51 PM: createControls Finished
+6/23/2022 4:06:51 PM: Started Previewing Uploaded Document in btnPreview_Click 
+6/23/2022 4:07:01 PM: Src Details : http://localhost:55361/GenericHandler.ashx?f=D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf
+6/23/2022 4:07:01 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+6/23/2022 4:07:01 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 4:07:01 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 4:07:01 PM: Exception: I/O error occurred.
+6/23/2022 4:07:01 PM: convertPDFToImage method returned file path as empty.
+6/23/2022 4:07:01 PM: Finished Previewing Uploaded Document in btnPreview_Click 
+6/23/2022 4:43:47 PM: createControls Started
+6/23/2022 4:43:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: createControls Finished
+6/23/2022 4:43:47 PM: generatecontrols Started
+6/23/2022 4:43:47 PM: Calling database to get reference id and watermark.
+6/23/2022 4:43:47 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 4:43:47 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:43:47 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:43:58 PM: createControls Started
+6/23/2022 4:43:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:43:58 PM: createControls Finished
+6/23/2022 4:43:58 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:43:58 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:44:01 PM: createControls Started
+6/23/2022 4:44:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:01 PM: createControls Finished
+6/23/2022 4:44:01 PM: btnSubmit_Click Started
+6/23/2022 4:44:01 PM: btnSubmit_Click Finished
+6/23/2022 4:44:03 PM: createControls Started
+6/23/2022 4:44:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:44:04 PM: createControls Finished
+6/23/2022 4:44:04 PM: Started Previewing Uploaded Document in btnPreview_Click 
+6/23/2022 4:45:06 PM: createControls Started
+6/23/2022 4:45:06 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: createControls Finished
+6/23/2022 4:45:06 PM: generatecontrols Started
+6/23/2022 4:45:06 PM: Calling database to get reference id and watermark.
+6/23/2022 4:45:06 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 4:45:06 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:45:06 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: createControls Started
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: createControls Finished
+6/23/2022 4:45:09 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:45:09 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:45:09 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/23/2022 4:45:09 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/23/2022 4:45:09 PM: createControls Started
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:09 PM: createControls Finished
+6/23/2022 4:45:09 PM: btnSubmit_Click Started
+6/23/2022 4:45:09 PM: btnSubmit_Click Finished
+6/23/2022 4:45:12 PM: createControls Started
+6/23/2022 4:45:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:12 PM: createControls Finished
+6/23/2022 4:45:12 PM: Started Previewing Uploaded Document in btnPreview_Click 
+6/23/2022 4:45:33 PM: createControls Started
+6/23/2022 4:45:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:45:33 PM: createControls Finished
+6/23/2022 4:45:33 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:45:33 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:45:33 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/23/2022 4:45:33 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/23/2022 4:47:58 PM: createControls Started
+6/23/2022 4:47:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: createControls Finished
+6/23/2022 4:47:58 PM: generatecontrols Started
+6/23/2022 4:47:58 PM: Calling database to get reference id and watermark.
+6/23/2022 4:47:58 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 4:47:58 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:47:58 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:48:01 PM: createControls Started
+6/23/2022 4:48:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:01 PM: createControls Finished
+6/23/2022 4:48:01 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:48:01 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:48:03 PM: createControls Started
+6/23/2022 4:48:03 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:03 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:03 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:03 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:03 PM: createControls Finished
+6/23/2022 4:48:03 PM: btnSubmit_Click Started
+6/23/2022 4:48:03 PM: btnSubmit_Click Finished
+6/23/2022 4:48:04 PM: createControls Started
+6/23/2022 4:48:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:04 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:04 PM: createControls Finished
+6/23/2022 4:48:04 PM: Started Previewing Uploaded Document in btnPreview_Click 
+6/23/2022 4:48:34 PM: createControls Started
+6/23/2022 4:48:34 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:34 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:34 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:34 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:48:34 PM: createControls Finished
+6/23/2022 4:48:34 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:48:34 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:48:34 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/23/2022 4:48:34 PM: Exception : The process cannot access the file 'D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==.pdf' because it is being used by another process.
+6/23/2022 4:48:57 PM: GetTemplateDetails started
+6/23/2022 4:48:57 PM: generatecontrols Started
+6/23/2022 4:48:58 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: BindDocumentType started
+6/23/2022 4:48:58 PM: BindDocumentType finished
+6/23/2022 4:48:58 PM: createControls Started
+6/23/2022 4:48:58 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:48:58 PM: createControls Finished
+6/23/2022 4:49:06 PM: createControls Started
+6/23/2022 4:49:06 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:49:06 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:49:06 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:49:06 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:49:06 PM: createControls Finished
+6/23/2022 4:49:06 PM: Started Loading Entity Drop Down
+6/23/2022 4:49:07 PM: Finished Loading Entity Drop Down
+6/23/2022 4:49:21 PM: GetSginatureDetails Started:-
+6/23/2022 4:49:22 PM: GetSginatureDetails Completed:-
+6/23/2022 4:49:22 PM: GetTemplateDetails Started
+6/23/2022 4:49:22 PM: GetTemplateDetails total record count:1
+6/23/2022 4:49:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:22 PM: GetTemplateDetails Finished
+6/23/2022 4:49:22 PM: InitializeDocumentView started
+6/23/2022 4:49:22 PM: InitializeDocumentView finished
+6/23/2022 4:49:22 PM: Calling database to get annotated images. DocumentId: 274332, Action: GetAnnotatedPages
+6/23/2022 4:49:24 PM: Calling database to get annotated images. DocumentId: 274332, Action: GetTaggedPages
+6/23/2022 4:49:25 PM: LoadImageToViewer started
+6/23/2022 4:49:25 PM: Setting image to viewer. Action:  Page count: 0 Current Page:1
+6/23/2022 4:49:25 PM: MailPanelFill started
+6/23/2022 4:49:25 PM: MailPanelFill finished
+6/23/2022 4:49:50 PM: createControls Started
+6/23/2022 4:49:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: createControls Finished
+6/23/2022 4:49:50 PM: generatecontrols Started
+6/23/2022 4:49:50 PM: Calling database to get reference id and watermark.
+6/23/2022 4:49:50 PM: Database returned result: SI_LE_1896_304_1006|
+6/23/2022 4:49:50 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:49:50 PM: Generatecontrols,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: createControls Started
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: createControls Finished
+6/23/2022 4:50:00 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:50:00 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:50:00 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/23/2022 4:50:00 PM: AsyncFileUpload1_UploadedComplete Pagecount of Image2Pdf().ExtractPages 2
+6/23/2022 4:50:00 PM: AsyncFileUpload1_UploadedComplete Finished
+6/23/2022 4:50:00 PM: createControls Started
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:00 PM: createControls Finished
+6/23/2022 4:50:00 PM: btnSubmit_Click Started
+6/23/2022 4:50:00 PM: btnSubmit_Click Finished
+6/23/2022 4:50:14 PM: createControls Started
+6/23/2022 4:50:14 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:14 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:14 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:14 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:14 PM: createControls Finished
+6/23/2022 4:50:14 PM: Started Saving Uploaded Document in Save Button Click
+6/23/2022 4:50:14 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:50:14 PM: AsyncFileUpload1_UploadedComplete Finished
+6/23/2022 4:50:14 PM: GetDBFieldName the DBFld UPLOAD_vFld1
+6/23/2022 4:50:14 PM: GetDBFieldName the DBFld UPLOAD_vFld2
+6/23/2022 4:50:14 PM: GetDBFieldName the DBFld UPLOAD_vFld3
+6/23/2022 4:50:14 PM: GetDBFieldName the DBFld UPLOAD_vFld4
+6/23/2022 4:50:19 PM: CreateXML Started:-
+6/23/2022 4:50:19 PM: CreateXML Completed:-
+6/23/2022 4:50:20 PM: Save button click after saving or updating the ReturnCode= 0
+6/23/2022 4:50:20 PM: Finished Saving Uploaded Document in Save Button Click
+6/23/2022 4:50:20 PM: AsyncFileUpload1_UploadedComplete Started
+6/23/2022 4:50:20 PM: AsyncFileUpload1_UploadedComplete Finished
+6/23/2022 4:50:24 PM: GetTemplateDetails started
+6/23/2022 4:50:24 PM: generatecontrols Started
+6/23/2022 4:50:24 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: BindDocumentType started
+6/23/2022 4:50:24 PM: BindDocumentType finished
+6/23/2022 4:50:24 PM: createControls Started
+6/23/2022 4:50:24 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:24 PM: createControls Finished
+6/23/2022 4:50:30 PM: createControls Started
+6/23/2022 4:50:30 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:30 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:30 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:30 PM: createControls Loaded all Textbox dynamically
+6/23/2022 4:50:30 PM: createControls Finished
+6/23/2022 4:50:30 PM: Started Loading Entity Drop Down
+6/23/2022 4:50:30 PM: Finished Loading Entity Drop Down
+6/23/2022 4:50:33 PM: GetSginatureDetails Started:-
+6/23/2022 4:50:33 PM: GetSginatureDetails Completed:-
+6/23/2022 4:50:33 PM: GetTemplateDetails Started
+6/23/2022 4:50:33 PM: GetTemplateDetails total record count:1
+6/23/2022 4:50:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:33 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:50:33 PM: GetTemplateDetails Finished
+6/23/2022 4:50:33 PM: InitializeDocumentView started
+6/23/2022 4:50:33 PM: InitializeDocumentView finished
+6/23/2022 4:50:33 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 4:50:34 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 4:50:34 PM: LoadImageToViewer started
+6/23/2022 4:50:34 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 4:50:34 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 4:50:34 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 4:50:34 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 4:50:34 PM: Invoke method to get annotations from databnase.
+6/23/2022 4:50:34 PM: Get annotations from database.
+6/23/2022 4:50:34 PM: Document Id: 282140 Page No: 1
+6/23/2022 4:50:34 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 4:50:34 PM: MailPanelFill started
+6/23/2022 4:50:34 PM: MailPanelFill finished
+6/23/2022 4:56:41 PM: GetSginatureDetails Started:-
+6/23/2022 4:56:41 PM: GetSginatureDetails Completed:-
+6/23/2022 4:56:41 PM: GetTemplateDetails Started
+6/23/2022 4:56:41 PM: GetTemplateDetails total record count:1
+6/23/2022 4:56:41 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:56:41 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:56:41 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:56:41 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:56:41 PM: GetTemplateDetails Finished
+6/23/2022 4:56:41 PM: InitializeDocumentView started
+6/23/2022 4:56:41 PM: InitializeDocumentView finished
+6/23/2022 4:56:41 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 4:56:41 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 4:56:42 PM: LoadImageToViewer started
+6/23/2022 4:56:42 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 4:56:42 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 4:56:42 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 4:56:42 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 4:56:42 PM: Invoke method to get annotations from databnase.
+6/23/2022 4:56:42 PM: Get annotations from database.
+6/23/2022 4:56:42 PM: Document Id: 282140 Page No: 1
+6/23/2022 4:56:42 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 4:56:42 PM: MailPanelFill started
+6/23/2022 4:56:42 PM: MailPanelFill finished
+6/23/2022 4:59:15 PM: GetSginatureDetails Started:-
+6/23/2022 4:59:15 PM: GetSginatureDetails Completed:-
+6/23/2022 4:59:15 PM: GetTemplateDetails Started
+6/23/2022 4:59:15 PM: GetTemplateDetails total record count:1
+6/23/2022 4:59:16 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:59:16 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:59:16 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:59:16 PM: Create controls,Load all Textbox dynamic
+6/23/2022 4:59:16 PM: GetTemplateDetails Finished
+6/23/2022 4:59:16 PM: InitializeDocumentView started
+6/23/2022 4:59:16 PM: InitializeDocumentView finished
+6/23/2022 4:59:16 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 4:59:16 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 4:59:16 PM: LoadImageToViewer started
+6/23/2022 4:59:16 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 4:59:16 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 4:59:16 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 4:59:16 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 4:59:16 PM: Invoke method to get annotations from databnase.
+6/23/2022 4:59:16 PM: Get annotations from database.
+6/23/2022 4:59:16 PM: Document Id: 282140 Page No: 1
+6/23/2022 4:59:16 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 4:59:16 PM: MailPanelFill started
+6/23/2022 4:59:16 PM: MailPanelFill finished
+6/23/2022 5:00:12 PM: GetSginatureDetails Started:-
+6/23/2022 5:00:12 PM: GetSginatureDetails Completed:-
+6/23/2022 5:00:12 PM: GetTemplateDetails Started
+6/23/2022 5:00:12 PM: GetTemplateDetails total record count:1
+6/23/2022 5:00:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:12 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:12 PM: GetTemplateDetails Finished
+6/23/2022 5:00:12 PM: InitializeDocumentView started
+6/23/2022 5:00:12 PM: InitializeDocumentView finished
+6/23/2022 5:00:12 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 5:00:12 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 5:00:12 PM: LoadImageToViewer started
+6/23/2022 5:00:12 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 5:00:12 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 5:00:12 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 5:00:12 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 5:00:12 PM: Invoke method to get annotations from databnase.
+6/23/2022 5:00:12 PM: Get annotations from database.
+6/23/2022 5:00:12 PM: Document Id: 282140 Page No: 1
+6/23/2022 5:00:12 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 5:00:12 PM: MailPanelFill started
+6/23/2022 5:00:12 PM: MailPanelFill finished
+6/23/2022 5:00:21 PM: GetSginatureDetails Started:-
+6/23/2022 5:00:22 PM: GetSginatureDetails Completed:-
+6/23/2022 5:00:22 PM: GetTemplateDetails Started
+6/23/2022 5:00:22 PM: GetTemplateDetails total record count:1
+6/23/2022 5:00:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:22 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:00:22 PM: GetTemplateDetails Finished
+6/23/2022 5:00:22 PM: InitializeDocumentView started
+6/23/2022 5:00:22 PM: InitializeDocumentView finished
+6/23/2022 5:00:22 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 5:00:22 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 5:00:22 PM: LoadImageToViewer started
+6/23/2022 5:00:22 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 5:00:22 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 5:00:22 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 5:00:22 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 5:00:22 PM: Invoke method to get annotations from databnase.
+6/23/2022 5:00:22 PM: Get annotations from database.
+6/23/2022 5:00:22 PM: Document Id: 282140 Page No: 1
+6/23/2022 5:00:22 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 5:00:22 PM: MailPanelFill started
+6/23/2022 5:00:22 PM: MailPanelFill finished
+6/23/2022 5:05:01 PM: GetSginatureDetails Started:-
+6/23/2022 5:05:01 PM: GetSginatureDetails Completed:-
+6/23/2022 5:05:01 PM: GetTemplateDetails Started
+6/23/2022 5:05:01 PM: GetTemplateDetails total record count:1
+6/23/2022 5:05:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:05:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:05:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:05:01 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:05:01 PM: GetTemplateDetails Finished
+6/23/2022 5:05:01 PM: InitializeDocumentView started
+6/23/2022 5:05:01 PM: InitializeDocumentView finished
+6/23/2022 5:05:01 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 5:05:01 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 5:05:01 PM: LoadImageToViewer started
+6/23/2022 5:05:01 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 5:05:01 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 5:05:01 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 5:05:01 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 5:05:01 PM: Invoke method to get annotations from databnase.
+6/23/2022 5:05:01 PM: Get annotations from database.
+6/23/2022 5:05:01 PM: Document Id: 282140 Page No: 1
+6/23/2022 5:05:01 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 5:05:01 PM: MailPanelFill started
+6/23/2022 5:05:01 PM: MailPanelFill finished
+6/23/2022 5:07:10 PM: GetTemplateDetails started
+6/23/2022 5:07:10 PM: generatecontrols Started
+6/23/2022 5:07:10 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:07:10 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:07:10 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:07:10 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:07:11 PM: BindDocumentType started
+6/23/2022 5:07:11 PM: BindDocumentType finished
+6/23/2022 5:07:11 PM: createControls Started
+6/23/2022 5:07:11 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:11 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:11 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:11 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:11 PM: createControls Finished
+6/23/2022 5:07:13 PM: createControls Started
+6/23/2022 5:07:13 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:13 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:13 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:13 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:07:13 PM: createControls Finished
+6/23/2022 5:07:13 PM: Started Loading Entity Drop Down
+6/23/2022 5:07:13 PM: Finished Loading Entity Drop Down
+6/23/2022 5:08:18 PM: GetTemplateDetails started
+6/23/2022 5:08:18 PM: generatecontrols Started
+6/23/2022 5:08:18 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: GenerateControls:Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: BindDocumentType started
+6/23/2022 5:08:18 PM: BindDocumentType finished
+6/23/2022 5:08:18 PM: createControls Started
+6/23/2022 5:08:18 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:18 PM: createControls Finished
+6/23/2022 5:08:21 PM: createControls Started
+6/23/2022 5:08:21 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:21 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:21 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:21 PM: createControls Loaded all Textbox dynamically
+6/23/2022 5:08:21 PM: createControls Finished
+6/23/2022 5:08:21 PM: Started Loading Entity Drop Down
+6/23/2022 5:08:21 PM: Finished Loading Entity Drop Down
+6/23/2022 5:08:45 PM: GetSginatureDetails Started:-
+6/23/2022 5:08:45 PM: GetSginatureDetails Completed:-
+6/23/2022 5:08:45 PM: GetTemplateDetails Started
+6/23/2022 5:08:45 PM: GetTemplateDetails total record count:1
+6/23/2022 5:08:45 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:08:45 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:08:45 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:08:45 PM: Create controls,Load all Textbox dynamic
+6/23/2022 5:08:45 PM: GetTemplateDetails Finished
+6/23/2022 5:08:45 PM: InitializeDocumentView started
+6/23/2022 5:08:45 PM: InitializeDocumentView finished
+6/23/2022 5:08:45 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetAnnotatedPages
+6/23/2022 5:08:45 PM: Calling database to get annotated images. DocumentId: 282140, Action: GetTaggedPages
+6/23/2022 5:08:45 PM: LoadImageToViewer started
+6/23/2022 5:08:45 PM: Setting image to viewer. Action:  Page count: 2 Current Page:1
+6/23/2022 5:08:45 PM: Converting PDF to JPEG. PDF Path: D:\WDMSDocument\TempWorkFolder\U0lfTEVfMTg5Nl8zMDRfMTAwNg==\1.pdf Image Name: U0lfTEVfMTg5Nl8zMDRfMTAwNg== Page No: 1
+6/23/2022 5:08:45 PM: Converting PDF to JPEG without applying watermark.
+6/23/2022 5:08:45 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=d://wdmsdocument//tempworkfolder//u0lftevfmtg5nl8zmdrfmtawng==jpg//1.jpeg
+6/23/2022 5:08:45 PM: Invoke method to get annotations from databnase.
+6/23/2022 5:08:45 PM: Get annotations from database.
+6/23/2022 5:08:45 PM: Document Id: 282140 Page No: 1
+6/23/2022 5:08:45 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+6/23/2022 5:08:45 PM: MailPanelFill started
+6/23/2022 5:08:45 PM: MailPanelFill finished

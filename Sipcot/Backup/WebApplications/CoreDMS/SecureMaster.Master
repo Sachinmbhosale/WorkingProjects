@@ -1,0 +1,193 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SecureMaster.Master.cs"
+    Inherits="Lotex.EnterpriseSolutions.WebUI.DefaultlMaster" %>
+
+<%@ Register Src="UserControls/ApplicationTabs.ascx" TagName="ApplicationTabs" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Writer Corporation DMS</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta http-equiv="Version" content="11.0.6" />
+    <asp:ContentPlaceHolder ID="test" runat="server">
+        <script type="text/javascript" language="javascript">
+
+            //service url
+            var authority = getRootWebSitePath();
+            var coreServiceURL = authority + "/CoreService.svc";
+
+
+            function getRootWebSitePath() {
+                var _location = document.location.toString();
+                var applicationNameIndex = _location.indexOf('/', _location.indexOf('://') + 3);
+                var applicationName = _location.substring(0, applicationNameIndex) + '/';
+                var webFolderIndex = _location.indexOf('/', _location.indexOf(applicationName) + applicationName.length);
+                var webFolderFullPath = _location.substring(0, webFolderIndex);
+                //If develoment environement WEB folder won't be there
+                webFolderFullPath = webFolderFullPath.replace('/Accounts', '');
+                //DMS04-3777M -- used replace for "Secure" too (first letter upper case)
+                webFolderFullPath = webFolderFullPath.replace('/secure', '').replace('/Secure', '');
+                webFolderFullPath = webFolderFullPath.replace('/Workflow', '');
+                return webFolderFullPath;
+            }
+        </script>
+        <script language="javascript" type="text/javascript">
+            function prevent_previous_page_return() {
+                window.history.forward();
+            }
+            function HideMenu(id) {
+                document.getElementById(id).style.visibility = "hidden";
+            }
+
+            function swallowEnter() {
+                if (event.keyCode == 13) {
+                    event.keyCode = null;
+                    return;
+                }
+            }
+        </script>
+        <link href="<%= Page.ResolveClientUrl("~/SiteStyle.css") %>" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/Scripts/jquery-1.7-vsdoc.js") %>"></script>
+        <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/Scripts/jquery-1.7.min.js") %>"></script>
+        <script type="text/javascript" src="<%= Page.ResolveClientUrl("~/Scripts/jquery-1.7.js") %>"></script>
+        <script type="text/javascript" language="javascript" src="<%=Page.ResolveClientUrl("~/Scripts/AjaxPostScripts.js") %>"></script>
+        <script type="text/javascript" language="javascript" src="<%=Page.ResolveClientUrl("~/Scripts/HTMLEncoding.js") %>"></script>
+        <link id="Link1" rel="shortcut icon" href="<%= Page.ResolveClientUrl("~/Images/favicon.ico") %>"
+            type="image/x-icon" />
+        <link id="Link2" rel="icon" href="<%= Page.ResolveClientUrl("~/Images/favicon.ico") %>"
+            type="image/ico" />
+        <%--CSS From Workflow --%>
+        <link href="<%= Page.ResolveClientUrl("~/css/workflow_styles.css") %>" rel="stylesheet"
+            type="text/css" />
+        <link href="<%= Page.ResolveClientUrl("~/css/DataGrid.css") %>" rel="stylesheet"
+            type="text/css" />
+        <%--<script language="javascript" type="text/javascript">
+            //DMS04-3459BS - To show and auto hide message control
+            $(document).ready(function () {
+                var isIE = false;
+                if (window.ActiveXObject || "ActiveXObject" in window) {
+                    isIE = true;
+                }
+
+                //message div text change tracking
+                if (isIE) {
+                    $("html, body").animate({ scrollTop: 0 }, 600);
+                }
+                else {
+                    // IE will not support
+                    $("[id$=divMsg]").hide();
+                    $("[id$=divMsg]").bind('DOMNodeInserted DOMNodeRemoved', function (event) {
+                        if (event.type == 'DOMNodeInserted') {
+                            $("html, body").animate({ scrollTop: 0 }, 600);
+                            $("[id$=divMsg]").show("slow").delay(3000).hide("slow");
+                        }
+                    });
+                }
+            });
+
+            //DMS04-3459BE
+
+        </script>--%>
+        <asp:ContentPlaceHolder ID="Head" runat="server">
+        </asp:ContentPlaceHolder>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="sm1" runat="server" AsyncPostBackTimeout="1600" />
+    <div id="wrapper">
+        <div>
+            <table>
+                <tr>
+                    <td style="float: left; position: static; padding: 0; display: block;">
+                        <img runat="server" id="imgLogo" src="" alt="" height="70" width="235" />
+                    </td>
+                    <td style="float: left; position: static; display: block; padding-top: 28px; font-size: 20px;">
+                        <%= GetCompanyName()%>
+                    </td>
+                    <td>
+                        <uc1:ApplicationTabs ID="ApplicationTabs1" ActiveApplication="DMS" runat="server"
+                            Visible="false" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="MainStripBG">
+            <table style="width: 1200px">
+                <tr>
+                    <td>
+                        <asp:Menu ID="mnuMain" runat="server" Orientation="Horizontal" MaximumDynamicDisplayLevels="3"
+                            StaticEnableDefaultPopOutImage="False">
+                            <LevelMenuItemStyles>
+                                <asp:MenuItemStyle CssClass="MenuStripItem" Font-Underline="False" />
+                                <asp:MenuItemStyle CssClass="Level1Menu" Font-Underline="False" />
+                            </LevelMenuItemStyles>
+                            <LevelSelectedStyles>
+                                <asp:MenuItemStyle CssClass="MenuStriptemSelected" Font-Underline="False" />
+                                <asp:MenuItemStyle CssClass="Level1Menu" Font-Underline="False" />
+                            </LevelSelectedStyles>
+                            <DynamicMenuItemStyle CssClass="Level1Menu" />
+                            <StaticMenuItemStyle CssClass="MenuStripItem" />
+                            <StaticMenuStyle CssClass="MenuHeader" />
+                            <StaticSelectedStyle CssClass="MenuHeader" />
+                        </asp:Menu>
+                    </td>
+                    <td align="right">
+                        <div align="right">
+                            <nobr>
+                            <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click"  Font-Size="medium"   Font-Names="Calibri"
+                                CausesValidation="False" TagName="Read">(Logout)</asp:LinkButton>
+                        &nbsp;&nbsp;  &nbsp;&nbsp;
+                        <asp:Label ID="TodayDate" runat="server">
+                        </asp:Label>
+                          &nbsp;&nbsp;  &nbsp;&nbsp;
+                         &nbsp;<asp:Label ID="lblUser" runat="server" Text="UserName" CssClass="LabelStyle"></asp:Label>
+                        &nbsp;&nbsp;
+                        </nobr>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <!-- To show loading / processing logo -->
+        <div id="statusPopup" style="display: none; z-index: 1000; padding-left: 630px; padding-top: 200px;">
+            <div>
+                <img src="<%= Page.ResolveClientUrl("~/Images/loading.gif") %>" alt="Loading......" />
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </asp:ContentPlaceHolder>
+    </div>
+    <!-- Note : Always keep this script at the bottom of page | To show loading / processing logo -->
+    <script type="text/javascript">
+        if (Sys != null) {
+            Sys.Application.add_load(AppLoad);
+        }
+
+        function AppLoad() {
+            Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest);
+            Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest);
+
+            function beginRequest(sender, args) {
+                // show the popup
+                var sid = sender._postBackSettings.sourceElement.id
+                if (sid != 'ctl00_PH_Main_ImgBtnExport') {
+
+                    document.getElementById("statusPopup").style.position = "fixed";
+                    document.getElementById("statusPopup").style.display = "";
+                }
+            }
+
+            function endRequest(sender, args) {
+                document.getElementById("statusPopup").style.display = "none";
+                seconds = 60 * 18;
+            }
+        }
+       
+    </script>
+    </form>
+</body>
+</html>

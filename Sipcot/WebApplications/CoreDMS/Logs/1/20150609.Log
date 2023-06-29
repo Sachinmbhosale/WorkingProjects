@@ -1,0 +1,9 @@
+6/9/2015 5:26:41 PM: Started Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/9/2015 5:26:47 PM: Started Extracting Soft Data
+6/9/2015 5:27:30 PM: Finished Saving Uploaded Document in AsyncFileUpload1_UploadedComplete 
+6/9/2015 5:38:24 PM: GetDocumentTypeWithId Started
+6/9/2015 5:38:24 PM: SetDepartmentTemplate Started
+6/9/2015 5:38:24 PM: SetDepartmentTemplate Finished
+6/9/2015 5:38:24 PM: GetDocumentTypeWithId Finished
+6/9/2015 5:38:48 PM: GetIndexFieldsByTemplateId Started
+6/9/2015 5:38:48 PM: GetIndexFieldsByTemplateId Finished

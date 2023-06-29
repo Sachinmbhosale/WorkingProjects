@@ -1,0 +1,65 @@
+8/28/2017 12:12:39 PM: BindDocumentType started
+8/28/2017 12:12:39 PM: BindDocumentType finished
+8/28/2017 12:13:01 PM: createControls Started
+8/28/2017 12:13:01 PM: createControls Loaded all Textbox dynamically
+8/28/2017 12:13:01 PM: createControls Loaded all Textbox dynamically
+8/28/2017 12:13:01 PM: createControls Finished
+8/28/2017 12:13:01 PM: GetTemplateDetails started
+8/28/2017 12:13:01 PM: generatecontrols Started
+8/28/2017 12:13:01 PM: GenerateControls:Loaded all Textbox dynamically
+8/28/2017 12:13:01 PM: GenerateControls:Loaded all Textbox dynamically
+8/28/2017 12:13:07 PM: createControls Started
+8/28/2017 12:13:07 PM: createControls Loaded all Textbox dynamically
+8/28/2017 12:13:07 PM: createControls Loaded all Textbox dynamically
+8/28/2017 12:13:07 PM: createControls Finished
+8/28/2017 12:13:07 PM: Started Loading Entity Drop Down
+8/28/2017 12:13:08 PM: Finished Loading Entity Drop Down
+8/28/2017 12:15:22 PM: createControls Started
+8/28/2017 12:15:22 PM: createControls Loaded all Textbox dynamically
+8/28/2017 12:15:22 PM: createControls Loaded all Textbox dynamically
+8/28/2017 12:15:22 PM: createControls Finished
+8/28/2017 12:15:26 PM: GetSginatureDetails Started:-
+8/28/2017 12:15:26 PM: GetSginatureDetails Completed:-
+8/28/2017 12:15:26 PM: GetTemplateDetails Started
+8/28/2017 12:15:26 PM: GetTemplateDetails total record count:1
+8/28/2017 12:15:26 PM: Create controls,Load all Textbox dynamic
+8/28/2017 12:15:26 PM: Create controls,Load all Textbox dynamic
+8/28/2017 12:15:26 PM: GetTemplateDetails Finished
+8/28/2017 12:15:26 PM: InitializeDocumentView started
+8/28/2017 12:15:27 PM: InitializeDocumentView finished
+8/28/2017 12:15:27 PM: Calling database to get annotated images. DocumentId: 2373, Action: GetAnnotatedPages
+8/28/2017 12:15:32 PM: Calling database to get annotated images. DocumentId: 2373, Action: GetTaggedPages
+8/28/2017 12:15:33 PM: LoadImageToViewer started
+8/28/2017 12:15:33 PM: Setting image to viewer. Action:  Page count: 42 Current Page:1
+8/28/2017 12:15:34 PM: Converting PDF to JPEG. PDF Path: E:\WDMSDocument\TempWorkFolder\Tk9fRVhfNTEwXzI1MF8xNDAw\1.pdf Image Name: Tk9fRVhfNTEwXzI1MF8xNDAw Page No: 1
+8/28/2017 12:15:34 PM: Converting PDF to JPEG without applying watermark.
+8/28/2017 12:15:35 PM: Setting image to viewer using RegisterStartupScript: http://localhost:55361/generichandler.ashx?f=e://wdmsdocument//tempworkfolder//tk9frvhfntewxzi1mf8xndawjpg//1.jpeg
+8/28/2017 12:15:35 PM: Invoke method to get annotations from databnase.
+8/28/2017 12:15:35 PM: Get annotations from database.
+8/28/2017 12:15:35 PM: Document Id: 2373 Page No: 1
+8/28/2017 12:15:35 PM: Invoking method to get annotation data from database. Action: GetAnnotations
+8/28/2017 12:15:35 PM: MailPanelFill started
+8/28/2017 12:15:35 PM: MailPanelFill finished
+8/28/2017 12:15:36 PM: Unzipping file. Filepath: E:\WDMSDocument\TempWorkFolder\\Tk9fRVhfNTEwXzI1MF8xNDAw.zip
+8/28/2017 5:22:22 PM: BindDocumentType started
+8/28/2017 5:22:22 PM: BindDocumentType finished
+8/28/2017 5:22:29 PM: createControls Started
+8/28/2017 5:22:29 PM: createControls Loaded all Textbox dynamically
+8/28/2017 5:22:29 PM: createControls Loaded all Textbox dynamically
+8/28/2017 5:22:29 PM: createControls Finished
+8/28/2017 5:22:29 PM: GetTemplateDetails started
+8/28/2017 5:22:29 PM: generatecontrols Started
+8/28/2017 5:22:29 PM: GenerateControls:Loaded all Textbox dynamically
+8/28/2017 5:22:29 PM: GenerateControls:Loaded all Textbox dynamically
+8/28/2017 5:22:34 PM: createControls Started
+8/28/2017 5:22:35 PM: createControls Loaded all Textbox dynamically
+8/28/2017 5:22:35 PM: createControls Loaded all Textbox dynamically
+8/28/2017 5:22:35 PM: createControls Finished
+8/28/2017 5:22:35 PM: Started Loading Entity Drop Down
+8/28/2017 5:22:37 PM: Finished Loading Entity Drop Down
+8/28/2017 5:22:38 PM: createControls Started
+8/28/2017 5:22:38 PM: createControls Loaded all Textbox dynamically
+8/28/2017 5:22:38 PM: createControls Loaded all Textbox dynamically
+8/28/2017 5:22:38 PM: createControls Finished
+8/28/2017 5:22:38 PM: Started Loading Entity Drop Down
+8/28/2017 5:22:38 PM: Finished Loading Entity Drop Down
